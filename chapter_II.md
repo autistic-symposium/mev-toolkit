@@ -1,7 +1,7 @@
-## II. The Mem Pool and MEV
+## II. The Mempool and MEV
 
 
-## Ethereum's Mem Pool (The Dark Forest)
+## Ethereum's Mempool (The Dark Forest)
 
 **"Whenever you make a transaction in the Ethereum network (you sign the transaction), you have to wait until it to be confirmed in the blockchain. During that period, it sits in the memory pool. Anyone can listen to these transactions, and their details, while they are there, and even modify them. If someone pays a higher gas price, their modification will be included a block first."**
 
