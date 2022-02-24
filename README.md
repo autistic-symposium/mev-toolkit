@@ -10,7 +10,7 @@
 ## Episodes
 
 * [Chapter I: `geth` and running an Ethereum node](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_I.md)
-* [Chapter II: The Mem Pool and MEV](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_II.md)
+* [Chapter II: The Mempool and MEV](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_II.md)
 * [Chapter III: Flashbots](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_III.md)
 * [Chapter IV: Flashbots bundle](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/blob/main/chapter_IV.md)
 
@@ -27,6 +27,7 @@
 
 ## Terminology
 
+* Mempool: the set of pending, unconfirmed transactions in the EVM.
 * MEV: Maximal (or miner) Extractable Value
 * Front-running: when a miner steals a profitable opportunity (such as arbitrage) for themselves by sending the same transaction with a higher gas price.
 * Sandwiching: profiting off slippage in liquidity pools by buying and selling before and after large transactions posted in the mempool.
