@@ -9,6 +9,8 @@
 
 ## MEVs
 
+*"Miner extractable value (MEV) is a measure devised to study consensus security by modeling the profit a miner (or validator, sequencer, or other privileged protocol actor) can make through their ability to arbitrarily include, exclude, or re-order transactions from the blocks they produce. MEV includes both ‘conventional’ profits from transaction fees and block rewards, and ‘unconventional’ profits from transaction reordering, transaction insertion, and transaction censorship within the block a miner is producing."* - Alex Obadia
+
 * MEV exists in places where there is high complexity which requires significant knowledge of smart contracts to understand. 
 * ~90% arbritage 
 
