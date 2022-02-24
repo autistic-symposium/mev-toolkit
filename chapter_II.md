@@ -12,3 +12,6 @@
 * MEV exists in places where there is high complexity which requires significant knowledge of smart contracts to understand. 
 * ~90% arbritage 
 
+## Arbritage bots
+
+* Monitor pending transactions and attempt to exploit profitabe opportunities.
