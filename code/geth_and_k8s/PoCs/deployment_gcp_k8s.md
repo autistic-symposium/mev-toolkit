@@ -29,7 +29,7 @@ echo ${PORT}
 
 gcloud compute ssh snowdevil \
 --ssh-flag="-L ${PORT}:localhost:${PORT}" \
---project=shopify-dev
+--project=<project name>
 ```
 
 
