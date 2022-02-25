@@ -1,4 +1,4 @@
-# 🧱⛓ Stateful Blockchains, MEV, and Flashbots
+# 🧱⛓ Stateful Blockchains, MEV, and Flashbots [Scratch Space]
 
 * This repository contains my notes, scripts, code through my journey into stateful blockchains and miner profit.
 
