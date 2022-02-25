@@ -50,7 +50,7 @@ Modify `genesis.json` as necessary, including multiple accounts in the seed if w
 Finally, re-initialize the genesis block:
 
 ```
-geth --identity "snowdevil" --nodiscover --networkid 1337 --datadir /path/to/data init /path/to/genesis.json
+geth --identity <project name> --nodiscover --networkid 1337 --datadir /path/to/data init /path/to/genesis.json
 ```
 
 ### Create new accounts
