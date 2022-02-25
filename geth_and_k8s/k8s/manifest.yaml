@@ -1,0 +1,20 @@
+---
+kind: RuntimeManifest
+apiVersion:
+metadata:
+  name:
+runtimeInfo:
+  appName:
+  env: staging
+  appImage:
+  domains:
+  -
+defaultBaseSource:
+components:
+- name: web
+  baseSource:
+  resources:
+  - base: deployment.yaml
+  - base: service.yaml
+  - base: certificate.yaml
+  - base: ingress.yaml

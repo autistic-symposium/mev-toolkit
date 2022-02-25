@@ -1,0 +1,12 @@
+---
+apiVersion:
+kind: Certificate
+metadata:
+  labels:
+    env: staging
+    app:
+    runtime-component: web
+spec:
+  dnsNames:
+  -
+  secretName: 

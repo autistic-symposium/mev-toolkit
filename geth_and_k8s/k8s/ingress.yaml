@@ -1,0 +1,24 @@
+---
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  labels:
+    name: web
+    env: staging
+    app:
+    runtime-component: web
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    kubernetes.io/tls-acme: "false"
+spec:
+  rules:
+  - host:
+    http:
+      paths:
+      - backend:
+          serviceName: web
+          servicePort: 80
+  tls:
+  - hosts:
+    -
+    secretName:

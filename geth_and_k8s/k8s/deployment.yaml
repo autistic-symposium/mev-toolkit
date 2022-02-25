@@ -1,0 +1,114 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    name: web
+    env: staging
+    app:
+    runtime-component: web
+  annotations:
+
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: web
+  template:
+    metadata:
+      labels:
+        name: web
+        env: staging
+        app:
+      annotations:
+        seccomp.security.alpha.kubernetes.io/pod: runtime/default
+    spec:
+      automountServiceAccountToken: true
+      containers:
+      - name: web
+        image:
+        ports:
+        - name: http
+          containerPort: 8545
+        envFrom:
+        - configMapRef:
+            name: application-state
+        env:
+        - name: SHOULD_INITIALIZE
+          value: "YES"
+        - name: ENABLING_MINING
+          value: "YES"
+        - name: ENV
+          value: staging
+        - name: APP_ENV
+          value: staging
+        - name: NODE_NAME
+          valueFrom:
+            fieldRef:
+              fieldPath: spec.nodeName
+        - name: NODE_IP
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP
+        - name: TRACE_PROXY_ADDR
+          value: http://$(NODE_IP):8096/
+        - name: STATSD_ADDR
+          value: 127.0.0.1:8125
+        - name: STATSD_IMPLEMENTATION
+          value: datadog
+        - name: IDENTITY_CLIENT_ID
+          valueFrom:
+            secretKeyRef:
+              name: identity-config
+              key: clientId
+              optional: true
+        - name: IDENTITY_CLIENT_SECRET
+          valueFrom:
+            secretKeyRef:
+              name: identity-config
+              key: clientSecret
+              optional: true
+        resources:
+          limits:
+            cpu: 2000m
+            memory: 1Gi
+          requests:
+            cpu: 1500m
+            memory: 512Mi
+        volumeMounts:
+        - name: ejson-keys
+          readOnly: true
+          mountPath: /key
+        - name: data
+          mountPath: /data
+        readinessProbe:
+          httpGet:
+            port: 8545
+            httpHeaders:
+            - name: X-Forwarded-Proto
+              value: https
+            path: /
+          initialDelaySeconds: 20
+          timeoutSeconds: 3
+        securityContext:
+          allowPrivilegeEscalation: false
+          capabilities:
+            add:
+            - CHOWN
+            - DAC_OVERRIDE
+            - KILL
+            - SETGID
+            - SETUID
+            drop:
+            - ALL
+          privileged: false
+      volumes:
+      - name: ejson-keys
+        secret:
+          secretName: ejson-keys
+      - name: data
+        persistentVolumeClaim:
+          claimName: web
+  strategy:
+    type: Recreate
+  progressDeadlineSeconds: 120
