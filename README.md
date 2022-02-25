@@ -3,7 +3,7 @@
 * This repository contains my notes, scripts, code through my journey into stateful blockchains and miner profit.
 
 
-* **[Flashbots](https://github.com/flashbots/pm)** maintains a proof-of-concept communication channel for users to send their Ethereum transactions directly to miners. It was created as part of Flashbots' goal to mitigate the negative externalities and existential risks posed by MEV to smart-contract blockchains.
+* **[Flashbots](https://github.com/flashbots/pm)** maintains a proof-of-concept communication channel for users to send their Ethereum transactions directly to miners.
 
 ---
 
