@@ -27,7 +27,7 @@ PORT=$(\
 
 echo ${PORT}
 
-gcloud compute ssh snowdevil \
+gcloud compute ssh <docker container alias> \
 --ssh-flag="-L ${PORT}:localhost:${PORT}" \
 --project=<project name>
 ```
