@@ -1,4 +1,4 @@
-# ⚡️🤖🧱⛓ Stateful Blockchains, MEV, and Flashbots [Scratch Space]
+## ⚡️🤖🧱⛓ Stateful Blockchains, MEV, and Flashbots [Scratch Space]
 
 * This repository contains my notes, scripts, code through my journey into stateful blockchains and miner profit.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Episodes
+### Episodes
 
 * [Chapter I: `geth` and running an Ethereum node](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_I.md)
 * [Chapter II: The Mempool and MEV](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_II.md)
@@ -16,14 +16,14 @@
 
 ---
 
-## Code
+### Code
 
 * [PoCs having `geth` in Docker and K8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 
 ---
 
-## Further references
+### Further references
 
 
 - [Flashbots PM](https://github.com/flashbots/pm)
@@ -33,7 +33,7 @@
 
 ---
 
-## Terminology
+### Terminology
 
 * **Mempool**: the set of pending, unconfirmed transactions in the EVM.
 * **MEV**: Maximal (or miner) Extractable Value
