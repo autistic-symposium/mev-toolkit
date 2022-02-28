@@ -64,6 +64,11 @@
 
 
 <br>
+
+
+#### Long Tail MEV encompasses all other forms of MEV not described here. Long Tail MEV describes niche, arcane, undiscovered MEV often realized through interacting with lesser known protocols, event based strategies, or unorthodox economic mechanisms.
+
+
 <br>
 
 
