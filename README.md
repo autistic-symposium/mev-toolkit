@@ -1,40 +1,59 @@
-## ⚡️🤖🧱⛓ Stateful Blockchains, MEV, and Flashbots [Scratch Space]
+## ⚡️🤖🧱⛓ [bt3gl's scratch space] Stateful Blockchains, MEV, and Flashbots
 
-* This repository contains my notes, scripts, code through my journey into stateful blockchains and miner profit.
+<br>
 
+### *"Maximal (formerly "miner" in the context of Proof of Work) extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by censoring and/or changing the order of transactions in a block."* - MEV Wiki
 
-* **[Flashbots](https://github.com/flashbots/pm)** maintains a proof-of-concept communication channel for users to send their Ethereum transactions directly to miners.
+<br>
+<br>
+
 
 ---
 
-### Episodes
+## My notes
+
+<br>
 
 * [Chapter I: `geth` and running an Ethereum node](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_I.md)
 * [Chapter II: The Mempool and MEV](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_II.md)
 * [Chapter III: Flashbots](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_III.md)
 * [Chapter IV: Flashbots bundle](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/blob/main/chapter_IV.md)
 
+<br>
+<br>
+
 ---
 
-### Code
+## My code
+
+<br>
 
 * [PoCs having `geth` in Docker and K8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 
+<br>
+<br>
+
 ---
 
-### Further references
+## Further resources
 
+<br>
 
+- [Flashbots](https://github.com/flashbots/pm) maintains a proof-of-concept communication channel for users to send their Ethereum transactions directly to miners.
 - [MEV wiki](https://www.mev.wiki/)
-- [Flashbots PM](https://github.com/flashbots/pm)
 - [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 - [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
 - [Sandwiched?](https://sandwiched.wtf/)
 
+<br>
+<br>
+
 ---
 
-### Terminology
+## Some terminology
+
+<br>
 
 * **Mempool**: the set of pending, unconfirmed transactions in the EVM.
 * **MEV**: Maximal (or miner) Extractable Value
@@ -43,3 +62,5 @@
 * **Sandwiching**: profiting off slippage in liquidity pools by buying and selling before and after large transactions posted in the mempool.
 * **DEX arbitrage**: If two DEXes are offering a token at two different prices, one can buy the token on the lower-priced DEX and sell it on the higher-priced DEX.
 * **Liquidations**: if the value of a borrowed asset exceeds the collateral, anyone can liquidate the collateral and collect the liquidation fee for themselves.
+
+<br><br>
