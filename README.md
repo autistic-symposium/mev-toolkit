@@ -76,6 +76,7 @@
 - [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 - [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
 - [Sandwiched?](https://sandwiched.wtf/)
+- [How to use Flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 
 <br>
 <br>
