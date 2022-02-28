@@ -1,4 +1,4 @@
-## ⚡️🤖🧱⛓ [bt3gl's scratch space] Stateful Blockchains, MEV, and Flashbots
+## ⚡️🤖🧱⛓ [scratch space] Stateful Blockchains, MEV, and Flashbots
 
 <br>
 
