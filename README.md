@@ -2,7 +2,11 @@
 
 <br>
 
-### *"Maximal (formerly "miner" in the context of Proof of Work) extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by censoring and/or changing the order of transactions in a block."* - MEV Wiki
+## Some nice defs
+
+<br>
+
+#### *"Maximal (formerly "miner" in the context of Proof of Work) extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by censoring and/or changing the order of transactions in a block."* - MEV Wiki
 
 <br>
 <br>
