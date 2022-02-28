@@ -60,7 +60,6 @@
 <br>
 
 * **Mempool**: the set of pending, unconfirmed transactions in the EVM... when someone sends a transaction in the blockchain, there is a delay between the time when the transaction is broadcasted to the network and when it is actually mined into a block. During this period, transactions sit in a pending transaction pool, the mempool, where contents are visible to everyone. 
-* **MEV**: Maximal (or miner) Extractable Value
 * **Frontrunning**: also known as Priority Gas Auctions (PGAs), when a miner steals a profitable opportunity (such as arbitrage) for themselves by sending the same transaction with a higher gas price. For example, a transaction A is broadcasted with a higher gas price than an already pending transaction B so that A gets mined before B (eg. to snatch a Uniswap price arbitrage trade to rebalance a pool).
 * **Backrunning**: a transaction A is broadcasted with a slightly lower gas price than already pending transaction B so that A gets mined right after B in the same block. (eg. to execute a DyDx liquidation after a price oracle update that triggers a DyDx loan to go under the required collateralization ratio).
 * **Sandwiching**: profiting off slippage in liquidity pools by buying and selling before and after large transactions posted in the mempool.
