@@ -31,7 +31,7 @@
 
 ---
 
-## ☠️ Some defs
+## ☠️ Some terminology
 
 <br>
 
