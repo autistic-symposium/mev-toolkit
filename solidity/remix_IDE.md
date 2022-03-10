@@ -32,4 +32,17 @@ Remix IDE is an open source web3 application and it's used for the entire journe
 #### Setup
 
 * Gas Limit: sets the amount of ETH, WEI, GWEI that is sent to ta contract or a payable function.
-* Deploy & AtAdress: used to access a contract whtat has already been deployed (does not cost gas).
+* Deploy: sends a transaction that deplpys the selected contract.
+* atAdress: used to access a contract whtat has already been deployed (does not cost gas).
+* To interact with a contract using the ABI, create a new file in Remix, with extension `.abi`.
+* The Recorder is a tool used to save a bunch of transactions in a JSON file and rerun them later either in the same environment or in another.
+* The Debugger shows the contract's state while stepping through a transaction.
+* Using generated sources will make it easier to audit your contracts.
+* Static code analysis can be done by a plugin, so that you can examine the code for security vulnerabilities, bad development practices, etc.
+
+
+
+
+
+
+
