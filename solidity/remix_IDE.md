@@ -39,8 +39,7 @@ Remix IDE is an open source web3 application and it's used for the entire journe
 * The Debugger shows the contract's state while stepping through a transaction.
 * Using generated sources will make it easier to audit your contracts.
 * Static code analysis can be done by a plugin, so that you can examine the code for security vulnerabilities, bad development practices, etc.
-
-
+* Hardhat integration can be done with `hardhat.config.js` (Hardhat websocket listener should run at `65522`). Hardhat provider is a plugin for Remix IDE.
 
 
 
