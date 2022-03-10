@@ -43,5 +43,12 @@ Remix IDE is an open source web3 application and it's used for the entire journe
 
 
 
+#### Generate artifacts
+
+When a compilation for a Solidity file succeeds, Remix creates three Json files for each compiled contract, that can be seen in the `File Explorers plugin`:
+
+1. `artifacts/<contractName>.json`: contains links to libraries, the bytecode, gas estimation, the ABI.
+2. `articfacts/<contractName_metadata>.json`: contains the metadata from the output of Solidity compilation.
+3. `artifcats/build-info/<dynamic_hash>.json`: contains info about `solc` compiler version, compiler input and output.
 
 
