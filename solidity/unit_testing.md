@@ -1,5 +1,16 @@
 ## Basic Unit testing
 
+<br>
+
+Functions in a test file to make testing more structural:
+
+* `beforeEach()` - Runs before each test
+* `beforeAll()` - Runs before all tests
+* `afterEach()` - Runs after each test
+* `afterAll()` - Runs after all tests
+
+<br>
+
 A generic unit testing file looks like:
 
 
