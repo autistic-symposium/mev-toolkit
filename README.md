@@ -1,4 +1,4 @@
-## ⚡️🤖🧱⛓ [scratch space] Stateful Blockchains, MEV, and Flashbots
+## ⚡️🤖🧱⛓ [scratch space] Stateful Blockchains, MEV, Solidity, Flashbots...
 
 <br>
 
@@ -22,6 +22,7 @@
 <br>
 
 * [PoCs having `geth` in Docker and K8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
+* [Solidity scratch space](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/solidity_scratch_space)
 
 
 <br>
