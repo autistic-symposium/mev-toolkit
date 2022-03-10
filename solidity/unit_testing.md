@@ -57,3 +57,7 @@ contract testSuite {
     }
 }
 ```
+
+Note that ine can input custom values for `msg.sender` & `msg.value` of transaction using NatSpec comments.
+
+
