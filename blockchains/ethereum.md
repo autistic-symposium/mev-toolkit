@@ -3,6 +3,8 @@
 
 ### Basics
 
+* the existence of a Turing-complete programming language means that arbitrary contracts can be created for any transaction type or application.
+
 * a state is made up of objects called "accounts", with each account hacing a 20-byte address and state transitions being direct transfers of value and information between accounts.
 
 * an Ethereum account contains four fields:
