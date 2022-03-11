@@ -29,3 +29,5 @@
   * STARTGAS
 
 * a message is like a transaction, except it is produced by a contract and not an external actor. A message is produced when a cotnract currently executing code executes the CALL opcode.
+
+* the code in Ethereum contracts is written in
