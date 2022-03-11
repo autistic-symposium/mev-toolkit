@@ -33,6 +33,11 @@
 
 ## ☠️ Some terminology
 
+<br<
+
+#### Merkle tree: a type of binary tree, composed of a set of notes with a large number of leaf nodes at the bottom of the tre containing the underlying data, a set of intermediate nodes where each node is the hash of its two children, and finally a single root node, also formed from the hash of its two children, representing the top of the tree.
+
+
 <br>
 
 #### 𝕄𝕒𝕩𝕚𝕞𝕒𝕝 𝕖𝕩𝕥𝕣𝕒𝕔𝕥𝕒𝕓𝕝𝕖 𝕧𝕒𝕝𝕦𝕖 (MEV, formerly "miner" in the context of Proof of Work) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by censoring and/or changing the order of transactions in a block.
