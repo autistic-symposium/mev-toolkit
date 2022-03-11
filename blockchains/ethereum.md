@@ -30,4 +30,12 @@
 
 * a message is like a transaction, except it is produced by a contract and not an external actor. A message is produced when a cotnract currently executing code executes the CALL opcode.
 
-* the code in Ethereum contracts is written in
+### Code execution
+
+* the code in Ethereum contracts is written in a low-level, stack-based bytecode language, referred as the EVM. 
+
+* The operations have access to three types of space in which to store data:
+  * the stack, a last-in-first-out container to which values can be pushed and popped
+  * memory, an infinite expandable byte array
+  * contract's long-term storage, a key/value store (persist long term)
+
