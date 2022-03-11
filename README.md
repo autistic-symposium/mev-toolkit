@@ -33,7 +33,7 @@
 
 ## ☠️ Some terminology
 
-<br<
+<br>
 
 #### Merkle tree: a type of binary tree, composed of a set of notes with a large number of leaf nodes at the bottom of the tre containing the underlying data, a set of intermediate nodes where each node is the hash of its two children, and finally a single root node, also formed from the hash of its two children, representing the top of the tree.
 
