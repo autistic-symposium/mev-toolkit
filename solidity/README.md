@@ -35,3 +35,4 @@
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
 * [Solidity docs](https://docs.openzeppelin.com/)
 * [Thinking About Smart Contract Security by Vitalik](https://blog.ethereum.org/2016/06/19/thinking-smart-contract-security/)
+* [Spoof tokens on Ethereum](https://medium.com/etherscan-blog/spoof-tokens-on-ethereum-c2ad882d9cf6)
