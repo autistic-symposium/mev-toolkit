@@ -2,6 +2,9 @@
 
 <br>
 
+### In this scratch space I dump some of my random and highly unorganized notes. Use at your own risk.
+
+<br>
 
 ## ☠ My notes
 
@@ -83,7 +86,7 @@
 
 ---
 
-## ☠️ Further resources
+## ☠️ Further resources and good readings
 
 <br>
 
@@ -108,6 +111,12 @@
 - [We Live In A Mempool: Backrunning the MEV Crisis by Tom Schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
 - [How To Light Up The Dark Forest by Robert Miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
 - [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
+- [Blockchains are Cities by Haseeb Qureshi](https://medium.com/dragonfly-research/blockchains-are-cities-564327013f86)
+   * "Ethereum is NYC, Solana is LA" 
+- [Endgame by Vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
+   * "a chain where block production is still centralized, but block validation is trustless and highly decentralized"
+- [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
+   * "Making more items in the crypto space soulbound can be one path toward where NFTs can represent much more of who you are and not just what you can afford."
 
 <br>
 <br>
