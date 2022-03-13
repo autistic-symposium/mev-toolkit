@@ -94,6 +94,8 @@
 - [MEV wiki](https://www.mev.wiki/)
 - [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 - [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
+- [KeeperDAO plan for MEV protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
+- [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 - [Sandwiched?](https://sandwiched.wtf/)
 - [How to use Flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [Flashbots bundle explore](https://flashbots-explorer.marto.lol/)
@@ -120,4 +122,15 @@
 
 <br>
 <br>
+
+### 📙 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
+
+
+* [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+* [The Cypherpunk Manifest by Eric Hughes](https://activism.net/cypherpunk/manifesto.html)
+* [The Hacker Manifest by The Mentor](http://phrack.org/issues/7/3.html)
+* [How to be a Pirate by CGP Grey](https://www.youtube.com/watch?v=T0fAznO1wA8)
+* [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+   * "an electronic payment system based on cryptographic proof instead of trust..."
+
 
