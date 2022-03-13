@@ -1,5 +1,6 @@
-## Some resources
+# 💻 Some resources
 
+### Solidity basics
 
 * [Solidity docs (a must for any engineer)](https://docs.soliditylang.org/en/v0.8.12/)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
