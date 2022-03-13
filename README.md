@@ -3,7 +3,7 @@
 <br>
 
 
-## ☠️ My notes
+## ☠ My notes
 
 <br>
 
