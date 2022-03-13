@@ -21,7 +21,6 @@
 
 * [Uniswap Oracle Attack Simulator by Euler](https://blog.euler.finance/uniswap-oracle-attack-simulator-42d18adf65af)
    * "Given current concentrated liquidity profile of the ABC/WETH pool, what would it cost the attacker to move a N-minute TWAP of the ABC price to x?" 
-
 * [Hacking the Blockchain by Immunifi](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
 * [Solidity docs](https://docs.openzeppelin.com/)
