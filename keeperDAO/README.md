@@ -11,6 +11,7 @@
 * [kAave](https://github.com/keeperdao/kaave)
 
 
-### Documents of interest
+#### Documents of interest
 
+* [docs page](https://docs.keeperdao.com/reference/)
 * [Whitepaper](https://github.com/keeperdao/whitepaper )
