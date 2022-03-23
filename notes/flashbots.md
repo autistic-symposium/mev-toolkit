@@ -1,6 +1,4 @@
-
-
-## III. Flashbots
+## Flashbots
 
 * Flashbots is a research and development organization focused on mitigating the negative externalities of current MEV extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.
 
