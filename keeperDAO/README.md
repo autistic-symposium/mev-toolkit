@@ -38,5 +38,8 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 
 
 * [docs page](https://docs.keeperdao.com/reference/)
-* [Whitepaper](https://github.com/keeperdao/whitepaper )
+* [Whitepaper](https://github.com/keeperdao/whitepaper)
 * [Medium blog](https://medium.com/keeperdao)
+* [The New Citadel: A vision for KeeperDAO](https://keeperdao-labs.notion.site/The-New-Citadel-A-Vision-for-KeeperDAO-125ed6222f4542d99d8e171ddbe2bc38)
+* [KeeperDAO twitter](https://twitter.com/CrossingStiles)
+
