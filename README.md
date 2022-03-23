@@ -6,24 +6,7 @@
 
 <br>
 
-## ☠ My notes
-
-<br>
-
-* [Chapter I: `geth` and running an Ethereum node](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_I.md)
-* [Chapter II: The Mempool and MEV](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_II.md)
-* [Chapter III: Flashbots](https://github.com/bt3gl-labs/Getting-Started-MEVs-and-Flashbots/blob/main/chapter_III.md)
-* [Chapter IV: Flashbots bundle](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/blob/main/chapter_IV.md)
-
-<br>
-<br>
-
----
-
-## ☠️ My code
-
-<br>
-
+* [Random notes](https://github.com/bt3gl-labs/Scratch-notes-Stateful-blockchains-MEV-solidity/tree/main/notes)
 * [PoCs having `geth` in Docker and K8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 * [Solidity scratch space](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/solidity)
 
