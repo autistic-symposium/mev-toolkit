@@ -1,4 +1,4 @@
-## II. The Mempool and MEV
+## The Mempool and MEV
 
 
 ## Ethereum's Mempool (The Dark Forest)
