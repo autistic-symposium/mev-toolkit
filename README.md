@@ -16,7 +16,7 @@
 <br>
 
 
-## ☠️ Rsources and interesting readings
+## ☠️ Articles I enjoyed reading
 
 <br>
 
@@ -33,7 +33,7 @@
 - [Ethereum is a Dark Forest by Paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 - [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [How to Build an Ethereum Mining Pool by Dragonfly research](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
-- [MEV and Me by Paradign](https://research.paradigm.xyz/MEV)
+- [MEV and Me by Paradigm](https://research.paradigm.xyz/MEV)
    - "if block rewards are small enough compared to MEV, it can be rational for miners to destabilize consensus."
    - "The rate at which MEV accumulates on a given blockchain is generally proportional to the complexity of its application-layer behavior."
 - [Return to the Dark Forest by rekt](https://rekt.news/return-to-the-dark-forest/)
