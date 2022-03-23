@@ -12,7 +12,7 @@
 * [Solidity scratch space](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/solidity)
 
 
-<br>
+
 <br>
 
 
