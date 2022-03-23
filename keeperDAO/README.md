@@ -13,5 +13,7 @@
 
 #### Documents of interest
 
+
 * [docs page](https://docs.keeperdao.com/reference/)
 * [Whitepaper](https://github.com/keeperdao/whitepaper )
+* [Medium blog](https://medium.com/keeperdao)
