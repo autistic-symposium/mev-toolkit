@@ -16,7 +16,7 @@
 <br>
 
 
-## ☠️ Rsources and good readings
+## ☠️ Rsources and interesting readings
 
 <br>
 
