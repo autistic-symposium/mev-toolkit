@@ -1,0 +1,23 @@
+{
+  "name": "MiaNFT",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mia von Steinkirch",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.6",
+    "hardhat": "^2.6.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.4",
+    "dotenv": "^10.0.0"
+  }
+}
