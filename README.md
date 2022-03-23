@@ -2,10 +2,6 @@
 
 <br>
 
-### In this scratch space I dump some of my random and highly unorganized notes. Use at your own risk.
-
-<br>
-
 * [Random notes](https://github.com/bt3gl-labs/Scratch-notes-Stateful-blockchains-MEV-solidity/tree/main/notes)
 * [PoCs having `geth` in Docker and K8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 * [Solidity scratch space](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/solidity)
