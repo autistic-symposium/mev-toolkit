@@ -2,7 +2,12 @@
 
 <br>
 
-* [Random notes](https://github.com/bt3gl-labs/Scratch-notes-Stateful-blockchains-MEV-solidity/tree/main/notes)
+
+## ☠️ Rsources in this repository
+
+<br>
+
+* [Random notes on all the things](https://github.com/bt3gl-labs/Scratch-notes-Stateful-blockchains-MEV-solidity/tree/main/notes)
 * [PoCs having `geth` in Docker and K8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 * [Solidity scratch space](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/solidity)
 
