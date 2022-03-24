@@ -44,4 +44,5 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 * [Medium blog](https://medium.com/keeperdao)
 * [The New Citadel: A vision for KeeperDAO](https://keeperdao-labs.notion.site/The-New-Citadel-A-Vision-for-KeeperDAO-125ed6222f4542d99d8e171ddbe2bc38)
 * [KeeperDAO twitter](https://twitter.com/Keeper_DAO)
+* [KeeperDAO treasure](https://app.zerion.io/0x9a67F1940164d0318612b497E8e6038f902a00a4/overview)
 
