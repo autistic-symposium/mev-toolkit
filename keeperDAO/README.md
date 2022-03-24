@@ -38,6 +38,7 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 
 
 * [docs page](https://docs.keeperdao.com/reference/)
+* [forum page](https://forum.keeperdao.com/)
 * [Whitepaper](https://github.com/keeperdao/whitepaper)
 * [Blog page](https://blog.keeperdao.com/)
 * [Medium blog](https://medium.com/keeperdao)
