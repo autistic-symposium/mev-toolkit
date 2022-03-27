@@ -70,3 +70,13 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 * MEV exists on any blockchain and layers where there is a party responsible for transaction ordering (eg. validators, rollup providers).
 * Extracted MEV = Successful MEV transactions + Successful MEV transactions gas fees + Failed MEV transactions gas fees
 
+<br>
+
+### ➡️ While it seems simple, MEV poses risks not only to the user but also to the consensus layer itself. The reorganisation of blocks, the reordering of transactions, and — even momentarily — the censorship of transactions can have profound impacts on the blockchain and breaks the assumptions of many applications.
+
+### ➡️ Because block producers are able to prioritize transactions with higher gas fees, a bidding war between bots (who either try to arbitrage or front-run) can occur. This hurts ordinary users and DeFi platforms, because these bidding wars drive up gas fees (Priority Gas Auctions) and cause slippage and failed transactions
+
+### MEV strategies
+
+
+
