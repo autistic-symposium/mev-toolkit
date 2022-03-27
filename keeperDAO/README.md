@@ -56,4 +56,5 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 * [KeeperDAO twitter](https://twitter.com/Keeper_DAO)
 * [KeeperDAO treasure](https://app.zerion.io/0x9a67F1940164d0318612b497E8e6038f902a00a4/overview)
 * [Youtube Town Halls](https://www.youtube.com/channel/UCDNHJWdB32MdwcHs0Btiaxg/videos)
+* [Contracts registry](https://docs.keeperdao.com/reference/for-beginners/smart-contracts)
 
