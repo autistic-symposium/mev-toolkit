@@ -38,7 +38,7 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 
 <br>
 
-### Coordination Protocol
+### [Coordination Protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains-and-MEV/blob/main/keeperDAO/coordination_protocol.md)
 
 ### The Hiding Game
 
