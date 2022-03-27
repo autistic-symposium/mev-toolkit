@@ -128,6 +128,14 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 ### Hiding Book
 
 
+<br>
+
+<img width="985" alt="Screen Shot 2022-03-27 at 6 12 10 PM" src="https://user-images.githubusercontent.com/1130416/160285641-3639f584-55af-4e0f-b85e-25d84f933bd6.png">
+
+
+<br>
+
+
 * Off-chain orderbook that hosts virtualized orders only filable by KeeperDAO keepers: single-connection access to the entire spectrum of on-chain and off-chain liquidity.
 * The hiding book can act as an order relay, or a virtual mempool.
 * Integrating the hiding book offers imit orders for dapps with benefits like ROOK rewards, MEV protection, and access to KeeperDAO's keepers.
@@ -167,13 +175,57 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 * *release*:
   * once the lock ends, a new auction can begin
 
+
+
 ### Reputation
 
+* KeeperDAO uses a proprietary reputation algorithm that's a simple scoring system based on actions performed by keepers.
+* reputation values are fed to the coordinator's greenlight algorithm to help select the winnter of an auction
+
+### Greenlight algorithm
+
+* bid quantity (the higher the better)
+* reputation
+* randomness
+* fill quantity (larger fill quantities)
+* staked ROOK quantity (the more the best)
 
 <br>
 
-<img width="985" alt="Screen Shot 2022-03-27 at 6 12 10 PM" src="https://user-images.githubusercontent.com/1130416/160285641-3639f584-55af-4e0f-b85e-25d84f933bd6.png">
+---
+
+<br>
+
+## How Market Makers benefit
+
+<br>
+
+* KeeperDAO provides arbitrage as a service (using the Rook Network)
+
+* KeeperDAO is the most convenient, secure, and profitable network for on-chain market makers:
+   * 1) one single integration to access all DeFi and CeFi liquidity: orders will be arbitraged against KeeperDAO users, other market makers, Uniswap, Curve, Balancer, Bancor, Binance, etc...
+   * 2) KeeperDAO provides market makers with three different profit mechanisms: i) capture spreads or hedge fills, ii) earn arbitrage rewards in ROOK on every trade, 3) weekly pilot program rewards
+
+* Before KeeperDAO, DeFi asked market makers to execute their own trades, meaning they had to navigate gas, fees, liquidity, bridging, routing, L2s, settlements, MEV.
+
+<br>
+
+<img width="950" alt="Screen Shot 2022-03-27 at 8 58 52 PM" src="https://user-images.githubusercontent.com/1130416/160292233-685b42de-aa3d-412e-afa4-be811a8b664b.png">
 
 
 <br>
+
+### MM integration guide
+
+* [APIs and code here](https://docs.keeperdao.com/reference/integrate/run-a-market-maker/automated-trading)
+
+<br>
+
+---
+
+<br>
+
+## Running a Keeper
+
+
 
