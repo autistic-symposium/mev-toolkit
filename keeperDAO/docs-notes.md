@@ -76,7 +76,14 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 
 ### ➡️ Because block producers are able to prioritize transactions with higher gas fees, a bidding war between bots (who either try to arbitrage or front-run) can occur. This hurts ordinary users and DeFi platforms, because these bidding wars drive up gas fees (Priority Gas Auctions) and cause slippage and failed transactions
 
+
 ### MEV strategies
+
+* Common MEV strategies are front-running, back-running, and sandwiching.
+* MEV should accrue to the originator of the transaction, or of the transactions or protocols that create the MEV in the first place.
+* Using KeeperDAO's **coordination layer**, we can capture and recycle the MEV before it can be extracted.
+
+
 
 
 
