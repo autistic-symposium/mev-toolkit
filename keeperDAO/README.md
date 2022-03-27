@@ -1,6 +1,10 @@
 ## KeeperDAO notes
 
+<br>
+
 **KeeperDAO provides the infrastructure to make DeFi more secure, profitable and egalitarian for users, protocols and Keepers through proliferating the Keeper Economy and negating the possibility of predatory MEV extraction on blockchains.**
+
+<br>
 
 ```
 🏗️ KeeperDAO is building the Coordination Layer for DeFi.
@@ -26,6 +30,8 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 ♜
 ```
 
+<br>
+
 
 #### Projects of interest
 
@@ -35,6 +41,8 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 * [Security audits docs](https://github.com/keeperdao/docs/tree/master/audits)
 * [kAave](https://github.com/keeperdao/kaave)
 
+
+<br>
 
 #### Documents of interest
 
