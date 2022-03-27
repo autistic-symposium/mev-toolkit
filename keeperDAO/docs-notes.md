@@ -12,15 +12,10 @@ users and protocols that create it.**
 
 <br>
 
-## Keepers
-
-* Bots that observe Ethereum, and other blockchains, to faciliate sorts of transactions, such as arbitrage, liquidations, auctions.
-* Keepers compete with each other in a zero-sum game, transforming Ethereum into a highly zero-sum game.
-* Inside KeeperDAO, keepers don't need to compete - but coordinate and capture on-chain profits efficiently. DeFi users, protocols, market makers can bring their activity to KeeperDAO and gain a portion of the profits as a reward.
-
-<br>
 
 ## Core Products
+
+<br>
 
 ### The Hiding Game
 
@@ -39,3 +34,33 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 * KeeperDAO offer five single-asset LP that yield ROOK tokens (ETH, WETH, USDC, renBTC, and DAI): users earn ROOK rewards based on the number  of ROOK rewards allocated to the pool each quarter.
 
 
+<br>
+
+## MEV
+
+<br>
+
+### How the blockchain works
+* Each block in the blockchain contains a list of transactions in a particular order, enconding a sequence of updates to the blockchain sate (world state).
+* Anyone can broadcast a transaction to the network, which means that the transaction is public. A broadcast is a request. In order for that request to be carried out, someone must place the transaction in a block and add the block to the blockchain.
+* Anyone can listen for transactions being broadcast and gather them into a list. In order to a turn a list into a block, it needs to be validated. Validation creats a mathematical (cryptographic) proof that the state changes are consistent.
+* In a proof-of-work blockchain, block producers are miners. In a proof-of-stake blockchain, they are validators.
+* The act of converting a transaction into a block is called *settlement*. The process of block production is called *settlement layer* or *consensus layer*.
+
+### Arbritage opportunity
+
+* Results from a difference in prices between the same asset, listed on different DEXes.
+* A transaction that makes the right swaps along the right arbritage route will end up with profit.
+
+
+### Keepers
+
+* Bots that observe Ethereum, and other blockchains, to faciliate sorts of transactions, such as arbitrage, liquidations, auctions.
+* Automated agents that survey the state of the blockchain and compute all the different possibilitie in order to identifty transactions that can create profit.
+* Once Keepers have identified a valuable transaction, they will broadcast that to the network. Other keepers can copy and broadcast the same transaction with themselves as the originators.
+* MEV arises from the problem of "how can a keeper ensure that they are the one who gets a transaction settled first?
+* Keepers compete with each other in a zero-sum game, transforming Ethereum into a highly zero-sum game.
+* Inside KeeperDAO, keepers don't need to compete - but coordinate and capture on-chain profits efficiently. DeFi users, protocols, market makers can bring their activity to KeeperDAO and gain a portion of the profits as a reward.
+
+
+### Maximal
