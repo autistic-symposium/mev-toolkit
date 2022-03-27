@@ -1,4 +1,8 @@
-## KeeperDAO Coordination Game
+# Coordination protocol
+
+<br>
+
+## Coordination Game
 
 <br>
 
