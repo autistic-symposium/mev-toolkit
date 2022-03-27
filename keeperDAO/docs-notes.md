@@ -63,4 +63,10 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 * Inside KeeperDAO, keepers don't need to compete - but coordinate and capture on-chain profits efficiently. DeFi users, protocols, market makers can bring their activity to KeeperDAO and gain a portion of the profits as a reward.
 
 
-### Maximal
+### Maximal extractable value
+
+* Refers to profit that can be extracted from a transaction from the transaction originator needing priority or control over the ordering of that transacion in a block (*the arbitrage has 45 WETH of MEV*).
+* [As may of 2021, around $3-4mil of MEV is being captured daily](https://explore.flashbots.net/).
+* MEV exists on any blockchain and layers where there is a party responsible for transaction ordering (eg. validators, rollup providers).
+* Extracted MEV = Successful MEV transactions + Successful MEV transactions gas fees + Failed MEV transactions gas fees
+
