@@ -20,6 +20,23 @@
 * Usually loo for specific types of transactions in the mempool, such as DEX trade or an oracle update
 
 
+
+## To find Extracted MEV:
+
+1. look at each Ethereum's transaction trace
+2. parse it and go through the token transfers
+3. calculate the starting balance of the sender address and its ending balance (taking into account proxy addresses)
+
+```
+Extracted MEV = Successful MEV transactions + Successful MEV transactions gas fees + Failed MEV transactions gas fees
+
+
+Failed MEV transactions gas fees = Reverted MEV transactions gas fees + Checked MEV transactions gas fees
+```
+
+<br>
+
+
 ---
 
 ## References
