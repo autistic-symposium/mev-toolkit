@@ -111,6 +111,7 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 
 * [docs page](https://docs.keeperdao.com/reference/)
 * [forum page](https://forum.keeperdao.com/)
+* [roadmap](https://www.keeperdao.com/files/roadmap.png)
 * [Whitepaper](https://github.com/keeperdao/whitepaper)
 * [Blog page](https://blog.keeperdao.com/)
 * [Medium blog](https://medium.com/keeperdao)
