@@ -2,6 +2,20 @@
 
 <br>
 
+
+<br>
+
+**KeeperDAO uses the power of Coordination to create more efficient markets by capturing and recycling MEV to the 
+users and protocols that create it.**
+
+<br>
+
+**KeeperDAO is a decentralised and coordinated Keeper commonwealth making the Ethereum network more egalitarian, profitable, and secure for all the actors involved.**
+
+<br>
+
+<br>
+
 ## Coordination Game
 
 <br>
