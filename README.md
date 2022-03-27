@@ -3,7 +3,7 @@
 <br>
 
 
-## ☠️ Rsources in this repository
+## ☠️ My note and code in this repo
 
 <br>
 
