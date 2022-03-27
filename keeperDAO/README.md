@@ -1,5 +1,7 @@
 ## KeeperDAO notes
 
+**KeeperDAO provides the infrastructure to make DeFi more secure, profitable and egalitarian for users, protocols and Keepers through proliferating the Keeper Economy and negating the possibility of predatory MEV extraction on blockchains.**
+
 ```
 🏗️ KeeperDAO is building the Coordination Layer for DeFi.
 
