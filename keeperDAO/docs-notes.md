@@ -227,5 +227,32 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 
 ## Running a Keeper
 
+<br>
+
+### Example keeper bot technicuqes
+
+* DeFi arbitrage, cross the user with Uniswap or other on-chain  DEX
+* CeFi arbitrage, cross the user with Coinbase, etc
+* Liquidation facilitation
+* Front running, tailgating, etc.
+* Keepers can also fill a user's order
+
+<br>
+
+<img width="495" alt="Screen Shot 2022-03-27 at 9 24 22 PM" src="https://user-images.githubusercontent.com/1130416/160293080-c1fc9881-f09f-4b64-b41d-6180c3ade8fd.png">
+
+
+<br>
+
+
+### Keeper bot architecture
+
+* a keeper bot: integrated with the coordinator and hidingbook components
+* Coordinator websocket server: keepers connect and communicate with the coordinator using this server. When they find arbitrage they place a bid via web sockets noting the specific order/liquidation. The coordinator prevents gas auctions and bad behaviors, and broadcast the winner of the auction letting the greenlit keeper know they can take the order/liquidation. The keeper can then capture the arbitrage or MEV they way they like (mempool, flashbots, eden, miningdao, etc).
+* Coordinator http server: keepers provide and gather critical info from this server (must register their addresss with the coordinator)
+* HidingBook http server: the orderbook containing user order only fillable by whitelisted KeeperDAO keepers.
+* HidingBook websocket server: keepers listen to real time order update events using this endpoint. This ensures they get orders as soon as they are posted and know when the order is filled or expired.
+
+
 
 
