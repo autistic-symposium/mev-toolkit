@@ -38,6 +38,8 @@ We’re backed by some of the most reputed investors in web3: Three Arrows Capit
 
 <br>
 
+### Coordination Protocol
+
 ### The Hiding Game
 
 * Gasless limit order system that sources liquidity from all means supported by KeeperDAO Keepers.
