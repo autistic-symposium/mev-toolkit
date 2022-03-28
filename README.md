@@ -21,7 +21,6 @@
 
 <br>
 
-- [Flashbots](https://github.com/flashbots/pm)
 - [MEV wiki](https://www.mev.wiki/)
 - [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 - [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
