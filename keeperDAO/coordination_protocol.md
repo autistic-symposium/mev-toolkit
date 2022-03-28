@@ -22,7 +22,7 @@ users and protocols that create it.**
 
 * First protocol that allows generalized MEV to be internalized at the application layer, protecting users and protocols from negative externalities, reducing the total MEV available at the consensus layer, and ensuring that less value overall is being extracted from markets and protocols by miners and validators.
 
-* Design a comprehensive system that can flexibly capture a wide variety of application-layer transaction flow, creating posiive-feedback flywheel that aggregates and re-distributes MEV among participants in a way that increases overall netwoek and market efficiency.
+* Design a comprehensive system that can flexibly capture a wide variety of application-layer transaction flow, creating posiive-feedback flywheel that aggregates and re-distributes MEV among participants in a way that increases overall network and market efficiency.
 
 <br>
 
