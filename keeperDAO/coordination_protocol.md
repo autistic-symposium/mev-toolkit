@@ -43,7 +43,6 @@ users and protocols that create it.**
 
 <br>
 
-<img width="887" alt="Screen Shot 2022-03-27 at 6 05 38 PM" src="https://user-images.githubusercontent.com/1130416/160285393-d04754b1-4f44-4290-9d29-2b95c8b7cf85.png">
 
 
 ### Hiding Book
