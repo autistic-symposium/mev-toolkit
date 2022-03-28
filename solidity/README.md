@@ -2,19 +2,13 @@
 
 <br>
 
-### In this scratch space I dump some of my random and highly unorganized notes. Use at your own risk.
-
-<br>
-
-----
-
-## 💻 Some resources
-
 ### Solidity basics
 
 * [Solidity docs (a must for any engineer)](https://docs.soliditylang.org/en/v0.8.12/)
 * [OpenZeppelin docs](https://docs.openzeppelin.com/)
 * [Solidity style guide](https://docs.soliditylang.org/en/latest/style-guide.html)
+
+<br>
 
 
 ### The EVM
@@ -23,9 +17,15 @@
 * [Speeding up the EVM by Flashbots](https://writings.flashbots.net/research/speeding-up-evm-part-1/)
   * "Even though at the moment the biggest bottleneck of Ethereum is not EVM's performance (the size of the Ethereum state storage is), it will soon be as Ethereum TPS goes up." 
 
+<br>
+
 ### Rollups
 
 * [Understanding rollup economics from first principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
+
+
+<br>
+
 
 ### Security
 
