@@ -85,7 +85,10 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 * MEV should accrue to the originator of the transaction, or of the transactions or protocols that create the MEV in the first place.
 * Using KeeperDAO's **coordination layer**, we can capture and recycle the MEV before it can be extracted.
 
+#### Gas golfing
 
+* use addresss that start with a long string og zeroes (take less space, less gas, to store)
+* leaving small ERC-20 token balances in constracts since it cost more gas to initialize a storage slot then to update a storage slot
 
 
 <br>
