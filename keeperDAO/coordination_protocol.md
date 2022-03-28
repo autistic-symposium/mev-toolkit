@@ -26,9 +26,6 @@ users and protocols that create it.**
 
 <br>
 
-<img width="861" alt="Screen Shot 2022-03-27 at 5 07 33 PM" src="https://user-images.githubusercontent.com/1130416/160282861-7677206b-d47e-4f54-bdc1-d44e24d43604.png">
-
-<br>
 
 
 ### Coordination lifecycle outline
