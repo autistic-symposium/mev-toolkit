@@ -124,4 +124,5 @@ A generalized liquidation-mitigation lending and borrowing NFT product.
 * [KeeperDAO treasure](https://app.zerion.io/0x9a67F1940164d0318612b497E8e6038f902a00a4/overview)
 * [Youtube Town Halls](https://www.youtube.com/channel/UCDNHJWdB32MdwcHs0Btiaxg/videos)
 * [Contracts registry](https://docs.keeperdao.com/reference/for-beginners/smart-contracts)
+* [Gnosis multi-sig](https://gnosis-safe.io/app/eth:0xa8b0a855BE21568B93f32805b244158Cc61AD006/balances)
 
