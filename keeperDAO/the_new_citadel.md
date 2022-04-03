@@ -1,16 +1,19 @@
 ## Notes for [The New Citadel](https://keeperdao-labs.notion.site/The-New-Citadel-A-Vision-for-KeeperDAO-125ed6222f4542d99d8e171ddbe2bc38)
 
-* executing trades on-chain sucks today (high gas, illiquidity, bad routing, expensive bridging, MEV...)
+* Executing trades on-chain sucks today (high gas, illiquidity, bad routing, expensive bridging, MEV...).
 * Citadel Securities is the largest executor of trades in the world; 40% shares traded in the USA go by them.
   * they provide execution-as-a-service - when users place orders or apps like robinhood, citadel execute the trades (the amazon of trading), they take 90% profit    
 * KeeperDAO allows the value of order flow itself to be harnessed, but distributing the value between users, keepers, market makers; allowing everyone participate through an API; governance through a DAO
 * Products: the hiding game, the coordination game, the incentive game --> the pillars for the coordinated execution layer for DeFi
 
+<br>
 
 ### Building a Coordination Layer for DeFi
 
-* A coordinate execution layer lets KeeperDAO hide complexity, create economies of scale, and deliver a standard of ease and service, taking economy to the next level
-* KeeperDAO as the coordinated execution layer for the entire multi-chain space
+* A coordinate execution layer lets KeeperDAO hide complexity, create economies of scale, and deliver a standard of ease and service, taking economy to the next level.
+* KeeperDAO as the coordinated execution layer for the entire multi-chain space.
+
+<br>
 
 ### Going Teal
 
@@ -20,10 +23,14 @@
 * Leaders may create or sponsors special KIPs which can charter and fund new teams or units. The DAO evaluates and may approve or decline these in the usual way.
 * On a quarterly basis, a presentation must be made by each team or unit to the DAO about this progress.
 
+<br>
+
 
 ### KeeperDAO with 80-100 contributors
 
 <img width="643" alt="Screen Shot 2022-03-24 at 12 32 24 PM" src="https://user-images.githubusercontent.com/1130416/159875001-e8100e77-0725-477a-9bb8-fbcbf38efbc9.png">
+
+<br>
 
 ### Teams
 
