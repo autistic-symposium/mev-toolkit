@@ -1,9 +1,11 @@
 ## [Proposal for Rooknomics v2.0](https://forum.keeperdao.com/t/rookonomics-v2-0/225) (nov/2021)
 
-* Rook has been a valueless governance token, only used to incentivize the use of the protocol by rewarding users to trade.
+* `ROOK` has been a valueless governance token, only used to incentivize the use of the protocol by rewarding users to trade.
 * The tokenomics must include some value capture as a detractor of actors within DeFi who might want to fork KD.
 
-#### Tokenomics objectives
+<br>
+
+### Tokenomics objectives
 
 1. Create an unforkable state for KD
 2. Reward users who stake and lock for longer
@@ -13,6 +15,7 @@
 6. Make Rook useable as collatral
 7. Give users product benefits for staking Rook
 
+<br>
 
 ### Tokenomics
 
