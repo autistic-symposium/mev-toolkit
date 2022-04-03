@@ -15,7 +15,7 @@
 ### Arbitrage opportunity
 
 * Results from a difference in prices between the same asset, listed on different DEXes.
-* A transaction that makes the right swaps along the right arbritage route will end up with profit.
+* A transaction that makes the right swaps along the right arbitrage route will end up with profit.
 
 
 ### Keepers
