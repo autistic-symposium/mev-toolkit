@@ -2,7 +2,7 @@
 
 * Keepers are bots that work on blockchain networks like Ethereum. The are an emergent and increasingly important network participant.
 * Keepers respond when there is a need to buy or sell a sequence of assets, or execute particular smart contracts in a timely manner.
-* DeFi relies on Keepers. Their constant arbritage keeps prices in sync accorss dexes.
+* DeFi relies on Keepers. Their constant arbitrage keeps prices in sync accorss dexes.
 * From the keeper's perspective, a blockchain is a giant chessbord. They look for sequences of mvoes with high MEV and try to execute them.
 * To be the first, they must pay block producers (minners and validators) above and beoynd the normal fee.
 * Unlike block producers, Keepers were not accounted for in Ethereum's protocol design. This has turned Ethereum's public mempool (database where all unprocessed transactions are stored) into a dark forest.
@@ -16,7 +16,7 @@
 ### The Mission
 
 * KeeperDAO is dedicated to Keepers: to bring about a decentralised economy which Keepers create more efficient, secure, and egalitarian blockchain networks.
-* Research and build unique technology to coordinate access to certain shared resources - namely order and transaction pools bound for blockchain networks - allowing keepers to more efficiently capture on-chain profit - for example by executing an arbritage or liquidation.
+* Research and build unique technology to coordinate access to certain shared resources - namely order and transaction pools bound for blockchain networks - allowing keepers to more efficiently capture on-chain profit - for example by executing an arbitrage or liquidation.
 * KeeperDAO creates new primitives that users and protocols can use to protect themselves from predatory MEV.
 
 ### Founding principles
