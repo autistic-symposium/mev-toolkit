@@ -3,7 +3,7 @@
 <br>
 
 
-## ☠️ My note and code in this repo:
+## ☠️ My notes and source code in this repo:
 
 <br>
 
