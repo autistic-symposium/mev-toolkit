@@ -1,4 +1,4 @@
-# 🧱⛓ Stateful Blockchains and MEV
+# 🧱⛓ Blockchains and MEV
 
 <br>
 
