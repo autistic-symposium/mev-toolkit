@@ -1,4 +1,4 @@
-## 🧱⛓ [Scratch Space] Stateful Blockchains, MEV, AMM, DEXs...
+## 🧱⛓ Notes on Stateful Blockchains and MEV
 
 <br>
 
