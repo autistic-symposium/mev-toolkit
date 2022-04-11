@@ -1,9 +1,9 @@
-## 🧱⛓ Notes on Stateful Blockchains and MEV
+## 🧱⛓ Stateful Blockchains and MEV
 
 <br>
 
 
-## ☠️ My note and code in this repo
+## ☠️ My note and code in this repo:
 
 <br>
 
@@ -17,7 +17,7 @@
 <br>
 
 
-## ☠️ Articles I enjoyed reading
+## ☠️ Articles I recommed:
 
 <br>
 
