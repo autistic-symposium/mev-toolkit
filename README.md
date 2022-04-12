@@ -18,7 +18,7 @@
 <br>
 
 
-## ☠️ Articles I recommed:
+## ☠️ Articles I recommend:
 
 <br>
 
