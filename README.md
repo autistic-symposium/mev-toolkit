@@ -63,5 +63,6 @@
 * [How to be a Pirate by CGP Grey](https://www.youtube.com/watch?v=T0fAznO1wA8)
 * [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
    * "an electronic payment system based on cryptographic proof instead of trust..."
+* [Teal organizations](https://reinventingorganizationswiki.com/)
 
 
