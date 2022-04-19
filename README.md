@@ -1,4 +1,4 @@
-# 🧱⛓ Blockchains and MEV
+# 🧱⛓ Blockchains, AMMs, and MEV
 
 <br>
 
