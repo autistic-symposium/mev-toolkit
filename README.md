@@ -9,7 +9,7 @@
 
 * [My random notes on the blokchains and MEV](https://github.com/bt3gl-labs/Scratch-notes-Stateful-blockchains-MEV-solidity/tree/main/notes)
 * [PoC `geth` in Docker and Kubernetes](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
-* [The KeeperDAO project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/keeperDAO)
+* [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/keeperDAO)
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
 * [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Avalanche)
 
