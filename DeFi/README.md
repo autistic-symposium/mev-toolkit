@@ -56,6 +56,7 @@
 * [Curve finance](https://curve.fi/mim/)
 * [Fei proocol](https://fei.money/)
 * [Stakewise](https://app.stakewise.io/)
+* [Lido](https://lido.fi/)
 * [Oasis.app](https://oasis.app/)
 * [Compound](https://app.compound.finance/)
 * [Euler](https://www.euler.finance/)
