@@ -7,7 +7,11 @@
 <br>
 
 
+The Rook Protocol is the first protocol that allows generalized MEV to be internalized at the application layer. This protects users and protocols from negative externalities, reduces the total MEV available at the consensus layer, and ensures that less value overall is being extracted from markets and protocols by miners and validators. Rook Labs has designed a comprehensive system that can flexibly capture a wide variety of application-layer transaction flow, and create a positive-feedback flywheel that aggregates and re-distributes MEV among participants in a way that increases overall network and market efficiency.
 
+Rook Labs maintains several distinct API services that cater to specific use-cases, including market making, automated trading, dApps (e.g. DEXes, DEX aggregators, wallets), smart contracts, and a general-purpose RPC. Transactions enter the Rook Protocol’s virtual mempool, where only whitelisted Keepers, certified, high-powered bot operators who bid on the right to execute transactions and capture the maximal extractable value created, can settle those transactions to an actual blockchain by bidding on the opportunity. The winning bid is distributed by the Rook Protocol Bid Distribution Controller through a series of payment channels, to incentivize the various parties involved in the transaction.
+
+<br>
 
 ---
 
