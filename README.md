@@ -12,7 +12,7 @@
 * [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/keeperDAO)
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
 * [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Avalanche)
-* [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi_and_Day-trading)
+* [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
 
 
 <br>
