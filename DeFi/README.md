@@ -6,7 +6,7 @@
 
 <br>
 
-### Trading and asset management
+### Trading, indexes, and asset management
 
 <br>
 
@@ -23,6 +23,12 @@
 * [Fracium](https://francium.io/)
 * [Babylon](https://www.babylon.finance/)
 * [Indexcoop](https://indexcoop.com/)
+* [Token terminal](https://tokenterminal.com/terminal)
+* [FTX](https://ftx.us/?fromIntl=true)
+* [MarketCipher](https://marketciphertrading.com/)
+* [HotBit](https://www.hotbit.io)
+* [Cointelegraph](https://subscriptions.cointelegraph.com/marketspro-cpc/)
+* [Slingshot](https://app.slingshot.finance/trade/m/MATIC)
 
 
 
@@ -46,6 +52,7 @@
 * [Tokemak](https://www.tokemak.xyz/)
 * [DeFi helper](https://app.defihelper.io/protocols?filter=All)
 
+
 <br>
 
 ### Ethereum and L2 DeFi projects
@@ -62,6 +69,16 @@
 * [Euler](https://www.euler.finance/)
 * [Elementifi](https://app.element.fi/fixedrates)
 * [Fodl](https://app.fodl.finance/nft)
+* [Zapper](https://zapper.fi/invest)
+
+<br>
+
+### Avalanche DeFi projects
+
+<br>
+
+* [TraderJoe](https://traderjoexyz.com/farm#/)
+
 
 <br>
 
@@ -80,6 +97,7 @@
 
 * [Step.finance](https://app.step.finance/#/dashboard)
 * [Orca staking](https://www.orca.so/staking)
+* [SolanaBeach](https://solanabeach.io/)
 
 <br>
 
