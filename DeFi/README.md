@@ -82,6 +82,13 @@
 
 <br>
 
+### Arbitrum DeFi Projects
+
+* [Vesta](https://vestafinance.xyz/)
+
+
+<br>
+
 ### Terra DeFi projects
 
 <br>
