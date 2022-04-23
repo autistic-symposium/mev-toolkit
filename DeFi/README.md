@@ -29,6 +29,7 @@
 * [HotBit](https://www.hotbit.io)
 * [Cointelegraph](https://subscriptions.cointelegraph.com/marketspro-cpc/)
 * [Slingshot](https://app.slingshot.finance/trade/m/MATIC)
+* [GMX](https://gmx.io/trade)
 
 
 
