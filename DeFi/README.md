@@ -118,3 +118,8 @@
 <br>
 
 
+### NEAR DeFi projects
+
+<br>
+
+* [Rose](https://app.rose.fi/#/)
