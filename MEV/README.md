@@ -1,3 +1,14 @@
+# MEV 101
+
+<br>
+
+MEV consists of 4 main categories: arbitrage, liquidation, sandwich, and "Longtail".
+
+<br>
+
+
+
+---
 ## Ethereum notes
 
 
