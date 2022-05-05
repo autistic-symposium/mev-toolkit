@@ -8,6 +8,7 @@
 <br>
 
 * [MEV on Ethereum](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV)
+* [MEV in action (examples)](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_in_action)
 * [`geth`: notes and code](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 * [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/keeperDAO)
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
