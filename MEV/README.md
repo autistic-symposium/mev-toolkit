@@ -19,7 +19,7 @@ In this repo we explore them further.
 
 ---
 
-## Basic Ethereum pre-requisite knowledge 
+## Basic EVM pre-requisite knowledge 
 
 <br>
 
