@@ -2,7 +2,16 @@
 
 <br>
 
-MEV consists of 4 main categories: arbitrage, liquidation, sandwich, and "Longtail".
+MEV consists of 4 main categories: 
+
+* arbitrage, 
+* liquidation, 
+* sandwich, and 
+* "Longtail"
+
+<br>
+
+In this repo we explore them further.
 
 <br>
 
