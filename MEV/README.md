@@ -1,4 +1,4 @@
-# MEV 101
+# 🏴‍☠️ Everything MEV 
 
 <br>
 
@@ -6,8 +6,8 @@ MEV consists of 4 main categories:
 
 * arbitrage, 
 * liquidation, 
-* sandwich, and 
-* "Longtail"
+* sandwich,  
+* longtail
 
 <br>
 
@@ -18,12 +18,12 @@ In this repo we explore them further.
 
 
 ---
-## Ethereum notes
 
+## Basic Ethereum pre-requisite knowledge 
 
-### Basics
+<br>
 
-* the existence of a Turing-complete programming language means that arbitrary contracts can be created for any transaction type or application.
+* The existence of a Turing-complete programming language means that arbitrary contracts can be created for any transaction type or application.
 
 * a state is made up of objects called "accounts", with each account hacing a 20-byte address and state transitions being direct transfers of value and information between accounts.
 
