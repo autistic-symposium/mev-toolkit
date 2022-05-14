@@ -11,9 +11,15 @@ A custom Ethereum testnet contains three components:
 * a custom `NetworkID` , which we set `137`
 
 
+<br>
+
 ### Gas
 
 Gas refers to the unit that measures the computational effort required to execute specific operations on the Ethereum network.
+
+
+<br>
+
 
 ### Nodes
 
@@ -23,13 +29,25 @@ Running nodes are responsible for the following tasks:
 - participates in block validation (verifying blocks and states),
 - serve the network and provides data on request.
 
+
+<br>
+
+
 ### Storage
 
 More details to be added soon.
 
+
+<br>
+
+
 ### Faucet
 
 More details to be added soon.
+
+
+<br>
+
 
 ---
 
@@ -39,17 +57,27 @@ More details to be added soon.
 You can run commands directly in the console:
 
 
+<br>
+
+
 ##### Getting total coinbase
 
 ```
 > web3.fromWei(eth.getBalance(eth.coinbase), "ether")
 ```
 
+<br>
+
+
 ##### Getting a balance from an account
 
 ```
 > web3.fromWei(eth.getBalance("2ee8D80de1c389f1254e94bc44D2d1Bc391eD402"), "ether")
 ```
+
+
+<br>
+
 #### txpool API
 
 Access to several non-standard RPC methods to inspect the contents of the transaction pool containing all the currently pending transactions as well as the ones queued for future processing:
@@ -58,12 +86,18 @@ Access to several non-standard RPC methods to inspect the contents of the transa
 txpool
 ```
 
+
+<br>
+
+
 #### Other useful checks
 
 ```
 admin.nodeInfo
 ```
 
+
+<br>
 
 
 ### Setting this chain on MetaMask
@@ -75,6 +109,9 @@ Network Name: "<project name>"
 New RPC URL: localhost
 Chain ID: 137
 ```
+
+<br>
+
 
 ---
 
