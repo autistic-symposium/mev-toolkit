@@ -11,7 +11,7 @@
 * [`geth`: notes and code](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 * [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/keeperDAO)
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
-* [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Avalanche)
+* [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
 * [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
 
 
