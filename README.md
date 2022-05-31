@@ -61,6 +61,7 @@
 <br>
 
 * [MEV.day 2022](https://mevday.org/)
+* [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
 
 <br>
 <br>
