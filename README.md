@@ -1,4 +1,4 @@
-# 🧱⛓ Blockchains, AMMs, and MEV
+# 🧱⛓ Blockchains, DeFi, AMMs, and MEV
 
 <br>
 
@@ -14,6 +14,7 @@
 * [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/keeperDAO)
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
 * [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
+* [Tokenomics for DeFi projects](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/Tokenomics)
 
 
 <br>
