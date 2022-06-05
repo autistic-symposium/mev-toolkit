@@ -6,6 +6,20 @@
 
 <br>
 
+### Biggest Blockchains for DEXs
+
+| Blockchain      | DEXs                            |
+| -----------     | -----------                     |
+| Ethereum        | Uniswap, 1inch, SushiSwap       |
+| BSC             | PancakeSwap, BurgerSwap         |
+| Solana          | Serum                           |
+| Cardano         | Cardax                          |
+| Polkadot        | Polkadex                        |
+
+
+
+<br>
+
 ### Trading, indexes, and asset management
 
 <br>
