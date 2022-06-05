@@ -208,16 +208,6 @@
 * vice versa for a downtrend
 
 
-### How to trade with trends
-
-1. Identify the market trends
-2. ask where are the main areas of trade
-3. where is support and resistance?
-4. any chart pattern?
-5. make your entry based on the daily trade action
-6. is the candlestick telling us that the trade will go in the direction of our trade?
-7. is the trade bullish or bearish based of candlestick patterns?
-
 ### Moving averages
 
 * SMA: arithmetic mean of prices over a given time period
@@ -239,12 +229,24 @@
 * can be used to set our stop loss and give the trade some breathing room
 
 
+----
 
 
+## How to trade with trends
+
+1. Identify the market trends
+2. Ask where are the main areas of trade
+   - where is support and resistance?
+   - any chart pattern?
+3. Make your entry based on the daily trade action
+   - is the candlestick telling us that the trade will go in the direction of our trade?
+   - is the trade bullish or bearish based of candlestick patterns?
 
 
+### Trading tools:
 
-
+* [Tradingview](https://www.tradingview.com/)
+* [Tokenmetrics](https://tokenmetrics.com/)
 
 
 
