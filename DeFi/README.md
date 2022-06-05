@@ -8,6 +8,8 @@
 
 ### Biggest Blockchains for DEXs
 
+<br>
+
 | Blockchain      | DEXs                            |
 | -----------     | -----------                     |
 | Ethereum        | Uniswap, 1inch, SushiSwap       |
