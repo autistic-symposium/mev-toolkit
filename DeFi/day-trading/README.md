@@ -1,4 +1,10 @@
-## Day trading notes
+# Day trading notes
+
+<br>
+
+---
+
+## Types of trading
 
 <br>
 
@@ -49,8 +55,102 @@
 * short-term swings can stop you out of trader
 
 
+<br>
+
+### Dollar cost averaging
+
+* long-term strategy
+* price agnostic
+* fundamental analysis
+* investments, not trading
+* not interested in short term
+* markets go up over time
+* no mathematical advantage compared to lump-sum investing
+* can face significant losses in your losers over time
+
 
 <br>
+
+
+----
+
+## Order types
+
+
+#### tl;dr
+
+* You can "take " or "make" prices with market and limit orders.
+* The spread prevents us from making free money without risk.
+* Stop order can limit our risk.
+
+<br>
+
+### Order book
+
+  * open market for crypto pairs
+  * red: sellers; green: buyers
+
+### Spread
+
+  * the difference between the best bid and best offer
+  * you want a tight spread 
+
+### Market order
+
+  * choose the amount you trade
+  * don't choose the price
+  * can trade quickly, easy to use
+  * can easily pay too much for crypto
+  * always on the wrong side of the spread
+  * already in a loss
+
+
+### Limit order
+
+  * choose the amount you trade AND the price
+  * get a better deal
+  * can't guarantee we trade the whole order
+  * must wait for sellers to come
+  * maker fees are lower
+
+### Stop market order 
+
+  * choose the amount you trade
+  * don't choose the price
+  * choose at what price to place your market order
+  * some trading strategies will need this order
+  * fast trading for buy/sell breakouts 
+  * "if price gets to X, sell with a market order"
+
+### Stop limit order
+
+  * choose the amount you trade AND the price
+  * choose at what price to place your limit order
+  * add on to an winning trade or specific price level (TA)
+
+
+### Stop loss order
+
+* a version of a stop limit order
+* stops your losses
+* important for day trading, to mitigate trading risks
+* choose the price level with TA
+* must be below the current trading price
+
+
+### Take profit order
+
+* a version of a stop limit order
+* trades your position with a profit
+* important for day trading, to automate trading
+* choose the price level with TA
+* must be above the current trading price 
+
+
+<br>
+
+
+---
 
 ## Resources
 
