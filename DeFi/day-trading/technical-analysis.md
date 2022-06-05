@@ -13,6 +13,8 @@
 
 <br>
 
+---
+
 ## Candlestick charts
 
 * data rich trading analysis
@@ -32,7 +34,7 @@
 
 <br>
 
-## Hammer pattern
+### Hammer pattern
 
 * bullish pattern
 * sellers drove price lower during the day
@@ -49,7 +51,7 @@
 
 <br>
 
-## Shooting star pattern
+### Shooting star pattern
 
 * bearish pattern
 * buyers drove price high
@@ -63,7 +65,7 @@
 </p>
 <br>
 
-## Bullish engulfing pattern
+### Bullish engulfing pattern
 
 * bullish pattern
 * bullish candlestick "engulfed" the bearish candlestick
@@ -76,7 +78,7 @@
 </p>
 <br>
 
-## Bearish engulfing pattern
+### Bearish engulfing pattern
 
 * bearish pattern
 * bearish candlestick engulfed the bullish candlestick 
@@ -89,9 +91,152 @@
 </p>
 <br>
 
+----
+
+## Chart patterns
+
+* used in conjuction with candlestick charts
+* longer-term analysis of market movements
+* bullish and bearish patterns
+* used with day trading and swing trading
+* dont tell about longer term trends
+
+
+### Double top
+
+* bearish pattern
+* buyers tried wtice to push price higher
+* buyers unable to push price higher
+* price has no moment at this level
+* buyers run ot of steam
+* sellers are in the market
 
 
 
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/172072239-54e95e3f-df11-4ec9-92a2-737ec05c1fd9.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
+</p>
+<br>
+
+### Double bottom
+
+* bullish pattern
+* sellers came in twice
+* price found support of buyers twice
+* buyers happy to pay up
+* sellers may run out and buyers need to pay more
+* buyers are in the market
+
+
+
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/172072325-c19f5111-abf3-4c38-8e18-9a1e3526ea11.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
+</p>
+<br>
+
+
+### Asceding triangle
+
+* charts never trade in a straight line
+* charts trend
+* highs and lows are important
+* consolidation is imporant
+* higher highs or higher lows is bullish
+* narrowing of a range can preceed a breakout
+
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/172072378-59cffb28-7589-44fc-8e54-b040ec239496.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
+</p>
+<br>
+
+
+---
+
+
+## Trends
+
+
+* we can't trade from patterns all the time, they are quite rare
+* trends patterns will guide us more often
+* patterns can be housed within trends
+* if we can find the trend, we can ride the trend for profit
+
+<br>
+
+### Asceding wedge - higher lows
+
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/172072540-324afc3d-0b31-4ffd-ab4f-96a829d244bf.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
+</p>
+<br>
+
+### Desceding wedge - lower highs
+
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/172072564-59a193ef-f374-4924-8c0c-ddda21487675.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
+</p>
+<br>
+
+### Consolidation
+
+* give us a strong area of trade where traders have been before
+* area in the chart moving sideways
+* we can use consolidation as a guide for our entry/exit points
+* sometimes preceed breakup
+* where buyers/sellers are at equilibrium and can't last forever
+* use these levels for our stop loss levels
+
+<br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/172072655-e0b13963-4b68-4641-9c6b-888a4fc9a5f1.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
+</p>
+<br>
+
+### Support and resistance
+
+* support and resistance are simply significant price levels
+* resistance can become support if a price breaks through that level in an uptrend
+* vice versa for a downtrend
+
+
+### How to trade with trends
+
+1. Identify the market trends
+2. ask where are the main areas of trade
+3. where is support and resistance?
+4. any chart pattern?
+5. make your entry based on the daily trade action
+6. is the candlestick telling us that the trade will go in the direction of our trade?
+7. is the trade bullish or bearish based of candlestick patterns?
+
+### Moving averages
+
+* SMA: arithmetic mean of prices over a given time period
+* EMA: weighted and give more importance to recent prices
+
+### Relative strength index (RSI)
+
+* plots the relative strength of the price compared to previous prices
+* momentum indicator
+* above 70: price is relatively expensive (overbought)
+* below 30: price is relatively cheap (oversold)
+* can't predict how the price will change in the future
+
+### Average true range
+
+* measure of daily price volatility
+* tell us the true amount the price could move in a given day
+* largest probably move for one day based on previous data
+* can be used to set our stop loss and give the trade some breathing room
 
 
 
