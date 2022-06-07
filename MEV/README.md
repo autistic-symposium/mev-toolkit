@@ -24,7 +24,7 @@ In this repo we explore them further:
 * [Sandwiching](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/sandwich-tranding-notes.md)
 * [Flashbots](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/flashbots.md)
 * [The mempool and MEV](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/the_mempool_and_mev.md)
-* [Terminology](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/terminology.md)
+* [MEV terminology](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/terminology.md)
 
 
 
