@@ -62,6 +62,7 @@
 
 * [MEV.day 2022](https://mevday.org/)
 * [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
+* [Westerngate, arbritage measured](Westerngate.xyz)
 
 <br>
 <br>
