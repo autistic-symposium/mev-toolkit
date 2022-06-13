@@ -30,3 +30,6 @@ In this repo we explore them further:
 
 <br>
 
+### Further resources and readings
+
+* [Cross-Domain MEV](https://arxiv.org/abs/2112.01472)
