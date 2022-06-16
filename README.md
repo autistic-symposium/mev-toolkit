@@ -79,3 +79,25 @@
 * [Teal organizations](https://reinventingorganizationswiki.com/)
 
 
+<br>
+<br>
+
+### ☠️ Useful tools 
+
+* [EthTx Transaction Decoder](https://ethtx.info/)
+* [Eth converter](https://eth-converter.com/)
+* [JSON formatter](https://jsonformatter.curiousconcept.com/)
+* [Craft requests from curl commands](https://reqbin.com/)
+* [Smart contract fuzzer](https://github.com/crytic/echidna)
+* [Smart contract code analyzer](https://github.com/crytic/slither)
+* [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
+* [Verx, smart contract verifier](http://verx.ch/)
+* [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
+* [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
+* [Solidity support for Visual Studio code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
+* [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
+* [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
+* [Contracts diff checker](https://etherscan.io/contractdiffchecker)
+
+
+
