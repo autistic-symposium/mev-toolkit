@@ -56,14 +56,27 @@
 <br>
 <br>
 
+### 📊 Data and analytics
+
+<br>
+
+
+* [Nansen](https://www.nansen.ai/)
+* [Dune](https://dune.com/browse/dashboards)
+* [Token terminal](https://tokenterminal.com/terminal)
+* [Westerngate, arbritage measured](Westerngate.xyz)
+* [EigenPhi arbitrage scan](https://eigenphi.io/)
+
+<br>
+<br>
+
 ### ✨ More resources
 
 <br>
 
 * [MEV.day 2022](https://mevday.org/)
 * [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
-* [Westerngate, arbritage measured](Westerngate.xyz)
-* [EigenPhi arbitrage scan](https://eigenphi.io/)
+
 
 <br>
 <br>
@@ -83,7 +96,7 @@
 <br>
 <br>
 
-### ☠️ Useful tools 
+### ☠️ Developer tools 
 
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
