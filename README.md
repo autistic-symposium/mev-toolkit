@@ -66,6 +66,7 @@
 * [Token terminal](https://tokenterminal.com/terminal)
 * [Westerngate, arbritage measured](Westerngate.xyz)
 * [EigenPhi arbitrage scan](https://eigenphi.io/)
+* [Parsec.finance](https://parsec.finance/)
 
 <br>
 <br>
