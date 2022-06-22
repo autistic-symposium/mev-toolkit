@@ -144,3 +144,12 @@
 <br>
 
 * [Rose](https://app.rose.fi/#/)
+
+
+---
+
+## Resources
+
+<br>
+
+* [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
