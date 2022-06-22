@@ -115,6 +115,7 @@
 * [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
 * [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
+* [Hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
 
 
 
