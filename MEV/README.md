@@ -16,15 +16,14 @@ In this repo we explore them further:
 <br>
 
 
-* [Basic EVM pre-requisite knowledge](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/EVM_pre-requisite_knowledge.md)
-* [Some examples of profitable MEV cases](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/MEV_in_action.md)
-* [Front-running](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/frontrunning-notes.md)
-* [Liquidation](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/liquidations-notes.md)
-* [Arbitrage](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/arbitrage-notes.md)
-* [Sandwiching](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/sandwich-tranding-notes.md)
-* [Flashbots](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/flashbots.md)
-* [The mempool and MEV](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/the_mempool_and_mev.md)
-* [MEV terminology](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/blob/main/MEV/terminology.md)
+* [Basic EVM pre-requisite knowledge](EVM-pre-requisite-knowledge.md)
+* [Front-running](frontrunning-notes.md)
+* [Liquidation](liquidations-notes.md)
+* [Arbitrage](arbitrage-notes.md)
+* [Sandwiching](sandwich-tranding-notes.md)
+* [Flashbots](flashbots.md)
+* [The mempool](the-mempool.md)
+* [MEV terminology](terminology.md)
 
 
 
