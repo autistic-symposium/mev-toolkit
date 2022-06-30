@@ -80,6 +80,15 @@
 * [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
 * [The Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 * [Zero MEV](https://www.zeromev.org/)
+* [Optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
+* [Subway](https://github.com/libevm/subway)
+* [AMM Arbitrageur](https://github.com/paco0x/amm-arbitrageur)
+* [MEV Bot in q using kdb+](https://github.com/sambacha/q-evm)
+* [Liquidation Aave protocol example](https://github.com/ialberquilla/aave-liquidation)
+* [liquidator-v3](https://github.com/blockworks-foundation/liquidator-v3)
+* [Limit Sniper](https://github.com/CryptoGnome/Limit-Sniper)
+* [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
+* [Binance Alpha Bot](https://github.com/duckdegen/apebot)
 
 
 <br>
