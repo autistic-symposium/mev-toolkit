@@ -128,6 +128,10 @@
 * [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
 * [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
+* [ETH detective](https://www.ethtective.com/address/)
+* [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
+* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
+* [Smart Contract Allowance Checker](https://app.unrekt.net/)
 
 
 
