@@ -53,6 +53,7 @@
    * "a chain where block production is still centralized, but block validation is trustless and highly decentralized"
 - [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
    * "Making more items in the crypto space soulbound can be one path toward where NFTs can represent much more of who you are and not just what you can afford."
+- [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 
 <br>
 <br>
