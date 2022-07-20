@@ -1,5 +1,21 @@
-## 📊 Tokenomics of DeFi Projects
+## 📊 Tokenomics for DeFi Projects
 
+
+<br>
+
+## Useful resources and tools
+
+* [cadCAD](http://cadcad.org/)
+* [Token engineering commons](https://tecommons.org/)
+* [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+* [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
+* [TokenSPICE](https://github.com/tokenspice/tokenspice)
+* [Tenderly](https://tenderly.co/)
+
+
+<br>
+
+## General notes
 
 <br>
 
