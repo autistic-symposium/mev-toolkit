@@ -1,6 +1,6 @@
-# Creating an Ethereum blockchain
+# Creating your own private Ethereum blockchain
 
-To create this blockchaon, we use [geth](https://geth.ethereum.org/), the official client software provided by the Ethereum Foundation written in the Golang.
+Deploy it with your own [geth](https://geth.ethereum.org/), the official client software provided by the Ethereum Foundation written in the Golang, and a customized genesis file and all.
 
 By default, geth implements [Clique](https://eips.ethereum.org/EIPS/eip-225#:~:text=Clique%20is%20a%20proof%2Dof,any%20client%20with%20minimal%20effort.), a proof-of-authority mechanism to reach consensus. Moreover, a number of accounts a defined to produce new blocks in the chain.
 
