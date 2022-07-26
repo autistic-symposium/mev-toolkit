@@ -10,6 +10,7 @@
 * [MEV on Ethereum](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV)
 * [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
 * [MEV on Solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
+* [MEV on Cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
 * [`geth`: notes and code](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 * [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/ROOK)
 * [The 0x Protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/0x_Protocol)
@@ -60,23 +61,6 @@
 
 ---
 
-
-## 📊 Data and analytics
-
-<br>
-
-
-* [Nansen](https://www.nansen.ai/)
-* [Dune](https://dune.com/browse/dashboards)
-* [Token terminal](https://tokenterminal.com/terminal)
-* [Westerngate, arbritage measured](Westerngate.xyz)
-* [EigenPhi arbitrage scan](https://eigenphi.io/)
-* [Parsec.finance](https://parsec.finance/)
-
-<br>
-
----
-
 ## ✨ Resources
 
 <br>
@@ -119,9 +103,24 @@
 
 <br>
 
+### 📊 Data and analytics
+
+<br>
+
+
+* [Nansen](https://www.nansen.ai/)
+* [Dune](https://dune.com/browse/dashboards)
+* [Token terminal](https://tokenterminal.com/terminal)
+* [Westerngate, arbritage measured](Westerngate.xyz)
+* [EigenPhi arbitrage scan](https://eigenphi.io/)
+* [Parsec.finance](https://parsec.finance/)
+
+<br>
+
+
 ---
 
-## 📙 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
+## 📙 Bonus: 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
 
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
