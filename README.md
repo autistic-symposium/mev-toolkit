@@ -112,8 +112,9 @@
 <br>
 <br>
 
-## ☠️ Developer tools 
+## ☠️ Tools 
 
+* [Public MEV explorer](https://metablock.dev/tools/mev/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
 * [JSON formatter](https://jsonformatter.curiousconcept.com/)
