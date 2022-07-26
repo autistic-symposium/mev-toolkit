@@ -106,6 +106,7 @@
 * [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
    * "an electronic payment system based on cryptographic proof instead of trust..."
 * [Teal organizations](https://reinventingorganizationswiki.com/)
+* [The meaning of decentralization, by Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 
 
 <br>
