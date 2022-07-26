@@ -2,9 +2,7 @@
 
 <br>
 
-### DeFi
 
-<br>
 
 * Fully diluted valuations (FDV): refer to the total number of tokens ever multiplied by the current price of a single token.
 
