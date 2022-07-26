@@ -91,6 +91,7 @@
 * [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
 * [Binance Alpha Bot](https://github.com/duckdegen/apebot)
 * [MEV Boost](https://boost.flashbots.net/)
+* [Public MEV explorer](https://metablock.dev/tools/mev/)
 
 
 <br>
@@ -112,9 +113,8 @@
 <br>
 <br>
 
-## ☠️ Tools 
+## ☠️ Moar tools 
 
-* [Public MEV explorer](https://metablock.dev/tools/mev/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
 * [JSON formatter](https://jsonformatter.curiousconcept.com/)
