@@ -20,6 +20,7 @@
 
 <br>
 
+---
 
 ## ☠️ Articles I recommend:
 
@@ -56,9 +57,11 @@
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 
 <br>
-<br>
 
-### 📊 Data and analytics
+---
+
+
+## 📊 Data and analytics
 
 <br>
 
@@ -71,9 +74,10 @@
 * [Parsec.finance](https://parsec.finance/)
 
 <br>
-<br>
 
-### ✨ More resources
+---
+
+## ✨ Resources
 
 <br>
 
@@ -92,29 +96,6 @@
 * [Binance Alpha Bot](https://github.com/duckdegen/apebot)
 * [MEV Boost](https://boost.flashbots.net/)
 * [Public MEV explorer](https://metablock.dev/tools/mev/)
-
-
-<br>
-<br>
-
-### 📙 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
-
-
-* [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
-* [The Cypherpunk Manifest by Eric Hughes](https://activism.net/cypherpunk/manifesto.html)
-* [The Hacker Manifest by The Mentor](http://phrack.org/issues/7/3.html)
-* [How to be a Pirate by CGP Grey](https://www.youtube.com/watch?v=T0fAznO1wA8)
-* [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
-   * "an electronic payment system based on cryptographic proof instead of trust..."
-* [Teal organizations](https://reinventingorganizationswiki.com/)
-* [The meaning of decentralization, by Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-
-
-<br>
-<br>
-
-## ☠️ Moar tools 
-
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
 * [JSON formatter](https://jsonformatter.curiousconcept.com/)
@@ -136,5 +117,23 @@
 * [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
 * [Smart Contract Allowance Checker](https://app.unrekt.net/)
 
+<br>
 
+---
+
+## 📙 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
+
+
+* [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+* [The Cypherpunk Manifest by Eric Hughes](https://activism.net/cypherpunk/manifesto.html)
+* [The Hacker Manifest by The Mentor](http://phrack.org/issues/7/3.html)
+* [How to be a Pirate by CGP Grey](https://www.youtube.com/watch?v=T0fAznO1wA8)
+* [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+   * "an electronic payment system based on cryptographic proof instead of trust..."
+* [Teal organizations](https://reinventingorganizationswiki.com/)
+* [The meaning of decentralization, by Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+
+
+<br>
+<br>
 
