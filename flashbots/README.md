@@ -9,6 +9,7 @@
     - Democratize the extraction of MEV. The power to extract MEV exists in the hands of few people so they provide tools for everyone to start extracting MEV. (MEV-Geth)
     - Distribute the benefit of MEV. Currently, the miners and validators extract a disproportionate amount of benefits. So it’s important to redistribute these to all the participants.
 
+<br>
 
 ### The auction architecture relies on 3 parties:
 
@@ -36,12 +37,19 @@ If shows: miner payments, tokens transfers and profit, swaps and arbritages.
 
 <br>
 
+---
+
+<br>
+
 ## MEV-geth
 
 * Software which can be run by miners to mitgate negative externalities of MEV.
 
 <br>
 
+----
+
+<br>
 
 ## Flashbots bundle
 
