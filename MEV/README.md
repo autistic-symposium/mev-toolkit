@@ -21,7 +21,6 @@ In this repo we explore them further:
 * [Liquidation](liquidations-notes.md)
 * [Arbitrage](arbitrage-notes.md)
 * [Sandwiching](sandwich-tranding-notes.md)
-* [Flashbots](flashbots.md)
 * [The mempool](the-mempool.md)
 * [MEV terminology](terminology.md)
 
