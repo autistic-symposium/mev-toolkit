@@ -57,6 +57,7 @@
 - [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
    * "Making more items in the crypto space soulbound can be one path toward where NFTs can represent much more of who you are and not just what you can afford."
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
+- [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 
 <br>
 
