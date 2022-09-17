@@ -2,7 +2,18 @@
 
 <br>
 
-🙅🏻‍♀️ *Use at your own risk, I am not responsible for any of your lost.*
+### DeFi Tools
+
+<br>
+
+* [Dex screener](https://dexscreener.com/)
+* [Etherscan gas tracker](https://etherscan.io/gastracker)
+* [Impermanent Loss simulator for Balancer pools](https://baller.netlify.app/)
+
+
+<br>
+
+----
 
 <br>
 
