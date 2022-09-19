@@ -2,6 +2,26 @@
 
 <br>
 
+### 🚬 This is actually important
+
+<br>
+
+* 'feeRecipient`: field set by the block builder in the block header (coinbase address)
+
+* payment methods on Ethereum:
+ - `base_fee`: amount defined by the protocol, always paid from user -> network
+ - `priority_fee`: amount defined by the user as `maxPriorityFeePerGas`, paid from user -> coinbase address
+ - `block.coinbase transfer`: the EVM has an opcode which allows end user to send fund directly to the coinbase address (same recipient as `priority_fee`
+ - `regular transfer`: a transaction created to send eth to other account
+
+
+
+<br>
+
+---
+
+### 💩 Very basic shit
+
 - Airdrop = “free money”. When we drop tokens from the air to people who meet certain qualifications. In our case, we want that qualified. Have to register, and prove you’ve used DeFi protocols before. Goal is to build community and loyalty.
 
 - AML = anti-money laundering. Refers to the laws, regulations and procedures intended to prevent criminals from disguising illegally obtained funds as legitimate income.
