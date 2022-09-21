@@ -31,3 +31,4 @@ In this repo we explore them further:
 ### Further resources and readings
 
 * [Cross-Domain MEV](https://arxiv.org/abs/2112.01472)
+* [VIDEO - DeFi exploits: the sandwich attack](https://www.youtube.com/watch?v=KHPp2c6ZB4U)
