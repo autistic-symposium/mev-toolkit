@@ -18,7 +18,7 @@
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
 * [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
 * [Tokenomics for DeFi projects](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/Tokenomics)
-* [Proof-of-Stake](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/PoS)
+* [The Merge and running a node](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
 
 
 <br>
