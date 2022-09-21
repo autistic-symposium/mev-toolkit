@@ -117,6 +117,7 @@
 * [Westerngate, arbritage measured](Westerngate.xyz)
 * [EigenPhi arbitrage scan](https://eigenphi.io/)
 * [Parsec.finance](https://parsec.finance/)
+* [Flashloans](https://tools.blocksec.com/flashloan/eth)
 
 <br>
 
