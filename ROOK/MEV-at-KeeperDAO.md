@@ -42,6 +42,6 @@
 #### Gas golfing
 
 * use addresss that start with a long string og zeroes (take less space, less gas, to store)
-* leaving small ERC-20 token balances in constracts since it cost more gas to initialize a storage slot then to update a storage slot
+* leaving small ERC20 token balances in constracts since it cost more gas to initialize a storage slot then to update a storage slot
 
 
