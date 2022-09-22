@@ -2,7 +2,7 @@
 
 <br>
 
-**Peer-to-peer system designed for exchanging ERC-20 tokens on the Ethereum blockchain.**
+**Peer-to-peer system designed for exchanging ERC20 tokens on the Ethereum blockchain.**
 
 <br>
 
