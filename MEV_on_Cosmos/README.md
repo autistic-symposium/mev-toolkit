@@ -1,4 +1,4 @@
-## MEV in Cosmos
+## 🍫 mev on cosmos
 
 <br>
 
