@@ -1,4 +1,4 @@
-# [experiment] deplpy a private ethereum blockchain on kubernetes
+# [experiment] deploy a private ethereum blockchain on kubernetes
 
 <br>
 
