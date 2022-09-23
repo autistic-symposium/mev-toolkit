@@ -1,8 +1,8 @@
-# 0x Protocol
+# 🍍 0x protocol
 
 <br>
 
-### Resources
+### resources
 
 <br>
 
