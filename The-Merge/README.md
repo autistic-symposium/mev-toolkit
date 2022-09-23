@@ -24,6 +24,7 @@
 * [beacon chain validator ratings](https://www.rated.network/)
 * [list of nodes as a service](https://ethereumnodes.com/)
 * [node watch](https://www.nodewatch.io/)
+* [ethereum json-rpc api](https://ethereum.org/en/developers/docs/apis/json-rpc/)
 
 
 <br>
