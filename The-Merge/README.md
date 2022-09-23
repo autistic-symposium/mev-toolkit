@@ -3,7 +3,7 @@
 <br>
 
 
-## resources
+## articles
 
 <br>
 
@@ -15,27 +15,42 @@
 
 ---
 
-## tools 
+## nodes and validators stats
 
 <br>
-
-
-### validators
 
 * [official beacon chain explorer](https://beaconscan.com/)
 * [another beacon chain explorer](https://prater.beaconcha.in/)
 * [beacon chain validator ratings](https://www.rated.network/)
 * [list of nodes as a service](https://ethereumnodes.com/)
+* [node watch](https://www.nodewatch.io/)
+
 
 <br>
 
-### client stats
+### consensus layer
 
-* [clients diversity](https://clientdiversity.org/)
-* [ethereum mainnet stats](https://ethernodes.org/)
 * [client diversity vs. prysm usage](https://pools.invis.cloud/)
 * [consensus clients comparisons](https://www.slashed.info/)
 
+<br>
+
+### execution layer
+
+* [ethereum mainnet stats](https://ethernodes.org/)
+* [execution clients tracker](https://etherscan.io/nodetracker)
+
+<br>
+
+### both layers
+
+* [clients diversity](https://clientdiversity.org/)
+
+<br>
+
+----
+
+## clients software
 
 <br>
 
