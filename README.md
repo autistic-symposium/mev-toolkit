@@ -27,8 +27,8 @@
 
 #### running stuff
 
-* [the Merge + running nodes](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
-* [`geth` on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
+* [the Merge, nodes, validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
+* [geth on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 <br>
 
