@@ -34,6 +34,8 @@
 
 <br>
 
+* [goerli launchpad](https://goerli.launchpad.ethereum.org/en/)
+* [kiln launchpad](https://notes.ethereum.org/@launchpad/kiln) (and [here](https://kiln.launchpad.ethereum.org/en/))
 * [running kiln testnet on a rasp pi 4](https://ethereum.org/en/developers/tutorials/run-node-raspberry-pi/)
 
 
