@@ -1,4 +1,8 @@
-## Basic EVM pre-requisite knowledge 
+## 🍟 basic evm knowledge 
+
+<br>
+
+### tl;dr 
 
 <br>
 
@@ -31,10 +35,13 @@
 
 * a message is like a transaction, except it is produced by a contract and not an external actor. A message is produced when a cotnract currently executing code executes the CALL opcode.
 
+---
 
 <br>
 
-### Code execution
+### code execution
+
+<br>
 
 * the code in Ethereum contracts is written in a low-level, stack-based bytecode language, referred as the EVM. 
 
