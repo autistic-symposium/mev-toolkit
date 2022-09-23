@@ -84,7 +84,6 @@
 
 #### mev research
 
-
 * [MEV.day 2022](https://mevday.org/)
 * [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
 * [The Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
@@ -92,35 +91,69 @@
 
 <br>
 
-#### mev tools
+#### tx analysis
+
+<br>
+
+* [ethtx transaction decoder](https://ethtx.info/)
+* [ethvm](https://www.ethvm.com/)
+* [txn finance](https://txn.finance/)
+* [ethereum token explorer](https://ethplorer.io/)
+
+
+<br>
+
+#### mev explorer
 
 * [Zero MEV](https://www.zeromev.org/)
 * [Public MEV explorer](https://metablock.dev/tools/mev/)
-* [Optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
+
+<br>
+
+#### mev bots stuff
+
+<br>
+
 * [Subway](https://github.com/libevm/subway)
+* [Optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
 * [AMM Arbitrageur](https://github.com/paco0x/amm-arbitrageur)
 * [MEV Bot in q using kdb+](https://github.com/sambacha/q-evm)
-* [Liquidation Aave protocol example](https://github.com/ialberquilla/aave-liquidation)
+* [liquidation Aave protocol example](https://github.com/ialberquilla/aave-liquidation)
 * [liquidator-v3](https://github.com/blockworks-foundation/liquidator-v3)
-* [Limit Sniper](https://github.com/CryptoGnome/Limit-Sniper)
+* [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
 * [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
-* [Binance Alpha Bot](https://github.com/duckdegen/apebot)
-* [MEV Boost](https://boost.flashbots.net/)
-* [EthTx Transaction Decoder](https://ethtx.info/)
-* [Eth converter](https://eth-converter.com/)
+* [binance alpha bot](https://github.com/duckdegen/apebot)
 * [Hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
-* [Ethereum nodes](https://ethereumnodes.com/)
+
+
+
+<br>
+
+#### gas
+
+<br>
+
+* [eth gas alert](https://ethgasalerts.xyz/)
+* [gas price io[(https://www.gasprice.io/)
+* [ethereum gas tracker](https://www.useweb3.xyz/gas)
+* [nansei gas tracker](https://pro.nansen.ai/gas-tracker)
+* [gas fee prediction](https://www.blocknative.com/gas-estimator)
+* [gastrology: estimate gas prices by analyzing past blocks](https://dethgasstation.eth.link/)
 
 
 <br>
 
 #### supporting tools
 
-* [Smart Contract Allowance Checker](https://app.unrekt.net/)
-* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
-* [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
-* [ETH detective](https://www.ethtective.com/address/)
-* [Contracts diff checker](https://etherscan.io/contractdiffchecker)
+<br>
+
+* [eth converter](https://eth-converter.com/)
+* [smart contract allowance checker](https://app.unrekt.net/)
+* [tornado cash pool anonymity](https://tutela.xyz/)
+* [CIA officer's roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
+* [eth detective](https://www.ethtective.com/address/)
+* [contracts diff checker](https://etherscan.io/contractdiffchecker)
+
 
 
 <br>
@@ -142,6 +175,7 @@
 
 ---
 
+
 ## 📙 bonus: 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
 
 <br>
@@ -149,7 +183,6 @@
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 * [The Cypherpunk Manifest by Eric Hughes](https://activism.net/cypherpunk/manifesto.html)
 * [The Hacker Manifest by The Mentor](http://phrack.org/issues/7/3.html)
-* [How to be a Pirate by CGP Grey](https://www.youtube.com/watch?v=T0fAznO1wA8)
 * [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [Teal organizations](https://reinventingorganizationswiki.com/)
 * [The meaning of decentralization, by Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
