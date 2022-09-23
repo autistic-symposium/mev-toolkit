@@ -1,8 +1,8 @@
-## 🤑 DeFi and Day Trading
+## 🌮 defi and day trading
 
 <br>
 
-### DeFi Tools
+### tools
 
 <br>
 
@@ -13,11 +13,9 @@
 
 <br>
 
-----
+---
 
-<br>
-
-### Biggest Blockchains for DEXs
+### dexes
 
 <br>
 
@@ -33,7 +31,9 @@
 
 <br>
 
-### Trading, indexes, and asset management
+----
+
+### indexes and asset management
 
 <br>
 
@@ -58,7 +58,13 @@
 * [Slingshot](https://app.slingshot.finance/trade/m/MATIC)
 * [GMX](https://gmx.io/trade)
 
-#### Derivatives
+<br>
+
+---
+
+### derivatives
+
+<br>
 
 * [TracerDAO](https://github.com/tracer-protocol)
 
@@ -66,8 +72,8 @@
 
 <br>
 
-
-### Multi-chain DeFi projects
+----
+### multi-chain projects
 
 
 <br>
@@ -87,7 +93,9 @@
 
 <br>
 
-### Ethereum and L2 DeFi projects
+---
+
+### l2 projects
 
 
 <br>
@@ -105,7 +113,9 @@
 
 <br>
 
-### Avalanche DeFi projects
+---
+
+### avalanche  projects
 
 <br>
 
@@ -114,14 +124,20 @@
 
 <br>
 
-### Arbitrum DeFi Projects
+---
+
+### arbitrum Projects
+
+<br>
 
 * [Vesta](https://vestafinance.xyz/)
 
 
 <br>
 
-### Terra DeFi projects
+---
+
+### terra  projects
 
 <br>
 
@@ -130,7 +146,10 @@
 
 <br>
 
-### Solana DeFi projects
+
+---
+
+### solana  projects
 
 <br>
 
@@ -140,7 +159,9 @@
 
 <br>
 
-### Fantom DeFi projects
+---
+
+### fantom projects
 
 <br>
 
@@ -149,8 +170,9 @@
 
 <br>
 
+---
 
-### NEAR DeFi projects
+### NEAR projects
 
 <br>
 
@@ -159,7 +181,7 @@
 
 ---
 
-## Resources
+### resources
 
 <br>
 
