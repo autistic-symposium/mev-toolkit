@@ -66,6 +66,8 @@
 * [ethvm](https://www.ethvm.com/)
 * [txn finance](https://txn.finance/)
 * [ethereum token explorer](https://ethplorer.io/)
+* [block explorer and txs](https://explorer.anyblock.tools/)
+* [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
 
 
 <br>
@@ -105,6 +107,7 @@
 * [ethereum gas tracker](https://www.useweb3.xyz/gas)
 * [nansei gas tracker](https://pro.nansen.ai/gas-tracker)
 * [gas fee prediction](https://www.blocknative.com/gas-estimator)
+* [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
 * [gastrology: estimate gas prices by analyzing past blocks](https://dethgasstation.eth.link/)
 
 
