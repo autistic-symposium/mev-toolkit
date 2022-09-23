@@ -22,7 +22,8 @@
 
 ### validators
 
-* [Beacon Chain Explorer](https://prater.beaconcha.in/)
+* [official beacon chain explorer](https://beaconscan.com/)
+* [another beacon chain explorer](https://prater.beaconcha.in/)
 
 <br>
 
