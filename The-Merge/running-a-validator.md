@@ -1,5 +1,8 @@
-## Nodes and validators
+## 🍕 Running a validator
 
+<br>
+
+### tl;dr
 
 <br>
 
@@ -33,7 +36,9 @@
 
 ### validator lifecycle
 
-The sequence of states that a validator can exist in. These include:
+<br>
+
+The sequence of states that a validator can exist in:
 
 1. deposited: At least 32 ETH has been deposited to the deposit contract by the validator
 2. pending: the validator is in the activation queue waiting to be voted into the network by existing validators
@@ -44,24 +49,14 @@ The sequence of states that a validator can exist in. These include:
 
 <br>
 
-### clients
-
-<br>
-
-
 ### the JSON-RPC interface
 
 <br>
 
-* the JSON-RPC API is an interface that allows us to write programs that use an Ethereum client as a gateway to an Ethereum network and blockchain.
+* interface that allows us to write programs that use an Ethereum client as a gateway to an Ethereum network and blockchain.
 * the RPC interface is offered as an HTTP service on port 8545. For security reasons it is restricted, by default, to only accept connections from localhost.
 
 <br>
 
-### Tools
-
-<br>
-
-* [Ethereum Beacon APIs](https://github.com/ethereum/beacon-apis)
 
 
