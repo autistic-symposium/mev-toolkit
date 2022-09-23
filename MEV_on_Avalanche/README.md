@@ -1,7 +1,7 @@
-## MEV on Avalanche
+## 🥨 mev on avalanche
 
 <br>
 
-### Resources
+### resources
 
-* [Chainsight](https://avax.chainsight.dev/)
+* [chainsight](https://avax.chainsight.dev/)
