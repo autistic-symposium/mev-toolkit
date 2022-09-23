@@ -24,7 +24,8 @@
 * [beacon chain validator ratings](https://www.rated.network/)
 * [list of nodes as a service](https://ethereumnodes.com/)
 * [node watch](https://www.nodewatch.io/)
-* [ethereum json-rpc api](https://ethereum.org/en/developers/docs/apis/json-rpc/)
+* [archive node access](https://archivenode.io/)
+* [list of nodes as a service](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
 
 
 <br>
@@ -51,21 +52,22 @@
 
 ----
 
-## clients software
+## clients
 
 <br>
 
-### execution clients
+### execution layer
 
 * [geth]()
 * [nethermind]()
 * [besu]()
 * [erigon]()
 * [akula]()
+* [execution api specification](https://github.com/ethereum/execution-apis)
 
 <br>
 
-### consensus clients
+### consensus layer
 
 * [prysm](https://github.com/prysmaticlabs/prysm)
 * [lighthouse](https://github.com/sigp/lighthouse)
@@ -76,6 +78,12 @@
 
 <br>
 
+### engine api
+
+* [engine api docs](https://github.com/ethereum/execution-apis/blob/main/src/engine/specification.md)
+* [ethereum json-rpc api](https://ethereum.org/en/developers/docs/apis/json-rpc/)
+
+<br>
 ---
 
 
