@@ -38,27 +38,24 @@
 
 ##### getting total coinbase
 
-```
-> web3.fromWei(eth.getBalance(eth.coinbase), "ether")
+```bash
+web3.fromWei(eth.getBalance(eth.coinbase), "ether")
 ```
 
-<br>
 
 
 ##### getting a balance from an account
 
-```
+```bash
 web3.fromWei(eth.getBalance("2ee8D80de1c389f1254e94bc44D2d1Bc391eD402"), "ether")
 ```
 
-
-<br>
 
 #### txpool api
 
 * access to several non-standard RPC methods to inspect the contents of the transaction pool containing all the currently pending transactions as well as the ones queued for future processing:
 
-```
+```bash
 txpool
 ```
 
@@ -68,7 +65,7 @@ txpool
 
 #### useful checks
 
-```
+```bash
 admin.nodeInfo
 ```
 
@@ -80,9 +77,9 @@ admin.nodeInfo
 
 
 
-* click a `Custom RPC` network and add:
+* click a `custom RPC` network and add:
 
-```
+```bash
 Network Name: "<project name>"
 New RPC URL: localhost
 Chain ID: 137
