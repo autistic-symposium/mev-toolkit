@@ -21,7 +21,8 @@
 
 * [ethereum.org launchpad](https://launchpad.ethereum.org/en/)
 * [official beacon chain explorer](https://beaconscan.com/)
-* [another beacon chain explorer](https://prater.beaconcha.in/)
+* [another beacon chain explorer](https://beaconcha.in/)
+* [prater/goerli beacon chain explorer](https://prater.beaconcha.in/)
 * [beacon chain validator ratings](https://www.rated.network/)
 * [list of nodes as a service](https://ethereumnodes.com/)
 * [node watch](https://www.nodewatch.io/)
