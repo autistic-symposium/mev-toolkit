@@ -1,4 +1,4 @@
-# A PoS world
+# 🍄 a pos world
 
 <br>
 
@@ -41,10 +41,19 @@
 
 ## lexicon
 
+<br>
+
+* attestation: at designated times, each validator is responsible for publishing different attestations that formally declare this validator's view of the chain, including the last finalized checkpoint and the current head of the chain.
+
+* block time: the time interval between blocks being added to the blockchain.
+
+* block proposer: the specific validator chosen to create a block in a particular slot.
+
+* base fee: every block's reserve price known. It is the minimum gas fee a user must pay to include a transaction in the next block.
 
 * LMD-GHOST: latest message drive greediest heaviest observed subtree, the fork choice rule determining which block is viewed as the current chain head.
 
-* Casper FFG: the finality gadget used in Ethereum PoS which moves blocks from the "proposed" to "justified" to "finalized" stage.
+* Casper-FFG: proof-of-stake consensus protocol used in conjunction with the LMD-GHOST fork choice algorithm to allow consensus clients to agree on the head of the Beacon Chain.
 
 * Gasper: Ethereum’s PoS implementation, a combination of the LMD-GHOST fork choice rule, Casper FFG, and the specific reward/penalty scheme.
 
@@ -59,5 +68,9 @@
 * proposer boost: a modification to LMD-GHOST giving additional weight to blocks proposed earlier in the slot to defend against avalanche attacks, see an explanation of a 7-block reorg in the beacon chain while this update was being rolled out.
 
 * distributed hash table (DHT): data structure containing (key, value) pairs used by Ethereum nodes to identify peers to connect to and determine which protocols to use to communicate.
+
+* committee: group of at least 128 validators assigned to validate blocks in each slot. One of the validators in the committee is the aggregator.
+
+
 
 
