@@ -48,12 +48,12 @@ The sequence of states that a validator can exist in:
 
 <br>
 
-* [Check estimate of the blockchain size](https://bitinfocharts.com/ethereum/).
-* Minimum specs:
+* [check estimate of the blockchain size](https://bitinfocharts.com/ethereum/).
+* minimum specs:
   - CPU with 4+ cores
   - 32 GB+ RAM
   - fast SSD with at least 1T free space
-  - 25+ MBit/sec download internet service
+  - interent bandwith ~1.2-1.3 GB download and ~0.9-1 GB upload per hour
 
 
 
