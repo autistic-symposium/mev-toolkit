@@ -1,20 +1,23 @@
-# 🏴‍☠️ Everything MEV 
+# 🏴‍☠️ everything mev in ethereum
 
 <br>
 
-MEV consists of 4 main categories: 
-
-* arbitrage, 
-* liquidation, 
-* sandwich,  
-* longtail.
+## mev categories
 
 <br>
 
-In this repo we explore them further:
+* arbitrage
+* liquidation
+* sandwich  
+* longtail
 
 <br>
 
+---
+
+## in this repo
+
+<br>
 
 * [Basic EVM pre-requisite knowledge](EVM-pre-requisite-knowledge.md)
 * [Front-running](frontrunning-notes.md)
@@ -28,7 +31,11 @@ In this repo we explore them further:
 
 <br>
 
-### Further resources and readings
+---
+
+## research
+
+<br>
 
 * [Cross-Domain MEV](https://arxiv.org/abs/2112.01472)
 
