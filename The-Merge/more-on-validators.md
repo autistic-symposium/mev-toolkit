@@ -1,4 +1,4 @@
-## 🍕 Running a validator
+## 🍕 More dets on validators
 
 <br>
 
