@@ -1,66 +1,42 @@
-# Creating your own private Ethereum blockchain
+# [experiment] deplpy a private ethereum blockchain on kubernetes
 
-Deploy it with your own [geth](https://geth.ethereum.org/), the official client software provided by the Ethereum Foundation written in the Golang, and a customized genesis file and all.
+<br>
 
-By default, geth implements [Clique](https://eips.ethereum.org/EIPS/eip-225#:~:text=Clique%20is%20a%20proof%2Dof,any%20client%20with%20minimal%20effort.), a proof-of-authority mechanism to reach consensus. Moreover, a number of accounts a defined to produce new blocks in the chain.
+### tl;dr
 
-A custom Ethereum testnet contains three components:
+<br>
 
-* a custom [genesis file](/genesis.json
-* a custom data directory, which we define with `GETH_DATADIR`
-* a custom `NetworkID` , which we set `137`
+* deploy it with your own [geth](https://geth.ethereum.org/) and a customized genesis file and all.
+
+* geth implements [Clique](https://eips.ethereum.org/EIPS/eip-225#:~:text=Clique%20is%20a%20proof%2Dof,any%20client%20with%20minimal%20effort.), a proof-of-authority mechanism to reach consensus. Moreover, a number of accounts a defined to produce new blocks in the chain.
+
+* a custom Ethereum testnet contains three components:
+      * a custom [genesis file](/genesis.json
+      * a custom data directory, which we define with `GETH_DATADIR`
+      * a custom `NetworkID` , which we set `137`
 
 
 <br>
 
-### Gas
-
-Gas refers to the unit that measures the computational effort required to execute specific operations on the Ethereum network.
-
+### nodes
 
 <br>
 
-
-### Nodes
-
-Running nodes are responsible for the following tasks:
-
-- store blockchain data,
-- participates in block validation (verifying blocks and states),
-- serve the network and provides data on request.
-
-
-<br>
-
-
-### Storage
-
-More details to be added soon.
+* running nodes are responsible for the following tasks:
+     - store blockchain data,
+     - participates in block validation (verifying blocks and states),
+     - serve the network and provides data on request.
 
 
 <br>
 
 
-### Faucet
-
-More details to be added soon.
-
+### interacting with the client
 
 <br>
 
 
----
-
-## Interacting with the client
-
-
-You can run commands directly in the console:
-
-
-<br>
-
-
-##### Getting total coinbase
+##### getting total coinbase
 
 ```
 > web3.fromWei(eth.getBalance(eth.coinbase), "ether")
@@ -69,18 +45,18 @@ You can run commands directly in the console:
 <br>
 
 
-##### Getting a balance from an account
+##### getting a balance from an account
 
 ```
-> web3.fromWei(eth.getBalance("2ee8D80de1c389f1254e94bc44D2d1Bc391eD402"), "ether")
+web3.fromWei(eth.getBalance("2ee8D80de1c389f1254e94bc44D2d1Bc391eD402"), "ether")
 ```
 
 
 <br>
 
-#### txpool API
+#### txpool api
 
-Access to several non-standard RPC methods to inspect the contents of the transaction pool containing all the currently pending transactions as well as the ones queued for future processing:
+* access to several non-standard RPC methods to inspect the contents of the transaction pool containing all the currently pending transactions as well as the ones queued for future processing:
 
 ```
 txpool
@@ -90,7 +66,7 @@ txpool
 <br>
 
 
-#### Other useful checks
+#### useful checks
 
 ```
 admin.nodeInfo
@@ -100,9 +76,11 @@ admin.nodeInfo
 <br>
 
 
-### Setting this chain on MetaMask
+### setting this chain on metamask
 
-Click a `Custom RPC` network and add:
+
+
+* click a `Custom RPC` network and add:
 
 ```
 Network Name: "<project name>"
@@ -113,9 +91,7 @@ Chain ID: 137
 <br>
 
 
----
-
-## References
+### references
 
 * [geth commands](https://geth.ethereum.org/docs/interface/command-line-options)
 
