@@ -82,10 +82,20 @@
 
 <br>
 
+#### mev research
+
+
 * [MEV.day 2022](https://mevday.org/)
 * [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
 * [The Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+* [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
+
+<br>
+
+#### mev tools
+
 * [Zero MEV](https://www.zeromev.org/)
+* [Public MEV explorer](https://metablock.dev/tools/mev/)
 * [Optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
 * [Subway](https://github.com/libevm/subway)
 * [AMM Arbitrageur](https://github.com/paco0x/amm-arbitrageur)
@@ -96,36 +106,27 @@
 * [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
 * [Binance Alpha Bot](https://github.com/duckdegen/apebot)
 * [MEV Boost](https://boost.flashbots.net/)
-* [Public MEV explorer](https://metablock.dev/tools/mev/)
 * [EthTx Transaction Decoder](https://ethtx.info/)
 * [Eth converter](https://eth-converter.com/)
-* [JSON formatter](https://jsonformatter.curiousconcept.com/)
-* [Craft requests from curl commands](https://reqbin.com/)
-* [Smart contract fuzzer](https://github.com/crytic/echidna)
-* [Smart contract code analyzer](https://github.com/crytic/slither)
-* [Another smart contract code analyzer](https://github.com/ConsenSys/mythril)
-* [Verx, smart contract verifier](http://verx.ch/)
-* [Solhint, a linter for Solidity](https://github.com/protofire/solhint)
-* [Solidity coverage tool](https://github.com/sc-forks/solidity-coverage)
-* [Vscode plugin: Solidity visual](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-* [Vscode plugin: Solidity support](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
-* [Immunefi scrapper](https://github.com/pratraut/scrapyFi)
-* [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
-* [Contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [Hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
-* [ETH detective](https://www.ethtective.com/address/)
-* [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
-* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
-* [Smart Contract Allowance Checker](https://app.unrekt.net/)
 * [Ethereum nodes](https://ethereumnodes.com/)
 
-<br>
-
----
-
-## 📊 data && analytics
 
 <br>
+
+#### supporting tools
+
+* [Smart Contract Allowance Checker](https://app.unrekt.net/)
+* [Tornado Cash Pool Anonymity Auditor](https://tutela.xyz/)
+* [CIA Officer's DeFi Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
+* [ETH detective](https://www.ethtective.com/address/)
+* [Contracts diff checker](https://etherscan.io/contractdiffchecker)
+
+
+<br>
+
+#### data && analytics
+
 
 
 * [Nansen](https://www.nansen.ai/)
