@@ -39,7 +39,7 @@
 ---
 
 
-## Definitions
+## lexicon
 
 
 * LMD-GHOST: latest message drive greediest heaviest observed subtree, the fork choice rule determining which block is viewed as the current chain head.
@@ -57,5 +57,7 @@
 * slashing: validators which maliciously propose or attest to multiple blocks at the same height have their stake reduced.
 
 * proposer boost: a modification to LMD-GHOST giving additional weight to blocks proposed earlier in the slot to defend against avalanche attacks, see an explanation of a 7-block reorg in the beacon chain while this update was being rolled out.
+
+* distributed hash table (DHT): data structure containing (key, value) pairs used by Ethereum nodes to identify peers to connect to and determine which protocols to use to communicate.
 
 
