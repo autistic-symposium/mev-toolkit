@@ -35,7 +35,7 @@
 #### some somehow related defi stuff
 
 * [0x protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/0x_Protocol)
-* [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
+* [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
 * [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
 * [tokenomics](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/Tokenomics)
 
