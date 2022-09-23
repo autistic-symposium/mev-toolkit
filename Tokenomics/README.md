@@ -1,23 +1,8 @@
-## 📊 Tokenomics for DeFi Projects
+## 📊 tokenomics for defi projects
 
 
 <br>
 
-## Useful resources and tools
-
-* [cadCAD](http://cadcad.org/)
-* [Token engineering commons](https://tecommons.org/)
-* [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
-* [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
-* [TokenSPICE](https://github.com/tokenspice/tokenspice)
-* [Tenderly](https://tenderly.co/)
-
-
-<br>
-
-## General notes
-
-<br>
 
 #### Tokenomics studies the factors that drive the demand for tokens. It includes:
 
@@ -107,5 +92,24 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 * Value Accrual (xStaking, governance)
 * The Memes and Narratives
 
+<br>
 
+---
+
+<br>
+
+
+## resources and tools
+
+<br>
+
+* [cadCAD](http://cadcad.org/)
+* [Token engineering commons](https://tecommons.org/)
+* [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+* [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
+* [TokenSPICE](https://github.com/tokenspice/tokenspice)
+* [Tenderly](https://tenderly.co/)
+
+
+<br>
 
