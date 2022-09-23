@@ -17,7 +17,7 @@
 
 <br>
 
-### Setting a dedicated hardware
+### setting a dedicated hardware
 
 <br>
 
@@ -29,15 +29,27 @@
   - 25+ MBit/sec download internet service
 
 
+<br>
+
+### validator lifecycle
+
+The sequence of states that a validator can exist in. These include:
+
+1. deposited: At least 32 ETH has been deposited to the deposit contract by the validator
+2. pending: the validator is in the activation queue waiting to be voted into the network by existing validators
+3. active: currently attesting and proposing blocks
+4. slashing: the validator has misbehaved and is being slashed
+5. exiting: the validator has been flagged for exiting the network, either voluntarily or because they have been ejected.
+
 
 <br>
 
-### Clients
+### clients
 
 <br>
 
 
-### The JSON-RPC interface
+### the JSON-RPC interface
 
 <br>
 
