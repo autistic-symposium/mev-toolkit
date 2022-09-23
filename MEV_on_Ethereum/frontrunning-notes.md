@@ -1,4 +1,4 @@
-## 🥩 front-running
+## 🥩 frontrunning
 
 <br>
 
