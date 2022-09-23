@@ -17,6 +17,7 @@
 <br>
 
 * [eth docker](https://eth-docker.net/docs/About/Overview)
+* [staking deposit cli](https://github.com/ethereum/staking-deposit-cli)
 
 <br>
 
