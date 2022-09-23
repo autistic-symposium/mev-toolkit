@@ -1,19 +1,27 @@
-## 🤖 Flashbots
+## 🤖🔪 flashbots
 
 <br>
 
-* Flashbots is a research and development organization focused on mitigating the negative externalities of current MEV extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.
-
-* Flashbots try to move the problem to another area to prevent clogging up the Ethereum network and giving it more clarity. I works by reducing MEV's complexity by three fronts:
-    - tools to inspect and quantize the impact of MEV. This helps reduce the information asymmetry and people can understand the problem and its impact better. (MEV-Inspect).
-    - Democratize the extraction of MEV. The power to extract MEV exists in the hands of few people so they provide tools for everyone to start extracting MEV. (MEV-Geth)
-    - Distribute the benefit of MEV. Currently, the miners and validators extract a disproportionate amount of benefits. So it’s important to redistribute these to all the participants.
+### tl;dr
 
 <br>
 
-### The auction architecture relies on 3 parties:
+* flashbots is a research and development organization focused on mitigating the negative externalities of current MEV extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.
 
-- searcher: bots looking for access to blockspace, users frontrunning protection on their transactions, and dappas with advanced use cases
+* flashbots try to move the problem to another area to prevent clogging up the Ethereum network and giving it more clarity. I works by reducing MEV's complexity by three fronts:
+    - **inspect and quantize the impact of MEV**: this helps reduce the information asymmetry and people can understand the problem and its impact better (mev-Inspect).
+    - **democratize the extraction of MEV**: the power to extract MEV exists in the hands of few people so they provide tools for everyone to start extracting MEV (mev-feth, mev-boost).
+    - **distribute the benefit of mev**: currently, the miners and validators extract a disproportionate amount of benefits. So it’s important to redistribute these to all the participants.
+
+<br>
+
+---
+
+### auction architecture
+
+<br>
+
+- searcher: bots looking for access to blockspace, users frontrunning protection on their transactions, and dapps
 - relay
 - miner
 
@@ -21,10 +29,22 @@
 
 ----
 
+### resources in this repo
+
+<br>
+
+* [scripts](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/flashbots/scripts)
+* [tools](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/flashbots/tools)
+* [mev-boost stuff](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/flashbots/mev-boost)
+
+
+
+----
+
 <br>
 
 
-## Tools and resources
+### other resources
 
 <br>
 
