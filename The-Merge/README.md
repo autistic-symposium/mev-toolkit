@@ -3,12 +3,7 @@
 <br>
 
 
-## proposer/builder separation (PBS)
-
-<br>
-
-
-### resources
+## resources
 
 <br>
 
@@ -35,7 +30,7 @@
 ---
 
 
-### Definitions
+## Definitions
 
 
 * LMD-GHOST: latest message drive greediest heaviest observed subtree, the fork choice rule determining which block is viewed as the current chain head.
