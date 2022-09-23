@@ -1,9 +1,9 @@
-# 🧱⛓ Blockchains, DeFi, AMMs, and MEV
+# 🧱⛓ 1337 MEV && DeFi
 
 <br>
 
 
-## ☠️ My notes and code in this repo:
+## ☠️ notes and code in this repo
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## ☠️ Articles I recommend:
+## ☠️ articles
 
 <br>
 
@@ -64,7 +64,7 @@
 
 ---
 
-## ✨ Resources
+## ✨ resources
 
 <br>
 
@@ -107,7 +107,7 @@
 
 <br>
 
-### 📊 Data and analytics
+### 📊 data and analytics
 
 <br>
 
@@ -125,7 +125,7 @@
 
 ---
 
-## 📙 Bonus: 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
+## 📙 bonus: 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
 
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
