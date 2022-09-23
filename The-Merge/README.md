@@ -19,6 +19,7 @@
 
 <br>
 
+* [ethereum.org launchpad](https://launchpad.ethereum.org/en/)
 * [official beacon chain explorer](https://beaconscan.com/)
 * [another beacon chain explorer](https://prater.beaconcha.in/)
 * [beacon chain validator ratings](https://www.rated.network/)
