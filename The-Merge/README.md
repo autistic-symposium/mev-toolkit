@@ -58,11 +58,11 @@
 
 ### execution layer
 
-* [geth]()
-* [nethermind]()
-* [besu]()
-* [erigon]()
-* [akula]()
+* [geth](https://geth.ethereum.org/)
+* [nethermind](https://nethermind.io/)
+* [besu](https://besu.hyperledger.org/en/stable/)
+* [erigon](https://github.com/ledgerwatch/erigon)
+* [akula](https://akula.app/)
 * [execution api specification](https://github.com/ethereum/execution-apis)
 
 <br>
@@ -72,8 +72,8 @@
 * [prysm](https://github.com/prysmaticlabs/prysm)
 * [lighthouse](https://github.com/sigp/lighthouse)
 * [teku](https://github.com/ConsenSys/teku)
-* [nimbus]()
-* [lodestar]()
+* [nimbus](https://nimbus.team/)
+* [lodestar](https://lodestar.chainsafe.io/)
 
 
 <br>
