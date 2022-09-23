@@ -1,4 +1,4 @@
-# 🧱⛓ 1337 MEV && DeFi
+# 🧱⛓ 1337 mev toolkit
 
 <br>
 
@@ -7,18 +7,36 @@
 
 <br>
 
+#### mev on chains
+
 * [MEV on Ethereum](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV)
 * [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
 * [MEV on Solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
 * [MEV on Cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
-* [`geth`: notes and code](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
-* [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/ROOK)
+
+<br>
+
+#### mev projects
+
+
 * [The flashbots project](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
+* [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/ROOK)
+
+<br>
+
+#### running stuff
+
+* [The Merge and running a node](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
+* [`geth`: notes and code](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
+
+<br>
+
+#### some somehow related defi stuff
+
 * [The 0x Protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/0x_Protocol)
 * [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
 * [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
 * [Tokenomics for DeFi projects](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/Tokenomics)
-* [The Merge and running a node](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
 
 
 <br>
@@ -64,7 +82,7 @@
 
 ---
 
-## ✨ resources
+## ✨ resources and tools
 
 <br>
 
@@ -107,7 +125,9 @@
 
 <br>
 
-### 📊 data and analytics
+---
+
+## 📊 data and analytics
 
 <br>
 
@@ -127,6 +147,7 @@
 
 ## 📙 bonus: 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
 
+<br>
 
 * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 * [The Cypherpunk Manifest by Eric Hughes](https://activism.net/cypherpunk/manifesto.html)
