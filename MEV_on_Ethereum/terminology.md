@@ -1,4 +1,4 @@
-## ☠️ Some terminology
+## 🍪 terminology
 
 <br>
 
