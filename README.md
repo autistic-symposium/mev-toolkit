@@ -9,7 +9,7 @@
 
 #### mev on chains
 
-* [MEV on ethereum](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV)
+* [MEV on ethereum](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/MEV_on_Ethereum)
 * [MEV on avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
 * [MEV on solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
 * [MEV on cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
