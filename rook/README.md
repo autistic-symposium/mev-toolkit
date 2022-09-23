@@ -1,39 +1,36 @@
-## ♜ KeeperDAO notes
+## 🌶 rook
 
 <br>
 
-**KeeperDAO provides the infrastructure to make DeFi more secure, profitable and egalitarian for users, protocols and Keepers through proliferating the Keeper Economy and negating the possibility of predatory MEV extraction on blockchains.**
+### tl,dr 
 
-<br>
-
-
-The Rook Protocol is the first protocol that allows generalized MEV to be internalized at the application layer. This protects users and protocols from negative externalities, reduces the total MEV available at the consensus layer, and ensures that less value overall is being extracted from markets and protocols by miners and validators. Rook Labs has designed a comprehensive system that can flexibly capture a wide variety of application-layer transaction flow, and create a positive-feedback flywheel that aggregates and re-distributes MEV among participants in a way that increases overall network and market efficiency.
-
-Rook Labs maintains several distinct API services that cater to specific use-cases, including market making, automated trading, dApps (e.g. DEXes, DEX aggregators, wallets), smart contracts, and a general-purpose RPC. Transactions enter the Rook Protocol’s virtual mempool, where only whitelisted Keepers, certified, high-powered bot operators who bid on the right to execute transactions and capture the maximal extractable value created, can settle those transactions to an actual blockchain by bidding on the opportunity. The winning bid is distributed by the Rook Protocol Bid Distribution Controller through a series of payment channels, to incentivize the various parties involved in the transaction.
+* rook provides the infrastructure to make DeFi more secure, profitable and egalitarian for users, protocols and Keepers through proliferating the Keeper Economy and negating the possibility of predatory MEV extraction on blockchains.
+* the Rook Protocol is the first protocol that allows generalized MEV to be internalized at the application layer. This protects users and protocols from negative externalities, reduces the total MEV available at the consensus layer, and ensures that less value overall is being extracted from markets and protocols by miners and validators. Rook Labs has designed a comprehensive system that can flexibly capture a wide variety of application-layer transaction flow, and create a positive-feedback flywheel that aggregates and re-distributes MEV among participants in a way that increases overall network and market efficiency.
+* rook Labs maintains several distinct API services that cater to specific use-cases, including market making, automated trading, dApps (e.g. DEXes, DEX aggregators, wallets), smart contracts, and a general-purpose RPC. Transactions enter the Rook Protocol’s virtual mempool, where only whitelisted Keepers, certified, high-powered bot operators who bid on the right to execute transactions and capture the maximal extractable value created, can settle those transactions to an actual blockchain by bidding on the opportunity. The winning bid is distributed by the Rook Protocol Bid Distribution Controller through a series of payment channels, to incentivize the various parties involved in the transaction.
 
 <br>
 
 ---
 
-## Core Products
+### core products
 
 <br>
 
-### [Coordination Protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains-and-MEV/blob/main/keeperDAO/coordination_protocol.md)
+#### [Coordination Protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains-and-MEV/blob/main/keeperDAO/coordination_protocol.md)
 
-### The Hiding Game
+#### hiding game
 
 * Gasless limit order system that sources liquidity from all means supported by KeeperDAO Keepers.
 * If a user's order creates a MEV opportunity, the user will be rewarded with a share of the MEV profits in the form of `ROOK'.
 
-### The Hiding Vault
+#### hiding vault
 
 * A generalized liquidation-mitigation lending and borrowing NFT product. 
 * The first platform supported by Hiding Vaults is Compound Finance. 
 * Using a Hiding Vault mitigates both the risks and the impacts of the liquidation of users using Compound Finance. 
 * If a user's position is liquidated, the user will be reimbursed with a share of the liquidation profits in the form of `ROOK`.
 
-### Liquidity Pools
+#### liquidity pools
 
 * KeeperDAO offers five single-asset LP that yield `ROOK` tokens (ETH, WETH, USDC, renBTC, and DAI): users earn `ROOK` rewards based on the number  of `ROOK` rewards allocated to the pool each quarter.
 
@@ -42,7 +39,9 @@ Rook Labs maintains several distinct API services that cater to specific use-cas
 
 ---
 
-## Projects of interest
+### projects of interest
+
+<br>
 
 * [KeeperDAO analytics](https://github.com/keeperdao/analytics)
 * [Keeper Improvement Proposals (KIPs)](https://github.com/keeperdao/kips)
@@ -54,8 +53,11 @@ Rook Labs maintains several distinct API services that cater to specific use-cas
 
 <br>
 
-## Documents of interest
+---
 
+### documents of interest
+
+<br>
 
 * [Docs page](https://docs.keeperdao.com/reference/)
 * [Forum page](https://forum.keeperdao.com/)
