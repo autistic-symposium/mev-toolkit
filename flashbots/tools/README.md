@@ -14,3 +14,12 @@
     - docker
     - helm
     - an RPC_URL
+
+<br>
+
+
+### other resources
+
+<br>
+
+* [mev bundle generator](https://github.com/Alcibiades-Capital/mev_bundle_generator)
