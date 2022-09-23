@@ -24,6 +24,12 @@
 
 * [Beacon Chain Explorer](https://prater.beaconcha.in/)
 
+<br>
+
+### consensus clients
+
+* [prysm](https://github.com/prysmaticlabs/prysm)
+
 
 <br>
 
