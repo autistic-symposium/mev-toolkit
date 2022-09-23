@@ -29,6 +29,8 @@
 ### consensus clients
 
 * [prysm](https://github.com/prysmaticlabs/prysm)
+* [lighthouse](https://github.com/sigp/lighthouse)
+* [teku](https://github.com/ConsenSys/teku)
 
 
 <br>
