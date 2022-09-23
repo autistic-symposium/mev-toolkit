@@ -20,7 +20,7 @@
 
 
 * [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
-* [rook](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/ROOK)
+* [rook](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/rook)
 * [cowswap](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/CowSwap)
 
 <br>
