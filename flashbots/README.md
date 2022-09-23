@@ -23,27 +23,8 @@
 
 <br>
 
-## `mev-inspect-py`
 
-Tool to inspect maximal extractable value for Ethereum: [mev-inspect-py](https://github.com/flashbots/mev-inspect-py).
-If shows: miner payments, tokens transfers and profit, swaps and arbritages.
-
-#### Pre-requisites: 
-
-- [k8s's kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
-- docker
-- [helm](https://helm.sh/docs/intro/install/)
-- an `RPC_URL`
-
-<br>
-
-
----
-
-<br>
-
-
-## Resources
+## Tools and resources
 
 <br>
 
