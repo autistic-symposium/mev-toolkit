@@ -19,13 +19,14 @@
 
 <br>
 
-* [Basic EVM pre-requisite knowledge](EVM-pre-requisite-knowledge.md)
-* [Front-running](frontrunning-notes.md)
-* [Liquidation](liquidations-notes.md)
-* [Arbitrage](arbitrage-notes.md)
-* [Sandwiching](sandwich-tranding-notes.md)
-* [The mempool](the-mempool.md)
-* [MEV terminology](terminology.md)
+* [basic evm](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/evm-knowledge.md)
+* [frontrunning](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/frontrunning.md)
+* [liquidation](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/liquidations.md)
+* [arbitrage](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/arbitrage.md)
+* [eip-1559](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/eip-1559.md)
+* [sandwiching](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/sandwiching.md)
+* [the mempool](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/mempool.md)
+* [terminology](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/MEV_on_Ethereum/terminology.md)
 
 
 
@@ -37,5 +38,5 @@
 
 <br>
 
-* [Cross-Domain MEV](https://arxiv.org/abs/2112.01472)
+* [cross-domain mev](https://arxiv.org/abs/2112.01472)
 
