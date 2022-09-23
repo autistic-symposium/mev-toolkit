@@ -3,47 +3,48 @@
 <br>
 
 
-## ☠️ notes and code in this repo
+## ☠️ notes && code in this repo
 
 <br>
 
 #### mev on chains
 
-* [MEV on Ethereum](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV)
-* [MEV on Avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
-* [MEV on Solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
-* [MEV on Cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
+* [MEV on ethereum](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV)
+* [MEV on avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
+* [MEV on solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
+* [MEV on cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
 
 <br>
 
 #### mev projects
 
 
-* [The flashbots project](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
-* [The ROOK project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/ROOK)
+* [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
+* [rook](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/ROOK)
+* [cowswap](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/CowSwap)
 
 <br>
 
 #### running stuff
 
-* [The Merge and running a node](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
-* [`geth`: notes and code](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
+* [the Merge + running nodes](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
+* [`geth` on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 <br>
 
 #### some somehow related defi stuff
 
-* [The 0x Protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/0x_Protocol)
-* [The Uniswap project](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
-* [DeFi and day trading resources](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
-* [Tokenomics for DeFi projects](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/Tokenomics)
+* [0x protocol](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/0x_Protocol)
+* [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/Uniswap)
+* [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
+* [tokenomics](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/Tokenomics)
 
 
 <br>
 
 ---
 
-## ☠️ articles
+## ☠️ cool articles
 
 <br>
 
@@ -60,8 +61,6 @@
 - [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [How to Build an Ethereum Mining Pool by Dragonfly research](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
 - [MEV and Me by Paradigm](https://research.paradigm.xyz/MEV)
-   - "if block rewards are small enough compared to MEV, it can be rational for miners to destabilize consensus."
-   - "The rate at which MEV accumulates on a given blockchain is generally proportional to the complexity of its application-layer behavior."
 - [Return to the Dark Forest by rekt](https://rekt.news/return-to-the-dark-forest/)
 - [Modern MEV sandwich attacks on Ethereum routers by totlsota](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
 - [Dr. Reorg or: How I Learned to Stop Worrying and Love MEV by Saneel Sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
@@ -70,11 +69,8 @@
 - [How To Light Up The Dark Forest by Robert Miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
 - [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
 - [Blockchains are Cities by Haseeb Qureshi](https://medium.com/dragonfly-research/blockchains-are-cities-564327013f86)
-   * "Ethereum is NYC, Solana is LA" 
 - [Endgame by Vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
-   * "a chain where block production is still centralized, but block validation is trustless and highly decentralized"
 - [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
-   * "Making more items in the crypto space soulbound can be one path toward where NFTs can represent much more of who you are and not just what you can afford."
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 
@@ -82,7 +78,7 @@
 
 ---
 
-## ✨ resources and tools
+## ✨ resources && tools
 
 <br>
 
@@ -127,7 +123,7 @@
 
 ---
 
-## 📊 data and analytics
+## 📊 data && analytics
 
 <br>
 
@@ -154,7 +150,6 @@
 * [The Hacker Manifest by The Mentor](http://phrack.org/issues/7/3.html)
 * [How to be a Pirate by CGP Grey](https://www.youtube.com/watch?v=T0fAznO1wA8)
 * [Bitcoin Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
-   * "an electronic payment system based on cryptographic proof instead of trust..."
 * [Teal organizations](https://reinventingorganizationswiki.com/)
 * [The meaning of decentralization, by Vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 
