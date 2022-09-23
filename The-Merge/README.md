@@ -28,6 +28,7 @@
 * [node watch](https://www.nodewatch.io/)
 * [archive node access](https://archivenode.io/)
 * [list of nodes as a service](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
+* [economics post-merge](https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit#gid=1018097491)
 
 
 <br>
