@@ -124,13 +124,25 @@
 
 <br>
 
+
+----
+
+### monitoring
+
+<br>
+
+* [guide to monitor a validator](https://github.com/remyroy/ethstaker/blob/main/monitoring.md)
+* [guide to alerting a validator](https://github.com/remyroy/ethstaker/blob/main/alerting.md)
+
+<br>
+
 ---
 
-### useful resources
+### other useful resources
 
 <br>
 
 * [validator key generator](https://wagyu.gg/)
 * [jwt decoder](https://jwt.io/)
-* [eth staker](https://ethstaker.cc/)
+* [eth staker community](https://ethstaker.cc/)
 * [cli for managing tasks](https://github.com/wealdtech/ethdo)
