@@ -178,7 +178,7 @@ openssl rand -hex 32 > jwtsecret
 
 * [code for bootnodes.go](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go)
 * [consensus specs for networking](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/p2p-interface.md#the-gossip-domain-gossipsub)
-* [consensus + execution mechanism](https://ethresear.ch/t/eth1-eth2-client-relationship/7248
+* [consensus + execution mechanism](https://ethresear.ch/t/eth1-eth2-client-relationship/7248)
 * [lib2p2 specs](https://github.com/libp2p/specs)
 * [devp2p specs](https://github.com/ethereum/devp2p)
 * [from kademlia to discv5](https://vac.dev/kademlia-to-discv5)
