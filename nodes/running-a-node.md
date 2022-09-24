@@ -51,3 +51,11 @@
 * [running kiln testnet on a rasp pi 4](https://ethereum.org/en/developers/tutorials/run-node-raspberry-pi/)
 
 
+<br>
+
+### plug and play solutions
+
+<br>
+
+* [dappnode](https://dappnode.io/en-us/collections/frontpage)
+* [avado](https://ava.do/)
