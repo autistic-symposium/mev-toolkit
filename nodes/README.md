@@ -2,6 +2,18 @@
 
 <br>
 
+## in this dir
+
+<br>
+
+* [running nodes / validators](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/nodes/running-a-node.md)
+* [running nodes / validators (advanced)](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/nodes/running-a-node-advanced.md)
+
+
+
+<br>
+
+----
 
 ## articles
 
