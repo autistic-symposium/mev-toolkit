@@ -57,6 +57,10 @@
 * [Cointelegraph](https://subscriptions.cointelegraph.com/marketspro-cpc/)
 * [Slingshot](https://app.slingshot.finance/trade/m/MATIC)
 * [GMX](https://gmx.io/trade)
+* [rotki](https://rotki.com/)
+* [crystal](https://defi.krystal.app/)
+* [tokenset](https://www.tokensets.com/)
+* [index](https://indexcoop.com/)
 
 <br>
 
