@@ -62,13 +62,15 @@
 
 <br>
 
-* [ethtx transaction decoder](https://ethtx.info/)
 * [ethvm](https://www.ethvm.com/)
+* [ethtx transaction decoder](https://ethtx.info/)
 * [txn finance](https://txn.finance/)
 * [ethereum token explorer](https://ethplorer.io/)
-* [block explorer and txs](https://explorer.anyblock.tools/)
+* [anyblock explorer and txs](https://explorer.anyblock.tools/)
+* [blockscout block explorer](https://blockscout.com/eth/mainnet/)
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
-* [blockchair explore](https://blockchair.com/ethereum)
+* [blockchair blocks explorer](https://blockchair.com/ethereum)
+* [oklink block and tokens explorer](https://www.oklink.com/en/eth)
 
 
 <br>
