@@ -50,6 +50,14 @@
 
 <br>
 
+#### mev explorer
+
+* [Zero MEV](https://www.zeromev.org/)
+* [Public MEV explorer](https://metablock.dev/tools/mev/)
+
+
+<br>
+
 #### tx analysis
 
 <br>
@@ -60,16 +68,12 @@
 * [ethereum token explorer](https://ethplorer.io/)
 * [block explorer and txs](https://explorer.anyblock.tools/)
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
+* [blockchair explore](https://blockchair.com/ethereum)
 
 
 <br>
 
-#### mev explorer
 
-* [Zero MEV](https://www.zeromev.org/)
-* [Public MEV explorer](https://metablock.dev/tools/mev/)
-
-<br>
 
 #### mev bots stuff
 
@@ -103,19 +107,6 @@
 * [gastrology: estimate gas prices by analyzing past blocks](https://dethgasstation.eth.link/)
 
 
-<br>
-
-#### supporting tools
-
-<br>
-
-* [eth converter](https://eth-converter.com/)
-* [smart contract allowance checker](https://app.unrekt.net/)
-* [tornado cash pool anonymity](https://tutela.xyz/)
-* [CIA officer's roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
-* [eth detective](https://www.ethtective.com/address/)
-* [contracts diff checker](https://etherscan.io/contractdiffchecker)
-
 
 
 <br>
@@ -145,6 +136,22 @@
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
 
 <br>
+
+
+
+#### other supporting tools
+
+<br>
+
+* [eth converter](https://eth-converter.com/)
+* [smart contract allowance checker](https://app.unrekt.net/)
+* [tornado cash pool anonymity](https://tutela.xyz/)
+* [CIA officer's roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map#transaction-visualization-scoring--tracking)
+* [eth detective](https://www.ethtective.com/address/)
+* [contracts diff checker](https://etherscan.io/contractdiffchecker)
+
+<br>
+
 
 ---
 
