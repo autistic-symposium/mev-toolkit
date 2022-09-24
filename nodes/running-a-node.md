@@ -19,6 +19,8 @@
 * [eth docker](https://eth-docker.net/docs/About/Overview)
 * [staking deposit cli](https://github.com/ethereum/staking-deposit-cli)
 * [ethereum arm docs](https://ethereum-on-arm-documentation.readthedocs.io/en/latest/)
+* [stereum solo node infra](https://stereum.net/ethereum-node-setup/)
+* [nice node](https://www.nicenode.xyz/)
 
 <br>
 
@@ -60,3 +62,12 @@
 
 * [dappnode](https://dappnode.io/en-us/collections/frontpage)
 * [avado](https://ava.do/)
+
+
+<br>
+
+### useful resources
+
+<br>
+
+* [jwt decoder](https://jwt.io/)
