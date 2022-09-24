@@ -6,9 +6,12 @@
 
 <br>
 
-* [Dex screener](https://dexscreener.com/)
-* [Etherscan gas tracker](https://etherscan.io/gastracker)
-* [Impermanent Loss simulator for Balancer pools](https://baller.netlify.app/)
+* [defi pulse](https://www.defipulse.com/)
+* [defi prime](https://defiprime.com/)
+* [defi llama](https://defillama.com/)
+* [dex screener](https://dexscreener.com/)
+* [impermanent Loss simulator for Balancer pools](https://baller.netlify.app/)
+* [eth hub on defi](https://docs.ethhub.io/built-on-ethereum/open-finance/what-is-open-finance/)
 
 
 <br>
