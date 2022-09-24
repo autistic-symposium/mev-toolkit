@@ -99,6 +99,7 @@
 * [goerli launchpad](https://goerli.launchpad.ethereum.org/en/)
 * [run a node on goerli/prater](https://notes.ethereum.org/@launchpad/goerli)
 * [run goerli node and beaconnode](https://kb.beaconcha.in/archive/eth1-infura)
+* [guide to join the goerli/prater testnet (besu/teku)[https://github.com/remyroy/ethstaker/blob/main/merge-goerli-prater.md]
 
 <br>
 
