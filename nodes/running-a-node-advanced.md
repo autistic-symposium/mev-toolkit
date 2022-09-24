@@ -37,12 +37,24 @@
 <br>
 
 1. execution clients gossip transactions over the execution-layer peer-to-peer network (encrypted communication)
-2. a validator is selected to propose a block, and transactions from the node's local transaction pool is passed to consensus clients via a local RPC connection, which will be packaged into Beacon blocks
-3. consensus clients then gossip Beacon blocks across their p2p network
-4. the process requires two separate p2p networks: one connecting execution clients for transaction gossip and one connecting consensus clients for block gossip
+2. the execution layer's networking protocols is divided into 2 stacks:
+      - the discovery stack: built on top of UDP and allows a new node to find peers to connect to
+      - he DevP2P stack: sits on top of TCP and enables nodes to exchange information 
+3. discovery of other nodes is boostrapped using a small set of bootnodes (nodes with addresses hardcoded into the client so they can be found easily)
+4. a validator is selected to propose a block, and transactions from the node's local transaction pool is passed to consensus clients via a local RPC connection, which will be packaged into Beacon blocks
+5. consensus clients use discv5 over UDP for finding peers.
+6. consensus clients then gossip Beacon blocks across their p2p network
+7. the process requires two separate p2p networks: one connecting execution clients for transaction gossip and one connecting consensus clients for block gossip
+8. the libP2P stack supports all communications after discovery, clients can dial and listen on IPv4 and/or IPv6 as defined in their ENR.
+
+<br>
+<br>
+
+<img width="708" alt="Screen Shot 2022-09-24 at 12 10 38 AM" src="https://user-images.githubusercontent.com/1130416/192085157-d3f76f7e-3241-481f-b1ae-6bdc644fa8c7.png">
 
 
-
+<br>
+<br>
 
 ---
 
@@ -155,3 +167,12 @@ openssl rand -hex 32 > jwtsecret
 * the consensus clients all expose a Beacon API that can be used to check the status of the consensus client or download blocks and consensus data.
 * a privacy-preserving way to set up a publicly reachable endpoint is to host the node on your own Tor onion service.
 
+<br>
+
+----
+
+### further resources
+
+<br>
+
+* [consensus specs for networking](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/p2p-interface.md#the-gossip-domain-gossipsub)
