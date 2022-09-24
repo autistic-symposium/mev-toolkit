@@ -56,18 +56,48 @@ The sequence of states that a validator can exist in:
 
 <br>
 
+##### execution client
+
+<br>
+
 * [check estimate of the blockchain size](https://bitinfocharts.com/ethereum/).
 * minimum specs:
   - CPU with 4+ cores
-  - 32 GB+ RAM
-  - fast SSD with at least 1T free space
-  - interent bandwith ~1.2-1.3 GB download and ~0.9-1 GB upload per hour
-
+  - 16 GB+ RAM
+  - fast SSD with at least 1TB free space, up to 12TB+ (bottleneck for your hardware is mostly disk space.
+  - interent bandwith ~1.2-1.3 GB download and ~0.9-1 GB upload per hour.
 
 
 <br>
 
+##### consensus client
+
+<br>
+
+* ~200GB for beacon data.
+
+<br>
+
+##### engine api
+
+<br>
+
+* in order to connect a consensus client, the execution client must generate a jwtsecret:
 
 
+```
+openssl rand -hex 32 > jwtsecret
+```
 
+<br>
+
+##### other considerations
+
+<br>
+
+* after downloading a client release and its signature, use some PGP to verify them.
+* your router and firewall needs to accept connections on listening ports. By default Ethereum clients use a listener (TCP) port and a discovery (UDP) port, both on 30303 by default.
+* execution clients offer RPC API endpoints that you can use to submit transactions, interact with or deploy smart contracts on Ethereum.
+* the consensus clients all expose a Beacon API that can be used to check the status of the consensus client or download blocks and consensus data.
+* a privacy-preserving way to set up a publicly reachable endpoint is to host the node on your own Tor onion service.
 
