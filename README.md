@@ -47,14 +47,6 @@
 
 ## 🍟 resources && tools
 
-<br>
-
-#### mev research
-
-* [MEV.day 2022](https://mevday.org/)
-* [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
-* [The Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
-* [Cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
 
 <br>
 
@@ -143,6 +135,16 @@
 <br>
 
 
+
+#### mev research
+
+* [MEV.day 2022](https://mevday.org/)
+* [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
+* [the Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+* [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
+* [cross-domain mev](https://arxiv.org/abs/2112.01472)
+
+<br>
 
 ---
 
