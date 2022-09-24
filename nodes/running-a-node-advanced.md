@@ -50,8 +50,9 @@
 <br>
 <br>
 
-<img width="708" alt="Screen Shot 2022-09-24 at 12 10 38 AM" src="https://user-images.githubusercontent.com/1130416/192085157-d3f76f7e-3241-481f-b1ae-6bdc644fa8c7.png">
-
+<p align="center">
+<img width="708" alt="Screen Shot 2022-09-24 at 12 10 38 AM" width="60%" src="https://user-images.githubusercontent.com/1130416/192085157-d3f76f7e-3241-481f-b1ae-6bdc644fa8c7.png">
+</p>
 
 <br>
 <br>
@@ -175,4 +176,9 @@ openssl rand -hex 32 > jwtsecret
 
 <br>
 
+* [code for bootnodes.go](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go)
 * [consensus specs for networking](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/p2p-interface.md#the-gossip-domain-gossipsub)
+* [consensus + execution mechanism](https://ethresear.ch/t/eth1-eth2-client-relationship/7248
+* [lib2p2 specs](https://github.com/libp2p/specs)
+* [devp2p specs](https://github.com/ethereum/devp2p)
+* [from kademlia to discv5](https://vac.dev/kademlia-to-discv5)
