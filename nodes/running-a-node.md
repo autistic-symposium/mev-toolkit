@@ -27,6 +27,7 @@
 * [eth docker](https://eth-docker.net/docs/About/Overview)
 * [stereum solo node infra](https://stereum.net/ethereum-node-setup/)
 * [staking deposit cli](https://github.com/ethereum/staking-deposit-cli)
+* [ethereum staking guides](https://github.com/SomerEsat/ethereum-staking-guides)
 
 <br>
 
@@ -34,8 +35,13 @@
 
 <br>
 
+* [stakewise](https://app.stakewise.io/)
 * [rocketpool](https://rocketpool.net/)
+* [lido](https://lido.fi/)
+* [stafi.io](https://www.stafi.io/)
 * [nice node](https://www.nicenode.xyz/)
+* [ankr](https://www.ankr.com/)
+* [stakefish](https://v1.stake.fish/)
 
 <br>
 
@@ -56,7 +62,6 @@
 * [rivt](https://rivet.cloud/)
 * [sensei](https://www.senseinode.com/)
 * [settlemint](https://console.settlemint.com/)
-* [ankr](https://www.ankr.com/)
 * [blockdaemon](https://blockdaemon.com/)
 * [chainstack](https://chainstack.com/)
 * [figment](https://datahub.figment.io/)
@@ -93,6 +98,7 @@
 
 * [goerli launchpad](https://goerli.launchpad.ethereum.org/en/)
 * [run a node on goerli/prater](https://notes.ethereum.org/@launchpad/goerli)
+* [run goerli node and beaconnode](https://kb.beaconcha.in/archive/eth1-infura)
 
 <br>
 
