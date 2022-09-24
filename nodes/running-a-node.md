@@ -12,17 +12,35 @@
 
 <br>
 
+----
+
 ### infrastructure
+
+
+<br>
+
+#### solo staking
 
 <br>
 
 * [eth docker](https://eth-docker.net/docs/About/Overview)
+* [rocketpool](https://rocketpool.net/)
 * [staking deposit cli](https://github.com/ethereum/staking-deposit-cli)
-* [ethereum arm docs](https://ethereum-on-arm-documentation.readthedocs.io/en/latest/)
 * [stereum solo node infra](https://stereum.net/ethereum-node-setup/)
+
+<br>
+
+#### staking as a service
+
+<br>
+
 * [nice node](https://www.nicenode.xyz/)
 
 <br>
+
+
+
+-----
 
 ### light nodes
 
@@ -30,8 +48,13 @@
 
 
 * [running a light node with geth](https://ethereum.org/en/developers/tutorials/run-light-node-geth/)
+* [ethereum arm docs](https://ethereum-on-arm-documentation.readthedocs.io/en/latest/)
 
 <br>
+
+
+----
+
 
 ### testnets
 
@@ -56,6 +79,8 @@
 
 <br>
 
+----
+
 ### plug and play solutions
 
 <br>
@@ -66,8 +91,11 @@
 
 <br>
 
+---
+
 ### useful resources
 
 <br>
 
 * [jwt decoder](https://jwt.io/)
+* [eth staker](https://ethstaker.cc/)
