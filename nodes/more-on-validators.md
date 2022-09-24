@@ -1,6 +1,14 @@
 ## 🍕 More dets on validators
 
 <br>
+<br>
+
+<p align="center">
+<img width="547" alt="Screen Shot 2022-09-23 at 8 46 39 PM"  width="70%" src="https://user-images.githubusercontent.com/1130416/192078957-0ed3b60b-7354-4e02-b439-332b92ff0613.png">
+</p>
+
+<br>
+<br>
 
 ### tl;dr
 
