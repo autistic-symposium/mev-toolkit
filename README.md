@@ -27,7 +27,7 @@
 
 #### running stuff
 
-* [the Merge, nodes, validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/The-Merge)
+* [nodes and validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/nodes)
 * [geth on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 <br>
@@ -36,7 +36,7 @@
 
 * [0x protocol](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/0x_protocol)
 * [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
-* [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/DeFi)
+* [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/defi)
 * [tokenomics](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/tokenomics)
 
 
