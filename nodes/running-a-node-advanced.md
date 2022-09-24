@@ -10,7 +10,8 @@
 <br>
 <br>
 
-### tl;dr
+
+### tl;dr architecture
 
 <br>
 
@@ -29,6 +30,22 @@
 
 <br>
 
+----
+
+### tl;dr block creation
+
+<br>
+
+1. execution clients gossip transactions over the execution-layer peer-to-peer network (encrypted communication)
+2. a validator is selected to propose a block, and transactions from the node's local transaction pool is passed to consensus clients via a local RPC connection, which will be packaged into Beacon blocks
+3. consensus clients then gossip Beacon blocks across their p2p network
+4. the process requires two separate p2p networks: one connecting execution clients for transaction gossip and one connecting consensus clients for block gossip
+
+
+
+
+---
+
 ### validator lifecycle
 
 <br>
@@ -43,6 +60,41 @@ The sequence of states that a validator can exist in:
 
 <br>
 
+----
+
+#### network addresses
+
+<br>
+
+* three standardized formats that any Ethereum node can understand
+
+
+##### multiaddr
+
+* universal format designed for peer-to-peer networks
+* for example, a classic IPv4 listing to TCP port 33000 `/ip4/192.168.22.27/tcp/33000`, plus an node id (a hash of the pub key)
+
+
+<br>
+
+##### enode
+
+* identify an Ethereum node using a URL address format
+
+<br>
+
+##### ethereum node records (ENRs)
+
+* allow greater informational exchange between nodes
+* contains a signature, sequence number and fields detailing the identity scheme used to generate and validate signatures
+* key-value pairs contain the node's IP address and information about the sub-protocols the node is able to use
+* consensus clients use a specific ENR structure to identify boot nodes
+
+
+<br>
+
+---
+
 ### the JSON-RPC interface
 
 <br>
@@ -51,6 +103,8 @@ The sequence of states that a validator can exist in:
 * the RPC interface is offered as an HTTP service on port 8545. For security reasons it is restricted, by default, to only accept connections from localhost.
 
 <br>
+
+----
 
 ### setting a dedicated hardware
 
