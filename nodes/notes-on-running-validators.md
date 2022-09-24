@@ -1,4 +1,4 @@
-## 🍕 More dets on validators
+## 🍕 More dets on running validators
 
 <br>
 <br>
