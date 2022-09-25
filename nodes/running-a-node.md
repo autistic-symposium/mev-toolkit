@@ -102,6 +102,7 @@
 * [staking guide for goerli/parter (lighthouse)](https://agstakingco.gitbook.io/eth-2-0-staking-guide-prater-lighthouse/)
 * [goerli testnet staking guides](https://github.com/SomerEsat/ethereum-staking-guides#goerli-testnet-staking-guides)
 * [goerli testnet (geth/prysm)](https://kb.beaconcha.in/archive/eth1-infura)
+* [how to create a merge testnet](https://notes.ethereum.org/@parithosh/H1MSKgm3F)
 
 <br>
 
