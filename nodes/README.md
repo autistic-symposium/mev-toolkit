@@ -136,6 +136,13 @@
 
 * **committee**: group of at least 128 validators assigned to validate blocks in each slot. One of the validators in the committee is the aggregator.
 
+* **slots**: a time period of 12 seconds in which a randomly chosen validator has time to proposa a block. 32 seconds = 1 epoch.
 
+* **epoch**: represents 32 slots and takes ~6.4 minutes.
 
+* **deposit contract**: the gateway to ethereum 2.0. It accepts any transaction with a minumum amount of 1 ETH and a valid input data.
+
+* **input data**: also called deposit data, is a user generated, 842 long sequence of characters. it represents the validator pub key and the withdrawal pub key, which were signed with by the validator priv key. the input data needs to be added to the transaction to the deposit contract to be identified by the beacon-chain.
+
+* **unique index**: every validator receives its unique index.
 
