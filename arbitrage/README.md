@@ -1,4 +1,4 @@
-## 🥯  arbitrage
+## 🥯 arbitrage
 
 <br>
 
