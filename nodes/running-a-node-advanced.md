@@ -75,7 +75,7 @@ The sequence of states that a validator can exist in:
 
 ----
 
-#### network addresses
+### network addresses
 
 <br>
 
@@ -123,7 +123,7 @@ The sequence of states that a validator can exist in:
 
 <br>
 
-##### execution client
+#### execution client
 
 <br>
 
@@ -137,7 +137,7 @@ The sequence of states that a validator can exist in:
 
 <br>
 
-##### consensus client
+#### consensus client
 
 <br>
 
@@ -145,7 +145,7 @@ The sequence of states that a validator can exist in:
 
 <br>
 
-##### engine api
+#### engine api
 
 <br>
 
@@ -158,7 +158,7 @@ openssl rand -hex 32 > jwtsecret
 
 <br>
 
-##### other considerations
+#### other considerations
 
 <br>
 
@@ -182,3 +182,6 @@ openssl rand -hex 32 > jwtsecret
 * [lib2p2 specs](https://github.com/libp2p/specs)
 * [devp2p specs](https://github.com/ethereum/devp2p)
 * [from kademlia to discv5](https://vac.dev/kademlia-to-discv5)
+* [a look at hardware for staking](https://www.reddit.com/r/ethstaker/comments/j3mlup/a_slightly_updated_look_at_hardware_for_staking/)
+
+
