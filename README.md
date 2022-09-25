@@ -7,7 +7,7 @@
 
 <br>
 
-#### mev on chains
+### mev on the chains
 
 * [MEV on ethereum](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/MEV_on_Ethereum)
 * [MEV on avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
@@ -16,7 +16,7 @@
 
 <br>
 
-#### mev projects
+### mev projects
 
 
 * [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
@@ -25,14 +25,14 @@
 
 <br>
 
-#### running stuff
+### running stuff
 
 * [nodes and validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/nodes)
 * [geth on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 <br>
 
-#### some somehow related defi stuff
+### some somehow related defi stuff
 
 * [0x protocol](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/0x_protocol)
 * [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
@@ -50,7 +50,7 @@
 
 <br>
 
-#### mev explorer
+### mev explorer
 
 * [Zero MEV](https://www.zeromev.org/)
 * [Public MEV explorer](https://metablock.dev/tools/mev/)
@@ -58,7 +58,12 @@
 
 <br>
 
-#### tx analysis
+### tx analysis
+
+<br>
+
+
+##### ethereum mainnet
 
 <br>
 
@@ -72,12 +77,19 @@
 * [blockchair blocks explorer](https://blockchair.com/ethereum)
 * [oklink block and tokens explorer](https://www.oklink.com/en/eth)
 
+<br>
+
+##### goerli testnet
+
+<br>
+
+* [etherscan goerli](https://goerli.etherscan.io/)
 
 <br>
 
 
 
-#### mev bots stuff
+### mev bots stuff
 
 <br>
 
@@ -96,7 +108,7 @@
 
 <br>
 
-#### gas trackers
+### gas trackers
 
 <br>
 
@@ -113,7 +125,7 @@
 
 <br>
 
-#### data && analytics
+### data && analytics
 
 
 
@@ -129,7 +141,7 @@
 
 
 
-#### mev research
+### mev research
 
 * [MEV.day 2022](https://mevday.org/)
 * [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
@@ -140,8 +152,7 @@
 <br>
 
 
-
-#### other supporting tools
+### other supporting tools
 
 <br>
 
