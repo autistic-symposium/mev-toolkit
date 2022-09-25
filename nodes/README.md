@@ -146,3 +146,5 @@
 
 * **unique index**: every validator receives its unique index.
 
+* **finality**: a transaction has "finality" when it's part of a block that can't change without a significant amount of ETH getting burned (this is managed using "checkpoint" blocks).
+
