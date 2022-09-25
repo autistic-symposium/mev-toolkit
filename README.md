@@ -3,9 +3,21 @@
 <br>
 
 
-## 🍕  notes && code in this repo
+## 🍕 notes && code in this repo
 
 <br>
+
+### mev techniques
+
+<br>
+
+* [arbitrage](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/arbitrage)
+* [front-running](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/front_running)
+* [sandwiching](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/sandwiching)
+* [liquidations](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/liquidations)
+
+<br>
+
 
 ### mev on the chains
 
@@ -13,6 +25,8 @@
 * [MEV on avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
 * [MEV on solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
 * [MEV on cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
+
+
 
 <br>
 
