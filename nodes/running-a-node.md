@@ -98,10 +98,10 @@
 
 * [goerli launchpad](https://goerli.launchpad.ethereum.org/en/)
 * [run a node on goerli/prater](https://notes.ethereum.org/@launchpad/goerli)
-* [run goerli node and beaconnode](https://kb.beaconcha.in/archive/eth1-infura)
 * [guide to join the goerli/prater (besu/teku)](https://github.com/remyroy/ethstaker/blob/main/merge-goerli-prater.md)
 * [staking guide for goerli/parter (lighthouse)](https://agstakingco.gitbook.io/eth-2-0-staking-guide-prater-lighthouse/)
 * [goerli testnet staking guides](https://github.com/SomerEsat/ethereum-staking-guides#goerli-testnet-staking-guides)
+* [goerli testnet (geth/prysm)](https://kb.beaconcha.in/archive/eth1-infura)
 
 <br>
 
