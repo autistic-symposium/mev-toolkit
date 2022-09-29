@@ -205,5 +205,6 @@ openssl rand -hex 32 > jwtsecret
 * [a look at hardware for staking](https://www.reddit.com/r/ethstaker/comments/j3mlup/a_slightly_updated_look_at_hardware_for_staking/)
 * [configuring staking with dappnode](https://raymonddurk.medium.com/how-to-stake-for-ethereum-2-0-with-dappnode-231fa7689c02)
 * [staking & hardware](https://kb.beaconcha.in/saking-and-hardware)
+* [love weak subjectivity, by vitalik](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity)
 
 
