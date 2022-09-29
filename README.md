@@ -12,6 +12,7 @@
 <br>
 
 * [arbitrage](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/arbitrage)
+* [nft arbitrage](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/nft_arbitrage)
 * [front-running](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/front_running)
 * [sandwiching](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/sandwiching)
 * [liquidations](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/liquidations)
