@@ -42,7 +42,11 @@
 
 ### running stuff
 
-* [nodes and validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/nodes)
+<br>
+
+##### ethereum 
+
+* [nodes and validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/NODES_on_ETHEREUM)
 * [geth on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
 
 <br>
