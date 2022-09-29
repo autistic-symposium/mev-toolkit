@@ -172,6 +172,22 @@ openssl rand -hex 32 > jwtsecret
 
 ----
 
+### useful commands
+
+<br>
+
+#### find your ip
+
+* private"	`ifconfig | grep "inet " | grep -v 127.0.0.1`
+* public	`curl v4.ident.me`
+* router	`ip route | grep default` (Linux),  `netstat -nr | grep default` (MacOS)
+
+
+<br>
+
+
+----
+
 ### further resources
 
 <br>
