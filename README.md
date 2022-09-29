@@ -43,7 +43,7 @@
 ### running stuff
 
 
-* [nodes on ethereum](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/NODES_on_ETHEREUM)
+* [nodes on ethereum](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/NODES_on_Ethereum)
 
 <br>
 
