@@ -34,20 +34,16 @@
 ### mev projects
 
 
-* [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
 * [rook](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/rook)
+* [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
 * [cowswap](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/cowswap)
 
 <br>
 
 ### running stuff
 
-<br>
 
-##### ethereum 
-
-* [nodes and validators](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/NODES_on_ETHEREUM)
-* [geth on k8s](https://github.com/bt3gl-labs/Stateful-Blockchains-and-Flashbots/tree/main/geth_and_k8s)
+* [nodes on ethereum](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/NODES_on_ETHEREUM)
 
 <br>
 
