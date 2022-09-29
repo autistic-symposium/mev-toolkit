@@ -28,6 +28,6 @@
 <br>
 
 * [mev-boost post-merge](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)
-* [mev-boost builder stats dune](https://dune.com/queries/1279809/2192966)
+* [mev-boost builder stats dune](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 
 
