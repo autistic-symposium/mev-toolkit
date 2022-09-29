@@ -172,7 +172,7 @@ openssl rand -hex 32 > jwtsecret
 
 ----
 
-### useful commands
+### useful commands and urls
 
 <br>
 
@@ -184,6 +184,10 @@ openssl rand -hex 32 > jwtsecret
 
 
 <br>
+
+#### beacon chain checkpoint sync
+
+* [eth panda ops](https://goerli.checkpoint-sync.ethpandaops.io)
 
 
 ----
