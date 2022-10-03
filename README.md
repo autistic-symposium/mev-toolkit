@@ -2,7 +2,7 @@
 
 <br>
 
-
+---
 ## 🍕 notes && code in this repo
 
 <br>
@@ -133,7 +133,6 @@
 * [ethereum gas tracker](https://www.useweb3.xyz/gas)
 * [nansei gas tracker](https://pro.nansen.ai/gas-tracker)
 * [gas fee prediction](https://www.blocknative.com/gas-estimator)
-
 * [gastrology: estimate gas prices by analyzing past blocks](https://dethgasstation.eth.link/)
 
 
@@ -164,15 +163,6 @@
 
 
 
-### mev research
-
-* [MEV.day 2022](https://mevday.org/)
-* [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
-* [the Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
-* [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
-* [cross-domain mev](https://arxiv.org/abs/2112.01472)
-
-<br>
 
 
 ### other supporting tools
@@ -223,6 +213,21 @@
 - [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
+
+<br>
+
+---
+
+
+## 🍌 mev research
+
+<br>
+
+* [MEV.day 2022](https://mevday.org/)
+* [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
+* [the Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+* [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
+* [cross-domain mev](https://arxiv.org/abs/2112.01472)
 
 <br>
 
