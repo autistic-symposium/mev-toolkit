@@ -92,6 +92,7 @@
 * [blockscout block explorer](https://blockscout.com/eth/mainnet/)
 * [blockchair blocks explorer](https://blockchair.com/ethereum)
 * [oklink block and tokens explorer](https://www.oklink.com/en/eth)
+* [phalcon tx explorer](https://phalcon.blocksec.com/)
 
 <br>
 
