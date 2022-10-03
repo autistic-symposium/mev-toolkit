@@ -90,7 +90,6 @@
 * [ethereum token explorer](https://ethplorer.io/)
 * [anyblock explorer and txs](https://explorer.anyblock.tools/)
 * [blockscout block explorer](https://blockscout.com/eth/mainnet/)
-* [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
 * [blockchair blocks explorer](https://blockchair.com/ethereum)
 * [oklink block and tokens explorer](https://www.oklink.com/en/eth)
 
@@ -134,7 +133,7 @@
 * [ethereum gas tracker](https://www.useweb3.xyz/gas)
 * [nansei gas tracker](https://pro.nansen.ai/gas-tracker)
 * [gas fee prediction](https://www.blocknative.com/gas-estimator)
-* [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
+
 * [gastrology: estimate gas prices by analyzing past blocks](https://dethgasstation.eth.link/)
 
 
@@ -147,12 +146,18 @@
 
 
 * [Nansen](https://www.nansen.ai/)
-* [Dune](https://dune.com/browse/dashboards)
 * [Token terminal](https://tokenterminal.com/terminal)
 * [Westerngate, arbritage measured](Westerngate.xyz)
 * [EigenPhi arbitrage scan](https://eigenphi.io/)
 * [Parsec.finance](https://parsec.finance/)
 * [Flashloans](https://tools.blocksec.com/flashloan/eth)
+
+
+##### awesome dune boards
+
+* [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
+* [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
+* [sleuthing hashed function and event signatures on ethereum](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
 
 
 <br>
