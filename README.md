@@ -182,6 +182,7 @@
 * [contracts diff checker](https://etherscan.io/contractdiffchecker)
 * [ultrasound money dahsboard](https://ultrasound.money/)
 * [revoke.cash](https://revoke.cash/)
+* [public ethereum rpc gateway](https://eth.public-rpc.com/)
 
 <br>
 
