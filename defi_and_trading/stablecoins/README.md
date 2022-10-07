@@ -2,6 +2,11 @@
 
 <br>
 
+<img width="758" alt="Screen Shot 2022-10-07 at 1 32 54 PM" src="https://user-images.githubusercontent.com/1130416/194648266-bb67eca3-dc70-4321-b9d6-25246b4156af.png">
+
+
+<br>
+
 ### tl, dr
 
 <br>
