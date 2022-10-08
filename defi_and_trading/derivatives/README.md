@@ -1,9 +1,22 @@
-# Notes on Derivatives
+## 🥬 derivatives
 
 <br>
 
+### perpetual swap
 
-## Synthetix
+* trading product first introduced in 2016 by bitmex
+* has become popular with trading volumes of over $180 mi
+* offer traders a chance to take on large positions with little money down
+* like other types of derivatives such as futures and options, perpetual swaps provide a means to speculate on the value of the assets while the contract is held
+* unlike future contracts, perpetual swaps do not have expiration dates
+
+
+
+<br>
+
+----
+
+## synthetix
 
 * [Synthetix](https://synthetix.io/) is one of the Ethereum's ecosystem's leading derivatives projects.
 * It's a derivative liquidity protocol that powers the creation of "synths" (synthetic assets) that can be traded in a decentralized and permissionless manner.
@@ -14,14 +27,18 @@
 
 <br>
 
+---
 
-### Kwenta
+### kwenta
 
 * The primary DEX in the Synthetix ecosystem.
 * Designed to facilitate zero-slippage synth trading.
 * It does not rely on an orderbook or liquidity pool model, but instead the DEX employs a peer-to-contract system in which synths are traded against a smart contract informed by Chainlink price feeds.
 
 <br>
+
+
+---
 
 ### Lyra
 
@@ -30,6 +47,9 @@
 * Lyra also uses Synthetix as a one-stop protocol for getting long and short exposure on its markets' base assets (delta hedging).
 
 <br>
+
+
+---
 
 ### Thales
 
