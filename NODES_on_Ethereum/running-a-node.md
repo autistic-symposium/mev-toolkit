@@ -1,8 +1,16 @@
-## 🌭 Running a node
+## 🌭 running a node
 
 <br>
 
 ### resources
+
+<br>
+
+* ✨ [check my step-by-step article](https://mirror.xyz/mevwaifu.eth/uFJ58p5wCDySss35TSvbf7KNwckPy9YGI_UN0vTUIFA) and [open source code](https://github.com/MEV-WAIFU-LABS/prod_ethereum_node_validatooor) ✨
+
+<br>
+
+or some other resources:
 
 <br>
 
