@@ -6,7 +6,7 @@
 
 <br>
 
-* [check my step-by-step article to run validator](https://mirror.xyz/mevwaifu.eth/uFJ58p5wCDySss35TSvbf7KNwckPy9YGI_UN0vTUIFA
+* [check my step-by-step article to run validator](https://mirror.xyz/mevwaifu.eth/F5PI4eqShKTGlx0GzL0Lq0-vHQ6b14OoV4ylE2FMsAc)
 
 <br>
 
