@@ -199,9 +199,11 @@
 
 <br>
 
-- [MEV wiki](https://www.mev.wiki/)
+- 
+
 - [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 - [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
+- [Surrogeth: Tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
 - [KeeperDAO plan for MEV protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
 - [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 - [Sandwiched?](https://sandwiched.wtf/)
@@ -240,6 +242,7 @@
 * [the Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 * [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
+* [MEV wiki](https://www.mev.wiki/)
 
 <br>
 
