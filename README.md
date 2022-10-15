@@ -220,6 +220,7 @@
 - [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
+- [Build a MEV bot](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
 
 <br>
 
