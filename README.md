@@ -228,6 +228,7 @@
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 - [Build a MEV bot](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
+- [SoK: Transparent Dishonesty: Front-running Attacks on Blockchain](https://arxiv.org/pdf/1902.05164.pdf)
 
 <br>
 
