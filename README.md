@@ -219,6 +219,7 @@
 - [Dr. Reorg or: How I Learned to Stop Worrying and Love MEV by Saneel Sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
 - [Hiding in Plain Sight by samczsun](https://samczsun.com/hiding-in-plain-sight/)
 - [We Live In A Mempool: Backrunning the MEV Crisis by Tom Schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
+- [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 - [How To Light Up The Dark Forest by Robert Miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
 - [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
 - [Blockchains are Cities by Haseeb Qureshi](https://medium.com/dragonfly-research/blockchains-are-cities-564327013f86)
