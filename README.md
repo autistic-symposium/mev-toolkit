@@ -20,6 +20,28 @@
 
 <br>
 
+### cute "retired" mev bots to learn from
+
+<br>
+
+* [cake sniper](https://github.com/Supercycled/cake_sniper)
+* [ape bot](https://github.com/duckdegen/apebot)
+* [flashbot's simple arb](https://github.com/flashbots/simple-arbitrage)
+* [subway](https://github.com/libevm/subway)
+* [bundle generator](https://github.com/Alcibiades-Capital/mev_bundle_generator)
+* [optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
+* [AMM Arbitrageur](https://github.com/paco0x/amm-arbitrageur)
+* [MEV Bot in q using kdb+](https://github.com/sambacha/q-evm)
+* [liquidation Aave protocol example](https://github.com/ialberquilla/aave-liquidation)
+* [liquidator-v3](https://github.com/blockworks-foundation/liquidator-v3)
+* [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
+* [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
+* [binance alpha bot](https://github.com/duckdegen/apebot)
+* [hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
+
+
+
+<br>
 
 ### mev on the chains
 
@@ -109,24 +131,6 @@
 <br>
 
 * [breadcrumbs](https://www.breadcrumbs.app/home)
-
-<br>
-
-### mev bots stuff
-
-<br>
-
-* [Subway](https://github.com/libevm/subway)
-* [Optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
-* [AMM Arbitrageur](https://github.com/paco0x/amm-arbitrageur)
-* [MEV Bot in q using kdb+](https://github.com/sambacha/q-evm)
-* [liquidation Aave protocol example](https://github.com/ialberquilla/aave-liquidation)
-* [liquidator-v3](https://github.com/blockworks-foundation/liquidator-v3)
-* [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
-* [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
-* [binance alpha bot](https://github.com/duckdegen/apebot)
-* [Hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
-
 
 
 <br>
