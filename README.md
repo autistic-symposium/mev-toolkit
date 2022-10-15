@@ -36,6 +36,7 @@
 * [liquidator-v3](https://github.com/blockworks-foundation/liquidator-v3)
 * [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
 * [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
+* [globinmode longtail nft](https://github.com/Anish-Agnihotri/goblinmode)
 * [binance alpha bot](https://github.com/duckdegen/apebot)
 * [hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
 
