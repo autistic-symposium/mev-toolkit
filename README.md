@@ -206,6 +206,7 @@
 - [KeeperDAO plan for MEV protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
 - [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 - [Sandwiched?](https://sandwiched.wtf/)
+- [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [How to use Flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [Flashbots bundle explore](https://flashbots-explorer.marto.lol/)
 - [Flash Boys 2.0, the original article](https://arxiv.org/pdf/1904.05234.pdf)
