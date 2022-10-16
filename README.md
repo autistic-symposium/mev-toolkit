@@ -7,7 +7,7 @@
 
 <br>
 
-### mev techniques
+### mev strategies
 
 <br>
 
@@ -56,23 +56,24 @@
 
 <br>
 
-### mev projects
+### projects dedicated to healthy mev extraction
 
 
-* [rook](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/rook)
 * [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
 * [cowswap](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/cowswap)
+* [rook](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/rook)
 
 <br>
 
-### running stuff
+### building your toolkit
 
 
+* [anatomy of mev bots](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/anatomy_of_mev_bots)
 * [nodes on ethereum](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/NODES_on_Ethereum)
 
 <br>
 
-### some somehow related defi stuff
+### somehow related defi stuff
 
 * [0x protocol](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/0x_protocol)
 * [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
@@ -156,13 +157,15 @@
 ### data && analytics
 
 
-
+* [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
 * [Nansen](https://www.nansen.ai/)
 * [Token terminal](https://tokenterminal.com/terminal)
 * [Westerngate, arbritage measured](Westerngate.xyz)
 * [EigenPhi arbitrage scan](https://eigenphi.io/)
 * [Parsec.finance](https://parsec.finance/)
 * [Flashloans](https://tools.blocksec.com/flashloan/eth)
+* [Sandwiched?](https://sandwiched.wtf/)
+* [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 
 
 ##### awesome dune boards
@@ -197,47 +200,48 @@
 
 ---
 
-## 🍿 cool articles
+## 🍿 must read articles
 
 <br>
- 
 
-- [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
-- [MEV Dashboard by Flashbots](https://explore.flashbots.net/).
-- [Surrogeth: Tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
-- [KeeperDAO plan for MEV protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
-- [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
-- [Sandwiched?](https://sandwiched.wtf/)
-- [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
-- [How to use Flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
-- [Flashbots bundle explore](https://flashbots-explorer.marto.lol/)
-- [Flash Boys 2.0, the original article](https://arxiv.org/pdf/1904.05234.pdf)
-- [Ethereum is a Dark Forest by Paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+
+##### must read about mev
+
 - [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [How to Build an Ethereum Mining Pool by Dragonfly research](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
 - [MEV and Me by Paradigm](https://research.paradigm.xyz/MEV)
 - [Return to the Dark Forest by rekt](https://rekt.news/return-to-the-dark-forest/)
 - [Modern MEV sandwich attacks on Ethereum routers by totlsota](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
 - [Dr. Reorg or: How I Learned to Stop Worrying and Love MEV by Saneel Sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
+- [How To Light Up The Dark Forest by Robert Miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
 - [Hiding in Plain Sight by samczsun](https://samczsun.com/hiding-in-plain-sight/)
 - [We Live In A Mempool: Backrunning the MEV Crisis by Tom Schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
-- [How To Light Up The Dark Forest by Robert Miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
-- [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
-- [Blockchains are Cities by Haseeb Qureshi](https://medium.com/dragonfly-research/blockchains-are-cities-564327013f86)
-- [Endgame by Vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
-- [Soulbound by Vitalik](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)  
+- [Surrogeth: Tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
+- [KeeperDAO plan for MEV protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
+- [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
+- [How to use Flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
+- [Flashbots bundler explore](https://flashbots-explorer.marto.lol/)
+- [Ethereum is a Dark Forest by Paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+
+
+<br>
+
+##### research
+
+- [Flash Boys 2.0, the original article](https://arxiv.org/pdf/1904.05234.pdf)
 - [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
-- [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
-- [Build a MEV bot](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
 - [SoK: Transparent Dishonesty: Front-running Attacks on Blockchain](https://arxiv.org/pdf/1902.05164.pdf)
+- [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
+- [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
+- [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 
 <br>
 
 ---
 
 
-## 🍌 mev research
+## 🍌 mev research resources
 
 <br>
 
