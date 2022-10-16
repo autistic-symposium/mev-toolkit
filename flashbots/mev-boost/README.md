@@ -23,6 +23,14 @@
 
 ---
 
+### guides
+
+* [install mev-boost in ubuntu](https://github.com/metanull-operator/eth2-ubuntu/blob/master/v2/mev-boost.md)
+
+<br>
+
+---
+
 ### resources
 
 <br>
