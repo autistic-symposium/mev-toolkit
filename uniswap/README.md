@@ -10,4 +10,9 @@
 
 <br>
 
-* [docs](https://docs.uniswap.org/protocol)
+---
+
+### resources
+
+* [uniswap docs](https://docs.uniswap.org/protocol)
+* [dune for total uniswap users over time](https://dune.com/queries/2740)
