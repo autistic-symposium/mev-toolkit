@@ -31,5 +31,6 @@
 * [why mev boost](https://writings.flashbots.net/writings/why-run-mevboost/)
 * [mev-boost post-merge](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)
 * [mev-boost builder stats dune](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
+* [flashbots analysis of mev in eth2](https://github.com/flashbots/eth2-research/blob/main/notebooks/mev-in-eth2/eth2-mev-calc.ipynb)
 
 
