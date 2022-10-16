@@ -15,4 +15,6 @@
 ### resources
 
 * [uniswap docs](https://docs.uniswap.org/protocol)
+* [uniswap arb analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis)
 * [dune for total uniswap users over time](https://dune.com/queries/2740)
+
