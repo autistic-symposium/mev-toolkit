@@ -7,6 +7,7 @@
 
 <br>
 
+---
 
 ### strategy
 
@@ -17,3 +18,13 @@
 * the bot swoops in and buys as many tokens as possible (but not all them as there needs to be an opportunity for others to buy tokens)
 * the bot waits for the price to go up and other traders buy the token from uniswap and proceeds to sell back the tokens at a higher price
 * the key strategy is to be the first to buy tokens, but only after it has been launched.
+
+<br>
+
+---
+
+### data
+
+<br>
+
+* [dune for Portion of Daily Gas Used by Backrunning Bot Contracts](https://dune.com/phabc/backrunning-bots-gas-consumption)
