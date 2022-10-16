@@ -41,5 +41,6 @@
 * [mev-boost builder stats dune](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [flashbots analysis of mev in eth2](https://github.com/flashbots/eth2-research/blob/main/notebooks/mev-in-eth2/eth2-mev-calc.ipynb)
 * [ethereum specs for block builder](https://github.com/ethereum/builder-specs)
+* [list of mev-boost payout addresses](https://gist.github.com/metachris/a4d10ff59cad5ffe3cf0f2c6e91fc0bc)
 
 
