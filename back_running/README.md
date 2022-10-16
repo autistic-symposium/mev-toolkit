@@ -1,7 +1,11 @@
-## 🥪 back-running
+## 🥪 back-running (tailgating)
 
 <br>
 
+
+### tl; dr
+
+* predict trade opportunities that will mine into a future block based on the outcome of another user's trade.
 * occurs when a transaction sender wishes to have their tx ordered immediately after some unconfirmed 'target tx'.
 * a typical backrunner will send many identical txs, with gas price identical to that of the target tx, sometimes from different accounts, in order to increase the chances that one of their txs is ordered after the target but before any competitor.
 
