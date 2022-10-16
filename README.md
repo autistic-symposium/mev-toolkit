@@ -204,9 +204,6 @@
 
 <br>
 
-
-##### must read about mev
-
 - [Endgame by Vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
 - [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [How to Build an Ethereum Mining Pool by Dragonfly research](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
@@ -226,16 +223,6 @@
 - [Ethereum is a Dark Forest by Paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 
 
-<br>
-
-##### research
-
-- [Flash Boys 2.0, the original article](https://arxiv.org/pdf/1904.05234.pdf)
-- [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
-- [SoK: Transparent Dishonesty: Front-running Attacks on Blockchain](https://arxiv.org/pdf/1902.05164.pdf)
-- [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
-- [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
-- [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 
 <br>
 
@@ -252,6 +239,21 @@
 * [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
 * [MEV wiki](https://www.mev.wiki/)
+
+<br>
+
+#### papers
+
+- [Flash Boys 2.0, the original article](https://arxiv.org/pdf/1904.05234.pdf)
+- [Towards a Theory of Maximal Extractable Value I, Diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
+- [SoK: Transparent Dishonesty: Front-running Attacks on Blockchain](https://arxiv.org/pdf/1902.05164.pdf)
+- [KeeperDAO's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
+- [DEX Arbitrage, Mathematical Optimisations & Me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
+- [A list of open problems in DeFi by Emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
+- [Combining GHOST and Casper](https://arxiv.org/abs/2003.03052)
+- [Three Attacks on Proof-of-Stake Ethereum](https://arxiv.org/abs/2110.10086)
+- [Two Attacks On Proof-of-Stake GHOST/Ethereum](https://arxiv.org/abs/2203.01315)
+
 
 <br>
 
