@@ -6,6 +6,8 @@
 
 <br>
 
+*  predict trade opportunities that will mine into a future block by pushing another user’s trade opportunity to its max slippage limit, which will result in an arbitrage opportunity at a later time (typically within the same block).
+
 * sandwiching is a common situation that occurs when a searcher identifies a large trade in the mempool that will cause an impact on the price of an asset.
 
 * the searcher buys or sells a calculated amount directly prior to the large trade being executed and then immediately exits their position after the large order has taken place, banking a nice profit.
