@@ -6,6 +6,8 @@
 
 <br>
 
+* determine what gas price is required to win a gas auction.
+
 * process by which an adversary observes transactions on the network layer and then acts upon this information by, for instance, issuing a competing transaction, with the hope that this transaction is mined before a victim transaction.
 
 
