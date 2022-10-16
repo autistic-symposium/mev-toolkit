@@ -207,6 +207,7 @@
 
 ##### must read about mev
 
+- [Endgame by Vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
 - [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [How to Build an Ethereum Mining Pool by Dragonfly research](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
 - [MEV and Me by Paradigm](https://research.paradigm.xyz/MEV)
