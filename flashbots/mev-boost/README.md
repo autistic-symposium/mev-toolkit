@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<img width="1289" alt="Screen Shot 2022-09-18 at 2 57 20 PM" src="https://user-images.githubusercontent.com/1130416/190929561-afe6918f-6f34-459e-9d2b-06902918d4d0.png">
+<img width="400" alt="Screen Shot 2022-09-18 at 2 57 20 PM" src="https://user-images.githubusercontent.com/1130416/190929561-afe6918f-6f34-459e-9d2b-06902918d4d0.png">
 
 
 <br>
@@ -27,6 +27,8 @@
 
 <br>
 
+
+* [why mev boost](https://writings.flashbots.net/writings/why-run-mevboost/)
 * [mev-boost post-merge](https://ethresear.ch/t/mev-boost-merge-ready-flashbots-architecture/11177)
 * [mev-boost builder stats dune](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 
