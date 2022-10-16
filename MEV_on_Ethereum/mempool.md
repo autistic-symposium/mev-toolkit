@@ -14,6 +14,15 @@
 
 <br>
 
+##### watching the mempool 
+
+* [bloXroute, via websockets](https://bloxroute.com/pricing/)
+* [blocknative, via webshooks](https://www.blocknative.com/)
+* [alchemy api endpoint](https://docs.alchemy.com/)
+
+
+<br>
+
 ---
 
 ### mev
