@@ -2,6 +2,12 @@
 
 <br>
 
+### tl; dr
+
+* relays are a bundle propagation service that receives bundles from searchers, simulate each txs, and forwards them to block producers.
+
+<br>
+
 ### mainnet
 
 <br>
