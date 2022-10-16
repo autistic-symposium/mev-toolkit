@@ -14,11 +14,18 @@
 
 <br>
 
-##### watching the mempool 
+##### mempool providers
 
 * [bloXroute, via websockets](https://bloxroute.com/pricing/)
 * [blocknative, via webshooks](https://www.blocknative.com/)
 * [alchemy api endpoint](https://docs.alchemy.com/)
+
+<br>
+
+#### mempool monitor service
+
+* [mempool shark](https://github.com/sambacha/mempool-shark)
+
 
 
 <br>
