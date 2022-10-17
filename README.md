@@ -56,12 +56,14 @@
 
 <br>
 
-### projects dedicated to healthy mev extraction
+### healthy mev extraction
 
 
 * [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
 * [cowswap](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/cowswap)
 * [rook](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/rook)
+* [twamm designs](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/twamm)
+* [0x protocol and rfq](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/0x_protocol)
 
 <br>
 
@@ -73,9 +75,8 @@
 
 <br>
 
-### somehow related defi stuff
+### related defi stuff
 
-* [0x protocol](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/0x_protocol)
 * [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
 * [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/defi_and_trading)
 * [tokenomics](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/tokenomics)
