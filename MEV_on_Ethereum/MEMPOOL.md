@@ -28,6 +28,7 @@
 * [lurk the mempool](https://github.com/taarushv/helios)
 * [eth-mempool-listener-rs](https://github.com/0xpanoramix/eth-mempool-listener-rs)
 * [eth-mempool-listener-go](https://github.com/0xpanoramix/eth-mempool-listener-go)
+* [eth-mempool-whale-watcher](https://github.com/jdgc/eth-mempool-whale-watcher)
 
 
 
