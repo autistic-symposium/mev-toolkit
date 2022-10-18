@@ -2,7 +2,8 @@
 
 <br>
 
-##### healthy mev extraction is too important of a problem, that will directly afect the future of our society. 
+##### healthy mev extraction is too important of a problem, 
+##### that will directly affect the future of our society. 
 ##### we are democratizing it.
 
 <br>
