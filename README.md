@@ -11,13 +11,13 @@
 
 <br>
 
-* [arbitrage](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/arbitrage)
-* [nft arbitrage](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/nft_arbitrage)
-* [front-running](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/front_running)
-* [back-running](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/back_running)
-* [sandwiching](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/sandwiching)
-* [liquidations](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/liquidations)
-* [flashloans](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/flashloans)
+* [arbitrage](arbitrage)
+* [nft arbitrage](nft_arbitrage)
+* [front-running](front_running)
+* [back-running](back_running)
+* [sandwiching](sandwiching)
+* [liquidations](liquidations)
+* [flashloans](flashloans)
 
 <br>
 
@@ -47,10 +47,10 @@
 
 ### mev on the chains
 
-* [MEV on ethereum](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/MEV_on_Ethereum)
-* [MEV on avalanche](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/MEV_on_Avalanche)
-* [MEV on solana](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/MEV_on_Solana)
-* [MEV on cosmos](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/MEV_on_Cosmos)
+* [MEV on ethereum](MEV_on_Ethereum)
+* [MEV on avalanche](MEV_on_Avalanche)
+* [MEV on solana](MEV_on_Solana)
+* [MEV on cosmos](MEV_on_Cosmos)
 
 
 
@@ -59,28 +59,28 @@
 ### healthy mev extraction
 
 
-* [flashbots](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV/tree/main/flashbots)
-* [cowswap](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/cowswap)
-* [rook](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/rook)
-* [twamm designs](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/twamm)
-* [0x protocol and rfq](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/0x_protocol)
+* [flashbots](flashbots)
+* [cowswap](cowswap)
+* [rook](rook)
+* [twamm designs](twamm)
+* [0x protocol and rfq](0x_protocol)
 
 <br>
 
 ### building your toolkit
 
 
-* [anatomy of mev bots](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/anatomy_of_mev_bots)
-* [nodes on ethereum](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/NODES_on_Ethereum)
+* [anatomy of mev bots](anatomy_of_mev_bots)
+* [nodes on ethereum](NODES_on_Ethereum)
 
 <br>
 
 ### related defi stuff
 
-* [oracles and twap](https://github.com/MEV-WAIFU-LABS/mev_toolkit/tree/main/oracles)
-* [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
-* [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/defi_and_trading)
-* [tokenomics](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/tokenomics)
+* [oracles and twap](oracles)
+* [uniswap](uniswap)
+* [defi and day trading](defi_and_trading)
+* [tokenomics](tokenomics)
 
 
 <br>
@@ -169,6 +169,7 @@
 * [Flashloans](https://tools.blocksec.com/flashloan/eth)
 * [Sandwiched?](https://sandwiched.wtf/)
 * [Etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
+* [MEV data corpus by manifold](https://github.com/manifoldfinance/mev-corpus)
 
 
 ##### awesome dune boards
