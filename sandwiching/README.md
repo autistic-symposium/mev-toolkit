@@ -20,6 +20,11 @@
 
 * sandwiching is riskier as it isn't atomic an it's prone to [salmonella attack](https://github.co/Defi-Cartel/salmonella).
 
+<br>
+
+<img width="700" alt="Screen Shot 2022-10-17 at 10 16 01 PM" src="https://user-images.githubusercontent.com/1130416/196341536-47b22f79-404f-4c55-8091-30a7251adcb1.png">
+
+
 
 <br>
 
