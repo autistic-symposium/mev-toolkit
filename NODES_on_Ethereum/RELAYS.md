@@ -35,6 +35,7 @@
 ### resources
 
 * [fb relay api](https://flashbots.notion.site/Relay-API-Spec-5fb0819366954962bc02e81cb33840f5)
+* [uptime monitor for relays](https://mev-relays.beaconstate.info/)
 
 
 <br>
