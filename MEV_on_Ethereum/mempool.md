@@ -1,4 +1,4 @@
-## 🎂 mempool and mev
+## 🎂 the mempool
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-##### mempool providers
+### mempool monitor providers
 
 * [bloXroute, via websockets](https://bloxroute.com/pricing/)
 * [blocknative, via webshooks](https://www.blocknative.com/)
@@ -22,45 +22,21 @@
 
 <br>
 
-#### mempool monitor code
+### mempool monitor open-source code
 
 * [mempool shark](https://github.com/sambacha/mempool-shark)
 * [lurk the mempool](https://github.com/taarushv/helios)
+* [eth-mempool-listener-rs](https://github.com/0xpanoramix/eth-mempool-listener-rs)
 
 
 
 <br>
 
----
 
-### mev
-
-<br>
-
-* miner extractable value (MEV) is a measure devised to study consensus security by modeling the profit a miner (or validator, sequencer, or other privileged protocol actor) can make through their ability to arbitrarily include, exclude, or re-order transactions from the blocks they produce.
-* mev includes both ‘conventional’ profits from transaction fees and block rewards, and ‘unconventional’ profits from transaction reordering, transaction insertion, and transaction censorship within the block a miner is producing.
-* mev exists in places where there is high complexity which requires significant knowledge of smart contracts to understand. 
-* ~90% arbitrage 
-
-<br>
-
----
-
-### arbritage bots
-
-<br>
-
-* monitor pending transactions and attempt to exploit profitabe opportunities.
-* usually loo for specific types of transactions in the mempool, such as DEX trade or an oracle update
-
-
-<br>
-
----
 
 ### find extracted mev
 
-<br>
+
 
 1. look at each Ethereum's transaction trace
 2. parse it and go through the token transfers
@@ -78,10 +54,10 @@ Failed MEV transactions gas fees = Reverted MEV transactions gas fees + Checked 
 <br>
 
 
----
+
 
 ### references
 
 <br>
 
-* [frontrunning mev crisis](https://writings.flashbots.net/writings/frontrunning-mev-crisis/)
+
