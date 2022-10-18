@@ -1,4 +1,4 @@
-## list of ethereum relays
+## tx relays
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-### mainnet
+### mainnet relay list
 
 
 * [blocknative](https://docs.blocknative.com/mev-relay-instructions-for-ethereum-validators)
@@ -18,7 +18,7 @@
 
 <br>
 
-### goerli
+### goerli relay list
 
 * [flashbots](https://0xafa4c6985aa049fb79dd37010438cfebeb0f2bd42b115b89dd678dab0670c1de38da0c4e9138c9290a398ecd9a0b3110@builder-relay-goerli.flashbots.net)
 * [bloxroute](https://0x821f2a65afb70e7f2e820a925a9b4c80a159620582c1766b1b09729fec178b11ea22abb3a51f07b288be815a1a2ff516@bloxroute.max-profit.builder.goerli.blxrbdn.com)
@@ -29,7 +29,11 @@
 
 <br>
 
-### on building a relay
+### resources
+
+* [fb relay api](https://flashbots.notion.site/Relay-API-Spec-5fb0819366954962bc02e81cb33840f5)
+
+##### on building a relay
 
 * [mev-boost relay](https://github.com/flashbots/mev-boost-relay)
 * [lido call for relays](https://research.lido.fi/t/lido-on-ethereum-call-for-relay-providers/2844/10)
