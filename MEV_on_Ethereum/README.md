@@ -3,7 +3,7 @@
 <br>
 
 
-## in this repo
+### in this repo
 
 <br>
 
@@ -16,15 +16,22 @@
 
 <img width="800" alt="Screen Shot 2022-10-17 at 10 19 34 PM" src="https://user-images.githubusercontent.com/1130416/196341991-97ef37f7-c509-448f-a08c-95043fbe4fef.png">
 
+<br>
 
 
----
+
+### resource
+
+* [frontrunning mev crisis](https://writings.flashbots.net/writings/frontrunning-mev-crisis/)
+
+
+
+
 
 <br>
 
-## terminology
+### terminology
 
-<br>
 
 
 
@@ -49,3 +56,6 @@ Proposer Builder Separation, see: State of research: increasing censorship resis
    - `priority_fee`: amount defined by the user as `maxPriorityFeePerGas`, paid from user -> coinbase address
    - `block.coinbase transfer`: the EVM has an opcode which allows end user to send fund directly to the coinbase address (same recipient as `priority_fee`
     - `regular transfer`: a transaction created to send eth to other account
+    
+    
+    
