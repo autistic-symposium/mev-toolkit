@@ -77,6 +77,7 @@
 
 ### related defi stuff
 
+* [oracles and twap](https://github.com/MEV-WAIFU-LABS/mev_toolkit/tree/main/oracles)
 * [uniswap](https://github.com/bt3gl-labs/Scratch-Space-Stateful-Blockchains/tree/main/uniswap)
 * [defi and day trading](https://github.com/bt3gl-labs/Blockchains-AMMs-and-MEV/tree/main/defi_and_trading)
 * [tokenomics](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/tokenomics)
