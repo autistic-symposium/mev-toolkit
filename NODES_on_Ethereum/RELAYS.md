@@ -37,7 +37,12 @@
 * [fb relay api](https://flashbots.notion.site/Relay-API-Spec-5fb0819366954962bc02e81cb33840f5)
 
 
+<br>
+
 ##### on building a relay
 
-* [mev-boost relay](https://github.com/flashbots/mev-boost-relay)
-* [lido call for relays](https://research.lido.fi/t/lido-on-ethereum-call-for-relay-providers/2844/10)
+* [fork mev-boost relay](https://github.com/flashbots/mev-boost-relay)
+* [join lido call for relays](https://research.lido.fi/t/lido-on-ethereum-call-for-relay-providers/2844/10)
+* [add label to beaconcha.in](https://beaconcha.in/relays)
+* [join fb boost relays tg](https://t.me/+E-HTvTDIsdI3MjM1)
+
