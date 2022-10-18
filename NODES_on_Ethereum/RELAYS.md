@@ -5,6 +5,8 @@
 ### tl; dr
 
 * relays are a bundle propagation service that receives bundles from searchers, simulate each txs, and forwards them to block producers.
+* validators can use relays to outsource their block production to entities specialized in extracting extra revenue.
+
 
 <br>
 
@@ -15,6 +17,7 @@
 * [bloXroute MEV relay](https://bloxroute.max-profit.blxrbdn.com/)
 * [eden](https://relay.edennetwork.io/info)
 * [ethsaker relay list ](https://github.com/remyroy/ethstaker/blob/main/MEV-relay-list.md)
+* [beaconcha.in relay list and stats](https://beaconcha.in/relays)
 
 <br>
 
@@ -32,6 +35,7 @@
 ### resources
 
 * [fb relay api](https://flashbots.notion.site/Relay-API-Spec-5fb0819366954962bc02e81cb33840f5)
+
 
 ##### on building a relay
 
