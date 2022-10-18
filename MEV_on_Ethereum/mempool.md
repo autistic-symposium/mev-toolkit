@@ -14,7 +14,7 @@
 
 <br>
 
-### mempool monitor providers
+### mempool monitoring providers
 
 * [bloXroute, via websockets](https://bloxroute.com/pricing/)
 * [blocknative, via webshooks](https://www.blocknative.com/)
@@ -22,11 +22,12 @@
 
 <br>
 
-### mempool monitor open-source code
+### mempool monitoring open-source code
 
 * [mempool shark](https://github.com/sambacha/mempool-shark)
 * [lurk the mempool](https://github.com/taarushv/helios)
 * [eth-mempool-listener-rs](https://github.com/0xpanoramix/eth-mempool-listener-rs)
+* [eth-mempool-listener-go](https://github.com/0xpanoramix/eth-mempool-listener-go)
 
 
 
