@@ -14,7 +14,7 @@
 * [running nodes / validators](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/nodes/running-a-node.md)
 * [running nodes / validators (advanced)](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/nodes/running-a-node-advanced.md)
 * [geth on kubernetes](geth_and_k8s)
-* [list of relays](https://github.com/MEV-WAIFU-LABS/mev_waifu_toolkit/blob/main/NODES_on_Ethereum/relays.md)
+* [list and specs for relays](https://github.com/MEV-WAIFU-LABS/mev_waifu_toolkit/blob/main/NODES_on_Ethereum/relays.md)
 
 
 <br>
