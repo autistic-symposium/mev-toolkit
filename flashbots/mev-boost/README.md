@@ -8,7 +8,7 @@
 
 * [mev-boost](https://github.com/flashbots/mev-boost#installing) is a middleware run by validators to democratize the block-building market with a implementation of [proposer-builder-separation (PBS)](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) for proof-of-stake Ethereum. 
 * pbs was initially proposed by Ethereum researchers as a response to the risk that MEV poses to decentralization of consensus networks. 
-
+* [mev-boost, relays, self-sovereignty](https://mirror.xyz/mevwaifu.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
 
 
 <br>
