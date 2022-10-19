@@ -25,6 +25,7 @@
 
 
 
+* [mev-boost on a goerli validator](https://mirror.xyz/mevwaifu.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
 * [install mev-boost in ubuntu](https://github.com/metanull-operator/eth2-ubuntu/blob/master/v2/mev-boost.md)
 * [mev-boost docker image](https://hub.docker.com/r/flashbots/mev-boost)
 * [dune mev-boost dashboard](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
