@@ -8,6 +8,11 @@
 #### meta: the protocol matches trades via batch auctions for a variety of on-chain liquidity sources.
 #### traders can be settled via underlying on-chain amms directly or via dex aggregators, depending on which pool/path offers the best price -> a dex aggreagator of dex aggregators
 
+<br>
+
+<img width="700" alt="Screen Shot 2022-10-19 at 8 09 41 PM" src="https://user-images.githubusercontent.com/1130416/196847398-b1be7347-8699-4a67-86b8-d1cb29c0833b.png">
+
+
 
 <br>
 
