@@ -69,8 +69,8 @@
 
 
 * [flashbots](flashbots)
-* [cowswap](cowswap)
-* [rook](rook)
+* [cow.fi](cowfi)
+* [rook.fi](rook)
 * [twamm designs](twamm)
 * [0x protocol and rfq](0x_protocol)
 
