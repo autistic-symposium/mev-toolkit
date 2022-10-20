@@ -12,6 +12,7 @@
 * [dex screener](https://dexscreener.com/)
 * [impermanent Loss simulator for Balancer pools](https://baller.netlify.app/)
 * [eth hub on defi](https://docs.ethhub.io/built-on-ethereum/open-finance/what-is-open-finance/)
+* [l2 beat](https://l2beat.com/scaling/tvl/)
 
 
 <br>
