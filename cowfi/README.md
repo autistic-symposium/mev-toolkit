@@ -62,6 +62,7 @@ at high level, CoW Protocol strives to achieve the following:
 
 ## links
 
+* [cow.fi](https://cow.fi/)
 * [cow protocol forum](https://forum.cow.fi/)
 * [cow swap at mev.wtf 2022](https://docs.google.com/presentation/d/1vClubmyECHzYpT7-DzU6D45bc7iNpjF1NuiEblY-8ZQ/edit#slide=id.ge33f22559c_0_580)
 * [gnosis on cow protocol](https://docs.google.com/presentation/d/1vClubmyECHzYpT7-DzU6D45bc7iNpjF1NuiEblY-8ZQ/edit#slide=id.ge33f22559c_0_580)
