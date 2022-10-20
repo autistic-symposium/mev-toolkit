@@ -29,7 +29,7 @@
 
 <br>
 
-### "retired" mev bots to learn from
+### "retired" or learning mev bots
 
 <br>
 
@@ -50,7 +50,7 @@
 * [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
 * [globinmode longtail nft](https://github.com/Anish-Agnihotri/goblinmode)
 * [binance alpha bot](https://github.com/duckdegen/apebot)
-* [hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
+* [hummingbot rading bots](https://hummingbot.org/)
 * [cow solver templante](https://github.com/cowprotocol/solver-template-py)
 
 
