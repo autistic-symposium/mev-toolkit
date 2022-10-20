@@ -40,5 +40,7 @@ in order to take advantage of price discrepancies of that asset.
 
 <br>
 
+* [arb mev bot](https://github.com/scapula07/arbitrage-mev-bot)
+* [another mev bot](https://github.com/QuantiumX/Arbitrage-MEV-Bot-for-Uniswap)
 * [saving gas](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/blob/main/master_solidity/saving_gas.md)
 
