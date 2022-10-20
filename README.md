@@ -51,6 +51,7 @@
 * [globinmode longtail nft](https://github.com/Anish-Agnihotri/goblinmode)
 * [binance alpha bot](https://github.com/duckdegen/apebot)
 * [hummingbot ecosystem for crypto trading bots](https://hummingbot.org/)
+* [cow solver templante](https://github.com/cowprotocol/solver-template-py)
 
 
 
