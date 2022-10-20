@@ -1,15 +1,14 @@
-## 🎂 the mempool
+## 🎂 the mempool (the dark forest)
+
+
+### tl;dr
 
 <br>
 
-### the dark forest tl;dr
-
-<br>
-
-* whenever you make a transaction in the Ethereum network (you sign the transaction), you have to wait until it to be confirmed in the blockchain. 
-* during that period, it sits in the memory pool. 
-* anyone can listen to these transactions, and their details, while they are there, and even modify them. 
-* if someone pays a higher gas price, their modification will be included a block first.
+* the mempool is the ethereum memory pool, where pending new txs wait to be confirmed, i.e., validated and included into new blocks.
+* ethereum has a public mempool and many private mempool spaces (such as the ones provided by flashbot’s protect or rook’s coordinator).
+* this means that nodes and associated entities are entitled to configure their own rules for their mempool by allowing private (exclusive) order flow to
+* txs to be included in blocks, while not visible in the public mempool.
 
 
 <br>
