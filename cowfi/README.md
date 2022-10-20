@@ -3,6 +3,11 @@
 
 <br>
 
+<img width="500" alt="Screen Shot 2022-10-19 at 8 11 15 PM" src="https://user-images.githubusercontent.com/1130416/196847611-7d8d677a-e26b-4884-969d-11a6d6d7cd88.png">
+
+
+<br>
+
 #### [cow swap](https://swap.cow.fi/#/faq?chain=mainnet) is the first trading interface built on top of cow protocol.
 #### it's a meta dex aggregator that allows you to buy and sell tokens using gasless orders that are settled p2p among users or into any on-chain liquidity while providing mev protection
 #### meta: the protocol matches trades via batch auctions for a variety of on-chain liquidity sources.
@@ -60,3 +65,4 @@ at high level, CoW Protocol strives to achieve the following:
 * [cow protocol forum](https://forum.cow.fi/)
 * [cow swap at mev.wtf 2022](https://docs.google.com/presentation/d/1vClubmyECHzYpT7-DzU6D45bc7iNpjF1NuiEblY-8ZQ/edit#slide=id.ge33f22559c_0_580)
 * [gnosis on cow protocol](https://docs.google.com/presentation/d/1vClubmyECHzYpT7-DzU6D45bc7iNpjF1NuiEblY-8ZQ/edit#slide=id.ge33f22559c_0_580)
+* [gnosis protocol dune dashboard](https://dune.com/cowprotocol/Gnosis-Protocol-V2)
