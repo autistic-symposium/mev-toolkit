@@ -6,6 +6,7 @@
 ### algorithms
 
 * [symbolic searcher](https://github.com/bzhang42/symbolic-searcher)
+* [FairTraDEX](https://github.com/MEVProof/Contracts)
 
 <br>
 
