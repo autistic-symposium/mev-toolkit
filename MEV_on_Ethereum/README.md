@@ -58,4 +58,10 @@ Proposer Builder Separation, see: State of research: increasing censorship resis
     - `regular transfer`: a transaction created to send eth to other account
     
     
-    
+ <br>
+ 
+ ---
+ 
+ ### resources
+ 
+ * [mev on eth2 talk by vitalik](https://www.youtube.com/watch?v=OD54WfVuDWw&list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI&index=30)
