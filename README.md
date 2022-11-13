@@ -251,6 +251,7 @@
 * [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
 * [MEV wiki](https://www.mev.wiki/)
+* [barnabe.eth on pbs](https://barnabe.substack.com/p/pbs)
 
 <br>
 
