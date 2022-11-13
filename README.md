@@ -51,6 +51,7 @@
 * [binance alpha bot](https://github.com/duckdegen/apebot)
 * [hummingbot rading bots](https://hummingbot.org/)
 * [cow solver templante](https://github.com/cowprotocol/solver-template-py)
+* [cowsol](https://github.com/MEV-WAIFU-LABS/cow_arbitrage_solver)
 
 
 
