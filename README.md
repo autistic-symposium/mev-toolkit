@@ -191,7 +191,6 @@
 
 - [endgame by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
 - [ethereum is a dark forest by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
-- [ethereum blockspace by paradigm](https://research.paradigm.xyz/ethereum-blockspace)
 - [escaping the dark forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [how to build an ethereum mining pool by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
 - [mev and me by paradigm](https://research.paradigm.xyz/MEV)
@@ -203,10 +202,7 @@
 - [we live in a mempool by tom schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
 - [wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 - [tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
-- [keeperdao plan for mev protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
 - [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
-- [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
-- [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
 - [anatomy of an mev strategy: synthetix by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 
 
@@ -226,7 +222,6 @@
 * [mev.day 2022](https://mevday.org/)
 * [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 * [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
-* [cross-domain mev](https://arxiv.org/abs/2112.01472)
 * [mev wiki](https://www.mev.wiki/)
 * [barnabe.eth on pbs](https://barnabe.substack.com/p/pbs)
 * [mev extraction strategies](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g125078237b3_0_84)
@@ -239,13 +234,12 @@
 - [flash boys 2.0](https://arxiv.org/pdf/1904.05234.pdf)
 - [towards a theory of mev by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [transparent dishonesty: front-running attacks on blockchain](https://arxiv.org/pdf/1902.05164.pdf)
-- [keeperdao's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
 - [dex arbitrage, mathematical optimizations & me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 - [a list of open problems in defi by emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 - [combining ghost and casper](https://arxiv.org/abs/2003.03052)
 - [three attacks on pos ethereum](https://arxiv.org/abs/2110.10086)
 - [two attacks on pos ghost/ethereum](https://arxiv.org/abs/2203.01315)
-- [unity is strength by obadia et al](https://arxiv.org/pdf/2112.01472.pdf)
+
 
 
 <br>
