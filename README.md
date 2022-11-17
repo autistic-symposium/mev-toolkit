@@ -49,7 +49,7 @@
 * [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
 * [globinmode longtail nft](https://github.com/Anish-Agnihotri/goblinmode)
 * [binance alpha bot](https://github.com/duckdegen/apebot)
-* [hummingbot rading bots](https://hummingbot.org/)
+* [hummingbot trading bots](https://hummingbot.org/)
 * [cow solver templante](https://github.com/cowprotocol/solver-template-py)
 * [cowsol](https://github.com/MEV-WAIFU-LABS/cow_arbitrage_solver)
 
@@ -69,14 +69,25 @@
 
 <br>
 
-### healthy mev extraction
+### healthier mev extraction
 
 
 * [flashbots](flashbots)
 * [cow.fi](cowfi)
 * [rook.fi](rook)
+
+
+<br>
+
+### related defi stuff
+
+* [uniswap](uniswap)
+* [oracles and twap](oracles)
 * [twamm designs](twamm)
 * [0x protocol and rfq](0x_protocol)
+* [defi and day trading](defi_and_trading)
+* [tokenomics](tokenomics)
+
 
 <br>
 
@@ -86,15 +97,6 @@
 * [anatomy of mev bots](anatomy_of_mev_bots)
 * [nodes on ethereum](NODES_on_Ethereum)
 * [blockspaces](blockspace)
-
-<br>
-
-### related defi stuff
-
-* [oracles and twap](oracles)
-* [uniswap](uniswap)
-* [defi and day trading](defi_and_trading)
-* [tokenomics](tokenomics)
 
 
 <br>
@@ -172,13 +174,13 @@
 * [mev dashboard by flashbots](https://explore.flashbots.net/).
 * [nansen](https://www.nansen.ai/)
 * [token terminal](https://tokenterminal.com/terminal)
-* [westerngate, arbritage measured](Westerngate.xyz)
-* [eigenPhi arbitrage scan](https://eigenphi.io/)
+* [westerngate, arbitrage measured](Westerngate.xyz)
+* [eigenphi arbitrage scan](https://eigenphi.io/)
 * [parsec.finance](https://parsec.finance/)
 * [flashloans](https://tools.blocksec.com/flashloan/eth)
 * [sandwiched?](https://sandwiched.wtf/)
 * [etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
-* [MEV data corpus by manifold](https://github.com/manifoldfinance/mev-corpus)
+* [mev data corpus by manifold](https://github.com/manifoldfinance/mev-corpus)
 
 
 ##### awesome dune boards
@@ -251,7 +253,6 @@
 <br>
 
 * [mev.day 2022](https://mevday.org/)
-* [mev data corpus](https://github.com/manifoldfinance/mev-corpus)
 * [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 * [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
@@ -268,11 +269,12 @@
 - [towards a theory of mev by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [transparent dishonesty: front-running attacks on blockchain](https://arxiv.org/pdf/1902.05164.pdf)
 - [keeperdao's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
-- [dex arbitrage, mathematical optimisations & me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
+- [dex arbitrage, mathematical optimizations & me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 - [a list of open problems in defi by emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
 - [combining ghost and casper](https://arxiv.org/abs/2003.03052)
-- [three atacks on pos ethereum](https://arxiv.org/abs/2110.10086)
+- [three attacks on pos ethereum](https://arxiv.org/abs/2110.10086)
 - [two attacks on pos ghost/ethereum](https://arxiv.org/abs/2203.01315)
+- [unity is strength by obadia et al](https://arxiv.org/pdf/2112.01472.pdf)
 
 
 <br>
