@@ -72,5 +72,5 @@
 * [Youtube Town Halls](https://www.youtube.com/channel/UCDNHJWdB32MdwcHs0Btiaxg/videos)
 * [Contracts registry](https://docs.keeperdao.com/reference/for-beginners/smart-contracts)
 * [Gnosis multi-sig](https://gnosis-safe.io/app/eth:0xa8b0a855BE21568B93f32805b244158Cc61AD006/balances)
-- [keeperdao plan for mev protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
+* [keeperdao plan for mev protection](https://blog.keeperdao.com/how-to-protect-yourself-from-mev-and-get-paid-for-it/)
 
