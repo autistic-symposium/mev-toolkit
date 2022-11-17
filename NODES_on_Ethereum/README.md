@@ -1,8 +1,12 @@
-# 🍄 a pos brave new world
+# 🍄 proof-of-work ethereum
 
 <br>
 
 ![client-stack-14ace48dfcb4ed2abf997e09efa20bf2](https://user-images.githubusercontent.com/1130416/192988516-29767997-8001-42af-82f1-ce09f41270d7.png)
+
+<br>
+
+<img width="700" alt="Screen Shot 2022-11-17 at 3 47 49 PM" src="https://user-images.githubusercontent.com/1130416/202584279-b84f9c9f-36c8-4a2d-8f59-38a200ae26d3.png">
 
 
 <br>
