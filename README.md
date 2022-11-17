@@ -216,11 +216,11 @@
 <br>
 
 - [endgame by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
+- [ethereum is a dark forest by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+- [ethereum blockspace by paradigm](https://research.paradigm.xyz/ethereum-blockspace)
 - [escaping the dark forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [how to build an ethereum mining pool by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
 - [mev and me by paradigm](https://research.paradigm.xyz/MEV)
-- [ethereum is a dark forest by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
-- [ethereum blockspace by paradigm](https://research.paradigm.xyz/ethereum-blockspace)
 - [return to the dark forest by rekt](https://rekt.news/return-to-the-dark-forest/)
 - [modern mev sandwich attacks by totlsota](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
 - [how i learned to stop worrying and love mev by sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
@@ -233,6 +233,7 @@
 - [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
+- [structuring blockspace derivatives, by julian ma](https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2MufTyD0c595xVRUEZi9RNG-dHNKs)
 
 
 
