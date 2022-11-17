@@ -233,6 +233,8 @@
 - [How to use Flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [Flashbots bundler explore](https://flashbots-explorer.marto.lol/)
 - [Ethereum is a Dark Forest by Paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+- [Ethereum Blockspace by Paradigm](https://research.paradigm.xyz/ethereum-blockspace)
+
 
 
 
@@ -245,15 +247,15 @@
 
 <br>
 
-* [MEV.day 2022](https://mevday.org/)
-* [MEV data corpus](https://github.com/manifoldfinance/mev-corpus)
-* [the Daily Ape on MEV](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
-* [cryptocurrency Historical Data Snapshot](https://coinmarketcap.com/historical/)
+* [mev.day 2022](https://mevday.org/)
+* [mev data corpus](https://github.com/manifoldfinance/mev-corpus)
+* [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+* [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
-* [MEV wiki](https://www.mev.wiki/)
+* [mev wiki](https://www.mev.wiki/)
 * [barnabe.eth on pbs](https://barnabe.substack.com/p/pbs)
 * [mev extraction strategies](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g125078237b3_0_84)
-* [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
+* [mev auction](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 
 <br>
 
