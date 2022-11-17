@@ -22,7 +22,13 @@
 * [mev-boost stuff](https://github.com/bt3gl-labs/1337_mev_toolkit/tree/main/flashbots/mev-boost)
 
 
+<br>
 
+---
 
+### resources
+
+- [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
+- [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
 
 
