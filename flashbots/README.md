@@ -30,5 +30,6 @@
 
 - [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
+- [flashbots: frontrunning the mev crisis by thegostep](https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251)
 
 
