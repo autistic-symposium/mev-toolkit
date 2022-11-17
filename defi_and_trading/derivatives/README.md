@@ -57,6 +57,12 @@
 * If held until expiry, binary options have only two payoff possibilities: a predetermined amount of profit or nothing.
 * Relies on Synthetix's sUSD stablecoin for minting its binary options tokens and as the platform's unit of account.
 
+<br>
 
+---
+
+### resources
+
+* [put-call parity](https://www.investopedia.com/terms/p/putcallparity.asp#:~:text=Understanding%20Put%2DCall%20Parity,-As%20noted%20above&text=Put%2Dcall%20parity%20states%20that,to%20the%20option's%20strike%20price.)
 
 
