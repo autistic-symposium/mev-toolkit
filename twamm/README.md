@@ -17,3 +17,4 @@
 ### resources
 
 * [twamm by paradigm](https://www.paradigm.xyz/2021/07/twamm)
+* [twamm reference implementation in python](https://github.com/para-dave/twamm)
