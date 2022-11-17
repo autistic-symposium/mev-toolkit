@@ -252,6 +252,7 @@
 * [cross-domain mev](https://arxiv.org/abs/2112.01472)
 * [MEV wiki](https://www.mev.wiki/)
 * [barnabe.eth on pbs](https://barnabe.substack.com/p/pbs)
+* [mev extraction strategies](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g125078237b3_0_84)
 
 <br>
 
