@@ -13,7 +13,7 @@
 
 <br>
 
-### mev extraction strategies
+### mev extraction strategies and research
 
 <br>
 
@@ -24,6 +24,7 @@
 * [sandwiching](sandwiching)
 * [liquidations](liquidations)
 * [flashloans](flashloans)
+
 
 <br>
 
@@ -84,6 +85,7 @@
 
 * [anatomy of mev bots](anatomy_of_mev_bots)
 * [nodes on ethereum](NODES_on_Ethereum)
+* [blockspaces](blockspace)
 
 <br>
 
@@ -233,7 +235,7 @@
 - [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
-- [structuring blockspace derivatives, by julian ma](https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2MufTyD0c595xVRUEZi9RNG-dHNKs)
+
 
 
 
@@ -263,7 +265,7 @@
 #### research papers
 
 - [flash boys 2.0](https://arxiv.org/pdf/1904.05234.pdf)
-- [towards a theory of mev, diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
+- [towards a theory of mev by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [transparent dishonesty: front-running attacks on blockchain](https://arxiv.org/pdf/1902.05164.pdf)
 - [keeperdao's whitepaper](https://github.com/keeperdao/whitepaper/blob/main/whitepaper.pdf)
 - [dex arbitrage, mathematical optimisations & me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
@@ -287,7 +289,7 @@
 * [the hacker manifest by the mentor](http://phrack.org/issues/7/3.html)
 * [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [teal organizations](https://reinventingorganizationswiki.com/)
-* [decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+* [decentralization by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 
 
 <br>
