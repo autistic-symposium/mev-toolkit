@@ -129,6 +129,7 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 * [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 * [Utility token price simulator](https://github.com/melonattacker/utility-token-price-simulator) 
 * [TokenSPICE](https://github.com/tokenspice/tokenspice)
+* [The Reverse Liquidity Bootstrapping Pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)
 
 
 
