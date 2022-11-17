@@ -7,6 +7,9 @@
 <br>
 
 * flashbots is a research and development organization focused on mitigating the negative externalities of current MEV extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.
+* exclusive transaction order flows:
+   - Searcher Order Flow - Flashbots Relay
+   - User Private Order Flow - Flashbots Protect
 
 <br>
 
