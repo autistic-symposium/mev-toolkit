@@ -12,23 +12,27 @@
 * [the mempool](MEMPOOL.md)
 * [terminology](terminology.md)
 
+
+
 <br>
 
-<img width="800" alt="Screen Shot 2022-10-17 at 10 19 34 PM" src="https://user-images.githubusercontent.com/1130416/196341991-97ef37f7-c509-448f-a08c-95043fbe4fef.png">
 
-<br>
-
-
-
-### resource
-
-* [frontrunning mev crisis](https://writings.flashbots.net/writings/frontrunning-mev-crisis/)
-
-
+<img width="900" alt="Screen Shot 2022-11-17 at 2 02 06 PM" src="https://user-images.githubusercontent.com/1130416/202569415-5b0b7eff-5fe9-4c83-8249-702822d0766d.png">
 
 
 
 <br>
+
+<img width="400" alt="Screen Shot 2022-10-17 at 10 19 34 PM" src="https://user-images.githubusercontent.com/1130416/196341991-97ef37f7-c509-448f-a08c-95043fbe4fef.png">
+
+
+
+
+
+
+<br>
+
+----
 
 ### terminology
 
