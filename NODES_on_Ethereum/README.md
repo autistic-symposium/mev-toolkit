@@ -15,7 +15,7 @@
 * [advanced resources on running nodes and validators](running-a-node-advanced.md)
 * [geth on kubernetes](geth_and_k8s)
 * [list and specs for relays](RELAYS.md)
-* [notes on casper ffg](casper-ffg.md)
+* [pos consensus mechanisms](pos_consensus_mechanisms.md)
 
 
 <br>
