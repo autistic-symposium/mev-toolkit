@@ -11,4 +11,4 @@
 
 #### block size manipulation
 
-* if a block is larger than the target block size, the base fee increases. a block builder can manipulate the size of the block to increase/decrease the base fee in the next bloxk.
+* if a block is larger than the target block size, the base fee increases. a block builder can manipulate the size of the block to increase/decrease the base fee in the next block.
