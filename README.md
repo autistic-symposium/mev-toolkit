@@ -253,6 +253,7 @@
 * [MEV wiki](https://www.mev.wiki/)
 * [barnabe.eth on pbs](https://barnabe.substack.com/p/pbs)
 * [mev extraction strategies](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g125078237b3_0_84)
+* [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 
 <br>
 
@@ -274,7 +275,7 @@
 ---
 
 
-## 🌭 bonus: 𝕋𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
+## 🌭 bonus: 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
 
 <br>
 
