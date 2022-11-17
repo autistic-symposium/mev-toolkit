@@ -40,4 +40,5 @@
 
 ### resources 
 
+* [Validated, staking on eth2: #2 - Two ghosts in a trench coat](https://blog.ethereum.org/2020/02/12/validated-staking-on-eth2-2-two-ghosts-in-a-trench-coat)
 * [Visualising the 7-block reorg on the Ethereum beacon chain](https://barnabe.substack.com/p/pos-ethereum-reorg?s=w)
