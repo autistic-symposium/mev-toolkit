@@ -31,6 +31,7 @@
 
 
 * [build your mev bot](anatomy_of_mev_bots)
+* [pvp_war](pvp_war)
 * [nodes on ethereum](NODES_on_Ethereum)
 * [blockspaces](blockspace)
 
