@@ -43,6 +43,7 @@
 
 * [mev on ethereum](MEV_on_Ethereum)
 * [mev on avalanche](MEV_on_Avalanche)
+* [mev on arbitrum](MEV_on_Arbitrum)
 * [mev on solana](MEV_on_Solana)
 * [mev on cosmos](MEV_on_Cosmos)
 
