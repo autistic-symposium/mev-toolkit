@@ -17,7 +17,8 @@
 
 ### YOLOchain
 
-* instead of users paying tx fees via gas prices, flashbots users pay fees via a smart contract call which transfers eth to miner.
-* miners receive bundles of txs from users and include the bundle that pays the most
-* sandwich bots watch the mempool for users buying on dexes and sandwich them
-* bots will simulate their txs on local infrastrcuture
+* [bert miller thread](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
+  * instead of users paying tx fees via gas prices, flashbots users pay fees via a smart contract call which transfers eth to miner.
+  * miners receive bundles of txs from users and include the bundle that pays the most
+  * sandwich bots watch the mempool for users buying on dexes and sandwich them
+  * bots will simulate their txs on local infrastrcuture
