@@ -13,6 +13,8 @@
 
 * trap for front-runnign bots during token listing.
 
+<br>
+
 ### YOLOchain
 
 * instead of users paying tx fees via gas prices, flashbots users pay fees via a smart contract call which transfers eth to miner.
