@@ -10,6 +10,11 @@
 * this means that nodes and associated entities are entitled to configure their own rules for their mempool by allowing private (exclusive) order flow to
 * txs to be included in blocks, while not visible in the public mempool.
 
+<br>
+
+<img width="350" alt="https://docs.google.com/presentation/d/1ADPiTVWEVQ8nBGLMRdx5GmSFdrrKi3OzsbyedOcVLWk/edit#slide=id.g141d1b1a5ae_0_165" src="https://user-images.githubusercontent.com/1130416/202612298-771cfd9d-b241-491e-8dc0-a277d5d0fa89.png">
+
+
 
 <br>
 
