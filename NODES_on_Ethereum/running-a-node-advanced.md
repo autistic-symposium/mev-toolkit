@@ -207,4 +207,5 @@ openssl rand -hex 32 > jwtsecret
 * [staking & hardware](https://kb.beaconcha.in/saking-and-hardware)
 * [love weak subjectivity, by vitalik](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity)
 * [post-merge mev: modelling validator returns](https://pintail.xyz/posts/post-merge-mev/)
+* [post-merge apy analysis by rocketpool](https://github.com/rocket-pool/rocketpool-research/blob/master/Post%20Merge/Analysis.md)
 
