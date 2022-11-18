@@ -48,6 +48,7 @@
 * [mev on arbitrum](MEV_on_Arbitrum)
 * [mev on solana](MEV_on_Solana)
 * [mev on cosmos](MEV_on_Cosmos)
+* [mev on binance](MEV_on_Binance)
 
 
 <br>
