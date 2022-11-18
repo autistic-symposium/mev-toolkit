@@ -205,7 +205,7 @@
 - [tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
 - [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [anatomy of an mev strategy: synthetix by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
-
+- [mev wat to do by phill daian ](https://pdaian.com/blog/mev-wat-do/)
 
 
 
