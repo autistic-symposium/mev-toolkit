@@ -58,4 +58,5 @@
 * [add label to beaconcha.in](https://beaconcha.in/relays)
 * [join fb boost relays tg](https://t.me/+E-HTvTDIsdI3MjM1)
 * [understanding mev-boost liveness risk by hasu](https://writings.flashbots.net/writings/understanding-mev-boost-liveness-risks/)
+* [keeping relays honest](https://notes.ethereum.org/@yoav/BJeOQ8rI5)
 
