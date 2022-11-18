@@ -26,3 +26,12 @@
 ### strategy 2
 
 * A observes a transaction T, which will create a liquidation opportunity (e.g., an oracle price update transaction which will render a collaterized debit liquidatable). A then back-runs T with a liquidation transaction Ti to avoid the transation fee bidding competition.
+
+
+<br>
+
+---
+
+## resources
+
+* [understanding compound's liquidation](https://zengo.com/understanding-compounds-liquidation/)
