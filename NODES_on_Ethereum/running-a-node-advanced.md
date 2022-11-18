@@ -1,4 +1,4 @@
-## 🍕 More dets on running validators
+## 🍕 more advanced notes on running validators
 
 <br>
 <br>
@@ -206,5 +206,5 @@ openssl rand -hex 32 > jwtsecret
 * [configuring staking with dappnode](https://raymonddurk.medium.com/how-to-stake-for-ethereum-2-0-with-dappnode-231fa7689c02)
 * [staking & hardware](https://kb.beaconcha.in/saking-and-hardware)
 * [love weak subjectivity, by vitalik](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity)
-
+* [post-merge mev: modelling validator returns](https://pintail.xyz/posts/post-merge-mev/)
 
