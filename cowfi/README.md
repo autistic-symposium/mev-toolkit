@@ -26,3 +26,4 @@
 * [several dune boards for cow.fi and gnosis protocol](https://forum.cow.fi/t/cow-fi-analytics/369)
 * [leverage EIP-1271 to place all sorts of smart orders on cowswap](https://www.youtube.com/watch?v=6zj0_E8JWPQ)
 * [yearn cow solver](https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3)
+* [useful cowswap resources](https://hackmd.io/@chenm/HJqjdkjvt)
