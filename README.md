@@ -57,8 +57,8 @@
 
 
 * [flashbots](flashbots)
-* [cow.fi](cowfi)
-* [rook.fi](rook)
+* [cow protocol](cow_protocol)
+* [rook dao](rook)
 
 
 <br>
