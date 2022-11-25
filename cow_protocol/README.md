@@ -33,5 +33,5 @@
 
 #### talks
 
-* [MEV Reduction via Batch Auction by Alex Hermann](https://www.youtube.com/watch?v=nEpDHiZfFyA)
+* [Examining the Potential of Frequent Batch Auctions in Ethereum by Anna George](https://www.youtube.com/watch?v=qSdE4LrPjG0)
 * [cow swap at mev.wtf 2022](https://docs.google.com/presentation/d/1vClubmyECHzYpT7-DzU6D45bc7iNpjF1NuiEblY-8ZQ/edit#slide=id.ge33f22559c_0_580)
