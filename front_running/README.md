@@ -1,4 +1,4 @@
-## 🥩 frontrunning
+## 🥩 frontrunning (or PGA, priority gas auction)
 
 <br>
 
@@ -18,3 +18,11 @@
 
 
 * frontrunners will copy the potentially profitable transaction's code and replace addresses with theirs. Then, they submit the modified transaction with the replaced address and a higher gas price, frontrunning the original transaction and getting the searcher's MEV.
+
+<br>
+
+---
+
+### resources
+
+* [ef discussion on random ordering of equally-priced txs](https://github.com/ethereum/go-ethereum/issues/21350)
