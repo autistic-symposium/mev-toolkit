@@ -25,4 +25,4 @@
 
 ### resources
 
-* [ef discussion on random ordering of equally-priced txs](https://github.com/ethereum/go-ethereum/issues/21350)
+
