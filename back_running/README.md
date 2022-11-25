@@ -27,8 +27,10 @@
 
 ---
 
-### data
+### resources
 
 <br>
 
 * [dune for Portion of Daily Gas Used by Backrunning Bot Contracts](https://dune.com/phabc/backrunning-bots-gas-consumption)
+* [backrunning study for bZx IDO](https://amanusk.medium.com/the-fastest-draw-on-the-blockchain-bzrx-example-6bd19fabdbe1)
+
