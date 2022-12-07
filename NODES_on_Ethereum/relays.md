@@ -1,4 +1,4 @@
-## pbs tx relays
+## pbs tx and/or mev-boost relays
 
 <br>
 
@@ -24,6 +24,7 @@
   - Manifold has a focus on trade execution quality and end user settlement. They support blocks that are not OFAC compliant.
 * [ethsaker relay list ](https://github.com/remyroy/ethstaker/blob/main/MEV-relay-list.md)
 * [beaconcha.in relay list and stats](https://beaconcha.in/relays)
+* [rated analytics on relays](https://www.rated.network/relays?network=mainnet)
 
 <br>
 
