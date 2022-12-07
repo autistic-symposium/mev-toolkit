@@ -13,5 +13,5 @@
 
 
 
-* [skip.money](https://skip.money]
-* https://twitter.com/Thyborg_/status/1547898785933639684
+* [skip.money](https://skip.money)
+* [thyborg twitter thread](https://twitter.com/Thyborg_/status/1547898785933639684)
