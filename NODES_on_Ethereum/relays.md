@@ -22,6 +22,8 @@
   - Eden is a permissioned system for block builders. They are accepting applications for block builders, but they also run their own. They capitalize on orderflow sent to their builder via their private RPC.
 * [manifold]()
   - Manifold has a focus on trade execution quality and end user settlement. They support blocks that are not OFAC compliant.
+* [ultrasound money](https://relay.ultrasound.money/)
+  - not OFAC compliant
 * [ethsaker relay list ](https://github.com/remyroy/ethstaker/blob/main/MEV-relay-list.md)
 * [beaconcha.in relay list and stats](https://beaconcha.in/relays)
 * [rated analytics on relays](https://www.rated.network/relays?network=mainnet)
