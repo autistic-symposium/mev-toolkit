@@ -31,9 +31,8 @@
 
 ### building a toolkit
 
-* [pvp battles and interesting txs](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
-* [the supply chain on post-merge ethereum](NODES_on_Ethereum)
+* [pvp battles and interesting txs](pvp_war)
 
 
 
