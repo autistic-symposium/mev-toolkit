@@ -34,7 +34,6 @@
 * [pvp battles and interesting txs](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
 * [nodes on ethereum](NODES_on_Ethereum)
-* [blockspaces](blockspace)
 
 
 
