@@ -1,9 +1,7 @@
 ## 🍿 tokenomics for defi projects
 
 
-
-
-### on projects
+### projects
 
 * [dydx tokenomics](https://docs.dydx.community/dydx-governance/start-here/dydx-allocations)
 * [redacted cartel tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-redacted-cartel-btrfly?utm_source=substack&utm_medium=email)
@@ -13,79 +11,38 @@
 
 ---
 
-### tl; dr
+### supply
 
-#### tokenomics factors 
+* **Circulating supply:** How many tokens are in existence (in the market)?
+* **Max supply:** How many tokens will there be in total? 
+* **Total suppply:** all tokens already issued minus the ones that were burned/locked.
 
-<br>
+> If the circulating supply is low while the total and max are high: red flag as the value of your coins will get diluted away (more coins created will put pressure on the price).
 
-* math
-* supply vs. demand
-* incentives
-* value accrual
-* human behavior & game theory
-
-<br>
-
-----
-
-#### main questions
-
-<br>
-
-* How many tokens are in existence?
-* How many tokens will there be in total? 
-* Who has the supply? WHEN can they sell?
-* How will the supply change over time? 
-* What are their policies for changing?
-
-
+> The monetary policy in crypto dictates whether a coin is inflationary or deflationary and by how much, as well as the overall consensus mechanism for the project.
 
 <br>
 
 ---
 
-#### concerns
+### liquidity and valuation
 
-<br>
-
-* The tokens were inflationary without enough utility.
-* Concentration of tokens by VCs & whales led to retail getting dumped on.
-* Understanding the market cap would show that it's impossible. 
-
-
-<br>
-
----
-
-#### supply metrics
-
-<br>
-
-* Supply: How many tokens exist NOW
-* Max supply: The most that can exist 
-* Market Cap: Current Price * circulating supply
-* Fully Diluted MC: Price * max supply.
-
-<br>
-
-
-* for example, it's not a good sign that a circulating supply was only at 40%. That means the supply will increase by 60%.
-      * More coins created will put pressure on the price.
-* another example, Dogecoin is an inflationary token: its supply is increasing each year, and there's no CAP on the supply.
-      * this isn't good for Tokenomics because it's the opposite of Scarcity. Some coins can become deflationary when the supply DECREASES over time.
+* **Fully diluted valuation:** How will the supply change over time? 
+* **Market cap**: Current Price * circulating supply
+* **Fully Dilute:** Market cap: Price * max supply.
 
 <br>
 
 ---
 
-#### allocation & distribution
+### distribution
 
-<br>
+* **Holders**: Who has the supply? WHEN can they sell?
+* **DAOs/project research**: What are their policies for changing?
+
+> A good distribution design is when no single person or group holds a large amount of the coin, instead, it’s distributed among many individuals.
 
 * how are the initial tokens distributed? There are roughly 2 ways:
-
-<br>
 
 ##### pre minted
 
@@ -100,30 +57,36 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 * 100% fair. Everyone has equal access.
 
 <br>
-<br>
-
-
 <img width="490" alt="Screen Shot 2022-05-31 at 4 10 16 PM" src="https://user-images.githubusercontent.com/1130416/171298450-9c18c98a-db92-41f7-baad-1e3a180fe924.png">
 
-<br>
+
 <br>
 
 ---
 
-#### what drives the demand 
+### concerns
+
+
+* The tokens were inflationary without enough utility.
+* Concentration of tokens by VCs & whales led to retail getting dumped on.
+* Understanding the market cap would show that it's impossible. 
 
 <br>
+
+---
+
+### what drives the demand 
 
 
 * Utility (gas, fun, adoption)
 * Value Accrual (xStaking, governance)
 * The Memes and Narratives
 
+
 <br>
 
-
-
 ---
+
 
 ### resources and tools
 
@@ -136,7 +99,4 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 * [TokenSPICE](https://github.com/tokenspice/tokenspice)
 * [The Reverse Liquidity Bootstrapping Pool](https://tokenomicsdao.substack.com/p/the-reverse-liquidity-bootstrapping)
 
-
-
-<br>
 
