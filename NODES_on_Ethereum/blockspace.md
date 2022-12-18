@@ -21,3 +21,4 @@
 - [ethereum blockspace by paradigm](https://research.paradigm.xyz/ethereum-blockspace)
 - [ethereum blockspace by alkimiya](https://www.aniccaresearch.tech/blog/ethereum-blockspace-who-gets-what-and-why)
 - [structuring blockspace derivatives by julian ma](https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/WKa3GFC03uY34d2MufTyD0c595xVRUEZi9RNG-dHNKs)
+- [slot space vc. block space](https://mirror.xyz/0x03c29504CEcCa30B93FF5774183a1358D41fbeB1/CPYI91s98cp9zKFkanKs_qotYzw09kWvouaAa9GXBrQ)
