@@ -1,21 +1,28 @@
-## PvP bot battles
+## PvP War
+
+* [interesting txs](interesting_txs.md)
+
 
 <br>
 
-### salmonella
+### PvP bot battles
+
+<br>
+
+#### salmonella
 
 * exploited the generalised nature of front-running setups through an erc20 token that could detect when a non-owner is transacting it, returning just 10% of the amount.
 * [source code](https://github.com/Defi-Cartel/salmonella)
 
 <br>
 
-### kattana
+#### kattana
 
 * trap for front-runnign bots during token listing.
 
 <br>
 
-### YOLOchain
+#### YOLOchain
 
 * [bert miller thread](https://twitter.com/bertcmiller/status/1381296074086830091?s=20)
   * instead of users paying tx fees via gas prices, flashbots users pay fees via a smart contract call which transfers eth to miner.
