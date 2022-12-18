@@ -15,7 +15,7 @@
 
 <br>
 
-### mev extraction strategies and research
+### mev extraction strategies
 
 <br>
 
@@ -31,9 +31,8 @@
 
 ### building a toolkit
 
-
+* [pvp battles and interesting txs](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
-* [pvp bot battles](pvp_war)
 * [nodes on ethereum](NODES_on_Ethereum)
 * [blockspaces](blockspace)
 
