@@ -1,13 +1,5 @@
 ## 🥪 anatomy of mev bots
 
-<br>
-
-
-![mev boost transaction flow](https://user-images.githubusercontent.com/1130416/204161522-07e49b61-5163-42a1-ba5d-7ba45db4b3dd.png)
-
-
-<br>
-
 
 ### "retired" or learning mev bots
 
