@@ -1,10 +1,21 @@
 ## 🍿 tokenomics for defi projects
 
 
+
+
+### on projects
+
+* [dydx tokenomics](https://docs.dydx.community/dydx-governance/start-here/dydx-allocations)
+* [redacted cartel tokenomics](https://tokenomicsdao.substack.com/p/tokenomics-101-redacted-cartel-btrfly?utm_source=substack&utm_medium=email)
+
 <br>
 
 
-### tokenomics factors 
+---
+
+### tl; dr
+
+#### tokenomics factors 
 
 <br>
 
@@ -18,7 +29,7 @@
 
 ----
 
-### main questions
+#### main questions
 
 <br>
 
@@ -34,7 +45,7 @@
 
 ---
 
-### concerns
+#### concerns
 
 <br>
 
@@ -47,7 +58,7 @@
 
 ---
 
-### supply metrics
+#### supply metrics
 
 <br>
 
@@ -68,7 +79,7 @@
 
 ---
 
-### allocation & distribution
+#### allocation & distribution
 
 <br>
 
@@ -99,7 +110,7 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 
 ---
 
-### what drives the demand 
+#### what drives the demand 
 
 <br>
 
@@ -110,13 +121,7 @@ Vesting means when they're allowed to sell the tokens. You want to make sure tha
 
 <br>
 
-----
 
-## on projects
-
-* [dydx tokenomics](https://docs.dydx.community/dydx-governance/start-here/dydx-allocations)
-
-<br>
 
 ---
 
