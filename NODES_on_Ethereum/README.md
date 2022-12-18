@@ -1,4 +1,8 @@
-# 🍄 proof-of-work ethereum
+# 🍄 proof-of-state ethereum
+
+
+<img width="500" alt="Screen Shot 2022-11-17 at 3 47 49 PM" src="https://user-images.githubusercontent.com/1130416/204161522-07e49b61-5163-42a1-ba5d-7ba45db4b3dd.png">
+
 
 <br>
 
