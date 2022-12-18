@@ -8,14 +8,14 @@
 
 <br>
 
-### in this repo
+### in this dir
 
 <br>
 
 * [running nodes and validators](running-a-node.md)
 * [advanced resources on running nodes and validators](running-a-node-advanced.md)
 * [geth on kubernetes](geth_and_k8s)
-* [list and specs for relays](RELAYS.md)
+* [dets and specs for relays](relays.md)
 * [pos consensus mechanisms](pos_consensus_mechanisms.md)
 * [blockspaces](blockspace.md)
 * [basic evm](evm-knowledge.md)
