@@ -10,7 +10,7 @@
 
 <br>
 
-### mainnet relay list
+### mainnet (mev-boost) relay list
 
 * [flashbots]()
   - The Flashbots team worked very closely with the Ethereum foundation as its founders were researchers who saw the threat that MEV posed to blockchains. Since then, they’ve developed MEV-Geth and MEV-Boost to prevent the centralization of MEV searchers and validators.
@@ -23,6 +23,8 @@
 * [manifold]()
   - Manifold has a focus on trade execution quality and end user settlement. They support blocks that are not OFAC compliant.
 * [ultrasound money](https://relay.ultrasound.money/)
+  - not OFAC compliant
+* [aestus](https://www.aestus.live/)
   - not OFAC compliant
 * [ethsaker relay list ](https://github.com/remyroy/ethstaker/blob/main/MEV-relay-list.md)
 * [beaconcha.in relay list and stats](https://beaconcha.in/relays)
