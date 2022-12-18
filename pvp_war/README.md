@@ -18,7 +18,7 @@
 
 #### kattana
 
-* trap for front-runnign bots during token listing.
+* trap for front-running bots during token listing.
 
 <br>
 
