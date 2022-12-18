@@ -1,7 +1,4 @@
-## 🥪 anatomy of mev bots
-
-
-### "retired" or learning mev bots
+## 🥪 "retired" or learning mev bots
 
 
 #### arbers
