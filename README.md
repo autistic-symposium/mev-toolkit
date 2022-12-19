@@ -26,6 +26,7 @@
 * [sandwiching](sandwiching)
 * [liquidations](liquidations)
 * [flashloans](flashloans)
+* [sniping](sniping)
 
 <br>
 
