@@ -1,27 +1,15 @@
 
 ## 🥩 flashloan stuff
 
-<br>
-
-### code
-
-* [flashloan bot](https://github.com/QuantiumX/Flashloan-Bot)
+### tl; dr
 
 
 <br>
+
+---
 
 ### resources
 
 * [tfusd flashloan writeup](https://github.com/Jonah246/tfusd-flashloan-attack-write-up)
+* [defi hacks: flashloans](https://wooded-meter-1d8.notion.site/0e85e02c5ed34df3855ea9f3ca40f53b?v=22e5e2c506ef4caeb40b4f78e23517ee)
 
-
-<br>
-
-### interesting txs
-
-<br>
-
-* [hundred finance heist](https://dashboard.tenderly.co/tx/xdai/0x534b84f657883ddc1b66a314e8b392feb35024afdec61dfe8e7c510cfac1a098?trace=0)
-
-
-<br>
