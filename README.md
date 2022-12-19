@@ -31,9 +31,11 @@
 
 ### building a toolkit
 
+* [pvp battles](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
-* [pvp battles and interesting txs](pvp_war)
 * [latency optimization](latency)
+
+
 
 
 
