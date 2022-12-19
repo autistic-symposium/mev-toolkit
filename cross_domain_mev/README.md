@@ -1,6 +1,13 @@
 ## cross-domain mev
 
+### tl; dr
+
+* currently, the largest form of cross-domain MEV is by arbitrageurs extracting loss-versus-rebalancing (LVR) from liquidity providers
+
+
 <br>
+
+---
 
 ### resources
 
