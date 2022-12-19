@@ -1,4 +1,7 @@
-## 🥪 "retired" or learning mev bots
+## 🤖 Anatomy of MEV bots
+
+
+### "retired" or learning mev bots
 
 #### 101
 
@@ -60,9 +63,12 @@
 
 <br>
 
+---
+
 ### more resources
 
 <br>
 
-- [Build a MEV bot](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
+- [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
+- [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 
