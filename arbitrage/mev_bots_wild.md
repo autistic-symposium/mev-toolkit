@@ -1,4 +1,4 @@
-## 🥓 list of interesting mev bot arb found in the wild
+## 🥓 list of interesting mev arb found in the wild
 
 <br>
 
