@@ -42,6 +42,11 @@
 * [optimal sandwich](https://github.com/mevcheb/optimal-sandwich)
 * [subway](https://github.com/libevm/subway)
 
+#### snipers
+
+* [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
+* [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
+
 #### cow solvers
 
 * [cow solver template](https://github.com/cowprotocol/solver-template-py)
@@ -58,8 +63,6 @@
 * [FairTraDEX](https://github.com/MEVProof/Contracts)
 * [searcher-sponsored-tx](https://github.com/flashbots/searcher-sponsored-tx)
 * [searcher-minter](https://github.com/flashbots/searcher-minter)
-* [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
-* [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
 * [mev bot in q using kdb+](https://github.com/sambacha/q-evm)
 
 <br>
