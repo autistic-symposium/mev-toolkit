@@ -76,4 +76,5 @@
 
 - [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
 - [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
+- [mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)
 
