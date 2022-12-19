@@ -22,25 +22,18 @@ in order to take advantage of price discrepancies of that asset.
 
 ----
 
-### arbitrages in the wild
-
-<br>
-
-* [arbitrageur begins with 1,000 Wrapped Ether (WETH), and ends up with 1,045](https://etherscan.io/tx/0x5e1657ef0e9be9bc72efefe59a2528d0d730d478cfc9e6cdd09af9f997bb3ef4)
+### in this dir
 
 
-
-* [list of interesting mev bots transactions](https://github.com/bt3gl-labs/1337_mev_toolkit/blob/main/arbitrage/mev_bots_wild.md)
+* [interesting mev arb txs in the wild](mev_bots_wild.md)
 
 <br>
 
 ----
 
-### designing arb bots
+### resources
 
-<br>
 
-* [arb mev bot](https://github.com/scapula07/arbitrage-mev-bot)
-* [another mev bot](https://github.com/QuantiumX/Arbitrage-MEV-Bot-for-Uniswap)
-* [saving gas](https://github.com/bt3gl-labs/1337_blockchain_hacker_toolkit/blob/main/master_solidity/saving_gas.md)
+
+* [saving gas](https://github.com/go-outside-labs/blockchain-hacking/blob/main/solidity/saving_gas.md)
 
