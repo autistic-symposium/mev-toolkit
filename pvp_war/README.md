@@ -45,6 +45,18 @@
 * [tyrantsuka](https://dashboard.tenderly.co/contract/mainnet/0x56fc579728021a9fa44fe8dc3d6bb346ba212fd5)
 * [oxide](https://dashboard.tenderly.co/contract/mainnet/0x3c275f465a064b894cdb58874fa74b3576fa4dc7)
 * [whalein](https://dashboard.tenderly.co/contract/mainnet/0x9f450c835a6efc278125805fe0ecf420fe504f7b)
+* [kobo](https://dashboard.tenderly.co/contract/mainnet/0x547ec76f9bb3d7f56fa5efa4bf1bed60ed748498)
+* [tgl](https://dashboard.tenderly.co/contract/mainnet/0xcc4450edefbbeb450e2f205f4eceff7232d54e92)
+* [hype](https://dashboard.tenderly.co/contract/mainnet/0xe1212f852c0ca3491ca6b96081ac3cf40e989094)
+* [kazix](https://dashboard.tenderly.co/contract/mainnet/0x358a80dc3ea149584e28ad16c8eb83c7091a943d)
+* [scottiepippensp33](https://dashboard.tenderly.co/contract/mainnet/0x447e836e22275d1766f2003706c6d58c4d108a0d)
+* [oxide](https://dashboard.tenderly.co/contract/mainnet/0x3c275f465a064b894cdb58874fa74b3576fa4dc7)
+* [bots](https://dashboard.tenderly.co/contract/mainnet/0x28f0521c77923f107e29a5502a5a1152517f9000)
+* [dw](https://dashboard.tenderly.co/contract/mainnet/0x564d998964196684289225965196fcc4c9fac3db)
+* [1](https://dashboard.tenderly.co/contract/mainnet/0xebae5bbeabf61036b60caa6f8cb26325717dedaf)
+* [galeon](https://dashboard.tenderly.co/contract/mainnet/0xa2437a33049e878c35e16d10789a7d296bade29e)
+* [xue](https://dashboard.tenderly.co/contract/mainnet/0xcd954a7c1f1ec4253797e9ee69d9e9df6aba755a)
+
 
 
 
