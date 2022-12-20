@@ -1,4 +1,4 @@
-## Just-in-time liquidity
+## just-in-time (jit)
 
 <br>
 
