@@ -1,5 +1,7 @@
 ## 🍟 basic evm knowledge 
 
+<br>
+
 ### tl;dr 
 
 * in the context of ethereum, a virtual machine is a program built into software (ethereum clients, e.g. geth) that recreates a computer's functionality.
@@ -17,9 +19,7 @@
 
 ---
 
-### lexicon
-
-#### merkle patricia trie
+### merkle patricia trie
 
 * one of the critical functions of the evem is to store the "state" of all accounts and what information those accounts store.
 * the evm stores state according to a data structure called "merkle patricia trie", which contains all the key:pairs of all addresses on ethereum. the keys correspond to both public keys and smart contracts addresses, and the values represent the current state of those addresses.
@@ -31,7 +31,9 @@
 
 <br>
 
-#### accounts
+---
+
+### accounts
 
 * a state is made up of objects called "accounts", with each account hacing a 20-byte address and state transitions being direct transfers of value and information between accounts.
 
@@ -45,8 +47,9 @@
 
 <br>
 
+---
 
-#### txs
+### txs
 
 * a transaction refers to the signed data package that stores a message to be sent from an externally owned account. 
 * It contains:
@@ -59,7 +62,9 @@
 
 <br>
 
-#### message 
+---
+
+### message 
 
 * a message is like a transaction, except it is produced by a contract and not an external actor. A message is produced when a cotnract currently executing code executes the CALL opcode.
 
@@ -72,7 +77,9 @@
 
 <br>
 
-#### code execution
+---
+
+### code execution
 
 * The existence of a Turing-complete programming language means that arbitrary contracts can be created for any transaction type or application.
 
@@ -90,7 +97,9 @@
 
 <br>
 
-#### memory
+---
+
+### memory
 
 * storing the state of all accounts is data that the evm stores permanently, but the evm uses temporary memory to execute opcodes. there is two types of temporary memory during opcode execution: stack and memory.
 * the stack is the data area where the computations as defined by opcodes are performed.
@@ -102,7 +111,9 @@
 
 <br>
 
-#### opcodes
+---
+
+### opcodes
 
 * each opcode has a speficic cost.
 * when all opcodes have been run, this implies that any output about a change in state will be loaded to permanent storage by the stack. 
@@ -118,7 +129,7 @@
 
 --- 
 
-### resouces
+### resources
 
 
 * [0xFunk thread](https://twitter.com/0xFunk/status/1533667533164662785)
