@@ -26,8 +26,8 @@ in order to take advantage of price discrepancies of that asset.
 
 <br>
 
-* [arbitrage patterns](patterns.md)
-* [interesting mev arb txs in the wild](mev_bots_wild.md)
+* [arbitrage patterns](patterns)
+* [cool arb txs in the wild](mev_bots_wild)
 
 
 <br>
