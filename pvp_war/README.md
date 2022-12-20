@@ -33,6 +33,8 @@
 
 ### other malicious tokens
 
+* tokens can charge a fee for transfer or transaction without informing the user
+
 <br>
 
 * [mud](https://dashboard.tenderly.co/contract/mainnet/0x9dc7e4dc7f3f22a897d00dfe5b55f10c174019d5)
