@@ -24,8 +24,11 @@ in order to take advantage of price discrepancies of that asset.
 
 ### in this dir
 
+<br>
 
+* [arbitrage patterns](patterns.md)
 * [interesting mev arb txs in the wild](mev_bots_wild.md)
+
 
 <br>
 
