@@ -12,6 +12,7 @@ Lists of "retired" or scafold for mev bots for learning purposes.
 
 * [flashbots-demo](https://github.com/0xblocks/flashbots-demo)
 * [seacher for compromised priv keys](https://github.com/flashbots/searcher-sponsored-tx)
+* [mev-template-rs](https://github.com/degatchi/mev-template-rs)
 
 <br>
 
