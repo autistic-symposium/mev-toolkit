@@ -22,10 +22,10 @@
 
 <br>
 
-##### useful
+##### numbers $
 
-* [data analysis on bots](data-analysis)
-* [deployment of bots](deployment)
+* [profits of bots](profits)
+* [costs of bots](deployment)
 
 <br>
 
