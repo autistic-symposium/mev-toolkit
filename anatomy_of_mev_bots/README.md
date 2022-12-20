@@ -1,5 +1,9 @@
 ## 🤖 Anatomy of MEV bots
 
+### tl; dr 
+
+
+---
 
 ### "retired" or learning mev bots
 
