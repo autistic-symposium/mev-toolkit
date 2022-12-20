@@ -56,6 +56,10 @@
 * [1](https://dashboard.tenderly.co/contract/mainnet/0xebae5bbeabf61036b60caa6f8cb26325717dedaf)
 * [galeon](https://dashboard.tenderly.co/contract/mainnet/0xa2437a33049e878c35e16d10789a7d296bade29e)
 * [xue](https://dashboard.tenderly.co/contract/mainnet/0xcd954a7c1f1ec4253797e9ee69d9e9df6aba755a)
+* [arti](https://dashboard.tenderly.co/contract/mainnet/0x53d822eb49becf499719b6ee7ee4e5d5610f14f5)
+* [blacknetwork](https://dashboard.tenderly.co/contract/mainnet/0x8c042be4bc2d2074aad8f0eec8eef4de8414a320)
+* [inakatabi](https://dashboard.tenderly.co/contract/mainnet/0xb33bd24d821361a15f2cbcaff65207f4a424227b)
+* [karma](https://dashboard.tenderly.co/contract/mainnet/0xedc46449abb3c38a5df5efa355c067a9fb01d993)
 
 
 
