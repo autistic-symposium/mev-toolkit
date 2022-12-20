@@ -1,8 +1,8 @@
-## 🤖 Anatomy of MEV bots
+## 🤖 anatomy of mev bots
 
 <br>
 
-Lists of "retired" or scafold for mev bots for learning purposes.
+* this dir contains lists of "retired" or scafold for mev bots for learning purposes.
 
 <br>
 
