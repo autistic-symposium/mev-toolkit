@@ -15,7 +15,7 @@
 
 <br>
 
-### mev extraction strategies
+### extraction strategies
 
 <br>
 
@@ -23,11 +23,12 @@
 * [nft arbitrage](nft_arbitrage)
 * [front-running](front_running)
 * [back-running](back_running)
+* [just-in-time](uniswap/just-in-time)
 * [sandwiching](sandwiching)
 * [liquidations](liquidations)
 * [flashloans](flashloans)
 * [sniping](sniping)
-* [just-in-time](just-in-time)
+
 
 <br>
 
