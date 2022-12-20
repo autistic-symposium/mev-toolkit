@@ -1,3 +1,0 @@
-## Interesting txs
-
-<br>
