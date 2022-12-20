@@ -20,12 +20,12 @@
 <br>
 
 * [arbitrage](arbitrage)
+* [sandwich](sandwich)
+* [liquidations](liquidations)
 * [nft arbitrage](nft_arbitrage)
 * [front-running](front_running)
 * [back-running](back_running)
 * [just-in-time](uniswap/just-in-time)
-* [sandwiching](sandwiching)
-* [liquidations](liquidations)
 * [flashloans](flashloans)
 * [sniping](sniping)
 
