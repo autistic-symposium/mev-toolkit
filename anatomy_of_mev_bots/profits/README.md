@@ -1,13 +1,6 @@
-## bots data
+## bots profit data
 
 <br>
-
-### tl; dr
-
-
-<br>
-
----
 
 ### in this dir
 
