@@ -5,6 +5,7 @@
 ### tl; dr
 
 * Uniswap v3 introduce the concept of "concentrated liquidity", replacing fungible ERC20 liquidity positions with non-fungible ERC-721 liquidity positions.
+* it also introduced multiple fee tiers , allowing LPs to be appropriately compensated for taking on varying degrees of risk
 * better gas refunds due to it's flashloan style architecture.
 * the profitability of a liquidity provider (LP) has been called into question: estimations that about half of LPs would have been off holding assets directly rather than providing liquidity
 
