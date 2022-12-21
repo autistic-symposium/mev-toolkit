@@ -25,7 +25,7 @@
 * [nft arbitrage](nft_arbitrage)
 * [front-running](front_running)
 * [back-running](back_running)
-* [just-in-time](uniswap/just-in-time)
+* [just-in-time](uniswap/uniswap-v3/just-in-time.md)
 * [flashloans](flashloans)
 * [sniping](sniping)
 
