@@ -4,6 +4,7 @@
 
 ### tl; dr
 
+* uniswap v2 introduced new features and optimizations in may 2020
 * each Uniswap liquidity pool is a trading venue for a pair of ERC20 tokens
 
 <br>
