@@ -6,7 +6,7 @@
 ### in this dir
 
 * [bridges](bridges)
-* [day-trading](day-trading])
+* [day-trading](day-trading)
 * [derivatives](derivatives)
 * [liquidity](liquidity)
 * [stablecoins](stablecoins)
