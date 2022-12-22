@@ -4,7 +4,7 @@
 
 ### tl; dr
 
-Uniswap v3 introduced: 
+uniswap v3 introduced: 
 
 * **concentrated liquidity** and **non-fungible liquidity**: 
   * replacing fungible ERC20 liquidity positions with non-fungible ERC-721 liquidity positions. 
@@ -22,7 +22,7 @@ Uniswap v3 introduced:
 ### in this dir
 
 
-* [just in time](just-in-time.md)
+* [just in time liquidity mev](just-in-time.md)
 
 <br>
 
