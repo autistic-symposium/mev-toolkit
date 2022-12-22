@@ -2,14 +2,11 @@
 
 <br>
 
-----
-
-### resources
-
-<br>
-
 * [check my step-by-step article to run validator](https://mirror.xyz/steinkirch.eth/F5PI4eqShKTGlx0GzL0Lq0-vHQ6b14OoV4ylE2FMsAc)
-* how a node creates a block is created in ethereum:
+
+
+#### how a node creates a block is created in ethereum:
+
     1. the validator client requests a block from the consensus node
     2. the consensus node requests an execution payload from the execution node and incorporates it into the block
     3. the validator client signs the block
@@ -18,15 +15,13 @@
 
 <br>
 
+#### how does mev affect block times:
+    1. the validator client requests a block without transactions (blinded block) from the consesnsus node
+    2. the consensus node queries multiple MEV relays for best bid, incorporating the best block into the returned binded blocl
+    3. the validator client signs the binded block
+    4. the validator client requests the consensus node to unblind and broadcast the signed block
+    5. the consensus node requests the winning MEV relay to unblind the singed block and broadcasts it to the network
 
-other resources:
-
-<br>
-
-* [ethereum.org official page on becoming a validator](https://launchpad.ethereum.org/en/overview)
-* [ethereum.org official page on running a node](https://ethereum.org/en/run-a-node/)
-* [how to setup a validator for eth staking guide](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet)
-* [ethub docs on running a node](https://docs.ethhub.io/using-ethereum/running-an-ethereum-node/)
 
 <br>
 
@@ -163,6 +158,10 @@ other resources:
 
 <br>
 
+* [ethereum.org official page on becoming a validator](https://launchpad.ethereum.org/en/overview)
+* [ethereum.org official page on running a node](https://ethereum.org/en/run-a-node/)
+* [how to setup a validator for eth staking guide](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet)
+* [ethub docs on running a node](https://docs.ethhub.io/using-ethereum/running-an-ethereum-node/)
 * [validator key generator](https://wagyu.gg/)
 * [jwt decoder](https://jwt.io/)
 * [eth staker community](https://ethstaker.cc/)
