@@ -2,10 +2,10 @@
 
 ### tl; dr
 
+
 * `blockValue` = `txFees` + MEV
-
-<br>
-
+* block bidding is carried out as a sealed bid auction
+* however, searchers can pay the builder through either coinbase payments and `txsFees`
 ----
 
 ### resources
