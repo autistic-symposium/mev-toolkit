@@ -15,3 +15,6 @@
 ___
 
 ### resources
+
+* [Why is Oracle Manipulation after the Merge so cheap? Multi-Block MEV](https://chainsecurity.com/oracle-manipulation-after-merge/)
+* [Multi Block MEV by flashbots](https://collective.flashbots.net/t/multi-block-mev/457/2?u=nerolation)
