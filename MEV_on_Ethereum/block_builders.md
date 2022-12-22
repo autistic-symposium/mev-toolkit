@@ -2,7 +2,7 @@
 
 ### tl; dr
 
-
+* `blockValue` = `txFees` + MEV
 
 <br>
 
