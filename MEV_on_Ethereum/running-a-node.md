@@ -2,15 +2,24 @@
 
 <br>
 
+----
+
 ### resources
 
 <br>
 
-* [check my step-by-step article to run validator](https://mirror.xyz/mevwaifu.eth/F5PI4eqShKTGlx0GzL0Lq0-vHQ6b14OoV4ylE2FMsAc)
+* [check my step-by-step article to run validator](https://mirror.xyz/steinkirch.eth/F5PI4eqShKTGlx0GzL0Lq0-vHQ6b14OoV4ylE2FMsAc)
+* how a node creates a block is created in ethereum:
+    1. the validator client requests a block from the consensus node
+    2. the consensus node requests an execution payload from the execution node and incorporates it into the block
+    3. the validator client signs the block
+    4. the validator client sends the signed block to the consensus node
+    5. the consensus node broadcasts the signed block to the network
 
 <br>
 
-or some other resources:
+
+other resources:
 
 <br>
 
