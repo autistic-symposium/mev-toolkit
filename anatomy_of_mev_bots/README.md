@@ -45,4 +45,6 @@
 * [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
 * [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)
+* [running a keeper with rook.fi](https://docs.rook.fi/reference/integrate/run-a-keeper)
+* [running a solver with cowswap](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)
 
