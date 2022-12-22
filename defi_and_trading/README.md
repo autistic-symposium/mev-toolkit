@@ -1,27 +1,30 @@
-## 🌮 defi and day trading
-
-<br>
-
-### tools
-
-<br>
-
-* [defi pulse](https://www.defipulse.com/)
-* [defi prime](https://defiprime.com/)
-* [defi llama](https://defillama.com/)
-* [dex screener](https://dexscreener.com/)
-* [impermanent Loss simulator for Balancer pools](https://baller.netlify.app/)
-* [eth hub on defi](https://docs.ethhub.io/built-on-ethereum/open-finance/what-is-open-finance/)
-* [l2 beat](https://l2beat.com/scaling/tvl/)
+## defi 
 
 
 <br>
+
+### in this dir
+
+* [bridges](bridges)
+* [day-trading](day-trading])
+* [derivatives](derivatives)
+* [liquidity](liquidity)
+* [stablecoins](stablecoins)
+* [staking](staking)
+* [whales](whales)
+* [vaults](vaults)
+
+<br>
+
 
 ---
 
-### dexes
+### resources
 
 <br>
+
+#### main dexes by chain
+
 
 | Blockchain      | DEXs                            |
 | -----------     | -----------                     |
@@ -32,14 +35,48 @@
 | Polkadot        | Polkadex                        |
 
 
+<br>
+
+#### protocols
+
+
+* [Yearn finance](https://yearn.finance/#/portfolio)
+* [Stader Labs](https://staderlabs.com/)
+* [Hop](https://app.hop.exchange/#/send?token=ETH)
+* [Aave](https://app.aave.com/)
+* [Synapse bridge](https://synapseprotocol.com/?inputCurrency=ETH&outputCurrency=ETH&outputChain=10)
+* [Popsicle finance](https://popsicle.finance/)
+* [Matcha](https://matcha.xyz/)
+* [Beefy](https://app.beefy.finance/#/)
+* [Maple](https://www.maple.finance/)
+* [Tokemak](https://www.tokemak.xyz/)
+* [DeFi helper](https://app.defihelper.io/protocols?filter=All)
+* [Curve finance](https://curve.fi/mim/)
+* [Fei proocol](https://fei.money/)
+* [Stakewise](https://app.stakewise.io/)
+* [Lido](https://lido.fi/)
+* [Oasis.app](https://oasis.app/)
+* [Compound](https://app.compound.finance/)
+* [Euler](https://www.euler.finance/)
+* [Elementifi](https://app.element.fi/fixedrates)
+* [Fodl](https://app.fodl.finance/nft)
+* [Zapper](https://zapper.fi/invest)
+* [TraderJoe](https://traderjoexyz.com/farm#/)
+* [Vesta](https://vestafinance.xyz/)
+* [TracerDAO](https://github.com/tracer-protocol)
+* [Step.finance](https://app.step.finance/#/dashboard)
+* [Orca staking](https://www.orca.so/staking)
+* [Solidly](https://solidly.exchange/liquidity)
+* [SolanaBeach](https://solanabeach.io/)
+* [Rose](https://app.rose.fi/#/)
 
 <br>
 
-----
 
-### indexes and asset management
 
-<br>
+#### indexes and asset management
+
+
 
 * [Bancor](https://app.bancor.network/pools)
 * [dydx](https://trade.dydx.exchange/portfolio/overview)
@@ -68,130 +105,16 @@
 
 <br>
 
----
 
-### derivatives
-
-<br>
-
-* [TracerDAO](https://github.com/tracer-protocol)
+#### tools and news
 
 
-
-<br>
-
-----
-### multi-chain projects
-
-
-<br>
-
-* [Yearn finance](https://yearn.finance/#/portfolio)
-* [Stader Labs](https://staderlabs.com/)
-* [Hop](https://app.hop.exchange/#/send?token=ETH)
-* [Aave](https://app.aave.com/)
-* [Synapse bridge](https://synapseprotocol.com/?inputCurrency=ETH&outputCurrency=ETH&outputChain=10)
-* [Popsicle finance](https://popsicle.finance/)
-* [Matcha](https://matcha.xyz/)
-* [Beefy](https://app.beefy.finance/#/)
-* [Maple](https://www.maple.finance/)
-* [Tokemak](https://www.tokemak.xyz/)
-* [DeFi helper](https://app.defihelper.io/protocols?filter=All)
-
-
-<br>
-
----
-
-### l2 projects
-
-
-<br>
-
-* [Curve finance](https://curve.fi/mim/)
-* [Fei proocol](https://fei.money/)
-* [Stakewise](https://app.stakewise.io/)
-* [Lido](https://lido.fi/)
-* [Oasis.app](https://oasis.app/)
-* [Compound](https://app.compound.finance/)
-* [Euler](https://www.euler.finance/)
-* [Elementifi](https://app.element.fi/fixedrates)
-* [Fodl](https://app.fodl.finance/nft)
-* [Zapper](https://zapper.fi/invest)
-
-<br>
-
----
-
-### avalanche  projects
-
-<br>
-
-* [TraderJoe](https://traderjoexyz.com/farm#/)
-
-
-<br>
-
----
-
-### arbitrum Projects
-
-<br>
-
-* [Vesta](https://vestafinance.xyz/)
-
-
-<br>
-
----
-
-### terra  projects
-
-<br>
-
-* [Terra swap](https://app.terraswap.io/#Provide)
-* [Anchor](https://app.anchorprotocol.com/)
-
-<br>
-
-
----
-
-### solana  projects
-
-<br>
-
-* [Step.finance](https://app.step.finance/#/dashboard)
-* [Orca staking](https://www.orca.so/staking)
-* [SolanaBeach](https://solanabeach.io/)
-
-<br>
-
----
-
-### fantom projects
-
-<br>
-
-* [Solidly](https://solidly.exchange/liquidity)
-
-
-<br>
-
----
-
-### NEAR projects
-
-<br>
-
-* [Rose](https://app.rose.fi/#/)
-
-
----
-
-### resources
-
-<br>
-
+* [defi pulse](https://www.defipulse.com/)
+* [defi prime](https://defiprime.com/)
+* [defi llama](https://defillama.com/)
+* [dex screener](https://dexscreener.com/)
+* [impermanent Loss simulator for balancer pools](https://baller.netlify.app/)
+* [eth hub on defi](https://docs.ethhub.io/built-on-ethereum/open-finance/what-is-open-finance/)
+* [l2 beat](https://l2beat.com/scaling/tvl/)
 * [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 * [defi tokens wiki](https://github.com/defi-wikis/defi-tokens-wiki)
