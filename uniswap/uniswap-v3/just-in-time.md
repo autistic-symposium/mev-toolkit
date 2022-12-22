@@ -31,3 +31,4 @@
 
 * [uniswap on jit liquidity](https://uniswap.org/blog/jit-liquidity)
 * [just-in-time mev dune board](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
+* [uniswap v3 lp by rekt](https://rekt.news/uniswap-v3-lp-rekt/)
