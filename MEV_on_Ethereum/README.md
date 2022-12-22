@@ -182,3 +182,4 @@ Proposer Builder Separation, see: State of research: increasing censorship resis
 * [Increasing censorship resistance of transactions under proposer/builder separation (PBS), by Vitalik et al](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 * [Weak Subjectivity in Eth2.0](https://notes.ethereum.org/@adiasg/weak-subjectvity-eth2)
 * [Ethereum Proof-of-Stake Consensus Specifications](https://github.com/ethereum/consensus-specs)
+* [order flow, auctions, and centralization (flashbots)](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
