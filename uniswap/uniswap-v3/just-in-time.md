@@ -29,4 +29,5 @@
 
 ### resources
 
-* [uniswap's jit liquidity](https://uniswap.org/blog/jit-liquidity)
+* [uniswap on jit liquidity](https://uniswap.org/blog/jit-liquidity)
+* [just-in-time mev dune board](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
