@@ -4,8 +4,8 @@
 
 * [order types](order_types)
 * [trading types](trading_types)
-* [leverage](leverage)
 * [techical analysis](technical_analysis)
+* [leverage](leverage)
 
 <br>
 
