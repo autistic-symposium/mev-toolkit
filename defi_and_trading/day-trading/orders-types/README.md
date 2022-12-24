@@ -1,7 +1,7 @@
-# Order types
+## order types
 
 
-#### tl;dr
+### tl;dr
 
 * You can "take " or "make" prices with market and limit orders.
 * The spread prevents us from making free money without risk.
@@ -9,21 +9,21 @@
 
 <br>
 
-### Order book
+#### order book
 
   * open market for crypto pairs
   * red: sellers; green: buyers
 
 <br>
 
-### Spread
+#### spread
 
   * the difference between the best bid and best offer
   * you want a tight spread 
 
 <br>
 
-### Market order
+#### market order
 
   * choose the amount you trade
   * don't choose the price
@@ -35,7 +35,7 @@
 <br>
 
 
-### Limit order
+#### limit order
 
   * choose the amount you trade AND the price
   * get a better deal
@@ -50,7 +50,7 @@
 
 <br>
 
-### Stop market order 
+#### stop market order 
 
   * choose the amount you trade
   * don't choose the price
@@ -61,7 +61,7 @@
 
 <br>
 
-### Stop limit order
+#### stop limit order
 
   * choose the amount you trade AND the price
   * choose at what price to place your limit order
@@ -69,7 +69,7 @@
 
 <br>
 
-### Stop loss order
+#### stop loss order
 
 * a version of a stop limit order
 * stops your losses
@@ -79,7 +79,7 @@
 
 <br>
 
-### Take profit order
+#### rake profit order
 
 * a version of a stop limit order
 * trades your position with a profit
@@ -89,4 +89,8 @@
 
 
 <br>
+
+---
+
+### resources
 
