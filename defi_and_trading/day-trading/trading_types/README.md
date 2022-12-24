@@ -1,5 +1,5 @@
 
-# Types of trading
+## Types of trading
 
 <br>
 
@@ -17,6 +17,8 @@
 
 <br>
 
+---
+
 ### Breakout trading
 
 * short term trades
@@ -33,7 +35,9 @@
 
 <br>
 
-### Scalping
+---
+
+### scalping
 
 * intra-day trades
 * opem trades for minutes-hours
@@ -52,7 +56,9 @@
 
 <br>
 
-### Dollar cost averaging
+---
+
+### dollar cost averaging
 
 * long-term strategy
 * price agnostic
@@ -65,3 +71,8 @@
 
 
 <br>
+
+
+---
+
+### resources
