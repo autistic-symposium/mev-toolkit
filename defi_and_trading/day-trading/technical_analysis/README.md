@@ -1,8 +1,6 @@
-# Technical analysis
+## technical analysis
 
-<br>
-
-## What's technical analysis
+### tl; dr
 
 * uses trading data to analyse and predict price patterns
 * gives us data points to compare and contrast
@@ -15,7 +13,7 @@
 
 ---
 
-## Candlestick charts
+### candlestick charts
 
 * data rich trading analysis
 * time and price details
@@ -34,7 +32,7 @@
 
 <br>
 
-### Hammer pattern
+##### hammer pattern
 
 * bullish pattern
 * sellers drove price lower during the day
@@ -51,7 +49,7 @@
 
 <br>
 
-### Shooting star pattern
+##### shooting star pattern
 
 * bearish pattern
 * buyers drove price high
@@ -65,7 +63,7 @@
 </p>
 <br>
 
-### Bullish engulfing pattern
+##### bullish engulfing pattern
 
 * bullish pattern
 * bullish candlestick "engulfed" the bearish candlestick
@@ -78,7 +76,7 @@
 </p>
 <br>
 
-### Bearish engulfing pattern
+##### bearish engulfing pattern
 
 * bearish pattern
 * bearish candlestick engulfed the bullish candlestick 
@@ -89,11 +87,12 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1130416/172072097-e9058226-65b4-43ff-a017-f2a235691fc6.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
 </p>
+
 <br>
 
 ----
 
-## Chart patterns
+### chart patterns
 
 * used in conjuction with candlestick charts
 * longer-term analysis of market movements
@@ -102,7 +101,7 @@
 * dont tell about longer term trends
 
 
-### Double top
+##### double top
 
 * bearish pattern
 * buyers tried wtice to push price higher
@@ -119,7 +118,7 @@
 </p>
 <br>
 
-### Double bottom
+##### double bottom
 
 * bullish pattern
 * sellers came in twice
@@ -138,7 +137,7 @@
 <br>
 
 
-### Asceding triangle
+##### asceding triangle
 
 * charts never trade in a straight line
 * charts trend
@@ -152,13 +151,15 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1130416/172072378-59cffb28-7589-44fc-8e54-b040ec239496.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
 </p>
+
+
 <br>
 
 
 ---
 
 
-## Trends
+### trends
 
 
 * we can't trade from patterns all the time, they are quite rare
@@ -168,16 +169,17 @@
 
 <br>
 
-### Asceding wedge - higher lows
+##### asceding wedge - higher lows
 
 
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1130416/172072540-324afc3d-0b31-4ffd-ab4f-96a829d244bf.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
 </p>
+
 <br>
 
-### Desceding wedge - lower highs
+##### desceding wedge - lower highs
 
 
 <br>
@@ -186,7 +188,7 @@
 </p>
 <br>
 
-### Consolidation
+##### consolidation
 
 * give us a strong area of trade where traders have been before
 * area in the chart moving sideways
@@ -201,19 +203,19 @@
 </p>
 <br>
 
-### Support and resistance
+##### support and resistance
 
 * support and resistance are simply significant price levels
 * resistance can become support if a price breaks through that level in an uptrend
 * vice versa for a downtrend
 
 
-### Moving averages
+##### moving averages
 
 * SMA: arithmetic mean of prices over a given time period
 * EMA: weighted and give more importance to recent prices
 
-### Relative strength index (RSI)
+##### relative strength index (RSI)
 
 * plots the relative strength of the price compared to previous prices
 * momentum indicator
@@ -221,18 +223,18 @@
 * below 30: price is relatively cheap (oversold)
 * can't predict how the price will change in the future
 
-### Average true range
+##### average true range
 
 * measure of daily price volatility
 * tell us the true amount the price could move in a given day
 * largest probably move for one day based on previous data
 * can be used to set our stop loss and give the trade some breathing room
 
+<br>
 
-----
+---
 
-
-## How to trade with trends
+### how to trade with trends
 
 1. Identify the market trends
 2. Ask where are the main areas of trade
@@ -242,16 +244,15 @@
    - is the candlestick telling us that the trade will go in the direction of our trade?
    - is the trade bullish or bearish based of candlestick patterns?
 
-
-### Trading tools:
-
-* [Tradingview](https://www.tradingview.com/)
-* [Tokenmetrics](https://tokenmetrics.com/)
+<br>
 
 
+---
 
+### resources
 
-
+* [tradingview](https://www.tradingview.com/)
+* [tokenmetrics](https://tokenmetrics.com/)
 
 
 
