@@ -79,7 +79,7 @@
 
 <br>
 
-#### rake profit order
+#### take profit order
 
 * a version of a stop limit order
 * trades your position with a profit
