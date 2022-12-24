@@ -3,7 +3,7 @@
 ### in this dir
 
 * [order types](order_types)
-* [types](trading_types)
+* [trading types](trading_types)
 * [leverage](leverage)
 * [techical analysis](technical_analysis)
 
