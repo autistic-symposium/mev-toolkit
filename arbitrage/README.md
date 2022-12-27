@@ -38,5 +38,3 @@ in order to take advantage of price discrepancies of that asset.
 
 
 
-* [saving gas](https://github.com/go-outside-labs/blockchain-hacking/blob/main/solidity/saving_gas.md)
-
