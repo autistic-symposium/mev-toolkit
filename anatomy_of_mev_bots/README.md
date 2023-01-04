@@ -18,6 +18,7 @@
 * [snipers](bots/snipers.md)
 * [tradors](bots/tradors.md)
 * [cow solvers](bots/cow-solvers.md)
+* [statistical arbers](bots/stat-arbers.md) 
 
 
 <br>
