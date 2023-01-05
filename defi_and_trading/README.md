@@ -118,3 +118,4 @@
 * [l2 beat](https://l2beat.com/scaling/tvl/)
 * [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
 * [defi tokens wiki](https://github.com/defi-wikis/defi-tokens-wiki)
+* [token unlocks 2023](https://twitter.com/karl_0x/status/1605832705848971264)
