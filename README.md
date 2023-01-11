@@ -187,9 +187,7 @@
 
 
 
-
-
-### other supporting tools
+### interesting projects
 
 <br>
 
@@ -202,6 +200,7 @@
 * [revoke.cash](https://revoke.cash/)
 * [ankr rpc endpoints](https://www.ankr.com/rpc/)
 * [back run me](https://backrunme.com/swap)
+* [cyph3rs.xyz](https://www.cyph3rs.xyz/)
 
 <br>
 
