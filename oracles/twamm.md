@@ -18,3 +18,4 @@
 
 * [twamm by paradigm](https://www.paradigm.xyz/2021/07/twamm)
 * [twamm reference implementation in python](https://github.com/para-dave/twamm)
+* [some properties of twamm](https://github.com/pcaversaccio/reentrancy-attacks)
