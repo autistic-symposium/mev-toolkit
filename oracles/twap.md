@@ -22,3 +22,4 @@ ___
 
 * [Multi Block MEV by flashbots](https://collective.flashbots.net/t/multi-block-mev/457/2?u=nerolation)
 * [Statistical analysis on Ethereum k-consecutive block proposal](https://alrevuelta.github.io/posts/ethereum-mev-multiblock)
+* [uniswap v3 oracles](https://uniswap.org/blog/uniswap-v3-oracles)
