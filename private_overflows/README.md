@@ -33,3 +33,9 @@
 * conclusion: the battle between PFOF-style MEV could lead to increase block times for stat arbers, decreasing combined realzied MEV
 
 <br>
+
+---
+
+#### resources
+
+* [Youtube: Private Order Flow is the new MEV](https://www.youtube.com/watch?v=bapIqxhIdaY)
