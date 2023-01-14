@@ -47,7 +47,6 @@
 * [pvp battles](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
 * [latency optimization](latency)
-* [private mempools / orderflows](private_orderflows)
 
 
 
@@ -74,6 +73,7 @@
 * [flashbots](flashbots)
 * [cow protocol](cow_protocol)
 * [rook dao](rook)
+* [mev protocols](mev_protocols)
 
 
 
