@@ -263,6 +263,7 @@
 - [combining ghost and casper](https://arxiv.org/abs/2003.03052)
 - [three attacks on pos ethereum](https://arxiv.org/abs/2110.10086)
 - [two attacks on pos ghost/ethereum](https://arxiv.org/abs/2203.01315)
+- [quantifying blockchain extractable value: how dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
 
 
 
