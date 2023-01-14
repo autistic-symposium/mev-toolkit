@@ -1,4 +1,4 @@
-## MEV protocol solutions
+## MEV private order flows solutions
 
 
 #### private order flow protocols (POFPs)
@@ -38,4 +38,5 @@
 
 #### resources
 
+* [Ethereum's biggest issue no one's talking about](https://mariusvanderwijden.github.io/blog/2022/10/21/lightclients/)
 * [Youtube: Private Order Flow is the new MEV](https://www.youtube.com/watch?v=bapIqxhIdaY)
