@@ -82,8 +82,7 @@
 ### related defi stuff
 
 * [uniswap](uniswap)
-* [oracles and twap](oracles)
-* [twamm designs](twamm)
+* [oracles, twap, twamm](oracles)
 * [0x protocol and rfq](0x_protocol)
 * [defi and day trading](defi_and_trading)
 * [tokenomics](tokenomics)
