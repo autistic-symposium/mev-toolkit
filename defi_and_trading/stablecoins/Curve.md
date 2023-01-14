@@ -29,6 +29,8 @@
 * voting power: cvxCRV does not offer voting power, nor does it share bribe revenue.
 * losing the curve liquid wrapper war as it does not have voting or bribe revenues and a weak peg?
 
+<br>
+
 ##### sdCRV
 
 * sdCRV is distributing 3crv fees and keeping voting powers with stakers.
@@ -41,6 +43,8 @@
 * protocol fee: 16%
 * voting power: yCRV does not offer voting power, but shares the bribe revenue.
 * StakeDAO is buying sdCRV with the bribe revenue when the peg is below 0.99 and distributing to the stakers.
+
+<br>
 
 ##### yCRV
 
@@ -60,3 +64,5 @@
 ---
 
 ### resources
+
+* [10M Revenue Drain in 5 Months: MEV impact on Curve](https://medium.com/@eigenphi/10m-revenue-drain-in-5-months-mev-impact-on-curve-fd5214a0667)
