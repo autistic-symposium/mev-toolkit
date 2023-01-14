@@ -19,26 +19,9 @@
 
 ---
 
-### resources
-
-<br>
-
-#### main dexes by chain
 
 
-| Blockchain      | DEXs                            |
-| -----------     | -----------                     |
-| Ethereum        | Uniswap, 1inch, SushiSwap       |
-| BSC             | PancakeSwap, BurgerSwap         |
-| Solana          | Serum                           |
-| Cardano         | Cardax                          |
-| Polkadot        | Polkadex                        |
-
-
-<br>
-
-#### protocols
-
+### protocols
 
 * [Yearn finance](https://yearn.finance/#/portfolio)
 * [Stader Labs](https://staderlabs.com/)
@@ -73,8 +56,9 @@
 <br>
 
 
+---
 
-#### indexes and asset management
+### indexes and asset management
 
 
 
@@ -106,9 +90,11 @@
 <br>
 
 
-#### tools and news
+---
 
+### tools, news, resources
 
+* [insight over several protocols](https://defi-mochi.notion.site/d2cf08cb79254dcf8f30e08cc38761f4?v=81df8226157849ee94a1c859c1e13329)
 * [defi pulse](https://www.defipulse.com/)
 * [defi prime](https://defiprime.com/)
 * [defi llama](https://defillama.com/)
