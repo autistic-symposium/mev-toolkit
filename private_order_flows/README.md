@@ -38,6 +38,6 @@
 
 #### resources
 
-* [kolibrio](https://www.kolibr.io/)
+* [kolibrio](https://www.kolibr.io/) (and [docs](https://docs.kolibr.io/)
 * [Ethereum's biggest issue no one's talking about](https://mariusvanderwijden.github.io/blog/2022/10/21/lightclients/)
 * [Youtube: Private Order Flow is the new MEV](https://www.youtube.com/watch?v=bapIqxhIdaY)
