@@ -17,5 +17,6 @@
 
 * [chainlink](chainlink.md)
 * [TWAP oracles](twap.md)
+* [TWAMM designs](twamm.md)
 
 
