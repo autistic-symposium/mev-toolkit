@@ -278,6 +278,7 @@
 
 * [a graduate course in applied cryptography](http://toc.cryptobook.us/)
 * [the cypherpunk manifest by eric hughes](https://activism.net/cypherpunk/manifesto.html)
+* [the crypto anarchist manifest by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
 * [the hacker manifest by the mentor](http://phrack.org/issues/7/3.html)
 * [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [teal organizations](https://reinventingorganizationswiki.com/)
