@@ -163,17 +163,17 @@
 ### data && analytics
 
 
-* [mev dashboard by flashbots](https://explore.flashbots.net/).
-* [nansen](https://www.nansen.ai/)
-* [token terminal](https://tokenterminal.com/terminal)
-* [westerngate, arbitrage measured](Westerngate.xyz)
-* [eigenphi arbitrage scan](https://eigenphi.io/)
-* [parsec.finance](https://parsec.finance/)
-* [flashloans](https://tools.blocksec.com/flashloan/eth)
+* [mev dashboard, by flashbots](https://explore.flashbots.net/).
+* [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
+* [mev live-stream, by eigenphi](https://eigenphi.io/)
+* [flashloans, by blocksec](https://tools.blocksec.com/flashloan/eth)
 * [sandwiched?](https://sandwiched.wtf/)
 * [etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
-* [mev data corpus by manifold](https://github.com/manifoldfinance/mev-corpus)
-* [ethereum datafarm](https://github.com/Nerolation/ethereum-datafarm)
+* [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
+* [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
+* [parsec.finance](https://parsec.finance/)
+* [nansen](https://www.nansen.ai/)
+* [token terminal](https://tokenterminal.com/terminal)
 
 
 
