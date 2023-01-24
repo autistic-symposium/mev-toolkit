@@ -255,16 +255,14 @@
 
 #### research papers
 
-- [flash boys 2.0](https://arxiv.org/pdf/1904.05234.pdf)
-- [towards a theory of mev by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
-- [transparent dishonesty: front-running attacks on blockchain](https://arxiv.org/pdf/1902.05164.pdf)
-- [dex arbitrage, mathematical optimizations & me](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
-- [a list of open problems in defi by emperor](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
-- [combining ghost and casper](https://arxiv.org/abs/2003.03052)
-- [three attacks on pos ethereum](https://arxiv.org/abs/2110.10086)
-- [two attacks on pos ghost/ethereum](https://arxiv.org/abs/2203.01315)
-- [quantifying blockchain extractable value: how dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
-
+- [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian e al](https://arxiv.org/pdf/1904.05234.pdf)
+- [towards a theory of mev I, by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
+- [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al](https://arxiv.org/pdf/1902.05164.pdf)
+- [combining ghost and casper, by vitalik et al](https://arxiv.org/abs/2003.03052)
+- [three attacks on pos ethereum, by caspar schwarz-schilling et al](https://arxiv.org/abs/2110.10086)
+- [two attacks on pos ghost/ethereum, by joachim neu et al](https://arxiv.org/abs/2203.01315)
+- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin at al](https://arxiv.org/pdf/2101.05511.pdf)
+- [dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 
 
 <br>
@@ -281,9 +279,8 @@
 * [the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
 * [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
 * [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
-* [teal organizations wiki](https://reinventingorganizationswiki.com/)
 * [the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-
+* [teal organizations wiki](https://reinventingorganizationswiki.com/)
 
 <br>
 <br>
