@@ -94,7 +94,7 @@
 
 ---
 
-## 🍟 resources && tools
+## 🍟 other resources && tools
 
 
 <br>
@@ -176,7 +176,7 @@
 
 
 
-##### awesome dune boards
+##### dune boards
 
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
 * [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
@@ -208,7 +208,7 @@
 
 ---
 
-## 🍿 general articles
+## 🍿 other recommended articles
 
 <br>
 
@@ -232,18 +232,10 @@
 
 
 
-
-
 <br>
 
----
 
-
-## 🍌 mev research 
-
-<br>
-
-#### wikis and talks
+### wikis and talks
 
 * [eigenphi mev research](https://www.eigenphi.io/mev/research)
 * [mev wiki, by automata network](https://www.mev.wiki/)
@@ -255,7 +247,7 @@
 
 <br>
 
-#### research papers
+### research papers
 
 - [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian e al](https://arxiv.org/pdf/1904.05234.pdf)
 - [towards a theory of mev I, by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
