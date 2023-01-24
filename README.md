@@ -342,10 +342,10 @@
 * [peter_szilagyi](https://twitter.com/peter_szilagyi)
 * [_anishagnihotri](https://twitter.com/_anishagnihotri)
 * [avsa](https://twitter.com/avsa)
-* [0xGman](https://twitter.com/0xGman)
 * [phildaian](https://twitter.com/phildaian)
 * [flashloanz](https://twitter.com/flashloanz)
 * [sxysun1](https://twitter.com/sxysun1)
+* [DeGatchi](https://twitter.com/DeGatchi)
 * [ObadiaAlex](https://twitter.com/ObadiaAlex)
 * [max_holloway](https://twitter.com/max_holloway)
 * [kidrane](https://twitter.com/kidrane)
@@ -353,6 +353,7 @@
 * [pmcgoohanCrypto](https://twitter.com/pmcgoohanCrypto)
 * [ZiggyCoinDust](https://twitter.com/ZiggyCoinDust)
 * [dakka_eth](https://twitter.com/dakka_eth)
+* [chenwainuo](https://twitter.com/chenwainuo)
 
 
 <br>
