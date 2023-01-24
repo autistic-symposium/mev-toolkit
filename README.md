@@ -263,6 +263,107 @@
 
 <br>
 
+-----
+
+## 🤖 who to follow
+
+<br>
+
+
+### mev projects
+
+* [rook](https://twitter.com/rook)
+* [fastlane](https://twitter.com/0xPFL)
+* [eden network](https://twitter.com/EdenNetwork)
+* [cowswap](https://twitter.com/CoWSwap)
+* [jito labs](https://twitter.com/jito_labs)
+* [skip protocols](https://twitter.com/SkipProtocol)
+* [eigenphi](https://twitter.com/EigenPhi)
+* [xenophon labs](https://twitter.com/XenophonLabs)
+
+
+<br>
+
+
+### researchers and searchers
+
+<br>
+
+* [0x81B](https://twitter.com/0x81B)
+* [NathanWorsley_](https://twitter.com/NathanWorsley_)
+* [0xcuriousrabbit](https://twitter.com/0xcuriousrabbit)
+* [mevcollector](https://twitter.com/mevcollector)
+* [mevintern](https://twitter.com/mevintern)
+* [thommers](https://twitter.com/thommers)
+* [ThmsSmts](https://twitter.com/ThmsSmts)
+* [0xthewolf1](https://twitter.com/0xthewolf1)
+* [0xhedgehug](https://twitter.com/0xhedgehug)
+* [0xAnatolii](https://twitter.com/0xAnatolii)
+* [0x9212ce55](https://twitter.com/0x9212ce55)
+* [danielmckinn0n](https://twitter.com/danielmckinn0n)
+* [ExoticMev](https://twitter.com/ExoticMev)
+* [0x9116](https://twitter.com/0x9116)
+* [snoopy_mev](https://twitter.com/snoopy_mev)
+* [BotManana](https://twitter.com/BotManana)
+* [0xtowncrier](https://twitter.com/0xtowncrier)
+* [mevnormie](https://twitter.com/mevnormie)
+* [ThogardPvP](https://twitter.com/ThogardPvP)
+* [totlsota](https://twitter.com/totlsota)
+* [mevalphaleak](https://twitter.com/mevalphaleak)
+* [mevbandit](https://twitter.com/mevbandit)
+* [filmfranz](https://twitter.com/filmfranz)
+* [tkstanczak](https://twitter.com/tkstanczak)
+* [shannonlitweets](https://twitter.com/shannonlitweets)
+* [thegostep](https://twitter.com/thegostep)
+* [hasufl](https://twitter.com/hasufl)
+* [0xdoug](https://twitter.com/0xdoug)
+* [builder0x69](https://twitter.com/builder0x69)
+* [ASvanevik](https://twitter.com/ASvanevik)
+* [libevm](https://twitter.com/libevm)
+* [etheraael](https://twitter.com/etheraael)
+* [0xfoobar](https://twitter.com/0xfoobar)
+* [BehelitK](https://twitter.com/BehelitK)
+* [0xtuba](https://twitter.com/0xtuba)
+* [SiegeRhino2](https://twitter.com/SiegeRhino2)
+* [zeroXbrock](https://twitter.com/zeroXbrock)
+* [transmissions11](https://twitter.com/transmissions11)
+* [mvonsteinkirch](https://twitter.com/mvonsteinkirch)
+* [tomhschmidt](https://twitter.com/tomhschmidt)
+* [fleupold_](https://twitter.com/fleupold_)
+* [VitalikButerin](https://twitter.com/VitalikButerin)
+* [drakefjustin](https://twitter.com/drakefjustin)
+* [segfaultdoctor](https://twitter.com/segfaultdoctor)
+* [0xalpharush](https://twitter.com/0xalpharush)
+* [femboy_capital](https://twitter.com/femboy_capital)
+* [peter_szilagyi](https://twitter.com/peter_szilagyi)
+* [_anishagnihotri](https://twitter.com/_anishagnihotri)
+* [avsa](https://twitter.com/avsa)
+* [phildaian](https://twitter.com/phildaian)
+* [flashloanz](https://twitter.com/flashloanz)
+* [sxysun1](https://twitter.com/sxysun1)
+* [ObadiaAlex](https://twitter.com/ObadiaAlex)
+* [max_holloway](https://twitter.com/max_holloway)
+* [kidrane](https://twitter.com/kidrane)
+* [0xmisaka](https://twitter.com/0xmisaka)
+* [pmcgoohanCrypto](https://twitter.com/pmcgoohanCrypto)
+* [ZiggyCoinDust](https://twitter.com/ZiggyCoinDust)
+* [dakka_eth](https://twitter.com/dakka_eth)
+
+<br>
+
+### bot alerts
+
+
+<br>
+
+* [mevboost bot](https://twitter.com/MevBoostBot)
+* [mevrefund bot](https://twitter.com/MevRefund)
+* [highgwei bot](https://twitter.com/HighGwei)
+* [mev proposer bot](https://twitter.com/mevproposerbot)
+* [eigenphi bot](https://twitter.com/EigenPhi_Alert)
+
+<br>
+
 ---
 
 
