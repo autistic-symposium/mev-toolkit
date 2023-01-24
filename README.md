@@ -279,6 +279,7 @@
 * [jito labs](https://twitter.com/jito_labs)
 * [skip protocols](https://twitter.com/SkipProtocol)
 * [eigenphi](https://twitter.com/EigenPhi)
+* [cyph3rs](https://twitter.com/withCyph3rs)
 * [xenophon labs](https://twitter.com/XenophonLabs)
 
 
@@ -314,6 +315,7 @@
 * [filmfranz](https://twitter.com/filmfranz)
 * [tkstanczak](https://twitter.com/tkstanczak)
 * [shannonlitweets](https://twitter.com/shannonlitweets)
+* [barnabemonnot](https://twitter.com/barnabemonnot)
 * [thegostep](https://twitter.com/thegostep)
 * [hasufl](https://twitter.com/hasufl)
 * [0xdoug](https://twitter.com/0xdoug)
@@ -338,6 +340,7 @@
 * [peter_szilagyi](https://twitter.com/peter_szilagyi)
 * [_anishagnihotri](https://twitter.com/_anishagnihotri)
 * [avsa](https://twitter.com/avsa)
+* [0xGman](https://twitter.com/0xGman)
 * [phildaian](https://twitter.com/phildaian)
 * [flashloanz](https://twitter.com/flashloanz)
 * [sxysun1](https://twitter.com/sxysun1)
@@ -348,6 +351,7 @@
 * [pmcgoohanCrypto](https://twitter.com/pmcgoohanCrypto)
 * [ZiggyCoinDust](https://twitter.com/ZiggyCoinDust)
 * [dakka_eth](https://twitter.com/dakka_eth)
+
 
 <br>
 
