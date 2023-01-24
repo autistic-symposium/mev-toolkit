@@ -212,23 +212,23 @@
 
 <br>
 
-- [endgame by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
-- [ethereum is a dark forest by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
-- [escaping the dark forest by samczsun](https://samczsun.com/escaping-the-dark-forest/)
-- [how to build an ethereum mining pool by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
-- [mev and me by paradigm](https://research.paradigm.xyz/MEV)
-- [return to the dark forest by rekt](https://rekt.news/return-to-the-dark-forest/)
-- [modern mev sandwich attacks by totlsota](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
-- [how i learned to stop worrying and love mev by sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
-- [how to light up the dark forest by robert miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
-- [hiding in plain sight by samczsun](https://samczsun.com/hiding-in-plain-sight/)
-- [we live in a mempool by tom schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
-- [wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
-- [tricking frontrunners into being transaction relayers](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
-- [The enemy of your enemy is not your friend](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
-- [anatomy of an mev strategy: synthetix by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
-- [mev wat to do by phill daian ](https://pdaian.com/blog/mev-wat-do/)
-- [mev the first 5 years by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
+- [endgame, by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
+- [ethereum is a dark forest, by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+- [escaping the dark forest, by samczsun](https://samczsun.com/escaping-the-dark-forest/)
+- [how to build an ethereum mining pool, by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
+- [mev and me, by paradigm](https://research.paradigm.xyz/MEV)
+- [return to the dark forest, by rekt](https://rekt.news/return-to-the-dark-forest/)
+- [modern mev sandwich attacks, by totlsota](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
+- [how i learned to stop worrying and love mev, by sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
+- [how to light up the dark forest, by robert miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
+- [hiding in plain sight, by samczsun](https://samczsun.com/hiding-in-plain-sight/)
+- [we live in a mempool, by tom schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
+- [wrecking sandwich traders for fun and profit, by n. worsley](https://github.com/Defi-Cartel/salmonella)
+- [tricking frontrunners into being transaction relayers, by sankar4033](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
+- [The enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
+- [anatomy of an mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
+- [mev wat to do, by phill daian](https://pdaian.com/blog/mev-wat-do/)
+- [mev the first 5 years, by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
 
 
 
@@ -237,7 +237,7 @@
 
 ### wikis and talks
 
-* [eigenphi mev research](https://www.eigenphi.io/mev/research)
+* [mev research, by eigenphi](https://www.eigenphi.io/mev/research)
 * [mev wiki, by automata network](https://www.mev.wiki/)
 * [mev extraction strategies, by r. miller](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g124f588a727_0_51)
 * [mev auction, by the ethereum foundation](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
