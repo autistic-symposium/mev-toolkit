@@ -47,7 +47,7 @@
 * [pvp battles](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
 * [latency optimization](latency)
-
+* [cross domain mev](cross_domain_mev)
 
 
 
@@ -63,6 +63,7 @@
 * [mev on cosmos](MEV_on_Cosmos)
 * [mev on binance](MEV_on_Binance)
 * [mev on polygon](MEV_on_Polygon)
+
 
 
 <br>
