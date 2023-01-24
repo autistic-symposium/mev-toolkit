@@ -231,6 +231,7 @@
 - [anatomy of an mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 - [mev wat to do, by phill daian](https://pdaian.com/blog/mev-wat-do/)
 - [mev the first 5 years, by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
+- [mev-boost, relays, self-soverignty, by dr. m. von steinkirch](https://mirror.xyz/steinkirch.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
 
 
 
