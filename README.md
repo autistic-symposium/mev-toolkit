@@ -365,6 +365,7 @@
 * [highgwei bot](https://twitter.com/HighGwei)
 * [mev proposer bot](https://twitter.com/mevproposerbot)
 * [eigenphi bot](https://twitter.com/EigenPhi_Alert)
+* [mevwatch bot](https://twitter.com/mevwatchbot)
 
 <br>
 
