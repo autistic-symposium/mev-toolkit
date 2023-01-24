@@ -243,13 +243,15 @@
 
 <br>
 
-* [mev.day 2022](https://mevday.org/)
+#### wikis and talks
+
+* [eigenphi mev research](https://www.eigenphi.io/mev/research)
+* [mev wiki, by automata network](https://www.mev.wiki/)
+* [mev extraction strategies, by r. miller](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g124f588a727_0_51)
+* [mev auction, by the ethereum foundation](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 * [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+* [mev.day amsterdam 2022](https://mevday.org/)
 * [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
-* [mev wiki](https://www.mev.wiki/)
-* [barnabe.eth on pbs](https://barnabe.substack.com/p/pbs)
-* [mev extraction strategies](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g125078237b3_0_84)
-* [mev auction](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 
 <br>
 
