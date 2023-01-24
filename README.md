@@ -102,10 +102,10 @@
 
 ### mev explorers
 
-* [zero mev](https://www.zeromev.org/)
-* [public mev explorer](https://metablock.dev/tools/mev/)
-* [dashboard by metablock](https://mev.metablock.dev/1/dashboard)
-* [flashbots bundle explorer](https://flashbots-explorer.marto.lol/)
+* [zero mev, by pmcgoohan](https://www.zeromev.org/)
+* [public mev explorer, by metablock](https://metablock.dev/tools/mev/)
+* [mev dashboard, by metablock](https://mev.metablock.dev/1/dashboard)
+* [bundle explorer, by flashbots](https://flashbots-explorer.marto.lol/)
 
 
 
@@ -122,14 +122,14 @@
 
 * [ethvm](https://www.ethvm.com/)
 * [ethtx transaction decoder](https://ethtx.info/)
-* [txn finance](https://txn.finance/)
-* [ethereum token explorer](https://ethplorer.io/)
-* [anyblock explorer and txs](https://explorer.anyblock.tools/)
-* [blockscout block explorer](https://blockscout.com/eth/mainnet/)
-* [blockchair blocks explorer](https://blockchair.com/ethereum)
-* [oklink block and tokens explorer](https://www.oklink.com/en/eth)
-* [phalcon tx explorer](https://phalcon.blocksec.com/)
-* [breadcrumbs](https://www.breadcrumbs.app/home)
+* [txn finance, by band protocol](https://txn.finance/)
+* [ethereum token explorer, by diem project](https://ethplorer.io/)
+* [explorer and txs, by anyblock](https://explorer.anyblock.tools/)
+* [block explorer, by blockscout](https://blockscout.com/eth/mainnet/)
+* [block explorer, by blockchair](https://blockchair.com/ethereum)
+* [block and tokens explorer, by oklink](https://www.oklink.com/en/eth)
+* [tx explorer, by blocksec](https://phalcon.blocksec.com/)
+* [address explorer, by breadcrumbs](https://www.breadcrumbs.app/home)
 
 <br>
 
@@ -227,7 +227,7 @@
 - [wrecking sandwich traders for fun and profit, by n. worsley](https://github.com/Defi-Cartel/salmonella)
 - [tricking frontrunners into being transaction relayers, by sankar4033](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
 - [The enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
-- [anatomy of a mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
+- [anatomy of an mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 - [mev wat to do, by phill daian](https://pdaian.com/blog/mev-wat-do/)
 - [mev the first 5 years, by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
 
@@ -250,13 +250,13 @@
 
 ### research papers
 
-- [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian e al](https://arxiv.org/pdf/1904.05234.pdf)
-- [towards a theory of mev I, by diamandis et al](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
-- [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al](https://arxiv.org/pdf/1902.05164.pdf)
-- [combining ghost and casper, by vitalik et al](https://arxiv.org/abs/2003.03052)
-- [three attacks on pos ethereum, by caspar schwarz-schilling et al](https://arxiv.org/abs/2110.10086)
-- [two attacks on pos ghost/ethereum, by joachim neu et al](https://arxiv.org/abs/2203.01315)
-- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin at al](https://arxiv.org/pdf/2101.05511.pdf)
+- [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian e al.](https://arxiv.org/pdf/1904.05234.pdf)
+- [towards a theory of mev I, by diamandis et al.](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
+- [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al.](https://arxiv.org/pdf/1902.05164.pdf)
+- [combining ghost and casper, by vitalik et al.](https://arxiv.org/abs/2003.03052)
+- [three attacks on pos ethereum, by caspar schwarz-schilling et al.](https://arxiv.org/abs/2110.10086)
+- [two attacks on pos ghost/ethereum, by joachim neu et al.](https://arxiv.org/abs/2203.01315)
+- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin at al.](https://arxiv.org/pdf/2101.05511.pdf)
 - [dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 
 
