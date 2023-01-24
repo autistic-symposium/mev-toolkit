@@ -337,6 +337,7 @@
 * [segfaultdoctor](https://twitter.com/segfaultdoctor)
 * [0xalpharush](https://twitter.com/0xalpharush)
 * [femboy_capital](https://twitter.com/femboy_capital)
+* [0x_beans](https://twitter.com/0x_beans)
 * [peter_szilagyi](https://twitter.com/peter_szilagyi)
 * [_anishagnihotri](https://twitter.com/_anishagnihotri)
 * [avsa](https://twitter.com/avsa)
