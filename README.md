@@ -69,11 +69,12 @@
 
 ### mev-related projects
 
-
 * [flashbots](flashbots)
+* [cyph3rs.xyz](https://www.cyph3rs.xyz/)
 * [cow protocol](cow_protocol)
 * [rook dao](rook)
 * [private order flows](private_order_flows)
+
 
 
 
@@ -94,7 +95,7 @@
 
 ---
 
-## 🍟 other resources && tools
+## 🍟 other resources
 
 
 <br>
@@ -188,7 +189,7 @@
 
 
 
-### interesting projects
+### uself tools 
 
 <br>
 
@@ -197,11 +198,11 @@
 * [tornado cash pool anonymity](https://tutela.xyz/)
 * [eth detective](https://www.ethtective.com/address/)
 * [contracts diff checker](https://etherscan.io/contractdiffchecker)
-* [ultrasound money dahsboard](https://ultrasound.money/)
+* [ultrasound money dashboard](https://ultrasound.money/)
 * [revoke.cash](https://revoke.cash/)
 * [ankr rpc endpoints](https://www.ankr.com/rpc/)
 * [back run me](https://backrunme.com/swap)
-* [cyph3rs.xyz](https://www.cyph3rs.xyz/)
+
 
 <br>
 
@@ -226,7 +227,7 @@
 - [wrecking sandwich traders for fun and profit, by n. worsley](https://github.com/Defi-Cartel/salmonella)
 - [tricking frontrunners into being transaction relayers, by sankar4033](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
 - [The enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
-- [anatomy of an mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
+- [anatomy of a mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 - [mev wat to do, by phill daian](https://pdaian.com/blog/mev-wat-do/)
 - [mev the first 5 years, by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
 
