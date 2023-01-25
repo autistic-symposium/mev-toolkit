@@ -360,7 +360,7 @@
 
 <br>
 
-### bot alerts
+### alert bots
 
 
 <br>
