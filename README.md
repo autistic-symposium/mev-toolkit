@@ -194,6 +194,7 @@
 
 <br>
 
+* [calldata decoder](https://tools.deth.net/calldata-decoder)
 * [eth converter](https://eth-converter.com/)
 * [smart contract allowance checker](https://app.unrekt.net/)
 * [tornado cash pool anonymity](https://tutela.xyz/)
