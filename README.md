@@ -123,6 +123,7 @@
 
 <br>
 
+* [bloxy, by bitquey](https://bloxy.info/)
 * [ethvm ethereum explorer](https://www.ethvm.com/)
 * [txn finance, by band protocol](https://txn.finance/)
 * [ethereum token explorer, by diem project](https://ethplorer.io/)
