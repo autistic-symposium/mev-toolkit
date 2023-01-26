@@ -209,6 +209,7 @@
 * [back run me](https://backrunme.com/swap)
 * [ethereum signature database](https://www.4byte.directory/)
 * [source of deployed ethereum contracts in vscode](https://github.com/dethcrypto/dethcode)
+* [token security detector](https://gopluslabs.io/token-security/)
 
 
 <br>
