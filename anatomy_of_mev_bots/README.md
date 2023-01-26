@@ -27,6 +27,7 @@
 
 * [profits of bots](profits)
 * [costs of bots](deployment)
+* [list of known bots, by mev corpus](https://github.com/manifoldfinance/mev-corpus/blob/master/packages/known-bots/lib/known-bots.js)
 
 <br>
 
