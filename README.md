@@ -216,7 +216,7 @@
 
 ---
 
-## 🍿 other recommended articles
+## 🍿 articles
 
 <br>
 
@@ -253,6 +253,7 @@
 * [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
 * [mev.day amsterdam 2022](https://mevday.org/)
 * [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
+* [mempool privacy research list, by a. obadia](https://collective.flashbots.net/t/bookmarks-relevant-for-mempool-privacy-researchers/1091)
 
 <br>
 
