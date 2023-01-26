@@ -32,3 +32,4 @@ uniswap v3 introduced:
 
 * [uniswap v3 whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 * [liquidity mining on uniswap v3 by paradigm](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3)
+* [uniswap v3 book, by jeiwan](https://github.com/Jeiwan/uniswapv3-book)
