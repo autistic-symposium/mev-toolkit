@@ -34,6 +34,7 @@
 
 ## resources
 
+* [liquidations by aave protocol](https://docs.aave.com/developers/guides/liquidations)
 * [liquidation dashboard by eigenphi](https://eigenphi.io/mev/ethereum/liquidation)
 * [understanding compound's liquidation](https://zengo.com/understanding-compounds-liquidation/)
 * [forbes on nahtan worsley's liquidation strategies](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=25489eda2d8d) 
