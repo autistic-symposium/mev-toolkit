@@ -25,5 +25,12 @@
 
 <br>
 
+#### other stories of hacked MEV bot  
 
-#### [list of malicious tokens](malicious_tokens.md)
+
+* [https://twitter.com/AnciliaInc/status/1580705036400611328](https://twitter.com/AnciliaInc/status/1580705036400611328)
+* [https://twitter.com/BlockSecTeam/status/1580779311862190080](https://twitter.com/BlockSecTeam/status/1580779311862190080)
+* [https://twitter.com/MevRefund/status/1537421091697836032](https://twitter.com/MevRefund/status/1537421091697836032)
+* [https://twitter.com/MevRefund/status/1580652170592280576](https://twitter.com/MevRefund/status/1580652170592280576)
+* [a list of malicious tokens](malicious_tokens.md)
+
