@@ -1,6 +1,6 @@
 #!/usr/bin/env python3 
 # This script sends a bundle of two transactions which transfer ETH into a random account.
-# For full instructions: https://lilithsecurity.substack.com/p/-mev-wednesdays-intro-to-flashbots
+# Full instructions: https://mirror.xyz/steinkirch.eth/rGyGGoOLek_pCoJVlSFSjjFL-b5_Mw_P5hC3giwUCtc
 
 
 import os
