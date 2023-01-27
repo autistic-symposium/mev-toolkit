@@ -47,7 +47,7 @@
 * [pvp battles](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
 * [latency optimization](latency)
-* [cross domain mev](cross_domain_mev)
+* [cross-domain mev](cross_domain_mev)
 
 
 
@@ -126,7 +126,7 @@
 * [bloxy, by bitquey](https://bloxy.info/)
 * [ethvm ethereum explorer](https://www.ethvm.com/)
 * [txn finance, by band protocol](https://txn.finance/)
-* [ethereum token explorer, by diem project](https://ethplorer.io/)
+* [ethereum token explorer, by diem](https://ethplorer.io/)
 * [explorer and txs, by anyblock](https://explorer.anyblock.tools/)
 * [mev explorer, by eigenphi](https://www.eigenphi.io/)
 * [block explorer, by blockscout](https://blockscout.com/eth/mainnet/)
@@ -186,7 +186,8 @@
 * [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
 * [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
-* [chours one mev data: flashbots data fir extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
+* [flashbots data for extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
+* [solana mev data](https://dune.com/chorus_one_research/solana-mev-data)
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
 * [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
 * [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
@@ -197,7 +198,7 @@
 
 
 
-### uselful tools 
+### useful tools 
 
 <br>
 
