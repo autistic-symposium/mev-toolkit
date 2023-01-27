@@ -183,6 +183,10 @@
 
 ##### dune boards
 
+* [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
+* [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
+* [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
+* [chours one mev data: flashbots data fir extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
 * [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
 * [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
@@ -268,7 +272,7 @@
 - [combining ghost and casper, by vitalik et al.](https://arxiv.org/abs/2003.03052)
 - [three attacks on pos ethereum, by caspar schwarz-schilling et al.](https://arxiv.org/abs/2110.10086)
 - [two attacks on pos ghost/ethereum, by joachim neu et al.](https://arxiv.org/abs/2203.01315)
-- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin at al.](https://arxiv.org/pdf/2101.05511.pdf)
+- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin et al.](https://arxiv.org/pdf/2101.05511.pdf)
 - [dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 
 
