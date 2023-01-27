@@ -16,3 +16,4 @@
 * [builder69.io endpoint for searchers (bundle/tx)](https://builder0x69.io)
 * [mev-rs - gateway to a network of block builders](https://github.com/ralexstokes/mev-rs)
 * [mev order flow, the king of block builders](https://coinyuppie.com/mev-order-flow-the-king-of-block-builders/)
+* [manifold finance](https://www.manifoldfinance.com/)
