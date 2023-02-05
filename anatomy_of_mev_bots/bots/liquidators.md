@@ -4,3 +4,4 @@
 * [ftx-factorial liquidation bot](https://github.com/fxfactorial/liquidation-bot-fall-2020)
 * [liquidation aave protocol example](https://github.com/ialberquilla/aave-liquidation)
 * [liquidator-v3](https://github.com/blockworks-foundation/liquidator-v3)
+* [mango market liquidator](https://github.com/blockworks-foundation/liquidator-v3)
