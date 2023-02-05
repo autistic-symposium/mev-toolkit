@@ -20,7 +20,7 @@
 
 <br>
 
-<img width="700" alt="Screen Shot 2022-10-17 at 10 16 01 PM" src="https://user-images.githubusercontent.com/1130416/196341536-47b22f79-404f-4c55-8091-30a7251adcb1.png">
+<img width="700" src="https://user-images.githubusercontent.com/1130416/196341536-47b22f79-404f-4c55-8091-30a7251adcb1.png">
 
 
 
@@ -39,6 +39,8 @@
 
 ### resources
 
-* [sandwich overview by eigenphi](https://eigenphi.io/mev/ethereum/sandwich)
-* [demystify the dark forest: sandwich attack](https://medium.com/coinmonks/demystify-the-dark-forest-on-ethereum-sandwich-attacks-5a3aec9fa33e)
+* [sandwich overview, by eigenphi](https://eigenphi.io/mev/ethereum/sandwich)
+* [modern mev sandwich attacks on ethereum routers, by totlsota.eth](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
+* [demystify the dark forest: sandwich attack ,by coinmonks](https://medium.com/coinmonks/demystify-the-dark-forest-on-ethereum-sandwich-attacks-5a3aec9fa33e)
 * [sandwich attacks on uniswap v2](https://www.defi-sandwi.ch/)
+
