@@ -66,3 +66,4 @@
 ### resources
 
 * [10M Revenue Drain in 5 Months: MEV impact on Curve](https://medium.com/@eigenphi/10m-revenue-drain-in-5-months-mev-impact-on-curve-fd5214a0667)
+* [Curve Stablecoin Paper](https://github.com/curvefi/curve-stablecoin/blob/master/doc/curve-stablecoin.pdf)
