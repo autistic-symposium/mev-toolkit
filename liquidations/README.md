@@ -4,12 +4,22 @@
 
 ### tl, dr
 
-* lending protocol (e.g. aave or maker) liquidations present a well-known MEV opportunity. they work by requiring users to deposit some collateral. users can then borrow different assets and tokens from others depending on what they need, up to a certain amount of their deposited collateral. 
-* as the value of a borrower's collateral fluctuates, if the value of the borrowed assets exceeds the value of the collateral, the protcol allows anyone to liquidate the collateral (similar to margin calls in traditional finance). 
-* searchers compete to parse blockchain data as fast as possible to determine which borrowers can be liquidated and be the first to submit a liquidation transaction and collect the liquidation fee.
-* example of strategy: bot detects a liquidation opportuniy at a block and issues a liquidation tx, which is expected to be include in the next block. to compete with other liquidators, the bot sets high tx fees for their liquidation tx.
-* another strategy: bot observes a tx which will create a liquidation opportunity (e.g., an oracle price update tx rendering a collaterized debit to be liquidated), then backruns this tx with a liquidation tx to avoid the fee bidding competition.
+<br>
 
+* lending protocol work by requiring users to deposit some collateral. users can then borrow different assets and tokens from others depending on what they need, up to a certain amount of their deposited collateral. as the value of a borrower's collateral fluctuates, if the value of the borrowed assets exceeds the value of the collateral, the protocol allows anyone to liquidate the collateral (similar to margin calls in traditional finance). 
+* searchers compete to parse blockchain data as fast as possible to determine which borrowers can be liquidated and be the first to submit a liquidation transaction and collect the liquidation fee.
+* example of strategy: bot detects a liquidation opportunity at a block and issues a liquidation tx, which is expected to be included in the next block. to compete with other liquidators, the bot sets high tx fees for their liquidation tx.
+* another strategy: bot observes a tx that will create a liquidation opportunity (e.g., an oracle price update tx rendering a collateralized debit to be liquidated), then backruns this tx with a liquidation tx to avoid the fee bidding competition.
+
+<br>
+
+---
+
+### in this dir
+
+<br>
+
+* [aave](aave.md)
 
 <br>
 
