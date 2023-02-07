@@ -5,7 +5,7 @@
 
 <br>
 
-* anasset’s time-weighted average price (TWAP) is the measure of an asset’s average price over a predetermined period of time (any specified duration).
+* an asset’s time-weighted average price (TWAP) is the measure of an asset’s average price over a predetermined period of time (any specified duration).
 * TWAP trading algorithms seek to optimize average price while executing over a specified time period. 
 * generally used to execute large orders that are expected to have significant market impact.
 
