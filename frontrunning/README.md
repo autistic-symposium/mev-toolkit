@@ -27,4 +27,8 @@
 
 
 * [shutter frontrunning protection](https://github.com/shutter-network/shutter)
+
+##### history
+
 * [on cryptokitties `giveBirth()` frontrunning](https://maven11.substack.com/p/modular-mev-part-1the-introduction)
+* [bancor ico frontrunning](https://hackingdistributed.com/2017/06/19/bancor-is-flawed/?ref=hackernoon.com)
