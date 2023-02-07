@@ -1,4 +1,4 @@
-## 🤖 anatomy of mev bots
+## anatomy of mev bots
 
 <br>
 
@@ -34,7 +34,7 @@
 
 ---
 
-### resources and tools
+### resources
 
 <br>
 
