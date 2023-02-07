@@ -8,6 +8,7 @@
 
 * flashbots is a research and development organization focused on mitigating the negative externalities of current MEV extraction techniques and avoiding the existential risks MEV could cause to state-rich blockchains like Ethereum.
 * after the release of MEV-geth (and later MEV-boost), much of the computation related to MEV was taken off-chain, by a side-relay that allows MEV searchers to communicate directly with nodes and other participants. This lead to a decrease in fee congestion pricing.
+* however, MEV “marketplaces” like flashbots, are quite centralized, since the vast majority of blocks flow through it.
 
 
 <br>
