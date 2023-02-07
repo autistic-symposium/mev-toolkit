@@ -48,6 +48,19 @@
 
 <br>
 
+### mev on the chains
+
+* [mev on ethereum](MEV_on_Ethereum)
+* [mev on avalanche](MEV_on_Avalanche)
+* [mev on arbitrum](MEV_on_Arbitrum)
+* [mev on optimism](MEV_on_Optimism)
+* [mev on solana](MEV_on_Solana)
+* [mev on cosmos](MEV_on_Cosmos)
+* [mev on binance](MEV_on_Binance)
+* [mev on polygon](MEV_on_Polygon)
+
+<br>
+
 ### building a toolkit
 
 <br>
@@ -57,20 +70,6 @@
 * [latency optimization](latency)
 * [cross-domain mev](cross_domain_mev)
 * [private order flows](private_order_flows)
-
-
-
-<br>
-
-### mev on the chains
-
-* [mev on ethereum](MEV_on_Ethereum)
-* [mev on avalanche](MEV_on_Avalanche)
-* [mev on arbitrum](MEV_on_Arbitrum)
-* [mev on solana](MEV_on_Solana)
-* [mev on cosmos](MEV_on_Cosmos)
-* [mev on binance](MEV_on_Binance)
-* [mev on polygon](MEV_on_Polygon)
 
 
 
