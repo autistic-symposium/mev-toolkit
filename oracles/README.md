@@ -4,8 +4,8 @@
 
 ### tl;dr
 
-* price oracles are any tool showing an asset's price but in context of defi.
-* oracles provide a trustless way of getting extrinsic (off-chain) information, they provide the some key functions such as collect data from an off-chain source, transfer the data on-chain with a signed message, and make the data available by putting it in a smart contract’s storage.
+* price oracles are any defi tool showing an asset's price.
+* oracles should provide a trustless way of getting extrinsic (off-chain) information, and some key functions such as: collect data from an off-chain source, transfer the data on-chain with a signed message, and make the data available by putting it in a smart contract’s storage.
 
 
 <br>
