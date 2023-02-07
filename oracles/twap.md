@@ -20,6 +20,7 @@
 
 * on pos ethereum, block builder building successive block might be able to manipulate oracles for multi-block MEV extraction, as proposers know one epoch (32 blocks or 6 minutes and 24 seconds) ahead if they are the next block proposer.
 * with mev-boost, an attacker could observe the set of upcoming proposers. if they finds two successive proposers that have both been proposing blocks, then the attacker can anticipate the attack.
+* a potential attack vector is on lending protocols, where an attacker can borrow assets that are immediately undercollateralized.
 
 
 <img width="791" src="https://user-images.githubusercontent.com/1130416/209031792-52d7671e-480e-497b-9736-4e22e1810fab.png">
