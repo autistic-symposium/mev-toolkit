@@ -15,15 +15,15 @@
 
 ----
 
-### dirs in this repo
+### in this dir
 
 <br>
 
-* [some scripts](scripts)
-* [some tools](tools)
-* [mev-boost stuff](mev-boost)
-* [suave stuff](suave)
 
+* [mev-boost](mev-boost)
+* [suave](suave)
+* [scripts](scripts)
+* [tools](tools)
 
 
 
@@ -33,6 +33,8 @@
 ---
 
 ### resources
+
+<br>
 
 - [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
 - [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
