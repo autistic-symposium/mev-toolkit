@@ -1,4 +1,4 @@
-## 🤖🔪 flashbots
+## flashbots
 
 <br>
 
