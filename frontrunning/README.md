@@ -28,7 +28,12 @@
 
 * [shutter frontrunning protection](https://github.com/shutter-network/shutter)
 
-##### history
+##### cool txs and stories
+
+* [generalized frontrunner copied the exploiter's 4 tx on past 50 blocks](https://twitter.com/bertcmiller/status/1613257826654392320)
+
+
+##### some history
 
 * [on cryptokitties `giveBirth()` frontrunning](https://maven11.substack.com/p/modular-mev-part-1the-introduction)
 * [bancor ico frontrunning](https://hackingdistributed.com/2017/06/19/bancor-is-flawed/?ref=hackernoon.com)
