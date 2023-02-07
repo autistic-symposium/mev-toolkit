@@ -15,8 +15,9 @@
 ### in this repo
 
 
+
+* [TWAP](twap.md)
+* [TWAMM](twamm.md)
 * [chainlink](chainlink.md)
-* [TWAP oracles](twap.md)
-* [TWAMM designs](twamm.md)
 
 
