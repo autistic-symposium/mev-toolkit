@@ -16,3 +16,5 @@
 ---
 
 ### resources
+
+* [decentralizing sequencers, by maven11](https://maven11.substack.com/i/100501772/decentralizing-sequencers)
