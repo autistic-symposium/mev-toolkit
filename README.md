@@ -40,7 +40,7 @@
 * [sandwich](sandwich)
 * [liquidations](liquidations)
 * [longtails](longtails)
-* [just-in-time](uniswap/uniswap-v3/just-in-time.md)
+* [jit liquidity](uniswap/uniswap-v3/just-in-time.md)
 * [flashloans](flashloans)
 * [sniping](sniping)
 * [statistical](stat_strategies)
