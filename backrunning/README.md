@@ -1,4 +1,4 @@
-## 🥪 back-running (tailgating)
+## 🥪 backrunning (tailgating)
 
 <br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-* a back-running bot that back-runs new token listings.
+* a backrunning bot that back-runs new token listings.
 * it monitors the mempool for new pairs being created on uniswap, if it finds a new pair the bot places a buy transaction imediately behind the initial liquidity.
 * the bot swoops in and buys as many tokens as possible (but not all them as there needs to be an opportunity for others to buy tokens)
 * the bot waits for the price to go up and other traders buy the token from uniswap and proceeds to sell back the tokens at a higher price
