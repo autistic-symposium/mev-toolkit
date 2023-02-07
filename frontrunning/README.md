@@ -1,4 +1,4 @@
-## 🥩 frontrunning (or PGA, priority gas auction)
+## 🥩 frontrunning 
 
 <br>
 
