@@ -1,4 +1,4 @@
-## 🥪 sandwiching
+## sandwiching
 
 <br>
 
