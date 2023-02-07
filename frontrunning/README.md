@@ -31,6 +31,7 @@
 
 ##### some history
 
+* [improving frontrunning of x*y=k mm, by vitalik](https://ethresear.ch/t/improving-front-running-resistance-of-x-y-k-market-makers/1281)
 * [on cryptokitties `giveBirth()` frontrunning](https://maven11.substack.com/p/modular-mev-part-1the-introduction)
 * [bancor ico frontrunning](https://hackingdistributed.com/2017/06/19/bancor-is-flawed/?ref=hackernoon.com)
 * [150 lines of python frontrunning bancor](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
