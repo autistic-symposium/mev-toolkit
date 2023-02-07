@@ -20,7 +20,7 @@
 
 #### 👾 the initial concept of MEV started as a thread by [pmcgooohan](https://twitter.com/pmcgoohancrypto?lang=en) on [e/ethereum](https://www.reddit.com/r/ethereum/comments/2d84yv/miners_frontrunning/), and it was formalized by [phildaian](https://twitter.com/phildaian)'s paper [flash boys 2.0](https://arxiv.org/abs/1904.05234). 
 
-#### ⚠️ this repository is an ongoing boundless catalog from my own research. therefore, no guarantees, no promises; use it at your own risk.
+#### ⚠️ this repository is an ongoing boundless catalog from my own research. therefore, no guarantees, use it at your own risk.
 
 <br>
 
