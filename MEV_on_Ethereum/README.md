@@ -21,6 +21,7 @@
 * [basic evm](evm-knowledge.md)
 * [eip-1559](eip-1559.md)
 * [the mempool](the_mempool.md)
+* [searcher builder validator/sequencer](searcher-builder-validator-sequencer/)
 
 
 <br>
