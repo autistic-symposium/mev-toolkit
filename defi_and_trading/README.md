@@ -5,6 +5,8 @@
 
 ### in this dir
 
+<br>
+
 * [bridges](bridges)
 * [day-trading](day-trading)
 * [derivatives](derivatives)
@@ -16,24 +18,21 @@
 
 <br>
 
-
-----
-
-### trading bots
-
-* [coinbot: CEXs cointegration bot in python](https://github.com/go-outside-labs/blockchain-science-py/tree/main/cointegration-bots)
-* [coingator: CEXs cointegration bot in rust](https://github.com/go-outside-labs/searcher-coingator-rs)
-
-
-<br>
-
-----
-
+---
 
 
 ### resources
 
-##### protocols
+<br>
+
+#### trading bots
+
+* [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/tradors.md)
+* [coinbot: CEXs cointegration bot](https://github.com/go-outside-labs/blockchain-science-py/tree/main/cointegration-bots)
+
+<br>
+
+#### protocols
 
 * [Yearn finance](https://yearn.finance/#/portfolio)
 * [Stader Labs](https://staderlabs.com/)
@@ -70,7 +69,7 @@
 
 
 
-##### indexes and asset management
+#### indexes and asset management
 
 
 
@@ -102,9 +101,7 @@
 <br>
 
 
-
-
-##### tools, news, resources
+#### tools, news, resources
 
 * [insight over several protocols](https://defi-mochi.notion.site/d2cf08cb79254dcf8f30e08cc38761f4?v=81df8226157849ee94a1c859c1e13329)
 * [defi pulse](https://www.defipulse.com/)
