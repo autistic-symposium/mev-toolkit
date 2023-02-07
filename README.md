@@ -33,7 +33,7 @@
 * [sandwich](sandwich)
 * [liquidations](liquidations)
 * [nft arbitrage](nft_arbitrage)
-* [front-running](front_running)
+* [frontrunning](frontrunning)
 * [back-running](back_running)
 * [just-in-time](uniswap/uniswap-v3/just-in-time.md)
 * [flashloans](flashloans)
