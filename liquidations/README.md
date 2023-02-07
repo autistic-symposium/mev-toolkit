@@ -18,7 +18,6 @@
 ## resources
 
 * [anatomy of liquidator bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/liquidators.md)
-* [liquidations, by aave protocol](https://docs.aave.com/developers/guides/liquidations)
 * [liquidation dashboard, by eigenphi](https://eigenphi.io/mev/ethereum/liquidation)
 * [understanding compound's liquidation, by zengo](https://zengo.com/understanding-compounds-liquidation/)
 * [nahtan worsley's liquidation strategies, by forbes](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=25489eda2d8d) 
