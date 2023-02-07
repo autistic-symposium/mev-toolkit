@@ -96,7 +96,7 @@
 * [oracles, twap, twamm](oracles)
 * [0x protocol and rfq](0x_protocol)
 * [defi and trading](defi_and_trading)
-* [tokenomics](tokenomics)
+* [daos and tokenomics](https://github.com/go-outside-labs/daos-and-tokenomics)
 
 
 <br>
