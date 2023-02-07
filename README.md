@@ -35,11 +35,11 @@
 <br>
 
 * [arbitrage](arbitrage)
-* [sandwich](sandwich)
-* [liquidations](liquidations)
-* [nft arbitrage](nft_arbitrage)
 * [frontrunning](frontrunning)
 * [backrunning](backrunning)
+* [sandwich](sandwich)
+* [liquidations](liquidations)
+* [longtails](longtails)
 * [just-in-time](uniswap/uniswap-v3/just-in-time.md)
 * [flashloans](flashloans)
 * [sniping](sniping)
