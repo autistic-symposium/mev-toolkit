@@ -20,3 +20,4 @@
 
 * [hummingbot trading bots](https://hummingbot.org/)
 * [coinbot: CEXs cointegration bot](https://github.com/go-outside-labs/blockchain-science-py/tree/main/cointegration-bots)
+* [contract of a searcher using hybrid arb strategies](https://etherscan.io/address/0xa57bd00134b2850b2a1c55860c9e9ea100fdd6cf)
