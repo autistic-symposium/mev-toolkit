@@ -26,6 +26,7 @@
 
 #### solvers
 
+* [anatomy of solver bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/cow-solvers.md)
 * [yearn cow solver](https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3)
 * [hack tx by a solver](https://etherscan.io/tx/0x92f906bce94bab417cccc87ae046448d7fb8c2c0350b7ed911545577acb3bfc1)
 
