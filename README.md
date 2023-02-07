@@ -257,8 +257,7 @@
 - [The enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [anatomy of an mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
 - [mev wat to do, by phill daian](https://pdaian.com/blog/mev-wat-do/)
-- [mev: the first 5 years, by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
-- [mev: the next 5 years, by james prestwich](https://medium.com/@Prestwich/mev-the-next-five-years-63f84fffdf36)
+- [mev: the first 5 years](https://medium.com/@Prestwich/mev-c417d9a5eb3d) and [mev: the next 5 years](https://medium.com/@Prestwich/mev-the-next-five-years-63f84fffdf36), by james prestwich
 - [mev-boost, relays, self-sovereignty, by dr. m. von steinkirch](https://mirror.xyz/steinkirch.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
 - [implementing ethereum trading front-runs on the bancor exchange, by ivan bogatyy](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
 
