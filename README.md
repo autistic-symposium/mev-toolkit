@@ -220,12 +220,24 @@
 * [whatsabi: guess an abi for ethereum contracts](https://github.com/shazow/whatsabi)
 
 
+##### alert bots
+
+
+* [mevboost bot](https://twitter.com/MevBoostBot)
+* [mevrefund bot](https://twitter.com/MevRefund)
+* [highgwei bot](https://twitter.com/HighGwei)
+* [mev proposer bot](https://twitter.com/mevproposerbot)
+* [eigenphi bot](https://twitter.com/EigenPhi_Alert)
+* [mevwatch bot](https://twitter.com/mevwatchbot)
+
+
+
 <br>
 
 
 ---
 
-## 🍿 articles
+## 🍿 history || relevant articles
 
 <br>
 
@@ -248,13 +260,14 @@
 - [mev: the first 5 years, by james prestwich](https://medium.com/@Prestwich/mev-c417d9a5eb3d)
 - [mev: the next 5 years, by james prestwich](https://medium.com/@Prestwich/mev-the-next-five-years-63f84fffdf36)
 - [mev-boost, relays, self-soverignty, by dr. m. von steinkirch](https://mirror.xyz/steinkirch.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
+- [implementing ethereum trading front-runs on the bancor exchange, by ivan bogatyy](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
 
 
 
 <br>
 
 
-### wikis and talks
+### wikis || talks
 
 * [mev research, by eigenphi](https://www.eigenphi.io/mev/research)
 * [mev wiki, by automata network](https://www.mev.wiki/)
@@ -280,19 +293,6 @@
 - [censorship resistance in on-chain auctions, by m. pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
 
 
-<br>
-
-
-
-### alert bots
-
-
-* [mevboost bot](https://twitter.com/MevBoostBot)
-* [mevrefund bot](https://twitter.com/MevRefund)
-* [highgwei bot](https://twitter.com/HighGwei)
-* [mev proposer bot](https://twitter.com/mevproposerbot)
-* [eigenphi bot](https://twitter.com/EigenPhi_Alert)
-* [mevwatch bot](https://twitter.com/mevwatchbot)
 
 <br>
 
