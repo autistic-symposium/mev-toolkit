@@ -241,7 +241,7 @@
 
 <br>
 
-- [endgame, by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
+- [the 0 to 1 guide to mev, by blockchain at berkeley](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
 - [ethereum is a dark forest, by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 - [escaping the dark forest, by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [how to build an ethereum mining pool, by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
@@ -260,6 +260,7 @@
 - [mev: the first 5 years](https://medium.com/@Prestwich/mev-c417d9a5eb3d) and [mev: the next 5 years](https://medium.com/@Prestwich/mev-the-next-five-years-63f84fffdf36), by james prestwich
 - [mev-boost, relays, self-sovereignty, by dr. m. von steinkirch](https://mirror.xyz/steinkirch.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
 - [implementing ethereum trading front-runs on the bancor exchange, by ivan bogatyy](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
+- [endgame, by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
 
 
 
@@ -286,7 +287,7 @@
 
 <br>
 
-- [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian e al.](https://arxiv.org/pdf/1904.05234.pdf)
+- [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian et al.](https://arxiv.org/pdf/1904.05234.pdf)
 - [towards a theory of mev I, by diamandis et al.](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al.](https://arxiv.org/pdf/1902.05164.pdf)
 - [combining ghost and casper, by vitalik et al.](https://arxiv.org/abs/2003.03052)
