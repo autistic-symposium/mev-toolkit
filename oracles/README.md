@@ -25,4 +25,4 @@
 
 ### resources
 
-* [multi-block mev, by chainsecurity](https://chainsecurity.com/oracle-manipulation-after-merge/)
+
