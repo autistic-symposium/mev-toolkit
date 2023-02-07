@@ -43,5 +43,6 @@
 * [sandwich overview, by eigenphi](https://eigenphi.io/mev/ethereum/sandwich)
 * [modern mev sandwich attacks on ethereum routers, by totlsota.eth](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
 * [demystify the dark forest: sandwich attack, by coinmonks](https://medium.com/coinmonks/demystify-the-dark-forest-on-ethereum-sandwich-attacks-5a3aec9fa33e)
+* [analysing execution quality in osmosis, by meka.tech](https://meka.tech/writing/analysing-execution-quality-in-osmosis--e9dd8394-0d09-4d92-a0c7-27629d321af0)
 
 
