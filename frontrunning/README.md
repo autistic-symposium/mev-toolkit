@@ -7,13 +7,13 @@
 <br>
 
 
-* process by which an adversary observes txs on the network layer and then acts upon this information by, for instance, issuing a competing tx, with the hope that this tx is mined before a victim's tx.
+* frontrunning is the process by which an adversary observes txs on the network layer and then acts upon this information by, for instance, issuing a competing tx, with the hope that this tx is mined before a victim's tx.
 
 
 * example: transaction A is broadcasted with a higher gas price than an already pending transaction B so that A gets mined before B.
 
 
-* generalized frontrunners are bots that watch the mempool to detect profitable transactions, copy their code, replace addresses with theirs, then submit the modified tx with a higher gas price.
+* **generalized frontrunners** are bots that watch the mempool to detect profitable transactions, copy their code, replace addresses with theirs, then submit the modified tx with a higher gas price.
 
 <br>
 
