@@ -27,3 +27,4 @@
 
 
 * [shutter frontrunning protection](https://github.com/shutter-network/shutter)
+* [on cryptokitties `giveBirth()` frontrunning](https://maven11.substack.com/p/modular-mev-part-1the-introduction)
