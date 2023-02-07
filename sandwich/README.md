@@ -27,6 +27,7 @@
 
 ### resources
 
+* [anatomy of sandwichor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/sandwichors.md)
 * [sandwich attacks on uniswap v2](https://www.defi-sandwi.ch/)
 * [sandwich overview, by eigenphi](https://eigenphi.io/mev/ethereum/sandwich)
 * [modern mev sandwich attacks on ethereum routers, by totlsota.eth](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
