@@ -19,7 +19,7 @@
 ### in this dir
 
 * [interesting txs in the wild](interesting_examples.md)
-* [cross-trading arb like sandwich](cross_trading.md)
+
 
 <br>
 
