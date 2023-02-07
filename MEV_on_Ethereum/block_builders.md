@@ -17,3 +17,4 @@
 * [mev-rs - gateway to a network of block builders](https://github.com/ralexstokes/mev-rs)
 * [mev order flow, the king of block builders](https://coinyuppie.com/mev-order-flow-the-king-of-block-builders/)
 * [manifold finance](https://www.manifoldfinance.com/)
+* [block builder decentralization is coming, but maybe not so soon, by ballsyalchemist](https://bittokoin.substack.com/p/block-builder-decentralization-is)
