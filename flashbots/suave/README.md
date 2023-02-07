@@ -1,4 +1,4 @@
-## Flashbots' SUAVE
+## suave
 
 <br>
 
@@ -13,4 +13,4 @@
 
 ### resources 
 
-* [first article designing SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave)
+* [first article designing suave](https://writings.flashbots.net/the-future-of-mev-is-suave)
