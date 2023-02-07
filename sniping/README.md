@@ -1,4 +1,4 @@
-## Sniping techniques
+## sniping techniques
 
 ### tl; dr
 
