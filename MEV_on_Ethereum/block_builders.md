@@ -1,11 +1,18 @@
-## block builders
+## block builders on ethereum
 
 ### tl; dr
 
+* builders will aggregate txs from users, MEV searchers, and own private order flow to make the highest value blocks possible
+   * `blockValue` = `txFees` + MEV
+   * block bidding is carried out as a sealed bid auction
+   * however, searchers can pay the builder through either coinbase payments and `txsFees`
+* builders with exclusive private orderflow should create the most valuable block. 
+* builders having its blocks included consistently incentivizes more private order flow (searchers want their tx included)
+* builder can be selling future blockspace upfront so market makers or protocols can secure block space for their transactions or users
 
-* `blockValue` = `txFees` + MEV
-* block bidding is carried out as a sealed bid auction
-* however, searchers can pay the builder through either coinbase payments and `txsFees`
+
+<br>
+
 ----
 
 ### resources
