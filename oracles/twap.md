@@ -29,6 +29,7 @@ ___
 
 ### resources
 
-* [Multi Block MEV by flashbots](https://collective.flashbots.net/t/multi-block-mev/457/2?u=nerolation)
-* [Statistical analysis on Ethereum k-consecutive block proposal](https://alrevuelta.github.io/posts/ethereum-mev-multiblock)
+* [multi- block MEV by flashbots](https://collective.flashbots.net/t/multi-block-mev/457/2?u=nerolation)
+* [statistical analysis on ethereum k-consecutive block proposal](https://alrevuelta.github.io/posts/ethereum-mev-multiblock)
 * [uniswap v3 oracles](https://uniswap.org/blog/uniswap-v3-oracles)
+* [multi-block mev, by chainsecurity](https://chainsecurity.com/oracle-manipulation-after-merge/)
