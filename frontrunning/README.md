@@ -1,4 +1,4 @@
-## 🥩 frontrunning 
+## frontrunning 
 
 <br>
 
@@ -6,18 +6,14 @@
 
 <br>
 
-* determine what gas price is required to win a gas auction.
 
-* process by which an adversary observes transactions on the network layer and then acts upon this information by, for instance, issuing a competing transaction, with the hope that this transaction is mined before a victim transaction.
+* process by which an adversary observes txs on the network layer and then acts upon this information by, for instance, issuing a competing tx, with the hope that this tx is mined before a victim's tx.
 
 
 * example: transaction A is broadcasted with a higher gas price than an already pending transaction B so that A gets mined before B.
 
 
-* rather than programming complx algorithms to detect profitable MEV opportunities, some searchers run generalized frontrunners. These are bots that watch the mempool to detect profitable transactions.
-
-
-* frontrunners will copy the potentially profitable transaction's code and replace addresses with theirs. Then, they submit the modified transaction with the replaced address and a higher gas price, frontrunning the original transaction and getting the searcher's MEV.
+* generalized frontrunners are bots that watch the mempool to detect profitable transactions, copy their code, replace addresses with theirs, then submit the modified tx with a higher gas price.
 
 <br>
 
@@ -37,4 +33,4 @@
 
 * [on cryptokitties `giveBirth()` frontrunning](https://maven11.substack.com/p/modular-mev-part-1the-introduction)
 * [bancor ico frontrunning](https://hackingdistributed.com/2017/06/19/bancor-is-flawed/?ref=hackernoon.com)
-* [150 lines pf python frontrunning bancor](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
+* [150 lines of python frontrunning bancor](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
