@@ -4,7 +4,7 @@
 
 ### in this dir
 
-* [optimism blockchain](optimism.md)
+* [optimistic rollups](optimistic_rollups.md)
 
 
 
