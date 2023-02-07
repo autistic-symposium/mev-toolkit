@@ -48,6 +48,7 @@
 * [build your mev bot](anatomy_of_mev_bots)
 * [latency optimization](latency)
 * [cross-domain mev](cross_domain_mev)
+* [statistical strategies](stat_strategies)
 
 
 
