@@ -7,14 +7,24 @@
 
 <br>
 
+
+#### general concepts
+
 * [bridges](bridges)
-* [day-trading](day-trading)
+* [day trading](day-trading)
 * [derivatives](derivatives)
 * [liquidity](liquidity)
 * [stablecoins](stablecoins)
 * [staking](staking)
 * [whales](whales)
 * [vaults](vaults)
+
+<br>
+
+#### protocols in-depth 
+
+* [inverse finance](protocols/inverse.md)
+
 
 <br>
 
@@ -87,7 +97,6 @@
 * [Babylon](https://www.babylon.finance/)
 * [Indexcoop](https://indexcoop.com/)
 * [Token terminal](https://tokenterminal.com/terminal)
-* [FTX](https://ftx.us/?fromIntl=true)
 * [MarketCipher](https://marketciphertrading.com/)
 * [HotBit](https://www.hotbit.io)
 * [Cointelegraph](https://subscriptions.cointelegraph.com/marketspro-cpc/)
