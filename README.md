@@ -34,7 +34,7 @@
 * [liquidations](liquidations)
 * [nft arbitrage](nft_arbitrage)
 * [frontrunning](frontrunning)
-* [back-running](back_running)
+* [backrunning](backrunning)
 * [just-in-time](uniswap/uniswap-v3/just-in-time.md)
 * [flashloans](flashloans)
 * [sniping](sniping)
