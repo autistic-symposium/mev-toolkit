@@ -17,6 +17,7 @@
 
 ## resources
 
+* [anatomy of liquidator bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/liquidators.md)
 * [liquidations, by aave protocol](https://docs.aave.com/developers/guides/liquidations)
 * [liquidation dashboard, by eigenphi](https://eigenphi.io/mev/ethereum/liquidation)
 * [understanding compound's liquidation, by zengo](https://zengo.com/understanding-compounds-liquidation/)
