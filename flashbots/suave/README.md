@@ -2,8 +2,15 @@
 
 <br>
 
+### tl; dr
+
+<br>
+
+
+<br>
+
 ---
 
-### Resources 
+### resources 
 
-* [Their first article designing SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave)
+* [first article designing SUAVE](https://writings.flashbots.net/the-future-of-mev-is-suave)
