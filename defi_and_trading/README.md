@@ -35,10 +35,9 @@
 
 <br>
 
-#### trading bots
 
 * [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/tradors.md)
-* [coinbot: CEXs cointegration bot](https://github.com/go-outside-labs/blockchain-science-py/tree/main/cointegration-bots)
+
 
 <br>
 
