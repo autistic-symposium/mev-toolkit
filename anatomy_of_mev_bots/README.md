@@ -6,8 +6,6 @@
 
 <br>
 
-##### bots
-
 * [101 bots (get started)](bots/101.md)
 * [arbers](bots/arbers.md)
 * [liquidators](bots/liquidators.md)
@@ -19,27 +17,15 @@
 * [tradors](bots/tradors.md)
 * [cow solvers](bots/cow-solvers.md)
 * [statistical arbers](bots/stat-arbers.md) 
-
-
-<br>
-
-##### numbers $
-
-* [profits of bots](profits)
-* [costs of bots](deployment)
-* [list of known bots, by mev corpus](https://github.com/manifoldfinance/mev-corpus/blob/master/packages/known-bots/lib/known-bots.js)
+* [bot profits by year](profits)
 
 <br>
 
+----
 
----
-
-### resources
+### code
 
 <br>
-
-##### code
-
 
 * [vanity address generator for CREATE2 addresses](https://github.com/johguse/ERADICATE2)
 * [metamorphic: a factory contract for redeployable](https://github.com/0age/metamorphic)
@@ -53,9 +39,18 @@
 * [mev bot in q using kdb+](https://github.com/sambacha/q-evm)
 * [resources for gas optimization](https://github.com/go-outside-labs/web3-solidity/blob/main/saving_gas/README.md)
 * [contract and typescript library for static multi-calls](https://github.com/indexed-finance/multicall)
+* [ggregate multiple constant function call results into one](https://github.com/makerdao/multicall)
 
-##### readings
 
+<br>
+
+---
+
+### resources
+
+<br>
+
+* [list of known bots, by mev corpus](https://github.com/manifoldfinance/mev-corpus/blob/master/packages/known-bots/lib/known-bots.js)
 * [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
 * [mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)
