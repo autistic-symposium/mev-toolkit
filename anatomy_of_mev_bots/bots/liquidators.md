@@ -26,3 +26,12 @@
 <br>
 
 * [mango market liquidator](https://github.com/blockworks-foundation/liquidator-v3)
+
+
+<br>
+
+### rari market
+
+<br>
+
+* [fuse liquidator](https://github.com/Rari-Capital/fuse-liquidator-bot)
