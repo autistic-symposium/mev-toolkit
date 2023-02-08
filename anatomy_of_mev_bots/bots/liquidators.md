@@ -5,7 +5,7 @@
 ### aave
 
 
-* [liquidation bot for Aave V3](https://github.com/massun-onibakuchi/grim-reaper)
+* [liquidation bot for aave v3](https://github.com/massun-onibakuchi/grim-reaper)
 * [liquidation aave protocol](https://github.com/ialberquilla/aave-liquidation)
 
 
