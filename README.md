@@ -66,11 +66,11 @@
 
 <br>
 
-* [build your mev bot](MEV_bots)
-* [private order flows](MEV_bots/private_order_flows)
-* [latency optimization](MEV_bots/latency)
-* [cross-domain mev](MEV_bots/cross_domain_mev)
-* [pvp battles](MEV_bots/pvp_war)
+* [build your mev bot](MEV_searchers)
+* [private order flows](MEV_searchers/private_order_flows)
+* [latency optimization](MEV_searchers/latency)
+* [cross-domain mev](MEV_searchers/cross_domain_mev)
+* [pvp battles](MEV_searchers/pvp_war)
 * [mev projects](MEV_projects)
 * [defi and trading](MEV_and_trading)
 
