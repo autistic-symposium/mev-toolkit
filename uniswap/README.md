@@ -39,4 +39,5 @@
 * [dune for total uniswap users over time](https://dune.com/queries/2740)
 * [understanding amms by hasu](https://www.paradigm.xyz/2021/04/understanding-automated-market-makers-part-1-price-impact)
 * [mev's impact on uniswap](https://eigenphi.io/report/mev-impact-on-uniswap)
+* [automated market making and loss-versus-balancing](https://arxiv.org/abs/2208.06046)
 
