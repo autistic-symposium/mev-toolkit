@@ -58,7 +58,7 @@
 * [mev on solana](MEV_by_chains/MEV_on_Solana)
 * [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
 * [mev on binance](MEV_by_chains/MEV_on_Binance)
-* [mev on polygon](MEV_by_chainsMEV_on_Polygon)
+* [mev on polygon](MEV_by_chains/MEV_on_Polygon)
 
 <br>
 
@@ -127,7 +127,7 @@
 * [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
 * [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
 * [parsec.finance](https://parsec.finance/)
-* [nansen](https://www.nansen.ai/)
+* [nansen analytics](https://www.nansen.ai/)
 * [token terminal](https://tokenterminal.com/terminal)
 
 
@@ -136,13 +136,13 @@
 
 * [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 * [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
+* [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
+* [mev flashbots unleashed](https://dune.com/ivanmolto/mev-flashbots-unleashed)
 * [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
 * [flashbots data for extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
 * [solana mev data](https://dune.com/chorus_one_research/solana-mev-data)
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
 * [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
-* [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
-* [mev flashbots unleashed](https://dune.com/ivanmolto/mev-flashbots-unleashed)
 
 
 <br>
