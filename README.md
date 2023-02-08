@@ -34,31 +34,31 @@
 
 <br>
 
-* [arbitrage](arbitrage)
-* [frontrunning](frontrunning)
-* [backrunning](backrunning)
-* [sandwich](sandwich)
-* [longtails](longtails)
-* [jit liquidity](uniswap/uniswap-v3/just-in-time.md)
-* [liquidation](liquidations)
-* [flashloans](liquidations/flashloans)
-* [sniping](sniping)
-* [oracles](oracles)
-* [statistical](stat_strategies)
+* [arbitrage](MEV_strategies/arbitrage)
+* [frontrunning](MEV_strategies/frontrunning)
+* [backrunning](MEV_strategies/backrunning)
+* [sandwich](MEV_strategies/sandwich)
+* [longtails](MEV_strategies/longtails)
+* [jit liquidity](MEV_and_trading/uniswap/uniswap-v3/just-in-time.md)
+* [liquidation](MEV_strategies/liquidations)
+* [flashloans](MEV_strategies/liquidations/flashloans)
+* [sniping](MEV_strategies/sniping)
+* [oracles](MEV_strategies/oracles)
+* [statistical](MEV_strategies/statistical)
 
 
 <br>
 
 ### mev on the chains
 
-* [mev on ethereum](MEV_on_Ethereum)
-* [mev on avalanche](MEV_on_Avalanche)
-* [mev on arbitrum](MEV_on_Arbitrum)
-* [mev on optimism](MEV_on_Optimism)
-* [mev on solana](MEV_on_Solana)
-* [mev on cosmos](MEV_on_Cosmos)
-* [mev on binance](MEV_on_Binance)
-* [mev on polygon](MEV_on_Polygon)
+* [mev on ethereum](MEV_by_chains/MEV_on_Ethereum)
+* [mev on avalanche](MEV_by_chains/MEV_on_Avalanche)
+* [mev on arbitrum](MEV_by_chains/MEV_on_Arbitrum)
+* [mev on optimism](MEV_by_chains/MEV_on_Optimism)
+* [mev on solana](MEV_by_chains/MEV_on_Solana)
+* [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
+* [mev on binance](MEV_by_chains/MEV_on_Binance)
+* [mev on polygon](MEV_by_chainsMEV_on_Polygon)
 
 <br>
 
@@ -66,28 +66,14 @@
 
 <br>
 
-* [build your mev bot](anatomy_of_mev_bots)
-* [private order flows](private_order_flows)
-* [latency optimization](latency)
-* [cross-domain mev](cross_domain_mev)
-* [pvp battles](pvp_war)
+* [build your mev bot](MEV_bots)
+* [private order flows](MEV_bots/private_order_flows)
+* [latency optimization](MEV_bots/latency)
+* [cross-domain mev](MEV_bots/cross_domain_mev)
+* [pvp battles](MEV_bots/pvp_war)
+* [mev projects](MEV_projects)
+* [trading](MEV_and_trading)
 
-
-
-
-<br>
-
-### mev-related and defi projects
-
-<br>
-
-* [flashbots](flashbots)
-* [uniswap](uniswap)
-* [cow protocol](cow_protocol)
-* [rook dao](rook)
-* [0x protocol](0x_protocol)
-* [defi trading](defi_and_trading)
-* [tokenomics](https://github.com/go-outside-labs/daos-and-tokenomics)
 
 
 <br>
