@@ -5,6 +5,10 @@
 
 ### tl; dr
 
+<br>
+
+* flashloans allow the borrowing of any available amount of assets without any collateral, as long as the liquidity is returned to the protocol within one block tx.
+* flashloans can be requested through smart contracts that execute the steps to borrow nad pay the loan (+ interest fees) withing the same tx.
 
 <br>
 
@@ -12,6 +16,7 @@
 
 ### in this dir
 
+<br>
 
 * [smart contracts](smart_contracts)
 * [protocols](protocols)
