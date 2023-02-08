@@ -31,4 +31,4 @@
 
 <br>
 
-* [anatomy of snipor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/snipers.md)
+* [anatomy of snipor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/snipers.md)
