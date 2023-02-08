@@ -5,6 +5,7 @@
 * [flashbots](flashbots)
 * [manifold](manifold)
 * [shutter](shutter)
+* [dflow](dflow)
 * [rook](rook)
 * [eden](eden)
 * [jito](jito)
