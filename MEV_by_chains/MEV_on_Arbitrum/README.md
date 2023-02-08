@@ -29,3 +29,4 @@
 <br>
 
 * [transaction ordering policy](https://research.arbitrum.io/t/transaction-ordering-policy/127)
+* [arbitrum bridge tutorial](https://arbitrum.io/bridge-tutorial/)
