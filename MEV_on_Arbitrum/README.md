@@ -7,6 +7,7 @@
 <br>
 
 * optimistic rollup
+* currently has a centralized sequencer and whitelisted proof validation while having upgradable contracts
 
 <br>
 
