@@ -2,13 +2,13 @@
 
 <br>
 
-### private order flow protocols (POFPs)
+### rpc-based private order flow protocols (POFPs)
 
 <br>
 
-* rpc-based mev solutions (private order flow) 
-* private order flows are realized by modifying either the user's rpc or by modifying the protocol's frontend
-* the goal of private order flow protocols (POFPs)
+* this type of private order flows can be realized by modifying either the user's rpc or by modifying the protocol's frontend
+* the rpc endpoint re-broadcasts (forwarding) the tx to nodes. 
+* in respect to every pending tx they receive, they can: 1) censor, 2) forward to some mempool, or 3) forward it directly to some block-builders or validators.
 
 <br>
 
