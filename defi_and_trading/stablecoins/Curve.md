@@ -1,6 +1,10 @@
-## Curve
+## curve
+
+<br>
 
 ### tl; dr
+
+<br>
 
 * Curve, whose unique feature is the low slippage in swapping, is a decentralised exchange (DEX) for stablecoins to swap pairs like USDT/UST or USDC/BUSD. 
 * CRV is the native token, whose main utility is governance. 
@@ -14,11 +18,14 @@
 
 ### curve liquid wrappers war
 
+<br>
+
 * veToken model allows users to lock CRV for up 4 years, receive admin fees (paid in stables), and allows them to vote for CRV emissions for the pool.
 * protocols seeking liquidity have the option to bribe ve CRV holders to stream CRV emissions to their pools (nother source of revenue besides admin fees).
 * since locking CRV for 4 years is not very attractive for holders, introduce liquid wrappers: cvxCRV, sdCRV, yCRV.
 * liquid wrappers allow CRV holders to receive fees and/or bribes without locking it for 4 years and provide a chance to exit the position.
 * trade-offs for liquid wrappers are: protocol fees, peg maintenance, and voting power.
+
 
 ##### cvxCRV
 
@@ -64,6 +71,8 @@
 ---
 
 ### resources
+
+<br>
 
 * [10M Revenue Drain in 5 Months: MEV impact on Curve](https://medium.com/@eigenphi/10m-revenue-drain-in-5-months-mev-impact-on-curve-fd5214a0667)
 * [Curve Stablecoin Paper](https://github.com/curvefi/curve-stablecoin/blob/master/doc/curve-stablecoin.pdf)
