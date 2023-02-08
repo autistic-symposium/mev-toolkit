@@ -22,6 +22,7 @@
 * [aave](aave.md)
 * [compound](compound.md)
 * [liquity](liquity.md)
+* [flashloans](flashloans.md)
 
 <br>
 
