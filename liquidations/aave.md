@@ -18,3 +18,4 @@
 
 * [liquidations, by aave protocol](https://docs.aave.com/developers/guides/liquidations)
 * [aave v2 whitepaper](https://github.com/aave/protocol-v2/blob/master/aave-v2-whitepaper.pdf)
+* [aave v3 docs](https://docs.aave.com/developers/getting-started/readme)
