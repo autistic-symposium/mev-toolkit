@@ -19,7 +19,6 @@
 <br>
 
 * [smart contracts](smart_contracts)
-* [protocols](protocols)
 
 <br>
 
