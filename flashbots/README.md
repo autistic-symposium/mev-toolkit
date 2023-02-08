@@ -10,6 +10,12 @@
 * after the release of MEV-geth (and later MEV-boost), much of the computation related to MEV was taken off-chain, by a side-relay that allows MEV searchers to communicate directly with nodes and other participants. This lead to a decrease in fee congestion pricing.
 * however, MEV “marketplaces” like flashbots, are quite centralized, since the vast majority of blocks flow through it.
 
+<br>
+
+##### bundles
+
+* bundle/transaction profitability is determined by: fee per gas used, priority fee, and direct validator payments.
+
 
 <br>
 
