@@ -10,14 +10,15 @@
 
 #### general concepts
 
-* [bridges](bridges)
+
 * [day trading](day-trading)
 * [derivatives](derivatives)
-* [liquidity](liquidity)
 * [stablecoins](stablecoins)
+* [liquidity](liquidity)
 * [staking](staking)
-* [whales](whales)
 * [vaults](vaults)
+* [bridges](bridges)
+* [whales](whales)
 
 <br>
 
