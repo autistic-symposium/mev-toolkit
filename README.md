@@ -43,6 +43,7 @@
 * [liquidation](liquidations)
 * [flashloans](liquidations/flashloans)
 * [sniping](sniping)
+* [oracles](oracles)
 * [statistical](stat_strategies)
 
 
@@ -65,37 +66,28 @@
 
 <br>
 
-* [pvp battles](pvp_war)
 * [build your mev bot](anatomy_of_mev_bots)
+* [private order flows](private_order_flows)
 * [latency optimization](latency)
 * [cross-domain mev](cross_domain_mev)
-* [private order flows](private_order_flows)
+* [pvp battles](pvp_war)
+
 
 
 
 <br>
 
-### mev-related projects
+### mev-related and defi projects
 
 <br>
 
 * [flashbots](flashbots)
+* [uniswap](uniswap)
 * [cow protocol](cow_protocol)
 * [rook dao](rook)
-
-
-
-<br>
-
-### related defi stuff
-
-<br>
-
-* [uniswap](uniswap)
-* [oracles, twap, twamm](oracles)
-* [0x protocol and rfq](0x_protocol)
-* [defi and trading](defi_and_trading)
-* [daos and tokenomics](https://github.com/go-outside-labs/daos-and-tokenomics)
+* [0x protocol](0x_protocol)
+* [defi trading](defi_and_trading)
+* [tokenomics](https://github.com/go-outside-labs/daos-and-tokenomics)
 
 
 <br>
