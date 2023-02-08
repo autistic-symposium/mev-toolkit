@@ -25,6 +25,7 @@
 * [oracle abuse](oracle_abuse.md)
 * [glp vaults](glp_vaults)
 
+
 <br>
 
 ---
@@ -34,7 +35,9 @@
 <br>
 
 * [gmx docs](https://gmxio.gitbook.io/gmx/)
+* [gmx stats](https://stats.gmx.io/)
 * [synapse bridge](https://synapseprotocol.com/)
 * [contracts](https://gmxio.gitbook.io/gmx/contracts)
 * [gmx, by flood capital](https://twitter.com/FloodCapital/status/1562856005259902976)
 * [gmx oracle, by pressiemoomboy](https://twitter.com/PressieMoonBoy/status/1562905337723748352)
+
