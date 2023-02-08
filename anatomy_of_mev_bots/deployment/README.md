@@ -13,4 +13,6 @@
 
 ### resources
 
+<br>
+
 * [eigenphi market overview and performance of mev types](https://beta.eigenphi.io/)
