@@ -2,7 +2,7 @@
 
 <br>
 
-#### private order flow protocols (POFPs)
+### private order flow protocols (POFPs)
 
 <br>
 
@@ -16,14 +16,17 @@
 
 ### validator transaction reordering protocols (VTRPs)
 
+<br>
+
 * private tx reordering
 * two goals: 1) identify valuable user txs, 2) replace the POFP's value-extracted tx with its own value-extractive tx
 * when a VTRP is able to identify a valuable user tx but, due to the tactics of the POFP, is unable to inject its own transaction in place of the POFP's -> VTRP's optimal strategy is to censor the user's transaction from the final block
 
+<br>
 
 ---
 
-<br>
+
 
 ### stat arbs
 
