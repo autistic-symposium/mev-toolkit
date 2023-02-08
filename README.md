@@ -41,6 +41,7 @@
 * [longtails](longtails)
 * [jit liquidity](uniswap/uniswap-v3/just-in-time.md)
 * [liquidation](liquidations)
+* [flashloans](liquidations/flashloans)
 * [sniping](sniping)
 * [statistical](stat_strategies)
 
