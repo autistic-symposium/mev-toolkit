@@ -36,7 +36,7 @@
 <br>
 
 
-* [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/tradors.md)
+* [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/tradors.md)
 * [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [yearn finance](https://yearn.finance/#/portfolio)
 * [stader Labs](https://staderlabs.com/)
