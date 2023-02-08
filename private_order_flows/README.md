@@ -2,7 +2,7 @@
 
 <br>
 
-### rpc-based private order flow protocols (POFPs)
+### rpc-based "payment for order flow protocols" (POFPs)
 
 <br>
 
