@@ -96,35 +96,25 @@
 
 ---
 
-## 🍟 other resources
+## 🍟 seacher tools
 
 
 <br>
 
-### mev explorers
+### tx explorers
 
 <br>
+
 
 * [ethtx transaction decoder](https://ethtx.info/)
-* [tx.eth.samczsun.com](https://tx.eth.samczsun.com/)
 * [public mev explorer, by metablock](https://metablock.dev/tools/mev/)
 * [mev dashboard, by metablock](https://mev.metablock.dev/1/dashboard)
 * [bundle explorer, by flashbots](https://flashbots-explorer.marto.lol/)
 * [zero mev, by pmcgoohan](https://www.zeromev.org/)
-
-
-<br>
-
-### tx analysis
-
-<br>
-
-##### ethereum mainnet
-
-
 * [bloxy, by bitquey](https://bloxy.info/)
 * [ethvm ethereum explorer](https://www.ethvm.com/)
 * [txn finance, by band protocol](https://txn.finance/)
+* [tx.eth.samczsun.com](https://tx.eth.samczsun.com/)
 * [ethereum token explorer, by diem](https://ethplorer.io/)
 * [explorer and txs, by anyblock](https://explorer.anyblock.tools/)
 * [mev explorer, by eigenphi](https://www.eigenphi.io/)
@@ -133,12 +123,6 @@
 * [block and tokens explorer, by oklink](https://www.oklink.com/en/eth)
 * [tx explorer, by blocksec](https://phalcon.blocksec.com/)
 * [address explorer, by breadcrumbs](https://www.breadcrumbs.app/home)
-
-
-##### goerli testnet
-
-
-* [etherscan goerli](https://goerli.etherscan.io/)
 
 
 
@@ -179,7 +163,7 @@
 
 
 
-### useful tools 
+### other resources 
 
 <br>
 
@@ -213,7 +197,7 @@
 
 
 
-##### mev news and alert bots 
+##### news and alerts 
 
 * [eigenphi mirror](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34)
 * [mevboost bot](https://twitter.com/MevBoostBot)
@@ -230,7 +214,7 @@
 
 ---
 
-## 🍿 relevant readings
+## 🍿 general readings
 
 <br>
 
@@ -260,7 +244,7 @@
 <br>
 
 
-### wikis || talks || ideas
+### ideas and wikis
 
 <br>
 
@@ -304,11 +288,11 @@
 <br>
 
 * [a graduate course in applied cryptography, by dan boneh](http://toc.cryptobook.us/)
-* [the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
 * [the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
-* [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
+* [the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
 * [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+* [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
 * [teal organizations wiki](https://reinventingorganizationswiki.com/)
 
 <br>
