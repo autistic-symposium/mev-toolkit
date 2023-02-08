@@ -72,7 +72,7 @@
 * [cross-domain mev](MEV_bots/cross_domain_mev)
 * [pvp battles](MEV_bots/pvp_war)
 * [mev projects](MEV_projects)
-* [trading](MEV_and_trading)
+* [defi and trading](MEV_and_trading)
 
 
 
