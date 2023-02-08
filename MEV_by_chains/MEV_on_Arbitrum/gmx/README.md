@@ -23,7 +23,7 @@
 
 * [tokenomics](tokenomics.md)
 * [oracle abuse](oracle_abuse.md)
-* [glp vaults](glp_vaults)
+* [glp vaults](glp_vaults.md)
 
 
 <br>
