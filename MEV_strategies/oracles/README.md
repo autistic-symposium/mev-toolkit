@@ -22,9 +22,13 @@
 * [TWAMM](twamm.md)
 * [chainlink](chainlink.md)
 
+<br>
 
 ---
 
 ### resources
 
 
+<br>
+
+* [mango markets and the benefits and limitations of oracles](https://blog.kaiko.com/mango-markets-and-the-benefits-and-limitations-of-oracles-753ce6d2a732)
