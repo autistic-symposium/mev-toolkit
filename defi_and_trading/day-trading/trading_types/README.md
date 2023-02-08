@@ -1,9 +1,11 @@
 
-## Types of trading
+## trading types
 
 <br>
 
-### Swing trading
+### swing trading
+
+<br>
 
 * short-medium term trades
 * open trades for days-weeks
@@ -19,7 +21,9 @@
 
 ---
 
-### Breakout trading
+### breakout trading
+
+<br>
 
 * short term trades
 * oepn trades for hours-days
@@ -59,6 +63,8 @@
 ---
 
 ### dollar cost averaging
+
+<br>
 
 * long-term strategy
 * price agnostic
