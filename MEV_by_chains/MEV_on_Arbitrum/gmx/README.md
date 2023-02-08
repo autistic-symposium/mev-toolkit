@@ -14,7 +14,7 @@
 * protocol's revenues come from: swap fees, trading fees, execution fees, liquidation fees, and borrow fees. protocol risks: liquidity risks, market/oracle manipulation, centralization risk, scalability risk.
 * liquidation price: when (collateral - losses - borrow fee) is less than 1% of position's size. 
 * the cost to open / close a position is 0.1% of the position size. long positions are opened at the higher price and closed at the lower price, short positions are opened at the lower price and closed at the higher price.
-* in sideways to downtrending markets, $GLP tend to out perform directional assets, though in up trending markets, it will tend to under perform directional assets. this makes G$LP an gold holding in bear markets.
+* in sideways to downtrending markets, $GLP tend to out perform directional assets, though in up trending markets, it will tend to under perform directional assets. this makes $GLP a very good holding in bear markets.
 
 <br>
 
