@@ -1,8 +1,10 @@
 ## staking 
 
+<br>
 
 ### in this repo
 
+<br>
 
 * [lido](Lido.md)
 * [stakewise](Stakewise.md)
@@ -11,7 +13,11 @@
 
 <br>
 
+---
+
 ### resources
+
+<br>
 
 
 * [RockePool](https://rocketpool.net/)
