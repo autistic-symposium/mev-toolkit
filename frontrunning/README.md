@@ -15,6 +15,8 @@
 
 * **generalized frontrunners** are bots that watch the mempool to detect profitable transactions, copy their code, replace addresses with theirs, then submit the modified tx with a higher gas price.
 
+* **specialized frontrunners**, also known as longtails, are covered [here](https://github.com/go-outside-labs/mev-toolkit/tree/main/longtails)
+
 <br>
 
 ---
