@@ -43,6 +43,7 @@
 <br>
 
 - [how to use flashbots](https://cryptomarketpool.com/how-to-use-flashbots/)
+- [bundle pricing docs](https://docs.flashbots.net/flashbots-auction/searchers/advanced/bundle-pricing)
 - [flashbots bundler explorer](https://flashbots-explorer.marto.lol/)
 - [flashbots: frontrunning the mev crisis by thegostep](https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251)
 - [order flows kingmaker of block builders by noxx](https://noxx.substack.com/p/order-flows-kingmaker-of-the-block)
