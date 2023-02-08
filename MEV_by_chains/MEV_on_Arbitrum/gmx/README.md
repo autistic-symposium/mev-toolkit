@@ -11,8 +11,8 @@
 * $GLPs function as the counterparty, as it accrues values when traders loses, and devalues when traders win. $GLP accrues 70% of all trading fees, while stakers of the protocol governance token, earn 30%. $GLP is also emerging as a form of collateral, with lending protocols integrating the LP token into their product offerings.
 * native token $GMX functions as a governance, utility, and value-accrual token. all collected fees fo to the $GMX fee pool, which issues fee rewards (e.g., ETH/AVAX).
 * a floor price fund helps ensure liquidity in the $GLP pool, plus a reliable stream of $ETH rewards fo $GMX stakers.
-* protocol's revenues come from: swap fees, trading fees, execution fees, liquidation fees, and borrow fees
-* protocol risks: liquidity risks, market/oracle manipulation, centralization risk, scalability risk
+* protocol's revenues come from: swap fees, trading fees, execution fees, liquidation fees, and borrow fees. protocol risks: liquidity risks, market/oracle manipulation, centralization risk, scalability risk.
+* liquidation price: when (collateral - losses - borrow fee) is less than 1% of position's size. 
 
 <br>
 
