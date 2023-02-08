@@ -15,6 +15,7 @@
 
 * spatial (exchanges are located in different locations)
 * triangular (profit from trading loops)
+* statistical (rely on mathematical models for high-frequency arbs)
 * cross-exchange
 * sandwich
 
