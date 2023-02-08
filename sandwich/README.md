@@ -10,7 +10,9 @@
 
 * the main theme of sandwich attacks is the deterministic price slippage caused by available liquidity in the pool, which is deterministic . slipage is the change in the price of an asset during a trade.
 
-* a softer side of sandwich attacks is on the lens of economic efficiency, on which an order can create a consumer surplus and the absence of a [nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium). the bot operator would love the economic system back.
+* sandwiches (and most frontruns) are often labelled **toxic mev** because the tx that is frontrun either executes at worse conditions or fails to execute.
+
+* a softer side of sandwich is on the lens of economic efficiency, on which an order can create a consumer surplus and the absence of a [nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium). the bot operator would love the economic system back.
 
 <br>
 
