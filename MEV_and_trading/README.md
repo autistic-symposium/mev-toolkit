@@ -36,7 +36,7 @@
 <br>
 
 
-* [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/tradors.md)
+* [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/tradors.md)
 
 
 <br>
@@ -75,14 +75,12 @@
 * [bancor](https://app.bancor.network/pools)
 * [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [dydx](https://trade.dydx.exchange/portfolio/overview)
-* [kwenta](https://kwenta.io/exchange/sETH-sUSD)
 * [augur](https://augur.net/)
 * [CREAM](https://app.cream.finance/)
 * [paraswap](https://www.paraswap.io/)
 * [arch finance](https://beta.archfinance.io/)
 * [tokensets](https://www.tokensets.com/)
 * [fracium](https://francium.io/)
-* [babylon](https://www.babylon.finance/)
 * [indexcoop](https://indexcoop.com/)
 * [hotbit](https://www.hotbit.io)
 * [slingshot](https://app.slingshot.finance/trade/m/MATIC)
@@ -102,7 +100,6 @@
 * [defi llama](https://defillama.com/)
 * [dex screener](https://dexscreener.com/)
 * [impermanent loss simulator for balancer pools](https://baller.netlify.app/)
-* [eth hub on defi](https://docs.ethhub.io/built-on-ethereum/open-finance/what-is-open-finance/)
 * [l2 beat](https://l2beat.com/scaling/tvl/)
 * [defi tokens wiki](https://github.com/defi-wikis/defi-tokens-wiki)
 * [token unlocks 2023](https://twitter.com/karl_0x/status/1605832705848971264)
