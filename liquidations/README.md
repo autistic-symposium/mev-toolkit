@@ -20,6 +20,7 @@
 <br>
 
 * [aave](aave.md)
+* [compound](compound.md)
 
 <br>
 
