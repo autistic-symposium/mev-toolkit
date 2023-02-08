@@ -2,9 +2,25 @@
 
 <br>
 
-#### perpetual swap
+### tl; dr
 
 <br>
+
+
+* **derivatives** are financial contracts that derive their values from underlying assets. crypto futures contracts are proxy tools to speculate on the future prices of cryptocurrencies or to be used to hedge against their price changes.
+* **perpetuals** are derivative contracts with no expiration date.
+* **options** are derivatives that give the buyer the right to buy or sell the underlying asset at a stated price within a specified period.
+
+<br>
+
+----
+
+### protocols
+
+<br>
+
+#### perpetual swap
+
 
 * trading product first introduced in 2016 by bitmex
 * has become popular with trading volumes of over $180 mi
@@ -16,11 +32,11 @@
 
 <br>
 
-----
+
 
 #### [synthetix](https://synthetix.io/)
 
-<br>
+
 
 * one of ethereum's ecosystem's leading derivatives projects.
 * a derivative liquidity protocol that powers the creation of "synths" (synthetic assets) that can be traded in a decentralized and permissionless manner.
@@ -31,7 +47,7 @@
 
 <br>
 
----
+
 
 #### kwenta
 
@@ -42,11 +58,11 @@
 <br>
 
 
----
+
 
 #### lyra
 
-<br>
+
 
 * Lyra is a decentralized options trading protocol powered by a specialized AMM system.
 * It uses Synthetix's sUSD stablecoin as its exclusive quote asset, so traders pay for opening long positions or closing short positions with sUSD.
@@ -55,11 +71,11 @@
 <br>
 
 
----
+
 
 #### thales
 
-<br>
+
 
 * Decentralized binary options protocol that a group of Synthetix community members spun in 2020.
 * If held until expiry, binary options have only two payoff possibilities: a predetermined amount of profit or nothing.
@@ -67,11 +83,11 @@
 
 <br>
 
-----
+
 
 #### [metronome](https://www.metronome.io/)
 
-<br>
+
 
 * synthetic protocol to enable users to generate a variety of synthetics using crypto assets as collateral
 
