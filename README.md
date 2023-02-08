@@ -206,6 +206,7 @@
 * [source of deployed ethereum contracts in vscode](https://github.com/dethcrypto/dethcode)
 * [token security detector](https://gopluslabs.io/token-security/)
 * [whatsabi: guess an abi for ethereum contracts](https://github.com/shazow/whatsabi)
+* [dapp.tools](https://dapp.tools/)
 
 
 ##### gas trackers
