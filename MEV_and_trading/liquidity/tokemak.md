@@ -16,6 +16,16 @@
 
 <br>
 
+### tokenomics
+
+<br>
+
+<img width="700" src="https://user-images.githubusercontent.com/1130416/217617207-02d68dbe-c5ec-4dc7-94fc-bf11cdc6561d.png">
+
+
+
+<br>
+
 ---
 
 ### resources
