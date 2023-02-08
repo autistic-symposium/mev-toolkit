@@ -297,6 +297,7 @@
 - [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin et al.](https://arxiv.org/pdf/2101.05511.pdf)
 - [dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
 - [censorship resistance in on-chain auctions, by m. pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
+- [mev on ethereum: a policy analysis, by m. barczentewicz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332703)
 
 
 
