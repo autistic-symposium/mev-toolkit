@@ -21,6 +21,7 @@
 
 * [aave](aave.md)
 * [compound](compound.md)
+* [liquity](liquity.md)
 
 <br>
 
