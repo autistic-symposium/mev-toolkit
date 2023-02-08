@@ -8,7 +8,7 @@
 
 * a searcher buys or sells a calculated amount directly before the large trade is executed and then immediately exits their position after the large order has taken place, banking a profit.
 
-* the main theme of sandwich attacks is slippage caused by available liquidity in the pool, which is deterministic (trade sizes to frontrun can be calculated, allowing globally maximal profit from sandwich attacks).
+* the main theme of sandwich attacks is the deterministic price slippage caused by available liquidity in the pool, which is deterministic . slipage is the change in the price of an asset during a trade.
 
 * a softer side of sandwich attacks is on the lens of economic efficiency, on which an order can create a consumer surplus and the absence of a [nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium). the bot operator would love the economic system back.
 
