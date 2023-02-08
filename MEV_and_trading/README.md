@@ -37,7 +37,8 @@
 
 
 * [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/tradors.md)
-* [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
+* [gmx and glp vauls](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
+* [defi and trading glossary](https://docs.cyph3rs.xyz/resources/defi-and-mev-glossary)
 * [yearn finance](https://yearn.finance/#/portfolio)
 * [stader Labs](https://staderlabs.com/)
 * [hop](https://app.hop.exchange/#/send?token=ETH)
