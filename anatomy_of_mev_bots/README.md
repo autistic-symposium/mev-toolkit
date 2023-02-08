@@ -38,6 +38,7 @@
 
 <br>
 
+* [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [bundle generator](https://github.com/Alcibiades-Capital/mev_bundle_generator)
 * [symbolic searcher](https://github.com/bzhang42/symbolic-searcher)
 * [FairTraDEX](https://github.com/MEVProof/Contracts)
@@ -45,7 +46,6 @@
 * [searcher-minter](https://github.com/flashbots/searcher-minter)
 * [mev bot in q using kdb+](https://github.com/sambacha/q-evm)
 * [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
-* [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)
 * [running a keeper with rook.fi](https://docs.rook.fi/reference/integrate/run-a-keeper)
 * [running a solver with cowswap](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)
