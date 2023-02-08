@@ -40,6 +40,7 @@
 
 * [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [bundle generator](https://github.com/Alcibiades-Capital/mev_bundle_generator)
+* [flashbots mev opportunties](https://github.com/flashbots/mev-job-board)
 * [symbolic searcher](https://github.com/bzhang42/symbolic-searcher)
 * [FairTraDEX](https://github.com/MEVProof/Contracts)
 * [searcher-sponsored-tx](https://github.com/flashbots/searcher-sponsored-tx)
