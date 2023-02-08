@@ -1,4 +1,4 @@
-## LUNA, UST, and The Terra Blockchain
+## [RIP] LUNA, UST, and The Terra Blockchain
 
 <br>
 
