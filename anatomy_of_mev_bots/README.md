@@ -52,6 +52,7 @@
 * [searcher-minter](https://github.com/flashbots/searcher-minter)
 * [mev bot in q using kdb+](https://github.com/sambacha/q-evm)
 * [resources for gas optimization](https://github.com/go-outside-labs/web3-solidity/blob/main/saving_gas/README.md)
+* [contract and typescript library for static multi-calls](https://github.com/indexed-finance/multicall)
 
 ##### readings
 
