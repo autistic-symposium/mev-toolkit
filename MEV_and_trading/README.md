@@ -79,6 +79,7 @@
 * [defi llama](https://defillama.com/)
 * [dex screener](https://dexscreener.com/)
 * [l2 beat](https://l2beat.com/scaling/tvl/)
+* [token analyzor](https://dune.com/defimochi/token-god-mode)
 * [defi tokens wiki](https://github.com/defi-wikis/defi-tokens-wiki)
 * [token unlocks 2023](https://twitter.com/karl_0x/status/1605832705848971264)
 * [impermanent loss simulator](https://baller.netlify.app/)
