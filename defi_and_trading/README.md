@@ -73,7 +73,7 @@
 
 
 * [bancor](https://app.bancor.network/pools)
-* [GMX]([https://gmx.io/trad](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_on_Arbitrum/gmx.md)
+* [GMX](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_on_Arbitrum/gmx.md)
 * [dydx](https://trade.dydx.exchange/portfolio/overview)
 * [kwenta](https://kwenta.io/exchange/sETH-sUSD)
 * [augur](https://augur.net/)
