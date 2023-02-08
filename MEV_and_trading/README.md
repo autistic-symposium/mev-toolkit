@@ -37,12 +37,7 @@
 
 
 * [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/tradors.md)
-
-
-<br>
-
-#### protocols
-
+* [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [yearn finance](https://yearn.finance/#/portfolio)
 * [stader Labs](https://staderlabs.com/)
 * [hop](https://app.hop.exchange/#/send?token=ETH)
@@ -62,18 +57,7 @@
 * [orca staking](https://www.orca.so/staking)
 * [solidly](https://solidly.exchange/liquidity)
 * [rose](https://app.rose.fi/#/)
-
-<br>
-
-
-
-
-#### indexes and asset management
-
-
-
 * [bancor](https://app.bancor.network/pools)
-* [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [dydx](https://trade.dydx.exchange/portfolio/overview)
 * [augur](https://augur.net/)
 * [CREAM](https://app.cream.finance/)
@@ -88,12 +72,6 @@
 * [crystal](https://defi.krystal.app/)
 * [tokenset](https://www.tokensets.com/)
 * [index](https://indexcoop.com/)
-
-<br>
-
-
-#### tools, news, resources
-
 * [insight over several protocols](https://defi-mochi.notion.site/d2cf08cb79254dcf8f30e08cc38761f4?v=81df8226157849ee94a1c859c1e13329)
 * [defi pulse](https://www.defipulse.com/)
 * [defi prime](https://defiprime.com/)
