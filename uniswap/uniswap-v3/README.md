@@ -6,7 +6,7 @@
 
 <br> 
 
-uniswap v3 introduced: 
+- uniswap v3 introduced: 
 
   * **concentrated liquidity** and **non-fungible liquidity**: 
     * replacing fungible ERC20 liquidity positions with non-fungible ERC-721 liquidity positions. 
@@ -15,6 +15,9 @@ uniswap v3 introduced:
   * **multiple fee tiers**: allowing LPs to be appropriately compensated for taking on varying degrees of risk. 
   * **range orders**: lps can deposit a single token in a custom price range, above or below the current price.
   * **improvements to the TWAP oracle**: possible to calculate any recent TWAP within ~9 days in a single on-call chain.
+
+- new strategies:
+  * creating and closing LP positions can be a form of trading. range orders can be used as either buy-limit or take-profit orders. 
 
 
 <br>
