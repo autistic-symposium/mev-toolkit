@@ -10,12 +10,13 @@
 * since **liquidity on-chain is fragmented** (thousands of pools don't communicate with each other, each providing quotes for swapping assets in real-time), it creates an opportunity to buy low and sell high across different pools. for example, two DEXes offer a token at two different prices so that a token can be bought at the lower-priced DEX and sold on the higher-priced DEX in a single atomic transaction.
 * due to the nature of the evm's atomic execution, **atomic arbitrages** are possible (as opposed to tradefi): smart contracts allow the packaging a sequential execution of txs, for a set of conditions. if the conditions are not met, the execution can fail, undoing all the on-chain interactions that just occurred.
 
-##### [eigeiphi's classification of arbitrage types:](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/a_v8f9yRqRFAvmOaEltTkPJSt1geSAwQdDps2Avb-DA)
+##### [arbitrage types:](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/a_v8f9yRqRFAvmOaEltTkPJSt1geSAwQdDps2Avb-DA)
 
-* combination
+
+* spatial (exchanges are located in different locations)
+* triangular (profit from trading loops)
+* cross-exchange
 * sandwich
-* spatial
-* triangular
 
 <br>
 
