@@ -20,6 +20,8 @@
 * the first component of a pool are the available assets, which are the vault assets minus reserved assets (assets set aside to cover longs).
 * by covering longs, a reserved $BTC that would move with $BTC is used to cover a long position by surrendering all the upside gains to the counterparty (but also taking all collaterals of the counterparty when the price of $BTC goes down).
 * conversely, a short against the pool becomes a synthetic long as its credit gains to the pool when the price goes up (but takes money from the pool when the price goes down).
+* hedging $GLP means taking short positions, either on GMX or on a CEX. The short pays when the directional asset goes down, and loses when the opposite happens.
+* the spread of hedged $GLP over $ETH is a good measure of $GLP's performance, and why a hedged strategy might be a better holding strategy that minimises volatility.
 
 <br>
 
