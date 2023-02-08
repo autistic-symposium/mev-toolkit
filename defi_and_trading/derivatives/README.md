@@ -2,7 +2,9 @@
 
 <br>
 
-### perpetual swap
+#### perpetual swap
+
+<br>
 
 * trading product first introduced in 2016 by bitmex
 * has become popular with trading volumes of over $180 mi
@@ -16,7 +18,9 @@
 
 ----
 
-## [synthetix](https://synthetix.io/)
+#### [synthetix](https://synthetix.io/)
+
+<br>
 
 * one of ethereum's ecosystem's leading derivatives projects.
 * a derivative liquidity protocol that powers the creation of "synths" (synthetic assets) that can be traded in a decentralized and permissionless manner.
@@ -29,7 +33,7 @@
 
 ---
 
-### kwenta
+#### kwenta
 
 * The primary DEX in the Synthetix ecosystem.
 * Designed to facilitate zero-slippage synth trading.
@@ -40,7 +44,9 @@
 
 ---
 
-### Lyra
+#### lyra
+
+<br>
 
 * Lyra is a decentralized options trading protocol powered by a specialized AMM system.
 * It uses Synthetix's sUSD stablecoin as its exclusive quote asset, so traders pay for opening long positions or closing short positions with sUSD.
@@ -51,7 +57,9 @@
 
 ---
 
-### Thales
+#### thales
+
+<br>
 
 * Decentralized binary options protocol that a group of Synthetix community members spun in 2020.
 * If held until expiry, binary options have only two payoff possibilities: a predetermined amount of profit or nothing.
@@ -61,7 +69,9 @@
 
 ----
 
-### [metronome](https://www.metronome.io/)
+#### [metronome](https://www.metronome.io/)
+
+<br>
 
 * synthetic protocol to enable users to generate a variety of synthetics using crypto assets as collateral
 
@@ -70,6 +80,8 @@
 ---
 
 ### resources
+
+<br>
 
 * [defi derivative landscape](https://github.com/0xperp/defi-derivatives)
 * [put-call parity](https://www.investopedia.com/terms/p/putcallparity.asp#:~:text=Understanding%20Put%2DCall%20Parity,-As%20noted%20above&text=Put%2Dcall%20parity%20states%20that,to%20the%20option's%20strike%20price.)
