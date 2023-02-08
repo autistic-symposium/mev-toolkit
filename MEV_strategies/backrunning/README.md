@@ -19,7 +19,7 @@
 
 <br>
 
-* [anatomy of backrunner bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/backrunners.md)
+* [anatomy of backrunner bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/backrunners.md)
 * [intro to backrunning on ethereum](https://www.youtube.com/watch?v=ApAJ1afUbBI)
 * [dune for Portion of Daily Gas Used by Backrunning Bot Contracts](https://dune.com/phabc/backrunning-bots-gas-consumption)
 * [backrunning study for bZx IDO](https://amanusk.medium.com/the-fastest-draw-on-the-blockchain-bzrx-example-6bd19fabdbe1)
