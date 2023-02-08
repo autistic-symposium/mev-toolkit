@@ -1,5 +1,7 @@
 ## technical analysis
 
+<br>
+
 ### tl; dr
 
 * uses trading data to analyse and predict price patterns
@@ -14,6 +16,8 @@
 ---
 
 ### candlestick charts
+
+<br>
 
 * data rich trading analysis
 * time and price details
@@ -30,9 +34,11 @@
  
 </p>
 
-<br>
+
 
 ##### hammer pattern
+
+
 
 * bullish pattern
 * sellers drove price lower during the day
@@ -51,6 +57,8 @@
 
 ##### shooting star pattern
 
+
+
 * bearish pattern
 * buyers drove price high
 * sellers won and price fell lower
@@ -65,6 +73,8 @@
 
 ##### bullish engulfing pattern
 
+
+
 * bullish pattern
 * bullish candlestick "engulfed" the bearish candlestick
 * represents a strong reversal in the price action
@@ -77,6 +87,8 @@
 <br>
 
 ##### bearish engulfing pattern
+
+
 
 * bearish pattern
 * bearish candlestick engulfed the bullish candlestick 
@@ -94,6 +106,8 @@
 
 ### chart patterns
 
+<br>
+
 * used in conjuction with candlestick charts
 * longer-term analysis of market movements
 * bullish and bearish patterns
@@ -101,7 +115,10 @@
 * dont tell about longer term trends
 
 
+
+
 ##### double top
+
 
 * bearish pattern
 * buyers tried wtice to push price higher
@@ -119,6 +136,8 @@
 <br>
 
 ##### double bottom
+
+<br>
 
 * bullish pattern
 * sellers came in twice
@@ -161,13 +180,14 @@
 
 ### trends
 
+<br>
 
 * we can't trade from patterns all the time, they are quite rare
 * trends patterns will guide us more often
 * patterns can be housed within trends
 * if we can find the trend, we can ride the trend for profit
 
-<br>
+
 
 ##### asceding wedge - higher lows
 
@@ -176,7 +196,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1130416/172072540-324afc3d-0b31-4ffd-ab4f-96a829d244bf.png" width="40%" align="center" style="padding:1px;border:1px solid black;" >
 </p>
-
 <br>
 
 ##### desceding wedge - lower highs
@@ -236,6 +255,8 @@
 
 ### how to trade with trends
 
+<br>
+
 1. Identify the market trends
 2. Ask where are the main areas of trade
    - where is support and resistance?
@@ -250,6 +271,8 @@
 ---
 
 ### resources
+
+<br>
 
 * [tradingview](https://www.tradingview.com/)
 * [tokenmetrics](https://tokenmetrics.com/)
