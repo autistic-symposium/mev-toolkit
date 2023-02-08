@@ -38,7 +38,12 @@
 
 <br>
 
-* [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
+##### code
+
+
+* [vanity address generator for CREATE2 addresses](https://github.com/johguse/ERADICATE2)
+* [metamorphic: a factory contract for redeployable](https://github.com/0age/metamorphic)
+* [eigenphi market overview and performance of mev types](https://beta.eigenphi.io/)
 * [bundle generator](https://github.com/Alcibiades-Capital/mev_bundle_generator)
 * [flashbots mev opportunties](https://github.com/flashbots/mev-job-board)
 * [symbolic searcher](https://github.com/bzhang42/symbolic-searcher)
@@ -46,10 +51,15 @@
 * [searcher-sponsored-tx](https://github.com/flashbots/searcher-sponsored-tx)
 * [searcher-minter](https://github.com/flashbots/searcher-minter)
 * [mev bot in q using kdb+](https://github.com/sambacha/q-evm)
+* [resources for gas optimization](https://github.com/go-outside-labs/web3-solidity/blob/main/saving_gas/README.md)
+
+##### readings
+
+* [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
 * [mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)
 * [running a keeper with rook.fi](https://docs.rook.fi/reference/integrate/run-a-keeper)
 * [running a solver with cowswap](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)
-* [resources for gas optimization](https://github.com/go-outside-labs/web3-solidity/blob/main/saving_gas/README.md)
+
 
 
