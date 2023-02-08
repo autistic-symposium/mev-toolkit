@@ -21,9 +21,8 @@
 
 <br>
 
-* [oracle abuse](oracle_abuse.md)
 * [tokenomics](tokenomics.md)
-
+* [oracle abuse](oracle_abuse.md)
 
 <br>
 
