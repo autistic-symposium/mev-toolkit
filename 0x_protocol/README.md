@@ -1,8 +1,10 @@
-# 🍍 0x protocol
+# 0x protocol
 
 <br>
 
 ### tl; dr
+
+<br>
 
 * 0x request-for-quote (rfq), mev proof + zero slippage trades
 * all communication happens off-chain until settlement, making the system extremely gas efficient for market makers
