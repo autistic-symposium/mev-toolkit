@@ -21,6 +21,7 @@
 * **isolation mode**: new assets can be listed as isolated so borrowers cannot supply other assets as collateral (but can capture yield) but only approved stablecoins.
 * **siloed borrowing** allows assets with risky manipulatable oracles to be listed as a single borrow asset.
 * **multiple rewards** per token.
+* **chains**: avalanche, pptimism, polygon, fantom, harmony and arbitrum.
 
 <br>
 
