@@ -38,6 +38,8 @@
 
 #### resources
 
+
+* [private order flow and the block builder market, by jon charbonneau](https://twitter.com/jon_charb/status/1562916372505665536)
+* [ethereum's biggest issue no one's talking about](https://mariusvanderwijden.github.io/blog/2022/10/21/lightclients/)
+* [private order flow is the new MEV (youtube)](https://www.youtube.com/watch?v=bapIqxhIdaY)
 * [kolibrio](https://www.kolibr.io/) (and [docs](https://docs.kolibr.io/))
-* [Ethereum's biggest issue no one's talking about](https://mariusvanderwijden.github.io/blog/2022/10/21/lightclients/)
-* [Youtube: Private Order Flow is the new MEV](https://www.youtube.com/watch?v=bapIqxhIdaY)
