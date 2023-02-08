@@ -38,7 +38,6 @@
 * [frontrunning](frontrunning)
 * [backrunning](backrunning)
 * [sandwich](sandwich)
-* [liquidations](liquidations)
 * [longtails](longtails)
 * [jit liquidity](uniswap/uniswap-v3/just-in-time.md)
 * [flashloans](flashloans)
