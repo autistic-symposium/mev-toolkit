@@ -1,4 +1,4 @@
-## 🥯 arbitrage
+## arbitrage
 
 <br>
 
@@ -40,6 +40,8 @@
 ----
 
 ### resources
+
+<br>
 
 * [anatomy of arber bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/arbers.md)
 
