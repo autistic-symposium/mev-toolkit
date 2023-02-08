@@ -1,16 +1,26 @@
 ## gmx oracle abuse
 
+
 <br>
 
 ### tl; dr
 
+
 <br>
 
+### tl; dr october'22 event
+
+<br>
+
+* gmx differs from amms by offering zero slippage on trades via an oracle price update system, while amms like uniswap rely on arb bots to balance prices in the pools
+* gmx team-run bots make calls to `SetPriceWithBit()` to update asset prices. mev operators can observe these prices updates in the mempool before land on chain.
 
 <br>
 
 ---
 
 ### resources
+
+<br>
 
 * [chainsight twitter](https://twitter.com/ChainsightLabs/status/1580208615654584321?s=20&t=-FG5kQ_7kAKhLnbuk05wSg)
