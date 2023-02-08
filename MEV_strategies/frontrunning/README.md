@@ -24,7 +24,7 @@
 
 <br>
 
-* [anatomy of frontrunner bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/frontrunners.md)
+* [anatomy of frontrunner bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/frontrunners.md)
 * [shutter frontrunning protection](https://github.com/shutter-network/shutter)
 
 ##### cool txs and stories
