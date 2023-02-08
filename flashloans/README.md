@@ -1,5 +1,5 @@
 
-## flashloan 
+## flashloans
 
 <br>
 
@@ -13,7 +13,7 @@
 ### in this dir
 
 
-* [flashloan smart contracts](smart_contracts)
+* [smart contracts](smart_contracts)
 * [protocols](protocols)
 
 <br>
@@ -21,6 +21,8 @@
 ---
 
 ### resources
+
+<br>
 
 * [flashloans dashboard, by eigeinphi](https://eigenphi.io/mev/ethereum/flashloan)
 * [taking undercollaterized loans, by samczsun](https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/)
