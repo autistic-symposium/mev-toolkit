@@ -7,12 +7,12 @@
 <br>
 
 
-* protocol designed to generate liquidity for DeFi and future tokenized Dapps coming up in the space.
-* It's a decentralized market making platform that allowe liquidity flows and provides an easy way to liquidity.
-* It has reactors that host staked assets on each side of the pools. 
-* Participants are broken down into 3 components: LP (providing assets), Liquidity directos (direct assets), and pricers (third party pricers for non-AMM venues).
-* Tokemak locks up ETH and USDC which are base tokens that any pool could be built on. Users deposit these base assets for APR paid out in TOKE.
-* TOKE can be thought of as tokenized liquidity.
+* decentralized market making platform that allows liquidity flow, designed to generate liquidity for defi and future tokenized dapps 
+* $TOKE can be thought of as tokenized liquidity
+* reactors (2 pools): host staked assets on each side of the pools, one reactor is the pair reactor, the other is the token reactor
+* participants: LP (providing assets), liquidity directors (direct assets), and pricers (third party pricers for non-AMM venues)
+* tokemak locks up $ETH and $USDC which are base tokens that any pool could be built on, users deposit these base assets for APR paid out in $TOKE
+* impermanent loss protection through a mitigation waterfall: the protocol pulls the required asset from its reserve and ensures 1:1 withdrawals for the asset and the asset's t token. in the pair reactors, the protocol pulls the asset from their "treasure" from either fees or swapping. 
 
 <br>
 
