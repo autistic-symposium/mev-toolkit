@@ -13,6 +13,7 @@
 * a floor price fund helps ensure liquidity in the $GLP pool, plus a reliable stream of $ETH rewards fo $GMX stakers.
 * protocol's revenues come from: swap fees, trading fees, execution fees, liquidation fees, and borrow fees. protocol risks: liquidity risks, market/oracle manipulation, centralization risk, scalability risk.
 * liquidation price: when (collateral - losses - borrow fee) is less than 1% of position's size. 
+* the cost to open / close a position is 0.1% of the position size. long positions are opened at the higher price and closed at the lower price, short positions are opened at the lower price and closed at the higher price.
 
 <br>
 
