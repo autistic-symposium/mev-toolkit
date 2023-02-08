@@ -34,3 +34,4 @@
 
 * [gmx docs](https://gmxio.gitbook.io/gmx/)
 * [synapse bridge](https://synapseprotocol.com/)
+* [contracts](https://gmxio.gitbook.io/gmx/contracts)
