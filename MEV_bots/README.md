@@ -6,7 +6,8 @@
 
 <br>
 
-* [101 bots (get started)](bots/101.md)
+##### bots
+
 * [arbers](bots/arbers.md)
 * [liquidators](bots/liquidators.md)
 * [frontrunners](bots/frontrunners.md)
@@ -17,6 +18,11 @@
 * [tradors](bots/tradors.md)
 * [cow solvers](bots/cow-solvers.md)
 * [statistical arbers](bots/stat-arbers.md) 
+
+
+###### info
+
+* [101 bots (get started)](bots/101.md)
 * [bot profits by year](profits)
 
 <br>
