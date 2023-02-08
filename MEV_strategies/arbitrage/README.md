@@ -45,6 +45,6 @@
 
 <br>
 
-* [anatomy of arber bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/anatomy_of_mev_bots/bots/arbers.md)
+* [anatomy of arber bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_bots/bots/arbers.md)
 
 
