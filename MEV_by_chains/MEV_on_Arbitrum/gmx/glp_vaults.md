@@ -13,9 +13,19 @@
 
 <br>
 
+### pool exposures
+
+<br>
+
+* the first component of a pool are the available assets, which are the vault assets minus reserved assets (assets set aside to cover longs).
+* by covering longs, a reserved $BTC that would move with $BTC is used to cover a long position by surrendering all the upside gains to the counterparty (but also taking all collaterals of the counterparty when the price of $BTC goes down).
+* conversely, a short against the pool becomes a synthetic long as its credit gains to the pool when the price goes up (but takes money from the pool when the price goes down).
+
+<br>
+
 ### resources
 
 <br>
 
-* [rage-gmx vaults](https://mirror.xyz/0x507c7777837B85EDe1e67f5A4554dDD7e58b1F87/KztyQ37Nfq7QT1BWrLz30jfqdtV23TtilJK1cbyXpxk0
+* [rage-gmx vaults](https://mirror.xyz/0x507c7777837B85EDe1e67f5A4554dDD7e58b1F87/KztyQ37Nfq7QT1BWrLz30jfqdtV23TtilJK1cbyXpxk0)
 * [sentiment.xyz](https://www.sentiment.xyz/)
