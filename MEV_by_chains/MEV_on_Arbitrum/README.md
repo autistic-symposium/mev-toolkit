@@ -18,6 +18,7 @@
 <br>
 
 * [gmx](gmx.md)
+* [fair order sequencing](fair_ordering_sequencing.md)
 
 <br>
 
