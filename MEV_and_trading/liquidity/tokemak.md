@@ -28,3 +28,7 @@
 ---
 
 ### resources
+
+<br>
+
+* [hidden hand docs](https://hiddenhand.finance/)
