@@ -1,5 +1,7 @@
 ## trading with leverage
 
+<br>
+
 ### tl;dr
 
 * you need to know what you are doing.
