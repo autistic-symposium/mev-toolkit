@@ -29,7 +29,6 @@
 
 * [vanity address generator for CREATE2 addresses](https://github.com/johguse/ERADICATE2)
 * [metamorphic: a factory contract for redeployable](https://github.com/0age/metamorphic)
-* [eigenphi market overview and performance of mev types](https://beta.eigenphi.io/)
 * [bundle generator](https://github.com/Alcibiades-Capital/mev_bundle_generator)
 * [flashbots mev opportunties](https://github.com/flashbots/mev-job-board)
 * [symbolic searcher](https://github.com/bzhang42/symbolic-searcher)
@@ -50,6 +49,7 @@
 
 <br>
 
+* [eigenphi market overview and performance of mev types](https://beta.eigenphi.io/)
 * [list of known bots, by mev corpus](https://github.com/manifoldfinance/mev-corpus/blob/master/packages/known-bots/lib/known-bots.js)
 * [etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)
 * [build a mev bot by degatchi](https://www.degatchi.com/articles/how-to-build-a-mev-bot)
