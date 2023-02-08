@@ -5,6 +5,11 @@
 
 ### tl; dr
 
+<br>
+
+* gmx has not price impact (large order trades at mark price). 
+* when high volatility, there is a spread from the chainlink price to the median price of reference exchanges.
+
 
 <br>
 
