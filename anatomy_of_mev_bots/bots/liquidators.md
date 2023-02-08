@@ -35,3 +35,11 @@
 <br>
 
 * [fuse liquidator](https://github.com/Rari-Capital/fuse-liquidator-bot)
+
+<br>
+
+### liquity
+
+<br>
+
+* [liquity bot](https://github.com/liquity/liqbot)
