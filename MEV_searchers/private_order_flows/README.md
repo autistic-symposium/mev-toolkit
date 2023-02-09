@@ -7,7 +7,7 @@
 <br>
 
 * [types of private order flows](101.md)
-* [projects addressing pof](projects.md)
+* [projects addressing pof primitives](projects.md)
 
 <br>
 
