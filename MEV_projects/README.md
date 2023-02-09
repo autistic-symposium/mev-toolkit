@@ -16,4 +16,4 @@
 
 ### resources
 
-* [projects addressing private order flows privimitives](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/private_order_flows/projects.md)
+* [projects addressing private order flows primitives](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/private_order_flows/projects.md)
