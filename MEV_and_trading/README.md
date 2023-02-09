@@ -25,7 +25,7 @@
 #### protocols in-depth 
 
 * [inverse finance](protocols/inverse.md)
-
+* [gmx and glp vaults](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 
 <br>
 
@@ -39,7 +39,6 @@
 
 * [anatomy of trador bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/tradors.md)
 * [defi and trading glossary](https://docs.cyph3rs.xyz/resources/defi-and-mev-glossary)
-* [gmx and glp vaults](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [yearn finance](https://yearn.finance/#/portfolio)
 * [stader Labs](https://staderlabs.com/)
 * [hop](https://app.hop.exchange/#/send?token=ETH)
