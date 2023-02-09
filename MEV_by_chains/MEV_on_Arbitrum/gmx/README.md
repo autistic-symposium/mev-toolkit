@@ -48,4 +48,5 @@
 * [gmx, by flood capital](https://twitter.com/FloodCapital/status/1562856005259902976)
 * [gmx oracle, by pressiemoomboy](https://twitter.com/PressieMoonBoy/status/1562905337723748352)
 * [gmx transfer account](https://app.gmx.io/#/begin_account_transfer)
+* [pirex gmx, by redacted](https://mirror.xyz/0xE90c74145245B498fef924fAdC7bb34253c7cF90/H15743T6tNvIW1xzOcL5_JBkQilZLdWgdqhD5AZPryI)
 
