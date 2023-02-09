@@ -102,5 +102,6 @@
 * [defi derivative landscape](https://github.com/0xperp/defi-derivatives)
 * [put-call parity](https://www.investopedia.com/terms/p/putcallparity.asp#:~:text=Understanding%20Put%2DCall%20Parity,-As%20noted%20above&text=Put%2Dcall%20parity%20states%20that,to%20the%20option's%20strike%20price.)
 * [perpetual swaps, by laevitas](https://app.laevitas.ch/altsderivs/GMX/perpetualswaps)
-
+* [spin.fi, on near](https://trade.spin.fi/)
+* [orderly, on near](https://orderly.network/)
 
