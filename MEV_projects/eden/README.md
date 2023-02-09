@@ -18,3 +18,5 @@
 ### resources
 
 <br>
+
+* [how to leverage eden network to trade with priority](https://medium.com/edennetwork/how-to-leverage-eden-network-to-trade-with-priority-1171851978c2)
