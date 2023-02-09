@@ -32,3 +32,4 @@
 <br>
 
 * [anatomy of snipor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/snipers.md)
+* [nft sniping, by avrahan eisenberg 😬](https://deepfivalue.substack.com/p/how-our-team-makes-millions-in-crypto)
