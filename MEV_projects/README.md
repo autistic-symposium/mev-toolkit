@@ -11,3 +11,9 @@
 * [jito](jito)
 * [skip](skip)
 * [cow](cow_protocol)
+
+<br>
+
+### resources
+
+* [projects addressing private order flows privimitives]()
