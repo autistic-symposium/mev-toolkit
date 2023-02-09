@@ -22,3 +22,4 @@
 <br>
 
 * [inverse finance, by cryptorisks](https://cryptorisks.substack.com/p/asset-risk-assessment-dola)
+* [inverse finance oracle hack](https://twitter.com/peckshield/status/1510234162183041024)
