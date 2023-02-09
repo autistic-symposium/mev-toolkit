@@ -18,6 +18,7 @@
 * [bridges](bridges)
 * [whales](whales)
 * [protocols](protocols)
+* [macroeconomy](macroeconomy)
 
 <br>
 
