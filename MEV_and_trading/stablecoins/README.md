@@ -9,7 +9,7 @@
 * [101](stablecoins_101.md)
 * [curve](Curve.md)
 * [dai](DAI.md)
-* [gho](gho)
+* [gho](GHO.md)
 * [(rip) ust](UST.md)
 
 
