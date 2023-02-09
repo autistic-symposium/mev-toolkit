@@ -10,10 +10,6 @@
 
 <br>
 
-<img width="759"  src="https://user-images.githubusercontent.com/1130416/217938181-3ea5947c-b847-4f4c-a41c-a40addceed8b.png">
-
-
-<br>
 
 ---
 
