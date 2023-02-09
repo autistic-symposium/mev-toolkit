@@ -37,6 +37,7 @@
 * [vesta finance](https://twitter.com/vestafinance)
 * [jones dao](https://twitter.com/DAOJonesOptions)
 * [dopex](https://twitter.com/dopex_io)
+* [olive app](https://oliveapp.finance/trade/options/zero-capital-risk/glp-glp?chainID=42161)
 * [vovo finance](https://twitter.com/VovoFinance)
 * [perpy finance](https://twitter.com/PerpyFinance)
 * [lyra finance](https://twitter.com/lyrafinance)
