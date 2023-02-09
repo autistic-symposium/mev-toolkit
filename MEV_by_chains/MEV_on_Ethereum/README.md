@@ -62,7 +62,7 @@
 
 <br>
 
-####### both layers
+#### both layers
 
 * [project sunshine](https://ethsunshine.com/)
 * [clients diversity](https://clientdiversity.org/)
@@ -104,7 +104,6 @@
 
 
 <br>
-
 
 
  
