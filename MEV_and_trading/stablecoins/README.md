@@ -6,7 +6,7 @@
 
 <br>
 
-* [types of stablecoins](stablecoin_101.md)
+* [101](stablecoins_101.md)
 * [curve](Curve.md)
 * [dai](DAI.md)
 * [gho](gho)
