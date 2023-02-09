@@ -8,8 +8,6 @@
 <br>
 
 
-#### general concepts
-
 
 * [day trading](day-trading)
 * [derivatives](derivatives)
@@ -19,14 +17,7 @@
 * [vaults](vaults)
 * [bridges](bridges)
 * [whales](whales)
-
-<br>
-
-#### protocols in-depth 
-
-* [dydx](dydx.md)
-* [inverse finance](protocols/inverse.md)
-* [gmx and glp vaults](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
+* [protocols](protocols)
 
 <br>
 
