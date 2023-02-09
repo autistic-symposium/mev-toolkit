@@ -38,6 +38,7 @@
 * [gmx docs](https://gmxio.gitbook.io/gmx/)
 * [gmx stats](https://stats.gmx.io/)
 * [gmx hedge](https://www.gmxhedge.com/)
+* [building gmx and synths, by coinflipcanada](https://alphapls.substack.com/p/the-buildooooooor-coinflipcanada]
 * [gmx general dune board](https://dune.com/gmxtrader/gmx-dashboard-insights)
 * [gmx in-depth dune board](https://dune.com/lako/lako-labs-gmx)
 * [gmx trader bias dune board](https://dune.com/steinkirch/gmx-trading-bias)
