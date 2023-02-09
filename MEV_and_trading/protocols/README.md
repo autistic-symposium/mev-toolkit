@@ -1,4 +1,4 @@
-## trading protocols
+## trading protocols in-depth
 
 <br>
 
@@ -18,3 +18,6 @@
 ### resources
 
 <br>
+
+* [buffer.finances](https://buffer.finance/)
+* [drift.trade](https://www.drift.trade/)
