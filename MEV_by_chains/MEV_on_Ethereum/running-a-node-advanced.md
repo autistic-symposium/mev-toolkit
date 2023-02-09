@@ -192,9 +192,16 @@ openssl rand -hex 32 > jwtsecret
 
 ----
 
-### further resources
+### resources
 
 <br>
+
+
+<img width="499" src="https://user-images.githubusercontent.com/1130416/217919795-b9fe722f-35ca-48ad-a523-d1503c15c019.png">
+
+
+<br>
+
 
 * [code for bootnodes.go](https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go)
 * [consensus specs for networking](https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/p2p-interface.md#the-gossip-domain-gossipsub)
