@@ -40,6 +40,7 @@
 * [gmx hedge](https://www.gmxhedge.com/)
 * [building gmx and synths, by coinflipcanada](https://alphapls.substack.com/p/the-buildooooooor-coinflipcanada)
 * [gmx general dune board](https://dune.com/gmxtrader/gmx-dashboard-insights)
+* [post on x4 protocol](https://medium.com/@gmx.io/x4-protocol-controlled-exchange-c931cd9a1ae9)
 * [gmx in-depth dune board](https://dune.com/lako/lako-labs-gmx)
 * [gmx trader bias dune board](https://dune.com/steinkirch/gmx-trading-bias)
 * [synapse bridge](https://synapseprotocol.com/)
