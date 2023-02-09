@@ -31,4 +31,5 @@
 
 * [rage-gmx vaults](https://mirror.xyz/0x507c7777837B85EDe1e67f5A4554dDD7e58b1F87/KztyQ37Nfq7QT1BWrLz30jfqdtV23TtilJK1cbyXpxk0)
 * [sentiment.xyz](https://www.sentiment.xyz/)
+* [gml vault tech overview](https://gmx-io.notion.site/gmx-io/GMX-Technical-Overview-47fc5ed832e243afb9e97e8a4a036353)
 * [dune board on protocol strategies on top of $GLP](https://dune.com/dbustos20/protocol-strategies-on-top-of-glp)
