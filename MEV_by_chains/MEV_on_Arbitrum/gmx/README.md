@@ -49,4 +49,5 @@
 * [gmx oracle, by pressiemoomboy](https://twitter.com/PressieMoonBoy/status/1562905337723748352)
 * [gmx transfer account](https://app.gmx.io/#/begin_account_transfer)
 * [pirex gmx, by redacted](https://mirror.xyz/0xE90c74145245B498fef924fAdC7bb34253c7cF90/H15743T6tNvIW1xzOcL5_JBkQilZLdWgdqhD5AZPryI)
+* [magicglp, by abracadaba](https://mirror.xyz/0x5744b051845B62D6f5B6Db095cc428bCbBBAc6F9/EUr60EjAX6h4muLqUxeygljMWTmi5b9pxJWlX7Qt3yc)
 
