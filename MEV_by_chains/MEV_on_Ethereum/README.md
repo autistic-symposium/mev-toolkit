@@ -14,14 +14,15 @@
 
 * [running nodes and validators](running-a-node.md)
 * [advanced resources on running nodes and validators](running-a-node-advanced.md)
-* [geth on kubernetes](geth_and_k8s)
-* [dets and specs for relays](relays.md)
+* [searcher builder validator/sequencer](searcher-builder-validator-sequencer/)
 * [pos consensus mechanisms](pos_consensus_mechanisms.md)
+* [dets and specs for relays](relays.md)
+* [geth on kubernetes](geth_and_k8s)
+* [account abstraction](account_abstraction)
 * [blockspaces](blockspace.md)
 * [basic evm](evm-knowledge.md)
-* [eip-1559](eip-1559.md)
 * [the mempool](the_mempool.md)
-* [searcher builder validator/sequencer](searcher-builder-validator-sequencer/)
+* [eip-1559](eip-1559.md)
 * [glossary](glossary.md)
 
 
@@ -43,7 +44,7 @@
 * [archive node access](https://archivenode.io/)
 * [list of nodes as a service](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
 * [economics post-merge](https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit#gid=1018097491)
-* [exploring the first 1k epochs of eth, by barnabe.eth](https://ethereum.github.io/rig/posdata/notebooks/mainnet_explore.html)
+* [the first 1k epochs of eth](https://ethereum.github.io/rig/posdata/notebooks/mainnet_explore.html)
 
 
 <br>
