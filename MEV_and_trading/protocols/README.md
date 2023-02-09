@@ -1,15 +1,6 @@
-## protocols
+## trading protocols
 
 <br>
-
-### tl; dr
-
-<br>
-
-
-<br>
-
----
 
 ### in this dir
 
@@ -17,7 +8,7 @@
 
 * [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [dydx](dydx)
-* [inverse finance](https://github.com/go-outside-labs/mev-toolkit/blob/main/defi_and_trading/protocols/inverse.md)
+* [inverse](https://github.com/go-outside-labs/mev-toolkit/blob/main/defi_and_trading/protocols/inverse.md)
 
 
 <br>
