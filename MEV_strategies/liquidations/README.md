@@ -33,6 +33,7 @@
 <br>
 
 * [anatomy of liquidator bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/liquidators.md)
+* [notes on lending as a trader](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_and_trading/lending)
 * [liquidation dashboard, by eigenphi](https://eigenphi.io/mev/ethereum/liquidation)
 * [understanding compound's liquidation, by zengo](https://zengo.com/understanding-compounds-liquidation/)
 * [nahtan worsley's liquidation strategies, by forbes](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=25489eda2d8d) 
