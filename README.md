@@ -69,7 +69,7 @@
 <br>
 
 * [build your mev bot](MEV_searchers)
-* [private order flows](MEV_searchers/private_order_flows)
+* [exclusive order flows](MEV_searchers/private_order_flows)
 * [latency optimization](MEV_searchers/latency)
 * [cross-domain mev](MEV_searchers/cross_domain_mev)
 * [pvp battles](MEV_searchers/pvp_war)
