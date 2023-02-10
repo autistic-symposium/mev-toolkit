@@ -43,3 +43,5 @@
 * [uniswap v3 book, by jeiwan](https://github.com/Jeiwan/uniswapv3-book)
 * [jit liquidity by chainsight](https://twitter.com/ChainsightLabs/status/1457958811243778052)
 * [conceptualizing uniswap v3 lp profit and loss](https://atise.medium.com/conceptualizing-uniswap-v3-lp-profit-and-loss-ecbae6e09644)
+* [on why lp-ing on uniswap is a losing game](https://twitter.com/thiccythot_/status/1589022227437039616)
+* [usage of markout to calculate LP profitability in uniswap v3, by crocswap](https://crocswap.medium.com/usage-of-markout-to-calculate-lp-profitability-in-uniswap-v3-e32773b1a88e)
