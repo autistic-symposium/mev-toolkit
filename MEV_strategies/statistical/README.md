@@ -2,9 +2,11 @@
 
 <br>
 
-### tl; dr
+### in this dir
 
+<br>
 
+* [convex optimization](convex_optimization)
 
 
 
