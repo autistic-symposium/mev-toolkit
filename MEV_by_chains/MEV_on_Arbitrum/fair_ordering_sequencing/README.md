@@ -15,3 +15,4 @@
 <br>
 
 * [fair sequencing and chaninlink](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_strategies/oracles/chainlink.md)
+* [can first come first served tx ordering prevent frontrunning, by robert annessi]()
