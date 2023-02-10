@@ -20,6 +20,7 @@
 * [bridges](bridges)
 * [whales](whales)
 * [protocols](protocols)
+* [market makers](market_makers)
 * [macroeconomy](macroeconomy)
 
 <br>
