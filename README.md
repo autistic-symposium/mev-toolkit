@@ -43,7 +43,7 @@
 * [longtails](MEV_strategies/longtails)
 * [jit liquidity](MEV_and_trading/uniswap/uniswap-v3/just-in-time.md)
 * [liquidation](MEV_strategies/liquidations)
-* [flashloans](MEV_strategies/liquidations/flashloans)
+* [flashloans](MEV_strategies/flashloans)
 * [sniping](MEV_strategies/sniping)
 * [oracles](MEV_strategies/oracles)
 * [statistical](MEV_strategies/statistical)
