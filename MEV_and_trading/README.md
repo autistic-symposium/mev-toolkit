@@ -9,11 +9,13 @@
 
 
 
+
 * [day trading](day-trading)
 * [derivatives](derivatives)
 * [stablecoins](stablecoins)
 * [liquidity](liquidity)
 * [staking](staking)
+* [lending](lending)
 * [vaults](vaults)
 * [bridges](bridges)
 * [whales](whales)
