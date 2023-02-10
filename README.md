@@ -188,12 +188,12 @@
 ##### news and alerts 
 
 * [eigenphi mirror](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34)
+* [flashbots discourse](https://collective.flashbots.net/)
 * [mevboost bot](https://twitter.com/MevBoostBot)
 * [mevrefund bot](https://twitter.com/MevRefund)
 * [highgwei bot](https://twitter.com/HighGwei)
 * [mev proposer bot](https://twitter.com/mevproposerbot)
 * [eigenphi bot](https://twitter.com/EigenPhi_Alert)
-* [flashbots discourse](https://collective.flashbots.net/)
 * [mevwatch bot](https://twitter.com/mevwatchbot)
 
 
