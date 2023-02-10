@@ -6,6 +6,8 @@
 
 <br>
 
+
+* [routers and aggregators](aggregators)
 * [convex optimization](convex_optimization)
 
 
