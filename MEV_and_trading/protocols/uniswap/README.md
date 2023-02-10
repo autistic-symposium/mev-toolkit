@@ -32,6 +32,7 @@
 
 <br>
 
+
 * [what's an amm, by coindesk](https://www.coindesk.com/learn/what-is-an-automated-market-maker/)
 * [uniswap docs](https://docs.uniswap.org/protocol)
 * [uniswap arb analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis)
@@ -41,4 +42,4 @@
 * [mev's impact on uniswap](https://eigenphi.io/report/mev-impact-on-uniswap)
 * [quantifying the cost of providing liquidity to amms, by a16z](https://a16zcrypto.com/lvr-quantifying-the-cost-of-providing-liquidity-to-automated-market-makers/)
 * [automated market making and loss-versus-balancing, by j. milionis et al](https://arxiv.org/abs/2208.06046)
-
+* [on why lp-ing on uniswap is a losing game](https://twitter.com/thiccythot_/status/1589022227437039616)
