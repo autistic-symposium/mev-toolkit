@@ -19,5 +19,5 @@
 
 <br>
 
-
+* [statistical strategies](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_strategies/statistical)
 * [cointegrator bots](https://github.com/go-outside-labs/blockchain-science-py)
