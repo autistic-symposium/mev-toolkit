@@ -15,3 +15,7 @@
 <br>
 
 ### resources
+
+<br>
+
+* [economics of money and banking](https://www.coursera.org/learn/money-banking#syllabus)
