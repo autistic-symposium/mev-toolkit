@@ -43,3 +43,11 @@
 <br>
 
 * [liquity bot](https://github.com/liquity/liqbot)
+
+<br>
+
+---
+
+### resources
+
+* [liquidation strategies](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_strategies/liquidations)
