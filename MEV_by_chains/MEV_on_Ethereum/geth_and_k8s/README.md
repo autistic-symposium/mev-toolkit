@@ -102,7 +102,8 @@ Chain ID: 137
 
 <br>
 
-### references
+### rsources
 
 * [geth commands](https://geth.ethereum.org/docs/interface/command-line-options)
+* [geth with mev seacher additions, by code0x2)
 
