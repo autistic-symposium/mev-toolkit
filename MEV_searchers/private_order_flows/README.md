@@ -1,4 +1,4 @@
-##  private order flows 
+##  exclusive order flows 
 
 <br>
 
@@ -6,8 +6,8 @@
 
 <br>
 
-* [types of private order flows](101.md)
-* [projects addressing pof primitives](projects.md)
+* [payment for order flows (pfof)](101.md)
+* [projects addressing eof primitives](projects.md)
 
 <br>
 
