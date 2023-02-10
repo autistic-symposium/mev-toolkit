@@ -38,4 +38,5 @@
 * [flashloan monitor](https://tools.blocksec.com/flashloan/eth)
 * [code for flashmint arb](https://github.com/fifikobayashi/FlashMintArbitrage)
 * [leveraged flashloan sandwich](https://twitter.com/bertcmiller/status/1430169143123353611)
+* [0xbaDc0dE dydx flashloan mistake](https://twitter.com/bertcmiller/status/1574852629691305993)
 
