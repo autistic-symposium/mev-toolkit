@@ -27,4 +27,5 @@
 
 <br>
 
+* [all is fair in arb, by ddmckinnon](https://www.ddmckinnon.com/2022/11/27/all-is-fair-in-arb-and-mev-on-avalanche-c-chain/)
 * [on classifying complex networks, by dr. m. von steinkirch](https://github.com/go-outside-labs/ml-graph-network-analyser/blob/master/final_report.pdf)
