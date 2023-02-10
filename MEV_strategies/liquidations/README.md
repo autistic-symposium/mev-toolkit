@@ -19,7 +19,6 @@
 
 <br>
 
-* [flashloans](flashloans)
 * [compound](compound.md)
 * [liquity](liquity.md)
 * [aave](aave.md)
