@@ -38,3 +38,4 @@
 * [understanding compound's liquidation, by zengo](https://zengo.com/understanding-compounds-liquidation/)
 * [nahtan worsley's liquidation strategies, by forbes](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=25489eda2d8d) 
 * [cycle of liquidations in the CRV pool](https://twitter.com/AaveAave/status/1595168982541209611)
+* [how to build a liquidator bot for defi, by powpark](https://powpark.com/post/2020-06-19-how-to-build-a-liquidator-bot-defi/)
