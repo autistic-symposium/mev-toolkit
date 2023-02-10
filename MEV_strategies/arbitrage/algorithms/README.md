@@ -24,3 +24,7 @@
 ---
 
 ### resources
+
+<br>
+
+* [on classifying complex networks, by dr. m. von steinkirch](https://github.com/go-outside-labs/ml-graph-network-analyser/blob/master/final_report.pdf)
