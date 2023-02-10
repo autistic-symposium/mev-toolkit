@@ -21,7 +21,7 @@
 <br>
 
 * [spatial arb](spatial.md)
-* [triangle arb](triangle.md)
+* [triangular arb](triangle.md)
 * [taxed tokens](taxed.md)
 
 <br>
