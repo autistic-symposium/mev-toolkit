@@ -193,6 +193,7 @@
 * [highgwei bot](https://twitter.com/HighGwei)
 * [mev proposer bot](https://twitter.com/mevproposerbot)
 * [eigenphi bot](https://twitter.com/EigenPhi_Alert)
+* [flashbots discourse](https://collective.flashbots.net/)
 * [mevwatch bot](https://twitter.com/mevwatchbot)
 
 
