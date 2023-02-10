@@ -6,10 +6,11 @@
 
 <br>
 
-
-* spatial arbitrage involving one uniswap v3 pool and other venue seems to be the most common in 2022, followed by triangle arbitrage with one or two uniswap v3 pools.
-
-
+* spatial (exchanges are located in different locations)
+* triangular (profit from trading loops)
+* statistical (rely on mathematical models for high-frequency arbs)
+* cross-exchange
+* sandwich
 
 <br>
 
