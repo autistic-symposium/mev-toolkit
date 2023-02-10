@@ -37,5 +37,6 @@
 * [demystify the dark forest: sandwich attack, by coinmonks](https://medium.com/coinmonks/demystify-the-dark-forest-on-ethereum-sandwich-attacks-5a3aec9fa33e)
 * [analysing execution quality in osmosis, by meka.tech](https://meka.tech/writing/analysing-execution-quality-in-osmosis--e9dd8394-0d09-4d92-a0c7-27629d321af0)
 * [how to automate sandwich recognization](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/0NGVJ0rpUHp6AiO1hluZV6X-sG_uwe5lAaGk3Y91X7A)
+* [sandwich trap, by kaiji](https://twitter.com/bertcmiller/status/1443532075936751621)
 
 
