@@ -6,6 +6,7 @@
 
 <br>
 
+* [collateralized](collateralized.md)
 * [uncollateralized](uncollateralized.md)
 * [composable leverage](composable.md)
 
