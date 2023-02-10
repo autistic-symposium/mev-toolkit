@@ -45,7 +45,7 @@
 * [list of nodes as a service](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
 * [economics post-merge](https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit#gid=1018097491)
 * [the first 1k epochs of eth](https://ethereum.github.io/rig/posdata/notebooks/mainnet_explore.html)
-* [mev panda: data for mev-boost ecosyste](https://www.mevpanda.com/)
+* [mev panda: data for mev-boost ecosystem](https://www.mevpanda.com/)
 
 
 <br>
