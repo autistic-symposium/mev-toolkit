@@ -21,7 +21,7 @@ due to the nature of the evm's atomic execution, **atomic arbitrages** are possi
 <br>
 
 * [arbitrage patterns](patterns)
-* [arbitrage algorithms](algorithm)
+* [arbitrage algorithms](algorithms)
 * [cool arb txs in the wild](mev_bots_wild)
 
 
