@@ -12,7 +12,7 @@
 
 <br>
 
-* [convex optimization in python](https://github.com/angeris/cfmm-routing-code)
+* [convex optimization for 2 assets, in python](https://github.com/angeris/cfmm-routing-code)
 
 <br>
 
