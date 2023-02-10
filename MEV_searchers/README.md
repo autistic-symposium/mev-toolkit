@@ -62,6 +62,7 @@
 * [mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)
 * [running a keeper with rook.fi](https://docs.rook.fi/reference/integrate/run-a-keeper)
 * [running a solver with cowswap](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)
+* [tenderly rpc request builder](https://dashboard.tenderly.co/json-rpc-request-builder)
 
 
 
