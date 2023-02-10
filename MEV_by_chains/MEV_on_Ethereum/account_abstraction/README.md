@@ -17,3 +17,4 @@
 <br>
 
 * [ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+* [account bbstraction for everyone else, by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
