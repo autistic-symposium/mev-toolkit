@@ -17,5 +17,6 @@
 
 <br>
 
+* [longtail strategies](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_strategies/longtails)
 * [rarity.tools](https://rarity.tools/)
 
