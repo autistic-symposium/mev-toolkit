@@ -8,6 +8,14 @@
 
 <br>
 
+### code
+
+<br>
+
+* [convex optimization in python](https://github.com/angeris/cfmm-routing-code)
+
+<br>
+
 ---
 
 ### resources
