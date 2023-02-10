@@ -206,6 +206,7 @@
 
 <br>
 
+- [foundations of blockchains and mev, by tim roughgarden](https://timroughgarden.github.io/fob21/)
 - [the 0 to 1 guide to mev, by blockchain at berkeley](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
 - [ethereum is a dark forest, by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
 - [escaping the dark forest, by samczsun](https://samczsun.com/escaping-the-dark-forest/)
