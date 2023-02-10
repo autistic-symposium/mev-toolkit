@@ -11,3 +11,7 @@
 <br>
 
 ### resources
+
+<br>
+
+* [fair sequencing and chaninlink](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_strategies/oracles/chainlink.md)
