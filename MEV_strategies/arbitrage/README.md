@@ -46,5 +46,6 @@
 <br>
 
 * [anatomy of arber bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/arbers.md)
+* [analyzing mev bot's arb, by et](https://medium.com/@etdu/analyzing-an-mev-bots-arbitrage-on-ethereum-c6980cfd347)
 
 
