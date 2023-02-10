@@ -12,6 +12,7 @@
 * Additionally, veCRV holders can vote on proposals and pool parameters.
 * Monthly CRV unlocks from the release schedule and the trading fees generated on the platform are distributed to each pool's liquidity provider. 
 * a new stablecoin design called lending-liquidation amm algorithm (LLAMMA) is being [github-ed](https://github.com/curvefi/curve-stablecoin-js).
+* for mev, volume is the key factor to influence price slipage due to the slipage design of curve
 
 <br>
 
