@@ -18,3 +18,7 @@
 ---
 
 ### resources
+
+<br>
+
+* [fair sequencing services](https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/)
