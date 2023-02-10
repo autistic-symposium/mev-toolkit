@@ -7,23 +7,10 @@
 <br>
 
 
+* in tradefi, arbitrage refers to buying something on one venue and selling it on another (through a series of intermediate transactions) for a higher price. this is note risk-free as prices can move mid-transaction.
+due to the nature of the evm's atomic execution, **atomic arbitrages** are possible (as opposed to tradefi): smart contracts allow the packaging a sequential execution of txs, for a set of conditions. if the conditions are not met, the execution can fail, undoing all the on-chain interactions that just occurred.
 * since **liquidity on-chain is fragmented** (thousands of pools don't communicate with each other, each providing quotes for swapping assets in real-time), it creates an opportunity to buy low and sell high across different pools. for example, two DEXes offer a token at two different prices so that a token can be bought at the lower-priced DEX and sold on the higher-priced DEX in a single atomic transaction.
-* due to the nature of the evm's atomic execution, **atomic arbitrages** are possible (as opposed to tradefi): smart contracts allow the packaging a sequential execution of txs, for a set of conditions. if the conditions are not met, the execution can fail, undoing all the on-chain interactions that just occurred.
-
-##### [arbitrage types:](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/a_v8f9yRqRFAvmOaEltTkPJSt1geSAwQdDps2Avb-DA)
-
-
-* spatial (exchanges are located in different locations)
-* triangular (profit from trading loops)
-* statistical (rely on mathematical models for high-frequency arbs)
-* cross-exchange
-* sandwich
-
-<br>
-
-<img width="350" src="https://user-images.githubusercontent.com/1130416/217386455-c829a750-3bf1-4786-899d-adcb7d816573.png">
-
-
+* **non-atomic (cross-chain, CEX/DEX, etc.) arb** are more profitable and less accessible due capital requirements and risk profile.
 
 <br>
 
@@ -34,6 +21,7 @@
 <br>
 
 * [arbitrage patterns](patterns)
+* [arbitrage algorithms](algorithm)
 * [cool arb txs in the wild](mev_bots_wild)
 
 
