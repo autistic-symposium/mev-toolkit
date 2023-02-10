@@ -41,7 +41,7 @@
 * [backrunning](MEV_strategies/backrunning)
 * [sandwich](MEV_strategies/sandwich)
 * [longtails](MEV_strategies/longtails)
-* [jit liquidity](MEV_and_trading/uniswap/uniswap-v3/just-in-time.md)
+* [jit liquidity](MEV_and_trading/protocols/uniswap/uniswap-v3/just-in-time.md)
 * [liquidation](MEV_strategies/liquidations)
 * [flashloans](MEV_strategies/flashloans)
 * [sniping](MEV_strategies/sniping)
