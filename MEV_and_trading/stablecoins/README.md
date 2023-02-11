@@ -7,9 +7,9 @@
 <br>
 
 * [101](stablecoins_101.md)
-* [curve](Curve.md)
 * [dai](DAI.md)
 * [gho](GHO.md)
+* [curve](Curve)
 * [(rip) ust](UST.md)
 
 
@@ -28,6 +28,6 @@
 
 <br>
 
-* [stablecoins by the ef](https://ethereum.org/en/stablecoins/)
+* [stablecoins, by the ef](https://ethereum.org/en/stablecoins/)
 * [the rising of protocol native stablecoins, by easonwu](https://easonwu.substack.com/p/the-rise-of-protocol-native-stablecoins?utm_source=tldrnewsletter)
 
