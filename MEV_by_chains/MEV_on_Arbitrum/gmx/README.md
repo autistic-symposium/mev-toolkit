@@ -24,7 +24,7 @@
 
 * [tokenomics](tokenomics.md)
 * [oracle abuse](oracle_abuse.md)
-* [glp vaults](glp_vaults.md)
+* [delta neutral and vaults](glp_vaults.md)
 
 
 <br>
