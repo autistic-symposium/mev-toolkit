@@ -4,6 +4,8 @@
 
 ### tl, dr
 
+<br>
+
 * sandwiching occurs when a searcher identifies a profitable trade in the mempool that will cause an impact on the price of an asset.
 
 * a searcher buys or sells a calculated amount directly before the large trade is executed and then immediately exits their position after the large order has taken place, banking a profit.
@@ -21,6 +23,8 @@
 
 ### in this dir
 
+<br>
+
 * [interesting txs in the wild](interesting_examples.md)
 
 
@@ -29,6 +33,8 @@
 ---
 
 ### resources
+
+<br>
 
 * [defi sandwich attacks, by cmichel](https://cmichel.io/de-fi-sandwich-attacks/)
 * [anatomy of sandwichor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/sandwichors.md)
