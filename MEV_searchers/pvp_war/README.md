@@ -2,6 +2,10 @@
 
 <br>
 
+### cool stories
+
+<br>
+
 #### salmonella
 
 * exploited the generalised nature of front-running setups through an erc20 token that could detect when a non-owner is transacting it, returning just 10% of the amount.
@@ -34,3 +38,14 @@
 * [https://twitter.com/MevRefund/status/1580652170592280576](https://twitter.com/MevRefund/status/1580652170592280576)
 * [a list of malicious tokens](malicious_tokens.md)
 
+<br>
+
+
+----
+
+
+### resources
+
+<br>
+
+* [disasembling mev bots, by noxx](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9)
