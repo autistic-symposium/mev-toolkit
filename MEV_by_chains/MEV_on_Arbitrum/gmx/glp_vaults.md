@@ -1,8 +1,8 @@
-## glp vaults
+## delta neutral strategies and glp vaults
 
 <br>
 
-### tl; dr
+### vaults
 
 <br>
 
@@ -10,6 +10,16 @@
 * vaults can provide liquidity on gmx to collect yield from $GLP. they are also the counterparty to margin traders (benefiting from trader losses). 
 * vault should be backtested against months of real-world market data (including edge cases), usually with a baseline such as a standalone usdc vault
 * hedges are algorithmically rebalanced at regular intervals. hedging on gmx incurs fees for minting and burning of $GLP, opening and closing positions, and funding for open interest.
+
+<br>
+
+### delta neutral strategies
+
+<br>
+
+* delta neutral strategies offset volatility so that GLP owners win yields while also not having to worry about price changes.
+* this is usally achieved with shorting its underlying assets or hedging the positions, and the positions must be constantly changed based on the weight of the assets.
+
 
 <br>
 
@@ -24,6 +34,8 @@
 * the spread of hedged $GLP over $ETH is a good measure of $GLP's performance, and why a hedged strategy might be a better holding strategy that minimises volatility.
 
 <br>
+
+
 
 ### resources
 
