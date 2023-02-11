@@ -59,7 +59,7 @@
 * [mev on optimism](MEV_by_chains/MEV_on_Optimism)
 * [mev on solana](MEV_by_chains/MEV_on_Solana)
 * [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
-* [mev on binance](MEV_by_chains/MEV_on_Binance)
+* [mev on bsc chain](MEV_by_chains/MEV_on_BSC)
 * [mev on polygon](MEV_by_chains/MEV_on_Polygon)
 
 <br>
