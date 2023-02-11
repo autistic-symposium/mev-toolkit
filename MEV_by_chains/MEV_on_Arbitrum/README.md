@@ -6,7 +6,7 @@
 
 <br>
 
-* optimistic rollup
+* optimistic rollup, with no mempool for bots to frontrumm
 * currently has a centralized sequencer and whitelisted proof validation while having upgradable contracts
 
 <br>
