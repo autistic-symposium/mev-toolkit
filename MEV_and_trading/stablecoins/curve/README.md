@@ -31,6 +31,5 @@
 <br>
 
 * [curve stablecoin paper](https://github.com/curvefi/curve-stablecoin/blob/master/doc/curve-stablecoin.pdf)
-* [10M revenue drain in 5 months: mev impact on curve](https://medium.com/@eigenphi/10m-revenue-drain-in-5-months-mev-impact-on-curve-fd5214a0667)
 * [cleaning Up of the battlefield of avi and curve](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/MVIdkzGOWx70ap0uA9Nuh7GHXtO1jGopEaIeAK2coC8)
 * [curve mev report](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/iyBEOpngdSrVzlWjWf6eHVwOBuj2pEVxtbwyCNqlAyA)
