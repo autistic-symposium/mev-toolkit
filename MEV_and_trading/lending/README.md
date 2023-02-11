@@ -28,4 +28,5 @@
 
 <br>
 
+* [survey of defi lending](https://timroughgarden.github.io/fob21/reports/r5.pdf)
 * [leveraged lending, by defillama](https://defillama.com/yields/loop)
