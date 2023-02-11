@@ -36,15 +36,16 @@
 
 <br>
 
-* [arbitrage](MEV_strategies/arbitrage)
-* [frontrunning](MEV_strategies/frontrunning)
-* [backrunning](MEV_strategies/backrunning)
-* [sandwich](MEV_strategies/sandwich)
+
+* [sniping](MEV_strategies/sniping)
 * [longtails](MEV_strategies/longtails)
+* [arbitrage](MEV_strategies/arbitrage)
+* [sandwich](MEV_strategies/sandwich)
+* [flashloans](MEV_strategies/flashloans)
 * [jit liquidity](MEV_and_trading/protocols/uniswap/uniswap-v3/just-in-time.md)
 * [liquidation](MEV_strategies/liquidations)
-* [flashloans](MEV_strategies/flashloans)
-* [sniping](MEV_strategies/sniping)
+* [frontrunning](MEV_strategies/frontrunning)
+* [backrunning](MEV_strategies/backrunning)
 * [oracles and twamm](MEV_strategies/oracles)
 * [statistical approaches](MEV_strategies/statistical)
 
@@ -53,14 +54,15 @@
 
 ### mev on the chains
 
-* [mev on ethereum](MEV_by_chains/MEV_on_Ethereum)
-* [mev on avalanche](MEV_by_chains/MEV_on_Avalanche)
-* [mev on arbitrum](MEV_by_chains/MEV_on_Arbitrum)
-* [mev on optimism](MEV_by_chains/MEV_on_Optimism)
 * [mev on solana](MEV_by_chains/MEV_on_Solana)
 * [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
-* [mev on bsc chain](MEV_by_chains/MEV_on_BSC)
 * [mev on polygon](MEV_by_chains/MEV_on_Polygon)
+* [mev on arbitrum](MEV_by_chains/MEV_on_Arbitrum)
+* [mev on optimism](MEV_by_chains/MEV_on_Optimism)
+* [mev on ethereum](MEV_by_chains/MEV_on_Ethereum)
+* [mev on bsc chain](MEV_by_chains/MEV_on_BSC)
+* [mev on avalanche](MEV_by_chains/MEV_on_Avalanche)
+
 
 <br>
 
@@ -68,15 +70,13 @@
 
 <br>
 
-* [build your mev bot](MEV_searchers)
-* [exclusive order flows](MEV_searchers/private_order_flows)
-* [latency optimization](MEV_searchers/latency)
-* [cross-domain mev](MEV_searchers/cross_domain_mev)
 * [pvp battles](MEV_searchers/pvp_war)
 * [mev projects](MEV_projects)
 * [defi and trading](MEV_and_trading)
-
-
+* [build your mev bot](MEV_searchers)
+* [cross-domain mev](MEV_searchers/cross_domain_mev)
+* [latency optimization](MEV_searchers/latency)
+* [exclusive order flows](MEV_searchers/private_order_flows)
 
 <br>
 
@@ -94,24 +94,27 @@
 <br>
 
 
-* [ethtx transaction decoder](https://ethtx.info/)
-* [public mev explorer, by metablock](https://metablock.dev/tools/mev/)
-* [mev dashboard, by metablock](https://mev.metablock.dev/1/dashboard)
-* [bundle explorer, by flashbots](https://flashbots-explorer.marto.lol/)
-* [zero mev, by pmcgoohan](https://www.zeromev.org/)
 * [bloxy, by bitquey](https://bloxy.info/)
-* [ethvm ethereum explorer](https://www.ethvm.com/)
-* [txn finance, by band protocol](https://txn.finance/)
 * [tx.eth.samczsun.com](https://tx.eth.samczsun.com/)
-* [ethereum token explorer, by diem](https://ethplorer.io/)
-* [explorer and txs, by anyblock](https://explorer.anyblock.tools/)
-* [mev explorer, by eigenphi](https://www.eigenphi.io/)
-* [block explorer, by blockscout](https://blockscout.com/eth/mainnet/)
-* [block explorer, by blockchair](https://blockchair.com/ethereum)
-* [block and tokens explorer, by oklink](https://www.oklink.com/en/eth)
 * [tx explorer, by blocksec](https://phalcon.blocksec.com/)
-* [address explorer, by breadcrumbs](https://www.breadcrumbs.app/home)
+* [zero mev, by pmcgoohan](https://www.zeromev.org/)
+* [ethvm ethereum explorer](https://www.ethvm.com/)
+* [mev explorer, by eigenphi](https://www.eigenphi.io/)
 * [signature database import](https://openchain.xyz/signatures)
+* [ethtx transaction decoder](https://ethtx.info/)
+* [abi for unverified contracts](https://abi.w1nt3r.xyz/)
+* [bundle explorer, by flashbots](https://flashbots-explorer.marto.lol/)
+* [explorer and txs, by anyblock](https://explorer.anyblock.tools/)
+* [txn finance, by band protocol](https://txn.finance/)
+* [block explorer, by blockchair](https://blockchair.com/ethereum)
+* [block explorer, by blockscout](https://blockscout.com/eth/mainnet/)
+* [mev dashboard, by metablock](https://mev.metablock.dev/1/dashboard)
+* [ethereum signature database](https://www.4byte.directory/)
+* [address explorer, by breadcrumbs](https://www.breadcrumbs.app/home)
+* [ethereum token explorer, by diem](https://ethplorer.io/)
+* [public mev explorer, by metablock](https://metablock.dev/tools/mev/)
+* [block and tokens explorer, by oklink](https://www.oklink.com/en/eth)
+
 
 
 
@@ -121,31 +124,34 @@
 
 <br>
 
-* [mev dashboard, by flashbots](https://explore.flashbots.net/).
-* [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
-* [mev live-stream, by eigenphi](https://eigenphi.io/)
+* [parsec.finance](https://parsec.finance/)
+* [token terminal](https://tokenterminal.com/terminal)
+* [nansen analytics](https://www.nansen.ai/)
 * [flashloans, by blocksec](https://tools.blocksec.com/flashloan/eth)
-* [sandwiched?](https://sandwiched.wtf/)
 * [etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
+* [mev live-stream, by eigenphi](https://eigenphi.io/)
+* [mev dashboard, by flashbots](https://explore.flashbots.net/)
 * [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
 * [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
-* [parsec.finance](https://parsec.finance/)
-* [nansen analytics](https://www.nansen.ai/)
-* [token terminal](https://tokenterminal.com/terminal)
+* [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
 
 
 
 ##### dune boards
 
-* [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
-* [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
-* [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
-* [mev flashbots unleashed](https://dune.com/ivanmolto/mev-flashbots-unleashed)
-* [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
-* [flashbots data for extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
 * [solana mev data](https://dune.com/chorus_one_research/solana-mev-data)
 * [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
+* [mev flashbots unleashed](https://dune.com/ivanmolto/mev-flashbots-unleashed)
 * [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
+* [flashbots data for extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
+* [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
+* [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
+* [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
+* [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
+
+
+
+
 
 
 <br>
@@ -156,46 +162,44 @@
 
 <br>
 
-* [abi for unverified contracts](https://abi.w1nt3r.xyz/)
-* [calldata decoder](https://tools.deth.net/calldata-decoder)
-* [eth converter](https://eth-converter.com/)
-* [smart contract allowance checker](https://app.unrekt.net/)
-* [tornado cash pool anonymity](https://tutela.xyz/)
-* [eth detective](https://www.ethtective.com/address/)
-* [contracts diff checker](https://etherscan.io/contractdiffchecker)
-* [ultrasound money dashboard](https://ultrasound.money/)
-* [revoke.cash](https://revoke.cash/)
-* [ankr rpc endpoints](https://www.ankr.com/rpc/)
-* [back run me](https://backrunme.com/swap)
-* [ethereum signature database](https://www.4byte.directory/)
-* [source of deployed ethereum contracts in vscode](https://github.com/dethcrypto/dethcode)
-* [token security detector](https://gopluslabs.io/token-security/)
-* [whatsabi: guess an abi for ethereum contracts](https://github.com/shazow/whatsabi)
 * [dapp.tools](https://dapp.tools/)
+* [back run me](https://backrunme.com/swap)
+* [revoke.cash](https://revoke.cash/)
+* [eth detective](https://www.ethtective.com/address/)
+* [eth converter](https://eth-converter.com/)
+* [calldata decoder](https://tools.deth.net/calldata-decoder)
+* [ankr rpc endpoints](https://www.ankr.com/rpc/)
+* [contracts diff checker](https://etherscan.io/contractdiffchecker)
+* [token security detector](https://gopluslabs.io/token-security/)
+* [ultrasound money dashboard](https://ultrasound.money/)
+* [smart contract allowance checker](https://app.unrekt.net/)
+* [whatsabi: guess an abi for ethereum contracts](https://github.com/shazow/whatsabi)
+* [source of deployed ethereum contracts in vscode](https://github.com/dethcrypto/dethcode)
 
 
 ##### gas trackers
 
 
-* [eth gas alert](https://ethgasalerts.xyz/)
+* [gastrology](https://dethgasstation.eth.link/)
 * [gas price io](https://www.gasprice.io/)
-* [ethereum gas tracker](https://www.useweb3.xyz/gas)
+* [eth gas alert](https://ethgasalerts.xyz/)
 * [nansei gas tracker](https://pro.nansen.ai/gas-tracker)
 * [gas fee prediction](https://www.blocknative.com/gas-estimator)
-* [gastrology](https://dethgasstation.eth.link/)
+* [ethereum gas tracker](https://www.useweb3.xyz/gas)
 
 
 
 ##### news and alerts 
 
-* [eigenphi mirror](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34)
-* [flashbots discourse](https://collective.flashbots.net/)
-* [mevboost bot](https://twitter.com/MevBoostBot)
-* [mevrefund bot](https://twitter.com/MevRefund)
+
 * [highgwei bot](https://twitter.com/HighGwei)
-* [mev proposer bot](https://twitter.com/mevproposerbot)
 * [eigenphi bot](https://twitter.com/EigenPhi_Alert)
 * [mevwatch bot](https://twitter.com/mevwatchbot)
+* [mevboost bot](https://twitter.com/MevBoostBot)
+* [mevrefund bot](https://twitter.com/MevRefund)
+* [eigenphi mirror](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34)
+* [mev proposer bot](https://twitter.com/mevproposerbot)
+* [flashbots discourse](https://collective.flashbots.net/)
 
 
 
@@ -204,32 +208,27 @@
 
 ---
 
-## 🍿 general readings
+## 🍿 canonical readings
 
 <br>
 
-- [foundations of blockchains and mev, by tim roughgarden](https://timroughgarden.github.io/fob21/)
-- [the 0 to 1 guide to mev, by blockchain at berkeley](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
-- [ethereum is a dark forest, by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
-- [escaping the dark forest, by samczsun](https://samczsun.com/escaping-the-dark-forest/)
-- [how to build an ethereum mining pool, by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
+
 - [mev and me, by paradigm](https://research.paradigm.xyz/MEV)
 - [return to the dark forest, by rekt](https://rekt.news/return-to-the-dark-forest/)
-- [modern mev sandwich attacks, by totlsota](https://mirror.xyz/totlsota.eth/9JaNkZ1XQfQD6Y79aLYHC_kb_dSBoJ2JYiag5BuGGM8)
-- [how i learned to stop worrying and love mev, by sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
-- [how to light up the dark forest, by robert miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
 - [hiding in plain sight, by samczsun](https://samczsun.com/hiding-in-plain-sight/)
 - [we live in a mempool, by tom schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
+- [escaping the dark forest, by samczsun](https://samczsun.com/escaping-the-dark-forest/)
+- [ethereum is a dark forest, by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
+- [how to light up the dark forest, by robert miller](https://writings.flashbots.net/writings/the-anatomy-of-an-inspector/)
+- [the 0 to 1 guide to mev, by blockchain at berkeley](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
+- [how to build an ethereum mining pool, by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
+- [how i learned to stop worrying and love mev, by sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
+- [the enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [wrecking sandwich traders for fun and profit, by n. worsley](https://github.com/Defi-Cartel/salmonella)
+- [foundations of blockchains and mev, by tim roughgarden](https://timroughgarden.github.io/fob21/)
 - [tricking frontrunners into being transaction relayers, by sankar4033](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
-- [The enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
-- [anatomy of an mev strategy: synthetix, by robert miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html)
-- [mev wat to do, by phill daian](https://pdaian.com/blog/mev-wat-do/)
-- [mev: the first 5 years](https://medium.com/@Prestwich/mev-c417d9a5eb3d) and [mev: the next 5 years](https://medium.com/@Prestwich/mev-the-next-five-years-63f84fffdf36), by james prestwich
-- [mev-boost, relays, self-sovereignty, by dr. m. von steinkirch](https://mirror.xyz/steinkirch.eth/Xo_5rIpRQpFOC__kYfjLJVOFwlSZH2n8tUnHoXo6VyI)
 - [implementing ethereum trading front-runs on the bancor exchange, by ivan bogatyy](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
-- [mev on l2s, by ha et. al](https://timroughgarden.github.io/fob21/reports/r11.pdf)
-- [endgame, by vitalik](https://vitalik.ca/general/2021/12/06/endgame.html)
+
 
 
 
@@ -240,15 +239,17 @@
 
 <br>
 
+* [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
+* [mev.day amsterdam 2022](https://mevday.org/)
 * [mev research, by eigenphi](https://www.eigenphi.io/mev/research)
 * [mev wiki, by automata network](https://www.mev.wiki/)
 * [mev extraction strategies, by r. miller](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g124f588a727_0_51)
 * [mev auction, by the ethereum foundation](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
-* [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
-* [mev.day amsterdam 2022](https://mevday.org/)
 * [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
 * [mempool privacy research list, by a. obadia](https://collective.flashbots.net/t/bookmarks-relevant-for-mempool-privacy-researchers/1091)
-* [cyph3rs.xyz](https://www.cyph3rs.xyz/)
+
+
+
 
 <br>
 
@@ -256,16 +257,17 @@
 
 <br>
 
-- [flash boys 2.0: frontrunning, transaction reordering, and consensus instability, by philip daian et al.](https://arxiv.org/pdf/1904.05234.pdf)
-- [towards a theory of mev I, by diamandis et al.](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
-- [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al.](https://arxiv.org/pdf/1902.05164.pdf)
+- [flash boys 2.0, by p. daian et al.](https://arxiv.org/pdf/1904.05234.pdf)
 - [combining ghost and casper, by vitalik et al.](https://arxiv.org/abs/2003.03052)
-- [three attacks on pos ethereum, by caspar schwarz-schilling et al.](https://arxiv.org/abs/2110.10086)
-- [two attacks on pos ghost/ethereum, by joachim neu et al.](https://arxiv.org/abs/2203.01315)
-- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin et al.](https://arxiv.org/pdf/2101.05511.pdf)
-- [dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
-- [censorship resistance in on-chain auctions, by m. pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
+- [towards a theory of mev I, by diamandis et al.](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [mev on ethereum: a policy analysis, by m. barczentewicz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332703)
+- [two attacks on pos ghost/ethereum, by joachim neu et al.](https://arxiv.org/abs/2203.01315)
+- [censorship resistance in on-chain auctions, by m. pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
+- [three attacks on pos ethereum, by caspar schwarz-schilling et al.](https://arxiv.org/abs/2110.10086)
+- [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin et al.](https://arxiv.org/pdf/2101.05511.pdf)
+- [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al.](https://arxiv.org/pdf/1902.05164.pdf)
+
+
 
 
 
@@ -279,13 +281,13 @@
 
 <br>
 
-* [a graduate course in applied cryptography, by dan boneh](http://toc.cryptobook.us/)
-* [the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
-* [the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
-* [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
-* [the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-* [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
 * [teal organizations wiki](https://reinventingorganizationswiki.com/)
+* [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
+* [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
+* [the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+* [the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
+* [a graduate course in applied cryptography, by dan boneh](http://toc.cryptobook.us/)
 
 <br>
 <br>
