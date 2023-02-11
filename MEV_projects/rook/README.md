@@ -18,7 +18,8 @@
 
 <br>
 
-* [KeeperDAO analytics](https://github.com/keeperdao/analytics)
+* [keeperdao original post](https://medium.com/keeperdao/introducing-keeperdao-an-on-chain-liquidity-underwriter-dbb63731f4a5)
+* [keeperdao analytics](https://github.com/keeperdao/analytics)
 * [Keeper Improvement Proposals (KIPs)](https://github.com/keeperdao/kips)
 * [KD UniV3 Challenge](https://github.com/keeperdao/solidity-challenge-2)
 * [Security audits docs](https://github.com/keeperdao/docs/tree/master/audits)
