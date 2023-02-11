@@ -30,6 +30,7 @@
 
 ### resources
 
+* [defi sandwich attacks, by cmichel](https://cmichel.io/de-fi-sandwich-attacks/)
 * [anatomy of sandwichor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/sandwichors.md)
 * [sandwich attacks on uniswap v2](https://www.defi-sandwi.ch/)
 * [sandwich overview, by eigenphi](https://eigenphi.io/mev/ethereum/sandwich)
