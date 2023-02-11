@@ -48,4 +48,4 @@
 
 <br>
 
-* [disasembling mev bots, by noxx](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9)
+* [disassembling mev bots, by noxx](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9)
