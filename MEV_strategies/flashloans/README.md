@@ -18,6 +18,7 @@
 
 <br>
 
+* [lending](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_and_trading/lending/README.md)
 * [smart contracts](smart_contracts)
 
 <br>
