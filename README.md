@@ -89,7 +89,7 @@
 
 <br>
 
-### tx and signature explorers
+### tx && signature explorers
 
 <br>
 
