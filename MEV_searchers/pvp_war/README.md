@@ -36,7 +36,7 @@
 * [https://twitter.com/BlockSecTeam/status/1580779311862190080](https://twitter.com/BlockSecTeam/status/1580779311862190080)
 * [https://twitter.com/MevRefund/status/1537421091697836032](https://twitter.com/MevRefund/status/1537421091697836032)
 * [https://twitter.com/MevRefund/status/1580652170592280576](https://twitter.com/MevRefund/status/1580652170592280576)
-* [a list of malicious tokens](malicious_tokens.md)
+* [a list of malicious tokens](malicious_tokens.md)[https://github.com/kailinr/cyanide]
 
 <br>
 
@@ -49,3 +49,4 @@
 <br>
 
 * [disassembling mev bots, by noxx](https://noxx.substack.com/p/mev-memoirs-into-the-arena-chapter-3e9)
+* [toxic tokens contracts (salmonella derivatives)
