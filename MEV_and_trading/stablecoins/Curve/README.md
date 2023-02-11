@@ -19,7 +19,7 @@
 
 <br>
 
-* [curve wars](curve_wars)
+* [curve wars](curve_wars.md)
 
 <br>
 
