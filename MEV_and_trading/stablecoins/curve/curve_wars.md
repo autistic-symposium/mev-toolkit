@@ -2,6 +2,12 @@
 
 <br>
 
+---
+
+### 2022
+
+<br>
+
 * veToken model allows users to lock CRV for up 4 years, receive admin fees (paid in stables), and allows them to vote for CRV emissions for the pool.
 * protocols seeking liquidity have the option to bribe ve CRV holders to stream CRV emissions to their pools (nother source of revenue besides admin fees).
 * since locking CRV for 4 years is not very attractive for holders, introduce liquid wrappers: cvxCRV, sdCRV, yCRV.
