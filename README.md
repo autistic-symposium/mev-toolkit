@@ -45,7 +45,7 @@
 * [liquidation](MEV_strategies/liquidations)
 * [flashloans](MEV_strategies/flashloans)
 * [sniping](MEV_strategies/sniping)
-* [oracles](MEV_strategies/oracles)
+* [oracles and twamm](MEV_strategies/oracles)
 * [statistical](MEV_strategies/statistical)
 
 
