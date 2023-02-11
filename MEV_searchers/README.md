@@ -20,7 +20,7 @@
 * [statistical arbers](bots/stat-arbers.md) 
 
 
-###### resources
+##### resources
 
 * [pvp battles](pvp_war)
 * [101 bots (get started)](bots/101.md)
