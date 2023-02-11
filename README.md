@@ -46,7 +46,7 @@
 * [flashloans](MEV_strategies/flashloans)
 * [sniping](MEV_strategies/sniping)
 * [oracles and twamm](MEV_strategies/oracles)
-* [statistical](MEV_strategies/statistical)
+* [statistical approaches](MEV_strategies/statistical)
 
 
 <br>
