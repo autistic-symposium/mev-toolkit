@@ -70,7 +70,6 @@
 
 <br>
 
-* [pvp battles](MEV_searchers/pvp_war)
 * [mev projects](MEV_projects)
 * [defi and trading](MEV_and_trading)
 * [build your mev bot](MEV_searchers)
