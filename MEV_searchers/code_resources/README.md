@@ -27,4 +27,5 @@
 * [resources for gas optimization](https://github.com/go-outside-labs/web3-solidity/blob/main/saving_gas/README.md)
 * [contract and typescript library for static multi-calls](https://github.com/indexed-finance/multicall)
 * [ggregate multiple constant function call results into one](https://github.com/makerdao/multicall)
+* [`trace_call` RPC method](https://www.quicknode.com/docs/ethereum/trace_call)
 
