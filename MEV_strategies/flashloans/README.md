@@ -42,4 +42,5 @@
 * [0xbaDc0dE dydx flashloan mistake](https://twitter.com/bertcmiller/status/1574852629691305993)
 * [flashloan comparisons in foundry](https://github.com/Jeiwan/flash-loans-comparison)
 * [flashloan toolbox](https://github.com/Supercycled/flashloans-toolbox)
-
+* [sugardad (aave v2)](https://github.com/fifikobayashi/SugarDaddyFlashloan)
+* [dydx and aave aggregate](https://github.com/fifikobayashi/Aggregated-Flashloan)
