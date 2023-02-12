@@ -28,7 +28,7 @@
 
 ---
 
-## 🍕 notes && code in this repo
+## 🏄🏽 resources && code
 
 <br>
 
@@ -74,144 +74,23 @@
 * [defi and trading](MEV_and_trading)
 * [build your mev bot](MEV_searchers)
 * [cross-domain mev](MEV_searchers/cross_domain_mev)
+* [data and analytics](MEV_searchers/data_and_analytics)
 * [latency optimization](MEV_searchers/latency)
 * [exclusive order flows](MEV_searchers/private_order_flows)
-
-<br>
-
-
-
----
-
-## 🍟 seacher tools
-
-
-<br>
-
-### tx && signature explorers
-
-<br>
-
-
-* [bloxy, by bitquey](https://bloxy.info/)
-* [tx.eth.samczsun.com](https://tx.eth.samczsun.com/)
-* [tx explorer, by blocksec](https://phalcon.blocksec.com/)
-* [zero mev, by pmcgoohan](https://www.zeromev.org/)
-* [ethvm ethereum explorer](https://www.ethvm.com/)
-* [mev explorer, by eigenphi](https://www.eigenphi.io/)
-* [signature database import](https://openchain.xyz/signatures)
-* [ethtx transaction decoder](https://ethtx.info/)
-* [abi for unverified contracts](https://abi.w1nt3r.xyz/)
-* [bundle explorer, by flashbots](https://flashbots-explorer.marto.lol/)
-* [explorer and txs, by anyblock](https://explorer.anyblock.tools/)
-* [txn finance, by band protocol](https://txn.finance/)
-* [block explorer, by blockchair](https://blockchair.com/ethereum)
-* [block explorer, by blockscout](https://blockscout.com/eth/mainnet/)
-* [mev dashboard, by metablock](https://mev.metablock.dev/1/dashboard)
-* [ethereum signature database](https://www.4byte.directory/)
-* [address explorer, by breadcrumbs](https://www.breadcrumbs.app/home)
-* [ethereum token explorer, by diem](https://ethplorer.io/)
-* [public mev explorer, by metablock](https://metablock.dev/tools/mev/)
-* [block and tokens explorer, by oklink](https://www.oklink.com/en/eth)
-
-
-
-
-<br>
-
-### data && analytics
-
-<br>
-
-* [parsec.finance](https://parsec.finance/)
-* [token terminal](https://tokenterminal.com/terminal)
-* [nansen analytics](https://www.nansen.ai/)
-* [flashloans, by blocksec](https://tools.blocksec.com/flashloan/eth)
-* [etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
-* [mev live-stream, by eigenphi](https://eigenphi.io/)
-* [mev dashboard, by flashbots](https://explore.flashbots.net/)
-* [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
-* [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
-* [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
-
-
-
-##### dune boards
-
-* [solana mev data](https://dune.com/chorus_one_research/solana-mev-data)
-* [ethereum tx reverts](https://dune.com/kroeger0x/ethereum-transaction-reverts)
-* [mev flashbots unleashed](https://dune.com/ivanmolto/mev-flashbots-unleashed)
-* [dune board for gas prices](https://dune.com/kroeger0x/gas-prices)
-* [flashbots data for extracted good mev](https://dune.com/chorus_one/ethereum-mev-data)
-* [sleuthing hashed function and event signatures](https://dune.com/agaperste/event-and-function-signature-sleuthing?)
-* [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
-* [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
-* [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
-
-
-
-
-
-
-<br>
-
-
-
-### other resources 
-
-<br>
-
-* [dapp.tools](https://dapp.tools/)
-* [back run me](https://backrunme.com/swap)
-* [revoke.cash](https://revoke.cash/)
-* [eth detective](https://www.ethtective.com/address/)
-* [eth converter](https://eth-converter.com/)
-* [calldata decoder](https://tools.deth.net/calldata-decoder)
-* [ankr rpc endpoints](https://www.ankr.com/rpc/)
-* [contracts diff checker](https://etherscan.io/contractdiffchecker)
-* [token security detector](https://gopluslabs.io/token-security/)
-* [ultrasound money dashboard](https://ultrasound.money/)
-* [smart contract allowance checker](https://app.unrekt.net/)
-* [whatsabi: guess an abi for ethereum contracts](https://github.com/shazow/whatsabi)
-* [source of deployed ethereum contracts in vscode](https://github.com/dethcrypto/dethcode)
-
-
-##### gas trackers
-
-
-* [gastrology](https://dethgasstation.eth.link/)
-* [gas price io](https://www.gasprice.io/)
-* [eth gas alert](https://ethgasalerts.xyz/)
-* [nansei gas tracker](https://pro.nansen.ai/gas-tracker)
-* [gas fee prediction](https://www.blocknative.com/gas-estimator)
-* [ethereum gas tracker](https://www.useweb3.xyz/gas)
-
-
-
-##### news and alerts 
-
-
-* [highgwei bot](https://twitter.com/HighGwei)
-* [eigenphi bot](https://twitter.com/EigenPhi_Alert)
-* [mevwatch bot](https://twitter.com/mevwatchbot)
-* [mevboost bot](https://twitter.com/MevBoostBot)
-* [mevrefund bot](https://twitter.com/MevRefund)
-* [eigenphi mirror](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34)
-* [mev proposer bot](https://twitter.com/mevproposerbot)
-* [flashbots discourse](https://collective.flashbots.net/)
-
-
+* [mempools monitoring](MEV_searchers/mempool_monitoring)
+* [tx and signature explorers](MEV_searchers/tx_and_signature_explorers)
 
 <br>
 
 
 ---
 
-## 🍿 canonical readings
+## 🏂 canonical readings
 
 <br>
 
 
+- [flash boys 2.0, by p. daian et al.](https://arxiv.org/pdf/1904.05234.pdf)
 - [mev and me, by paradigm](https://research.paradigm.xyz/MEV)
 - [return to the dark forest, by rekt](https://rekt.news/return-to-the-dark-forest/)
 - [hiding in plain sight, by samczsun](https://samczsun.com/hiding-in-plain-sight/)
@@ -227,42 +106,9 @@
 - [foundations of blockchains and mev, by tim roughgarden](https://timroughgarden.github.io/fob21/)
 - [tricking frontrunners into being transaction relayers, by sankar4033](https://ethresear.ch/t/surrogeth-tricking-frontrunners-into-being-transaction-relayers/6937/1)
 - [implementing ethereum trading front-runs on the bancor exchange, by ivan bogatyy](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
-
-
-
-
-<br>
-
-
-### ideas and wikis
-
-<br>
-
-* [the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)
-* [mev.day amsterdam 2022](https://mevday.org/)
-* [mev research, by eigenphi](https://www.eigenphi.io/mev/research)
-* [mev wiki, by automata network](https://www.mev.wiki/)
-* [mev extraction strategies, by r. miller](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g124f588a727_0_51)
-* [mev auction, by the ethereum foundation](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
-* [cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)
-* [mempool privacy research list, by a. obadia](https://collective.flashbots.net/t/bookmarks-relevant-for-mempool-privacy-researchers/1091)
-
-
-
-
-<br>
-
-### research papers
-
-<br>
-
-- [flash boys 2.0, by p. daian et al.](https://arxiv.org/pdf/1904.05234.pdf)
-- [combining ghost and casper, by vitalik et al.](https://arxiv.org/abs/2003.03052)
 - [towards a theory of mev I, by diamandis et al.](https://people.eecs.berkeley.edu/~ksk/files/MEV_CFMM.pdf)
 - [mev on ethereum: a policy analysis, by m. barczentewicz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332703)
-- [two attacks on pos ghost/ethereum, by joachim neu et al.](https://arxiv.org/abs/2203.01315)
 - [censorship resistance in on-chain auctions, by m. pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
-- [three attacks on pos ethereum, by caspar schwarz-schilling et al.](https://arxiv.org/abs/2110.10086)
 - [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin et al.](https://arxiv.org/pdf/2101.05511.pdf)
 - [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al.](https://arxiv.org/pdf/1902.05164.pdf)
 
@@ -276,7 +122,7 @@
 ---
 
 
-## 🌭 [bonus] 𝕥𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
+## ⛷ [bonus] 𝕥𝕙𝕖 𝕞𝕒𝕜𝕖 𝕠𝕗 𝕒 𝕔𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜
 
 <br>
 
