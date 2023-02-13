@@ -6,17 +6,26 @@
 
 <br>
 
-* decentralized spot and perpetual futures exchange, built on arbitrum and avalanche, with low swap fees and zero price impact trades (large trades are set at the mark price).
-* gmx enables traders to open up to 50x leveraged long or short positions via borrowing from a multi-asset pool known as [$GLP](https://gmxio.gitbook.io/gmx/glp) ($BTC, $ETH, $UNI, $LINK, and stablecoins), that earns lp fees through market making, swap fees, leverage trading, and asset rebalancing).
-* $GLPs function as the counterparty, as it accrues values when traders loses, and devalues when traders win. $GLP accrues 70% of all trading fees, while stakers of the protocol governance token, earn 30%. $GLP is also emerging as a form of collateral, with lending protocols integrating the LP token into their product offerings.
-* native token $GMX functions as a governance, utility, and value-accrual token. all collected fees for the $GMX fee pool, which issues fee rewards (e.g., ETH/AVAX).
-* a floor price fund helps ensure liquidity in the $GLP pool, plus a reliable stream of $ETH rewards for $GMX stakers.
-* protocol's revenues come from: swap fees, trading fees, execution fees, liquidation fees, and borrow fees. protocol risks: liquidity risks, market/oracle manipulation, centralization risk, scalability risk.
-* liquidation price: when (collateral - losses - borrow fee) is less than 1% of position's size. 
-* the cost to open / close a position is 0.1% of the position size. long positions are opened at the higher price and closed at the lower price, short positions are opened at the lower price and closed at the higher price.
-* in sideways to downtrending markets, $GLP tend to out perform directional assets, though in up trending markets, it will tend to under perform directional assets. this makes $GLP a very good holding in bear markets.
+
+
+* gmx is a decentralized spot and perpetual futures exchange built on arbitrum and avalanche chains. it exploded after the ftx fall, and just this week it seems to have become the top defi project on fee profit, and one of the top projects by fee and revenue in defillama. they are winning by offering perks such as no slippage, low swap fees, and zero price impact trades (i.e., large trades are set at the mark price).
+
+* gmx offers zero slippage on trades via an oracle price update system (chainlink + aggregate of prices from leading volume exchanges), while amms rely on arb bots to balance prices in the pools.
+
+* gmx’s swap trades are performed based on a combination of two oracles:
+  - the primary oracle is fed by chainlink, and it takes the last three samples (picking the worst price for the user).
+  - the secondary oracle is the “fast price feed”, which overrides the price whenever it is within 2.5% of the primary oracle price value.
+
+* gmx enables traders to open up to 50x leverage swaps for long or short positions by borrowing from glp, a multi-asset pool containing $btc, $eth, $uni, $link, and stablecoins. the vault allows swapping of the tokens it holds. funds are deposited into the vault by minting glp tokens and can be withdrawn by burning these tokens. glp works as the counterparty in the protocol, as it accrues values when traders loses, and devalues when traders win. glp is also emerging as a form of collateral, with lending protocols integrating this liquidity provider token into their product offerings (e.g., rage, unami, sentiment).
+
+* gmx’s native token, $gmx, functions as a governance, utility, and value-accrual token. glp accrues 70% of all trading fees, while stakers of gmx earn 30%. a floor price fund helps ensure liquidity in the glp pool, plus a reliable stream of $eth rewards for $gmx stakers.
+
+* the protocol's revenues come from swap fees, trading fees, execution fees, liquidation fees, and borrow fees.
+
 
 <br>
+
+----
 
 ### in this dir
 
