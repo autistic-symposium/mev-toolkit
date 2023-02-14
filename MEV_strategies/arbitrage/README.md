@@ -7,8 +7,10 @@
 <br>
 
 
-* in tradefi, arbitrage refers to buying something in one venue and selling it in another (through a series of intermediate transactions) for a higher price. this is note risk-free as prices can move mid-transaction.
-due to the nature of the evm's atomic execution, **atomic arbitrages** are possible (as opposed to tradefi): smart contracts allow the packaging a sequential execution of txs, for a set of conditions. if the conditions are not met, the execution can fail, undoing all the on-chain interactions that just occurred.
+* in **tradefi**, arbitrage refers to buying something in one venue and selling it in another (through a series of intermediate transactions) for a higher price. this is note risk-free as prices can move mid-transaction.
+
+* due to the nature of the evm's atomic execution, **atomic arbitrages** are possible (as opposed to tradefi): smart contracts allow the packaging a sequential execution of txs, for a set of conditions. if the conditions are not met, the execution can fail, undoing all the on-chain interactions that just occurred.
+
 * since **liquidity on-chain is fragmented** (thousands of pools don't communicate with each other, each providing quotes for swapping assets in real-time), it creates an opportunity to buy low and sell high across different pools. for example, two DEXes offer a token at two different prices so that a token can be bought at the lower-priced DEX and sold on the higher-priced DEX in a single atomic transaction.
 * **non-atomic (cross-chain, CEX/DEX, etc.) arb** are more profitable and less accessible due to capital requirements and risk profile.
 
@@ -29,7 +31,7 @@ due to the nature of the evm's atomic execution, **atomic arbitrages** are possi
 
 ----
 
-### resources
+### links
 
 <br>
 
