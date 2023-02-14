@@ -13,6 +13,15 @@
 
 ---
 
-### resources
+### in this dir
+
+<br>
+
+
+<br>
+
+---
+
+### links
 
 * [anatomy of longtailor bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/longtailors.md)
