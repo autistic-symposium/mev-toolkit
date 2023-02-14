@@ -19,11 +19,13 @@
 
 <br>
 
+---
+
 ### in this dir
 
 <br>
 
-* [tricks](tricks)
+* [tricks](tricks.md)
 
 <br>
 
