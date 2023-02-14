@@ -19,7 +19,7 @@
 
 <br>
 
-* [tricks](tricks)
+* [tricks](tricks.md)
 
 <br>
 
