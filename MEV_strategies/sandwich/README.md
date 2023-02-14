@@ -6,7 +6,7 @@
 
 <br>
 
-* sandwiching occurs when a searcher identifies a profitable trade in the mempool that will cause an impact on the price of an asset.
+* **sandwich attacks** occurs when a searcher identifies a profitable trade in the mempool that will cause an impact on the price of an asset.
 
 * a searcher buys or sells a calculated amount directly before the large trade is executed and then immediately exits their position after the large order has taken place, banking a profit.
 
@@ -32,7 +32,7 @@
 
 ---
 
-### resources
+### links
 
 <br>
 
