@@ -36,7 +36,7 @@
 
 <br>
 
-##### atomic (ordering)
+##### atomic (tx ordering)
 
 * [sniping](MEV_strategies/sniping)
 * [longtails](MEV_strategies/longtails)
@@ -49,9 +49,8 @@
 * [backrunning](MEV_strategies/backrunning)
 
 
-##### statistical (signal)
+##### statistical (informed signal)
 
-* [stat methods](MEV_strategies/stat_methods)
 * [statistical arbs](MEV_strategies/stat_arb)
 * [oracles and twamm](MEV_strategies/oracles)
 

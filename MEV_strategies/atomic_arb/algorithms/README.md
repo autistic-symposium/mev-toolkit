@@ -1,4 +1,4 @@
-## arbitrage algorithms
+## arbitrage algorithms (tx-ordering based)
 
 <br>
 

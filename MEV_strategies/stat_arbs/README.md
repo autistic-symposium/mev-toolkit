@@ -1,8 +1,16 @@
-## statistical strategies
+## statistical strategies (signal-based)
 
 <br>
 
 ### tl; dr
+
+<br>
+
+
+* **statistical arbs** (non-atomic) convey informed strategies that rely on informed information (signal). examples can be arbs that rely on cross-chain or CEX + DEX strategies. 
+
+* these strategies are more profitable and less accessible due to capital requirements and risk profile.
+
 
 
 <br>
