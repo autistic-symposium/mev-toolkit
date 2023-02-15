@@ -36,18 +36,25 @@
 
 <br>
 
+##### atomic (ordering)
 
 * [sniping](MEV_strategies/sniping)
 * [longtails](MEV_strategies/longtails)
-* [arbitrage](MEV_strategies/arbitrage)
-* [sandwich](MEV_strategies/sandwich)
+* [atomic arbs](MEV_strategies/atomic_arb)
+* [sandwiches](MEV_strategies/sandwich)
 * [flashloans](MEV_strategies/flashloans)
 * [jit liquidity](MEV_and_trading/protocols/uniswap/uniswap-v3/just-in-time.md)
-* [liquidation](MEV_strategies/liquidations)
+* [liquidations](MEV_strategies/liquidations)
 * [frontrunning](MEV_strategies/frontrunning)
 * [backrunning](MEV_strategies/backrunning)
+
+
+##### statistical (signal)
+
+* [stat methods](MEV_strategies/stat_methods)
+* [statistical arbs](MEV_strategies/stat_arb)
 * [oracles and twamm](MEV_strategies/oracles)
-* [statistical approaches](MEV_strategies/statistical)
+
 
 
 <br>
