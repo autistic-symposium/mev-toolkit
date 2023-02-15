@@ -18,6 +18,7 @@
 * [50+ whale wallets, by thorHhrtvigsen](https://twitter.com/ThorHartvigsen/status/1622632955939287043)
 * [list of whale wallets, by debank](https://debank.com/whales)
 * [smart money watchlist, by nansen](https://pro.nansen.ai/smart-money)
+* [coingator whale wallets, by go outside labs](https://github.com/go-outside-labs/searcher-coingator-rs/blob/main/data/whales.txt)
 
 
 <br>
