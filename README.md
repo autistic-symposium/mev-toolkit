@@ -51,9 +51,12 @@
 
 ##### statistical (informed signal)
 
-* [statistical arbs](MEV_strategies/stat_arbs)
-* [oracles and twamm](MEV_strategies/oracles)
 
+* [statistical arbs](MEV_strategies/stat_arbs)
+* [defi and trading](MEV_and_trading)
+* [cross-domain mev](MEV_searchers/cross_domain_mev)
+* [oracles and twamm](MEV_strategies/oracles)
+* [exclusive order flows](MEV_searchers/private_order_flows)
 
 
 <br>
@@ -77,12 +80,9 @@
 <br>
 
 * [mev projects](MEV_projects)
-* [defi and trading](MEV_and_trading)
 * [build your mev bot](MEV_searchers)
-* [cross-domain mev](MEV_searchers/cross_domain_mev)
 * [data and analytics](MEV_searchers/data_and_analytics)
 * [latency optimization](MEV_searchers/latency)
-* [exclusive order flows](MEV_searchers/private_order_flows)
 * [mempools monitoring](MEV_searchers/mempool_monitoring)
 * [tx and signature explorers](MEV_searchers/tx_and_signature_explorers)
 
