@@ -51,7 +51,7 @@
 
 ##### statistical (informed signal)
 
-* [statistical arbs](MEV_strategies/stat_arb)
+* [statistical arbs](MEV_strategies/stat_arbs)
 * [oracles and twamm](MEV_strategies/oracles)
 
 
