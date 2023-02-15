@@ -11,7 +11,7 @@
 
 * examples can be strategies that rely on:
    - [cross-chains](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/cross_domain_mev) arbitrage
-   - [CEX + DEX arbitrage](https://github.com/go-outside-labs/searcher-coingator-rs)
+   - [CEX + DEX arbitrage](dex-cefi-arb)
    - [order flow](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/private_order_flows) trading by aggregating orders from multiple private or public mempools
    - [whale watching](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_and_trading/whales) 
 
