@@ -42,4 +42,5 @@
 * [mev's impact on uniswap](https://eigenphi.io/report/mev-impact-on-uniswap)
 * [quantifying the cost of providing liquidity to amms, by a16z](https://a16zcrypto.com/lvr-quantifying-the-cost-of-providing-liquidity-to-automated-market-makers/)
 * [automated market making and loss-versus-balancing, by j. milionis et al](https://arxiv.org/abs/2208.06046)
+* [sushiguardrouterv01 with manifold](https://snapshot.org/#/sushigov.eth/proposal/bafkreigjjhjx2j2b526d3poeg23w2xan4rcgnzvcxinsssv7n37lu5p7s4)
 
