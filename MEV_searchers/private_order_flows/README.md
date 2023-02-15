@@ -7,6 +7,8 @@
 <br>
 
 * searchers who have access to private and public mempools can aggregate txs and predict price movement.
+* market makers (lps) can use order flows to model information from incoming orders and readjust prices and spreads.
+* traders can use order flow sas a short-term strategy to time their trade.
 
 <br>
 
