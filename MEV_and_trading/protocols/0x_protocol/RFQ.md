@@ -1,12 +1,21 @@
-##  Request-for-Quote (RFQ)
+##  request-for-quote (RFQ)
+
+<br>
 
 ### tl; dr
+
+<br>
+
+* rfq-based exchanges work similar to central limit order books (clobs), as users submit orders using signed messages and market makers execute them on-chain (assuming the role of both lps and searchers).
+
 
 
 <br>
 
 ---
 
-### resources
+### links
 
-* [0xv4 RFQ order guide in python](https://gist.github.com/lampshade9909/cf16b2aa198e4df8d00702ffd7bf506a)
+<br>
+
+* [hashflow](https://www.hashflow.com/)
