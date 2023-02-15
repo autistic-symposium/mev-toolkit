@@ -2,6 +2,10 @@
 
 <br>
 
+### tl; dr
+
+<br>
+
 * searchers who have access to private and public mempools can aggregate txs and predict price movement.
 
 <br>
