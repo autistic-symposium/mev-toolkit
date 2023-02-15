@@ -17,6 +17,14 @@
 
 * these strategies are more profitable and less accessible due to capital requirements and risk profile.
 
+<br>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/219130514-10104aa3-6219-45ff-8f93-e138d4085216.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
+
+
 
 
 <br>
