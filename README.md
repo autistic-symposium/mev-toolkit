@@ -1,4 +1,4 @@
-# 🕹⛓ mev toolkit
+# ⛓🕹 mev toolkit
 
 
 <br>
@@ -134,7 +134,7 @@
 
 * [teal organizations wiki](https://reinventingorganizationswiki.com/)
 * [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
-* [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [bitcoin whitepaper, by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
 * [the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 * [the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
