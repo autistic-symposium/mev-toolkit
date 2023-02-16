@@ -40,3 +40,4 @@
 * [flashbots block building algorithm](https://writings.flashbots.net/searching-post-merge#blockbuilding-algorithm)
 * [block builder decentralization is coming, but maybe not so soon, by ballsyalchemist](https://bittokoin.substack.com/p/block-builder-decentralization-is)
 * [fat stats for builders through mev-boost](https://www.mevpanda.com/)
+* [decentralizing the builder role, by vitalik](https://hackmd.io/@vbuterin/distributed_builders#/)
