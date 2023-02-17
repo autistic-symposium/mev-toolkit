@@ -32,10 +32,28 @@
 
 #### [lyra.finance](https://www.lyra.finance/)
 
+* chains: arbitrum, optimism, ethereum
 * decentralized options trading protocol powered by a specialized AMM system.
 * it uses synthetix's sUSD stablecoin as its exclusive quote asset, so traders pay for opening long positions or closing short positions with sUSD.
 * uses synthetix as a one-stop protocol for getting long and short exposure on its markets' base assets (delta hedging).
 
 <br>
 
+#### [hegic](https://www.hegic.co/app#/arbitrum/trade/new)
 
+* chains: arbitrum, ethereum
+
+
+<br>
+
+#### [whiteheart](https://www.whiteheart.finance/#/swap-wrap/wrap?from=WBTC&to=WHBTC)
+
+* chains: ethereum
+
+<br>
+
+#### [premia](https://app.premia.finance/options)
+
+* chains: ethereum, arbitrum, fantom, optimism
+
+<br>
