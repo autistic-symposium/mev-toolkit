@@ -19,4 +19,7 @@
 
 ### resources 
 
+<br>
+
 * [first article designing suave](https://writings.flashbots.net/the-future-of-mev-is-suave)
+* [suave economic model](https://collective.flashbots.net/t/suave-economic-security-models/1070)
