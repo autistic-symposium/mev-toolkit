@@ -28,4 +28,5 @@
 * [put-call parity](https://www.investopedia.com/terms/p/putcallparity.asp)
 * [spin.fi, on near](https://trade.spin.fi/)
 * [orderly, on near](https://orderly.network/)
+* [black-scholes model](https://www.investopedia.com/terms/b/blackscholes.asp)
 
