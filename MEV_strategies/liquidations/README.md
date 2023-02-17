@@ -22,6 +22,7 @@
 * [compound](compound.md)
 * [liquity](liquity.md)
 * [aave](aave.md)
+* [euler](euler.md)
 
 <br>
 
