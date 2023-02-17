@@ -14,3 +14,7 @@
 ---
 
 ### resources
+
+<br>
+
+* [arbitrum trading context](https://gains.trade/contest)
