@@ -36,6 +36,7 @@
 * decentralized options trading protocol powered by a specialized AMM system.
 * it uses synthetix's sUSD stablecoin as its exclusive quote asset, so traders pay for opening long positions or closing short positions with sUSD.
 * uses synthetix as a one-stop protocol for getting long and short exposure on its markets' base assets (delta hedging).
+* [guide to trade on lyra](https://newsletter.banklesshq.com/p/a-guide-to-options-on-lyra)
 
 <br>
 
