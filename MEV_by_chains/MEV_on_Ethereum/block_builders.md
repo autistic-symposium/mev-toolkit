@@ -30,14 +30,16 @@
 
 <br>
 
+
 * [builder specs, by the ef](https://github.com/ethereum/builder-specs)
-* [flashbots builder](https://github.com/flashbots/builder)
+* [builder opens source, by flashbots](https://github.com/flashbots/builder)
+* [flashbots block building algorithm](https://writings.flashbots.net/searching-post-merge#blockbuilding-algorithm)
 * [etherscan blocks](https://etherscan.io/blocks), [mev blocks](https://etherscan.io/blocks/label/mev-block), and [mev builders](https://etherscan.io/accounts/label/mev-builder)
 * [builder69.io endpoint for searchers (bundle/tx)](https://builder0x69.io)
 * [mev-rs - gateway to a network of block builders](https://github.com/ralexstokes/mev-rs)
 * [mev order flow, the king of block builders](https://coinyuppie.com/mev-order-flow-the-king-of-block-builders/)
-* [manifold finance](https://www.manifoldfinance.com/)
-* [flashbots block building algorithm](https://writings.flashbots.net/searching-post-merge#blockbuilding-algorithm)
-* [block builder decentralization is coming, but maybe not so soon, by ballsyalchemist](https://bittokoin.substack.com/p/block-builder-decentralization-is)
 * [fat stats for builders through mev-boost](https://www.mevpanda.com/)
 * [decentralizing the builder role, by vitalik](https://hackmd.io/@vbuterin/distributed_builders#/)
+* [mev and the rise of builders, by galaxy](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
+* [block builder decentralization is coming, but maybe not so soon, by ballsyalchemist](https://bittokoin.substack.com/p/block-builder-decentralization-is)
+
