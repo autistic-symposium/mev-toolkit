@@ -1,5 +1,11 @@
 ## order flows
 
+<br>
+
+### tl; dr
+
+* *["orderflow nontoxic is when expected future price does not change given the order’s existence; that is, the trade provides no predictive signal for the expected price in the future."](https://xenophonlabs.com/papers/uniswap_valuing_orderflow.pdf)*
+
 
 <br>
 
