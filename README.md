@@ -76,13 +76,13 @@
 
 <br>
 
+* [order flows](MEV_searchers/order_flows)
 * [mev projects](MEV_projects)
 * [defi and trading](MEV_and_trading)
 * [build your mev bot](MEV_searchers)
 * [cross-domain mev](MEV_searchers/cross_domain_mev)
 * [data and analytics](MEV_searchers/data_and_analytics)
 * [latency optimization](MEV_searchers/latency)
-* [exclusive order flows](MEV_searchers/private_order_flows)
 * [mempools monitoring](MEV_searchers/mempool_monitoring)
 * [tx and signature explorers](MEV_searchers/tx_and_signature_explorers)
 
