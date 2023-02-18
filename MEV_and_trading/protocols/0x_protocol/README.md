@@ -8,7 +8,7 @@
 
 * DEX aggregator integrating both on- and off-chain liquidity:
   - on-chain liquidity is sourced by sampling smart contract liquidity pools, such as uniswap and curve. 
-  - off-chain liquidity is sourced from professional market makers via the 0x Request-for-Quote (“RFQ”) system
+  - off-chain liquidity is sourced from professional market makers via the [0x Request-for-Quote (“RFQ”) system](RFQ.md)
 
 
 <br>
