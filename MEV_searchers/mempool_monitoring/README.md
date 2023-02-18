@@ -11,3 +11,7 @@
 ---
 
 ### resources
+
+<br>
+
+* [blocknative mempool explorer](https://explorer.blocknative.com/)
