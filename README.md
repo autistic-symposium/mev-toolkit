@@ -67,8 +67,8 @@
 * [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
 * [mev on polygon](MEV_by_chains/MEV_on_Polygon)
 * [mev on arbitrum](MEV_by_chains/MEV_on_Arbitrum)
-* [mev on optimism](MEV_by_chains/MEV_on_Optimism)
 * [mev on ethereum](MEV_by_chains/MEV_on_Ethereum)
+* [mev on optimism](MEV_by_chains/MEV_on_Optimism)
 * [mev on bsc chain](MEV_by_chains/MEV_on_BSC)
 * [mev on avalanche](MEV_by_chains/MEV_on_Avalanche)
 
@@ -109,6 +109,7 @@
 - [the 0 to 1 guide to mev, by blockchain at berkeley](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
 - [how to build an ethereum mining pool, by dragonfly](https://medium.com/dragonfly-research/how-to-build-an-ethereum-mining-pool-6be356520b7a)
 - [how i learned to stop worrying and love mev, by sreeni](https://medium.com/dragonfly-research/dr-reorg-or-how-i-learned-to-stop-worrying-and-love-mev-2ee72b428d1d)
+- [censorship resistance in on-chain auctions, by pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
 - [the enemy of your enemy is not your friend, by kobayashi](https://fiona.mirror.xyz/QXdCOAggA5g_j5R_JpO-V5LqK89EbimnYIV6c2rOsT0)
 - [mev on ethereum: a policy analysis, by m. barczentewicz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332703)
 - [censorship resistance in on-chain auctions, by m. pai et al.](https://github.com/eljhfx/Decentralized-Auctions/blob/main/Censorship_Resistance_in_On-Chain_Auctions.pdf)
@@ -118,6 +119,7 @@
 - [implementing ethereum trading front-runs on the bancor exchange, by ivan bogatyy](https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798)
 - [quantifying blockchain extractable value: how dark is the forest?, by kaihua qin et al.](https://arxiv.org/pdf/2101.05511.pdf)
 - [transparent dishonesty: front-running attacks on blockchain, by shayan eskandari et al.](https://arxiv.org/pdf/1902.05164.pdf)
+
 
 
 
