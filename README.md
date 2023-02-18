@@ -1,4 +1,4 @@
-# 🕹⛓ mev toolkit
+# ⛓🕹 mev toolkit
 
 
 <br>
@@ -18,7 +18,7 @@
 
 #### 👾 the public discussion around MEV started by [pmcgooohan](https://twitter.com/pmcgoohancrypto?lang=en) on [e/ethereum](https://www.reddit.com/r/ethereum/comments/2d84yv/miners_frontrunning/), and it was formalized by [phildaiann et. al](https://twitter.com/phildaian)'s paper [flash boys 2.0](https://arxiv.org/abs/1904.05234). 
 
-#### 👾 MEV extraction can be a force of good in a non-predatory and [fair](https://twitter.com/bertcmiller/status/1456346690164768770) blockspace free-market as an incentive for economic security. every actor in the supply chain is relevant. order flow toxicity is a trader's exposure to counter-parties that possess private informational advantages. as everything in life, *the most valuable commodity is information*.
+#### 👾 MEV extraction can be a force of good in a non-predatory and [fair](https://twitter.com/bertcmiller/status/1456346690164768770) blockspace free-market as an incentive for economic security. every actor in the supply chain is relevant. order flow toxicity is a trader's exposure to counter-parties that possess private informational advantages. as everything in life, *[the most valuable commodity is information](https://frontier.tech/a-new-game-in-town)*.
 
 #### ⚠️ this repository is an ongoing boundless catalog from my own research. therefore, no guarantees, use it at your own risk.
 
@@ -51,9 +51,12 @@
 
 ##### statistical (informed signal)
 
-* [statistical arbs](MEV_strategies/stat_arb)
-* [oracles and twamm](MEV_strategies/oracles)
 
+* [statistical arbs](MEV_strategies/stat_arbs)
+* [defi and trading](MEV_and_trading)
+* [cross-domain mev](MEV_searchers/cross_domain_mev)
+* [oracles and twamm](MEV_strategies/oracles)
+* [exclusive order flows](MEV_searchers/private_order_flows)
 
 
 <br>
@@ -78,9 +81,7 @@
 
 * [order flows](MEV_searchers/order_flows)
 * [mev projects](MEV_projects)
-* [defi and trading](MEV_and_trading)
 * [build your mev bot](MEV_searchers)
-* [cross-domain mev](MEV_searchers/cross_domain_mev)
 * [data and analytics](MEV_searchers/data_and_analytics)
 * [latency optimization](MEV_searchers/latency)
 * [mempools monitoring](MEV_searchers/mempool_monitoring)
@@ -134,7 +135,7 @@
 
 * [teal organizations wiki](https://reinventingorganizationswiki.com/)
 * [the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
-* [bitcoin whitepaper by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [bitcoin whitepaper, by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
 * [the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 * [the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)

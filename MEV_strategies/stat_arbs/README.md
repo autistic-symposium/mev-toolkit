@@ -7,9 +7,23 @@
 <br>
 
 
-* **statistical arbs** (non-atomic) convey informed strategies that rely on informed information (signal). examples can be arbs that rely on cross-chain or CEX + DEX strategies. 
+* **statistical mev** (non-atomic) convey informed strategies that rely on off-chain information (signal). 
+
+* examples can be strategies that rely on:
+   - [cross-chains](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/cross_domain_mev) mev
+   - [defi-cefi arbitrage](dex-cex-arb/)
+   - [order flow](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/private_order_flows) trading by aggregating from private and public mempools
+   - [whale watching](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_and_trading/whales) 
 
 * these strategies are more profitable and less accessible due to capital requirements and risk profile.
+
+<br>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/219130514-10104aa3-6219-45ff-8f93-e138d4085216.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
+
 
 
 
@@ -22,6 +36,7 @@
 <br>
 
 
+* [dex-cex arbitrage](dex-cex-arb/)
 * [routers and aggregators](aggregators)
 * [convex optimization](convex_optimization)
 

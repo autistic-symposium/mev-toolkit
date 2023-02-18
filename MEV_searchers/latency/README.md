@@ -7,6 +7,8 @@
 <br>
 
 
+* for **builders**: builders might delay before proposing a full block to maximize the amount of potential mev for inclusion in the block. this requires extremely low latency for proposing blocks and views of the mempool.
+
 <br>
 
 ---
