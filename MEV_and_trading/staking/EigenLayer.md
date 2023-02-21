@@ -9,3 +9,13 @@
 <br>
 
 <img width="500" alt="Screen Shot 2023-02-04 at 2 03 13 PM" src="https://user-images.githubusercontent.com/1130416/216791363-681d0241-c9e8-4a07-8dd7-1fbfee514a37.png">
+
+<br>
+
+---
+
+### links
+
+<br>
+
+* ⭐️⭐️⭐️ [eigenlayer: the restaking collective](https://eigenlayer.xyz/whitepaper.pdf)
