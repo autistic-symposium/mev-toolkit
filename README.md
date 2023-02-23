@@ -20,7 +20,7 @@
 
 #### 👾 MEV extraction can be a force of good in a non-predatory and [fair](https://twitter.com/bertcmiller/status/1456346690164768770) blockspace free-market as an incentive for economic security. every actor in the supply chain is relevant. order flow toxicity is a trader's exposure to counter-parties that possess private informational advantages. as everything in life, *[the most valuable commodity is information](https://frontier.tech/a-new-game-in-town)*.
 
-#### ⚠️  this repository is an ongoing boundless catalog from my own research. therefore, no guarantees, use it at your own risk.
+#### ⚠️ [whoever is not corrupted yet: go anon. things are getting really hardcore.](https://twitter.com/go_outside_labs/status/1628800155779764224?s=20)
 
 
 <br>
