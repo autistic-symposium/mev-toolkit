@@ -21,3 +21,4 @@
 * [solana mev Outlook](https://medium.com/chorus-one/analyzing-mev-instances-on-solana-part-3-6376bcf40b6b)
 * [MEV-ARB-90-0322 on Misaka](https://github.com/0xMisaka/MEV-data-solana/blob/main/MEV-ARB-90-0322.ipynb0)
 * [mango market liquidator bot](https://github.com/blockworks-foundation/liquidator-v3)
+* [jito's thread on sol stakers fighting mev bots](https://twitter.com/jito_sol/status/1630584599352082434)
