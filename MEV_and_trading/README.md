@@ -27,6 +27,16 @@
 
 ---
 
+### yummy stuff for day-traders
+
+<br>
+
+* [how to profit from cults in crypto](https://twitter.com/TyrogueD/status/1630331151515615232)
+
+<br>
+
+---
+
 
 ### resources
 
