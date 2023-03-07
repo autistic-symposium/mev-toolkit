@@ -20,3 +20,4 @@
 
 
 * [skip protocol docs](https://twitter.com/maria_defiyield/status/1595060020601028609/photo/1)
+* [mev on osmosis](https://twitter.com/SkipProtocol/status/1631399189920768005)
