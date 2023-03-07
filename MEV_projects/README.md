@@ -1,4 +1,19 @@
-## mev-related projects
+## projects and research
+
+<br>
+
+### tl; dr
+
+<br>
+
+* [main essays and papers from the last year](history.md)
+
+<br>
+
+
+---
+
+### mev-related projects
 
 <br>
 
@@ -15,7 +30,7 @@
 
 ---
 
-### links
+### resources
 
 <br>
 
