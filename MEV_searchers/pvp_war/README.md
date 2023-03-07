@@ -37,6 +37,7 @@
 * [https://twitter.com/MevRefund/status/1537421091697836032](https://twitter.com/MevRefund/status/1537421091697836032)
 * [https://twitter.com/MevRefund/status/1580652170592280576](https://twitter.com/MevRefund/status/1580652170592280576)
 * [a list of malicious tokens](malicious_tokens.md)[https://github.com/kailinr/cyanide]
+* [the rug check (tokens)](https://therugcheck.com/)
 
 <br>
 
