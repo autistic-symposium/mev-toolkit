@@ -6,7 +6,9 @@
 
 <br>
 
-* [main essays and papers from the last year](history.md)
+
+* public discussion around MEV started by [pmcgooohan](https://twitter.com/pmcgoohancrypto?lang=en) on [e/ethereum](https://www.reddit.com/r/ethereum/comments/2d84yv/miners_frontrunning/), and it was formalized by [phildaiann et. al](https://twitter.com/phildaian)'s paper [flash boys 2](https://arxiv.org/abs/1904.05234). 
+* [here are the main essays and papers from the last years](history.md)
 
 <br>
 
