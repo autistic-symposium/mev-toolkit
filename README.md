@@ -28,9 +28,6 @@
 
 ---
 
-## 🏄🏽 resources && code
-
-<br>
 
 ### extraction strategies
 
@@ -61,7 +58,7 @@
 
 <br>
 
-### mev on the chains
+### mev by chains
 
 * [mev on solana](MEV_by_chains/MEV_on_Solana)
 * [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
