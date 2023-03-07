@@ -22,5 +22,6 @@
 * [account abstraction for everyone else, by cami](https://camiinthisthang.substack.com/p/account-abstraction-for-everyone)
 * [unpacking erc-4337, by a. chiplunkar](https://frontier.tech/unpacking-erc-4337)
 * [account abstraction, by safe](https://safe.mirror.xyz/9KmZjEbFkmI79s28d9xar6JWYrE50F5AHpa5CR12YGI)
+* [erc-4337 is on mainnet](https://twitter.com/erc4337/status/1631087958949531648)
 
 
