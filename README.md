@@ -100,7 +100,7 @@
 - [⭐⭐⭐ mev and me, by paradigm](https://research.paradigm.xyz/MEV)
 - [⭐⭐⭐⭐ flash boys 2.0, by p. daian et al.](https://arxiv.org/pdf/1904.05234.pdf)
 - [⭐⭐⭐ return to the dark forest, by rekt](https://rekt.news/return-to-the-dark-forest/)
-- [⭐⭐⭐⭐ hiding in plain sight, by samczsun](https://samczsun.com/hiding-in-plain-sight/)
+- [⭐⭐⭐ hiding in plain sight, by samczsun](https://samczsun.com/hiding-in-plain-sight/)
 - [⭐⭐⭐⭐ we live in a mempool, by tom schmidt](https://medium.com/dragonfly-research/we-live-in-a-mempool-backrunning-the-mev-crisis-a4ea0b493b05)
 - [⭐️⭐⭐⭐⭐ escaping the dark forest, by samczsun](https://samczsun.com/escaping-the-dark-forest/)
 - [⭐️⭐⭐ ethereum is a dark forest, by paradigm](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest)
