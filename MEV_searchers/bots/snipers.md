@@ -2,9 +2,10 @@
 
 <br>
 
-* [limit sniper](https://github.com/CryptoGnome/Limit-Sniper)
-* [pool-sniper](https://github.com/Anish-Agnihotri/pool-sniper)
-* [cake-sniper](https://github.com/Supercycled/cake_sniper)
+* [limit sniper, by cryptognome](https://github.com/CryptoGnome/Limit-Sniper)
+* [pool-sniper, by anish-agnihotri](https://github.com/Anish-Agnihotri/pool-sniper)
+* [cake-sniper, by sypercycled](https://github.com/Supercycled/cake_sniper)
+* [sniper-bit, by forza-panino](https://github.com/forza-panino/Sniper-Bot)
 
 <br>
 
