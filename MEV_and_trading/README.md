@@ -22,6 +22,7 @@
 * [protocols](protocols)
 * [market makers](market_makers)
 * [macroeconomy](macroeconomy)
+* [high frequency trading](high_frequency)
 
 <br>
 
