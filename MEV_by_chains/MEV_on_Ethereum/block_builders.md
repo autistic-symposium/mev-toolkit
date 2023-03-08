@@ -42,4 +42,5 @@
 * [decentralizing the builder role, by vitalik](https://hackmd.io/@vbuterin/distributed_builders#/)
 * [mev and the rise of builders, by galaxy](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
 * [block builder decentralization is coming, but maybe not so soon, by ballsyalchemist](https://bittokoin.substack.com/p/block-builder-decentralization-is)
+* [the role of block building in the future of ethereum, by d. der werff](https://frontier.tech/beyond-extraction)
 
