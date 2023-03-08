@@ -28,3 +28,4 @@
 * [order flow, auctions & centralisation, by q. kilbourn](https://www.youtube.com/watch?v=ilc3EoSMMDg)
 * [order flow auctions & enshrined builder, by apriori](https://mirror.xyz/apriori.eth/wiLKgkaN6JBwBDq4E3T_-BZ0OIPhlbIItgJdE3CFAMo)
 * [payment for order flow on tradefi, by forbes](https://www.forbes.com/advisor/investing/payment-for-order-flow/)
+* [the orderflow auction design space, by frontier](https://frontier.tech/the-orderflow-auction-design-space)
