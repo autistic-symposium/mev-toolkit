@@ -6,10 +6,10 @@
 
 <br>
 
+* [leverage](leverage)
 * [order types](orders_types)
 * [trading types](trading_types)
 * [techical analysis](technical_analysis)
-* [leverage](leverage)
 * [investing strategies](investing_strategies)
 
 <br>
