@@ -38,5 +38,6 @@
 * [put-call parity](https://www.investopedia.com/terms/p/putcallparity.asp)
 * [spin.fi, on near](https://trade.spin.fi/)
 * [orderly, on near](https://orderly.network/)
+* [metronome risk assessment](https://cryptorisks.substack.com/p/risk-assessment-metronome)
 
 
