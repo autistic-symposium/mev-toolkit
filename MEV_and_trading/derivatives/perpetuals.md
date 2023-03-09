@@ -10,6 +10,7 @@
 * offer traders a chance to take on large positions with little money down
 * like other types of derivatives such as futures and options, perpetual swaps provide a means to speculate on the value of the assets while the contract is held
 * unlike future contracts, perpetual swaps do not have expiration dates
+* [hot tub by perpetual swap](https://perpprotocol.mirror.xyz/8C0shiFg0YbhkGOF3i9jFVmyCumKncdsgviDE4qQtjQ)
 
 <br>
 
