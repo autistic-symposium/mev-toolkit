@@ -6,6 +6,7 @@
 
 <br>
 
+* optimism's mempool is not public, disallowing re-order transactions (including after the [bedrock update](https://dev.optimism.io/introducing-optimism-bedrock/))
 
 <br>
 
