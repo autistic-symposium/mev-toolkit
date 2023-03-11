@@ -28,7 +28,7 @@
 
 ---
 
-### yummy stuff for day-traders
+### basics for traders
 
 <br>
 
