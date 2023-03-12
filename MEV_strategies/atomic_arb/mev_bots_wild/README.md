@@ -2,6 +2,14 @@
 
 <br>
 
+### 2023
+
+* [$2mil turned $0.05 on the USDC fud](https://eigenphi.io/mev/ethereum/tx/0x8a6be1e4db4375c1a1c9d1e5c5fcaa5c255b2d24f5da3de05f3b25d7c3508021)
+
+
+<br>
+
+----
 
 ### 2022
 
