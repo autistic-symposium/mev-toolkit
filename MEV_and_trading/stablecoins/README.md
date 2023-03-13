@@ -10,6 +10,7 @@
 * [dai](DAI.md)
 * [gho](GHO.md)
 * [curve](curve)
+* [usdd](usdd.md)
 * [(rip) ust](UST.md)
 
 
