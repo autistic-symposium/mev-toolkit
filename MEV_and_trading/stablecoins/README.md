@@ -11,6 +11,7 @@
 * [gho](GHO.md)
 * [curve](curve)
 * [usdd](USDD.md)
+* [lusd](LUSD.md)
 * [(rip) ust](UST.md)
 
 
