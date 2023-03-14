@@ -23,6 +23,7 @@
 <br>
 
 * [curve wars](curve_wars.md)
+* [historical analysis](historical.md)
 
 <br>
 
