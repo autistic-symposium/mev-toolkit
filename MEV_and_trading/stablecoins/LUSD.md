@@ -23,3 +23,7 @@
 ---
 
 ### resources
+
+<br>
+
+* [thread on chicken bonds](https://twitter.com/korpi87/status/1575899279071186944)
