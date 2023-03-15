@@ -8,18 +8,18 @@
 
 * [lido](Lido.md)
 * [stakewise](Stakewise.md)
-* [eigenlayer](EigenLayer.md)
 
 
 <br>
 
 ---
 
-### resources
+### external resources
 
 <br>
 
 
-* [RockePool](https://rocketpool.net/)
-* [StakeUS](https://staked.us/)
-* [Bitcoin Suisse](https://www.bitcoinsuisse.com/staking)
+* [rocketpool](https://rocketpool.net/)
+* [stakeus](https://staked.us/)
+* [bitcoin suisse](https://www.bitcoinsuisse.com/staking)
+* [eigenlayer restaking](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/cross_domain_mev/eigeinlayer.md)
