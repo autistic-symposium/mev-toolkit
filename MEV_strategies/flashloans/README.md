@@ -25,7 +25,7 @@
 
 ---
 
-### links
+### external resources
 
 <br>
 
@@ -44,3 +44,4 @@
 * [flashloan toolbox](https://github.com/Supercycled/flashloans-toolbox)
 * [sugardad (aave v2)](https://github.com/fifikobayashi/SugarDaddyFlashloan)
 * [dydx and aave aggregate](https://github.com/fifikobayashi/Aggregated-Flashloan)
+* [aave flashloan efficiently, by crypto-banker](https://github.com/crypto-banker/FLAAVE/)
