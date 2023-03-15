@@ -4,13 +4,16 @@
 <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/1130416/210285135-2d0c3965-a3cd-44f7-a167-3ec14a9ad695.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
+<img src="https://user-images.githubusercontent.com/1130416/210285135-2d0c3965-a3cd-44f7-a167-3ec14a9ad695.png" width="40%" align="center" style="padding:1px;border:1px solid black;"/>
  </p>
 
 
 <br>
 
-### tl; dr
+
+
+
+### tl; dr:
 
 <br>
 
@@ -23,7 +26,9 @@
 
 <br>
 
+---
 
+<br>
 
 ### I. learn (toxic and non-toxic) extraction strategies
 
