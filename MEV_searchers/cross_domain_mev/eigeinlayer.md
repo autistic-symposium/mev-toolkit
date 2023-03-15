@@ -18,4 +18,5 @@
 
 <br>
 
-* ⭐️⭐️⭐️ [eigenlayer: the restaking collective](https://eigenlayer.xyz/whitepaper.pdf)
+* [eigenlayer whitepaper](https://eigenlayer.xyz/whitepaper.pdf)
+* [eigenlayer resources](https://hackmd.io/@Restakers/EigenLayer-Unofficial)
