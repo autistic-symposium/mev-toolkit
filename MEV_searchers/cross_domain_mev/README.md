@@ -3,17 +3,20 @@
 
 <br>
 
-### tl; dr
+### in this dir
 
 
 <br>
 
+* [eigenlayer and cross-chain mev](eigeinlayer.md)
 
 <br>
 
 ---
 
-### resources
+### external resources
+
+<br>
 
 * [westerngate.xyz](https://westerngate.xyz/)
 * [unity is strength, by obadia et al](https://arxiv.org/pdf/2112.01472.pdf)
