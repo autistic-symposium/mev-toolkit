@@ -18,18 +18,14 @@
 
 ##### 👾 mev extraction can be a force of good in a non-predatory and [fair](https://twitter.com/bertcmiller/status/1456346690164768770) blockspace free-market as an incentive for economic security. every actor in the supply chain is relevant. order flow toxicity is a trader's exposure to counter-parties that possess private informational advantages. as everything in life, *[the most valuable commodity is information](https://frontier.tech/a-new-game-in-town)*.
 
-##### ⚠️ this repository is a catalog from my own (free time / out-of-curiosity) research, enjoy at your own risk.
+##### ⚠️ this repository is a catalog from my own (free time / out-of-curiosity) research and development, enjoy at your own risk.
 
 
 <br>
 
 
----
 
-
-### extraction strategies
-
-<br>
+### learn (toxic and non-toxic) extraction strategies
 
 ##### atomic (tx ordering)
 
@@ -54,9 +50,16 @@
 * [oracles and twamm](MEV_strategies/oracles)
 
 
-<br>
 
-### mev by chains
+### code up your (learning and experimental) bots
+
+* [build your mev bot](MEV_searchers)
+* [mempools monitoring](MEV_searchers/mempool_monitoring)
+* [latency optimization](MEV_searchers/latency)
+* [tx and signature explorers](MEV_searchers/tx_and_signature_explorers)
+
+
+###  understand the chains and how mev differs on each of them
 
 * [mev on solana](MEV_by_chains/MEV_on_Solana)
 * [mev on cosmos](MEV_by_chains/MEV_on_Cosmos)
@@ -68,19 +71,9 @@
 * [mev on avalanche](MEV_by_chains/MEV_on_Avalanche)
 
 
-<br>
+### understand (and join) the space (we need good people)
 
-### building a toolkit
-
-<br>
-
-* [order flows](MEV_searchers/order_flows)
-* [mev projects](MEV_projects)
-* [build your mev bot](MEV_searchers)
-* [data and analytics](MEV_searchers/data_and_analytics)
-* [latency optimization](MEV_searchers/latency)
-* [mempools monitoring](MEV_searchers/mempool_monitoring)
-* [tx and signature explorers](MEV_searchers/tx_and_signature_explorers)
-* [read papers from the past](MEV_projects/history.md)
-
-<br>
+* [mev-related protocols](MEV_projects)
+* [mev data and analytics](MEV_searchers/data_and_analytics)
+* [research on order flows](MEV_searchers/order_flows)
+* [canonical papers from the past](MEV_projects/history.md)
