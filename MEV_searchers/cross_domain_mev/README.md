@@ -8,7 +8,7 @@
 
 <br>
 
-* [eigenlayer and cross-chain mev](eigeinlayer.md)
+* [eigenlayer and cross-chain mev](eigenlayer.md)
 
 <br>
 
