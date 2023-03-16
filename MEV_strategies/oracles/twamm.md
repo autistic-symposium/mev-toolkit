@@ -26,4 +26,4 @@
 * [twamm, by paradigm](https://www.paradigm.xyz/2021/07/twamm)
 * [twamm ref implementation](https://github.com/para-dave/twamm)
 * [some properties of twamm](https://github.com/pcaversaccio/reentrancy-attacks)
-
+* [twamm numerical analysis, by cron finance](https://docs.cronfi.com/twamm/research/numerical-analysis#presentation)
