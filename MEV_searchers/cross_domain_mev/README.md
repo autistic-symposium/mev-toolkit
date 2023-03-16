@@ -1,22 +1,26 @@
 ## cross-domain mev
 
+<br>
+
+### tl; dr
 
 <br>
 
-### in this dir
-
-
-<br>
-
-* [eigenlayer and cross-chain mev](eigenlayer.md)
 
 <br>
 
 ---
 
-### external resources
+### resources
+
+
+##### go-outside-labs
+
+* [eigenlayer toolkit](https://github.com/go-outside-labs/eigenlayer-toolkit)
 
 <br>
+
+##### external links
 
 * [westerngate.xyz](https://westerngate.xyz/)
 * [unity is strength, by obadia et al](https://arxiv.org/pdf/2112.01472.pdf)
