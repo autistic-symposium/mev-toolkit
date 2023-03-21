@@ -12,7 +12,7 @@
 * [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
 * [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
 * [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
-* [mev outlook 2003, by eigeinphi](https://eigenphi.substack.com/p/mev-outlook-2023)
+* [mev outlook 2003, by eigeinphi](https://eigenphi.substack.com/p/mev-outlook-2023) (take the name-dropping and data extrapolation with a grain of salt; because the space is so green, some folks still use the strategies of paying entities to be featured/inflated)
 
 <br>
 
