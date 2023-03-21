@@ -4,7 +4,7 @@
 
 #### 2023
 
-* [⭐️⭐️⭐️⭐️ encrypted mempools, by jon charbonneau](https://joncharbonneau.substack.com/p/encrypted-mempools)
+- [⭐️⭐️⭐️⭐️ encrypted mempools, by jon charbonneau](https://joncharbonneau.substack.com/p/encrypted-mempools)
 - [⭐️⭐️⭐️⭐️ mev on ethereum: a policy analysis, by m. barczentewicz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332703)
 
 
