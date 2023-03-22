@@ -23,6 +23,7 @@
 * [market makers](market_makers)
 * [macroeconomy](macroeconomy)
 * [high frequency trading](high_frequency)
+* [trading strategy metrics](strategy_metrics)
 
 <br>
 
