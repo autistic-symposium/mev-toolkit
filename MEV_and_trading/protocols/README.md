@@ -13,6 +13,7 @@
 * [inverse](inverse.md)
 * [uniswap](uniswap)
 * [0x protocol](0x_protocol)
+* [primitive](primitive.md)
 
 <br>
 
