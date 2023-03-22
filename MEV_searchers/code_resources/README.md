@@ -7,6 +7,7 @@
 <br>
 
 * [proxies](proxies)
+* [gas optimization](gas_optimization)
 
 <br>
 
