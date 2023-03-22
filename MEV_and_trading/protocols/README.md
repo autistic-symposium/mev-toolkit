@@ -9,6 +9,7 @@
 * [gns](gns.md)
 * [gmx](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_by_chains/MEV_on_Arbitrum/gmx)
 * [dydx](dydx.md)
+* [yearn](yearn.md)
 * [inverse](inverse.md)
 * [uniswap](uniswap)
 * [0x protocol](0x_protocol)
@@ -38,7 +39,6 @@
 
 * [buffer.finances](https://buffer.finance/)
 * [drift.trade](https://www.drift.trade/)
-* [yearn finance](https://yearn.finance/#/portfolio)
 * [stader labs](https://staderlabs.com/)
 * [hop](https://app.hop.exchange/#/send?token=ETH)
 * [popsicle finance](https://popsicle.finance/)
