@@ -17,3 +17,4 @@
 <br>
 
 * [using mont carlo for backtesting](https://tradingstrategy.ai/blog/why-you-should-use-a-monte-carlo-simulation-for-backtesting)
+* [historical data and api for backstesting](https://tradingstrategy.ai/trading-view/backtesting)
