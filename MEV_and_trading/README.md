@@ -64,3 +64,4 @@
 * [impermanent loss simulator](https://baller.netlify.app/)
 * [insight over several protocols](https://defi-mochi.notion.site/d2cf08cb79254dcf8f30e08cc38761f4?v=81df8226157849ee94a1c859c1e13329)
 * [crypto market by capitalization charts](https://cryptomarketpool.com/crypto-market-charts/)
+* [top crypto spot exchanges](https://coinmarketcap.com/rankings/exchanges/)
