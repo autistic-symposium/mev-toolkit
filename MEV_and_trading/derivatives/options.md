@@ -18,6 +18,7 @@
   - rules for exercise and settlement.
 
 <br>
+<img width="400" src="https://user-images.githubusercontent.com/126520850/227076376-c6f147e9-42b5-4e37-bb18-d3fdfddc63cb.png">
 
 <img width="300"  src="https://user-images.githubusercontent.com/126520850/227075830-3f2b9732-e613-41a6-8381-86dff0f897ca.png">
 
