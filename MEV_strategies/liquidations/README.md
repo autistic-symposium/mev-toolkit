@@ -41,4 +41,5 @@
 * [cycle of liquidations in the CRV pool](https://twitter.com/AaveAave/status/1595168982541209611)
 * [how to build a liquidator bot for defi, by powpark](https://powpark.com/post/2020-06-19-how-to-build-a-liquidator-bot-defi/)
 * [liquidators, the secret whales helping defi, by tom schimidt](https://medium.com/dragonfly-research/liquidators-the-secret-whales-helping-defi-function-acf132fbea5e)
-* [n. worsely on abracadaba's liquidation, by forbes](https://www.forbes.com/sites/jeffkauflin/2022/10/11/the-secretive-world-of-mev-where-crypto-bots-scalp-investors-for-big-profits/?sh=7043ef9f2d8d)
+* [mitigating defi liquidations with reversible call options, by qin et al](https://eprint.iacr.org/2023/254)
+
