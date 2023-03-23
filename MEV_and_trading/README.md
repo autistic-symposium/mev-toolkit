@@ -25,6 +25,7 @@
 * [market makers](market_makers)
 * [high frequency trading](high_frequency)
 * [trading strategy metrics](strategy_metrics)
+* [market manipulation techniques](market_manipulation)
 
 <br>
 
