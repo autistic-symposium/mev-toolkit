@@ -39,5 +39,6 @@
 * [anatomy of arber bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/arbers.md)
 * [analyzing mev bot's arb, by et](https://medium.com/@etdu/analyzing-an-mev-bots-arbitrage-on-ethereum-c6980cfd347)
 * [how to automate triangular arb recognition](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/5-tFRGLVbVq0uCLnWnw7B0D-mD7GKZr1DfPXhyopU0Y)
+* [cyclic arb in dexes, by wang et al](https://arxiv.org/pdf/2105.02784.pdf)
 
 
