@@ -66,3 +66,14 @@
 <br>
 
 #### [kwenta](https://mirror.xyz/kwenta.eth/nPp4epdHb1OZlta1YXfPVeBNL89P_jpQGgruC9daOdc)
+
+
+<br>
+
+---
+
+### external resources
+
+<br>
+
+* [options for beginners, by defi educations](https://defieducation.substack.com/p/options-for-beginners)
