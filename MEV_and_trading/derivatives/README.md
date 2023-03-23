@@ -39,5 +39,6 @@
 * [spin.fi, on near](https://trade.spin.fi/)
 * [orderly, on near](https://orderly.network/)
 * [metronome risk assessment](https://cryptorisks.substack.com/p/risk-assessment-metronome)
+* [what's open interest, by perpetual protocol](https://perpprotocol.mirror.xyz/ntYaYXMFJJQ2Fr8QFXBX1P16w76q1Nd-eBHn_1-AAV0)
 
 
