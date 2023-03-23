@@ -6,6 +6,7 @@
 
 <br>
 
+* **options can be used to speculate on the future price and volatility of an asset, and to manage risks in a portfolio.**
 * options can be thought of as "insurance-like" contracts where one pays a premium upfront. profits come from "disaster events", with **capped losses** and **unlimited upsides**.
 * purchasers of options receive the **right** to buy or sell the underlying asset at a predetermined **strike price**. **option chains** list **calls** (ability to buy the asset) and **puts** (ability to sell the asset) for a given expiration across a variety of **strikes**.
 * options also gives leverage by chasing cheaper premiums (e.g. shortening expirations).
