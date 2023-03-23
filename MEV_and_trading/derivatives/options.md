@@ -9,7 +9,12 @@
 * options can be thought of as "insurance-like" contracts where one pays a premium upfront. profits come from "disaster events", with **capped losses** and **unlimited upsides**.
 * purchasers of options receive the **right** to buy or sell the underlying asset at a predetermined **strike price**. **option chains** list **calls** (ability to buy the asset) and **puts** (ability to sell the asset) for a given expiration across a variety of **strikes**.
 * options also gives leverage by chasing cheaper premiums (e.g. shortening expirations).
-*  buy (call) vs. sell (put):
+* options contracts contain the following information:
+  - nature of the right: from the option buyers’ perspective, to buy (call) or sell (put) the asset.
+  - specification and quantity of underlying asset (e.g., 1 BTC).
+  - strike (or exercise) price: the price paid or received for the asset if the option is exercised. 
+  - expiration date: the last date the option can be exercised.
+  - rules for exercise and settlement.
 
 <br>
 
