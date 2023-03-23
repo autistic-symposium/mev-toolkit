@@ -33,7 +33,9 @@
 
 <br>
 
+* [nested.fi explorer](https://app.nested.fi/explorer)
 * [how to profit from cults in crypto](https://twitter.com/TyrogueD/status/1630331151515615232)
+
 
 <br>
 
