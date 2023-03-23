@@ -2,8 +2,8 @@
 
 <br>
 
-* [aave](aave.md)
-* [compound](compound.md)
+* [aave](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_strategies/liquidations/aave.md)
+* [compound](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_strategies/liquidations/compound.md)
 * [silo](silo.md)
 
 <br>
