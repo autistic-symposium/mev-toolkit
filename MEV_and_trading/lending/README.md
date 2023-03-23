@@ -12,10 +12,13 @@
 
 <br>
 
+---
+
 ### in this dir
 
 <br>
 
+* [protocols](protocols)
 * [collateralized](collateralized.md)
 * [uncollateralized](uncollateralized.md)
 * [composable leverage](composable.md)
