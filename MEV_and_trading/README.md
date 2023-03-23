@@ -1,7 +1,20 @@
 ## trading and defi 
 
+<br>
+
+### tl; dr
 
 <br>
+
+* in november/2018, uniswap v1 was published to ethereum mainnet as the first amm for defi.
+* in july/2019, synthetix creates a sETH/ETH liquidity pool on uniswap, enabling users to earn yield by adding liquidity.
+* in 2020, eth drops more than 30% due to the pandemic, with a wave of liquidations by users' ETH collateral losing value, but it ignites the defi summer and all the nice things after.
+
+
+
+<br>
+
+----
 
 ### in this dir
 
