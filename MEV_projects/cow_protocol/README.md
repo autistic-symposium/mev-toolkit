@@ -26,5 +26,6 @@
 * [EIP-1271 for smart orders on cowswap](https://www.youtube.com/watch?v=6zj0_E8JWPQ)
 * [useful cowswap resources](https://hackmd.io/@chenm/HJqjdkjvt)
 * [yearn <> cowswap](https://medium.com/iearn/yearn-cow-swap-371b6d7cf3b3)
-* [examining the potential of frequent batch auctions in ethereum](https://www.youtube.com/watch?v=qSdE4LrPjG0)
 * [cow swap at mev.wtf 2022](https://docs.google.com/presentation/d/1vClubmyECHzYpT7-DzU6D45bc7iNpjF1NuiEblY-8ZQ/edit#slide=id.ge33f22559c_0_580)
+* [examining the potential of frequent batch auctions in ethereum](https://www.youtube.com/watch?v=qSdE4LrPjG0)
+* [designing an auction to process billions in volume for cow protocol, by xenophonlabs](https://mirror.xyz/xenophonlabs.eth/HcvesuQdywZ6Vg7EOrG0gl9E5V1PbLoMMVeCSYgRLNY)
