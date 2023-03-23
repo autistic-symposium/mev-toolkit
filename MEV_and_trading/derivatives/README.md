@@ -10,7 +10,7 @@
 * **derivatives** are financial contracts that derive their values from underlying assets. 
 * **[futures](futures.md)**:
   - contracts are proxy tools to speculate on the future prices of cryptocurrencies or to be used to hedge against their price changes.
-* **[perpetuals](perpetuals.md)**:
+* **[perpetuals](perpetuals)**:
   - derivative contracts with no expiration date.
 * **[options](options.md)**:
   - derivatives that give the buyer the right to buy or sell the underlying asset at a stated price within a specified period. 
