@@ -6,13 +6,15 @@
 * [token terminal](https://tokenterminal.com/terminal)
 * [nansen analytics](https://www.nansen.ai/)
 * [flashloans, by blocksec](https://tools.blocksec.com/flashloan/eth)
+* [metrika's mev dashboards](https://app.metrika.co/ethereum/dashboard/mev/relay-economic?tr=1d)
 * [etherscan data on flashbots](https://etherscan.io/blocks/label/flashbots)
 * [mev live-stream, by eigenphi](https://eigenphi.io/)
 * [mev dashboard, by flashbots](https://explore.flashbots.net/)
 * [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
 * [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
 * [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
-* [mev outlook 2003, by eigeinphi](https://eigenphi.substack.com/p/mev-outlook-2023) (take the name-dropping and data extrapolation with a grain of salt; because the space is so green, some folks still use the strategies of paying entities to be featured/inflated)
+* [mev outlook 2003, by eigeinphi](https://eigenphi.substack.com/p/mev-outlook-2023) (take the name-dropping with a grain of salt)
+
 
 <br>
 
