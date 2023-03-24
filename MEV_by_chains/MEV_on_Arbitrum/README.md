@@ -10,7 +10,7 @@
   * execution flow and structure: arbitrum has an operating system and its core called arbos, which ensures the solitary existence, optimal performance and efficient analytics of smart contracts.
   * dispute settlement speed: the avm has a custom protocol for dispute management, so that it can be acquired out on a standard vm.
   * natives tuples: the avm uses tuples to define and references types in its merkle tree. the tuples can be referenced in looking up the merkle root of any tx on the evm merkle tree. 
-* optimistic rollup, with no mempool for bots to frontrun
+* optimistic rollup, with no mempool for bots to frontrun, but searchers can listen the queue through websockets and backrun, etc...
 * currently has a centralized sequencer and whitelisted proof validation while having upgradable contracts
 * faster tx processing: ethereum is operating under 15-20 tps, while the arbitrum network can process ~40 tps
 * lower tx fees: in ethereum, a significant percentage of validators need to confirm the genuineness of a tx; arbitrum average fee is $~.2 compared to $6.5 (source: [nansen](https://pro.nansen.ai/multichain/eth-vs-arbitrum))
@@ -38,3 +38,4 @@
 * [arbitrum bridge tutorial](https://arbitrum.io/bridge-tutorial/)
 * [arbitrum gas fee, by dune](https://dune.com/blog/fueling-gas-spells-arbitrum)
 * [time boost: a new tx ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
+* [a closer look at the sequencer's role and mev, by p. mccorry](https://docs.google.com/presentation/d/1bU01VT7YyLXT0Bzxo0dRNYSEohmuKxY8ziErTviIsng/edit#slide=id.g1255a01e809_0_0)
