@@ -14,7 +14,7 @@
 
 
 
-#### 👉🏼 [reading candlestick charts](candlesitck_charts.md)
+#### 👉🏼 [reading candlestick charts](candlestick_charts.md)
 
 
 <br>
