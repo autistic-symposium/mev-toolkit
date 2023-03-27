@@ -26,8 +26,8 @@
 
 <br>
 
-
-* [check stat arb for searchers](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_strategies/stat_arbs)
+* [this repo on stat arb for searchers](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_strategies/stat_arbs)
+* [go-ouside-labs on ml-htf-autonomous-agents](https://github.com/go-outside-labs/ml-htf-autonomous-agents)
 * [building a scalable event scanner for ethereum](https://mirror.xyz/steinkirch.eth/vSF18xcLyfXLIWwxjreRa3I_XskwgnjSc6pScegNJWI)
 
 <br>
