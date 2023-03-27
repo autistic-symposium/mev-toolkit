@@ -20,5 +20,6 @@
 
 <br>
 
-* [how to read candlesticks charts](https://www.youtube.com/watch?v=9fqBykOBeCg)
 * [strategy simulator](https://simulatooor.streamlit.app/)
+* [how to read candlesticks charts](https://www.youtube.com/watch?v=9fqBykOBeCg)
+* [are market efficient, by chicago booth](https://www.youtube.com/watch?v=bM9bYOBuKF4)
