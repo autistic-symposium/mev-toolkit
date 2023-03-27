@@ -23,18 +23,12 @@
 
 ---
 
-### projects and protocols
+### references
 
 <br>
 
 * [this repo on stat arb for searchers](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_strategies/stat_arbs)
-* [go-ouside-labs on ml-htf-autonomous-agents](https://github.com/go-outside-labs/ml-htf-autonomous-agents)
-* [building a scalable event scanner for ethereum](https://mirror.xyz/steinkirch.eth/vSF18xcLyfXLIWwxjreRa3I_XskwgnjSc6pScegNJWI)
-
-<br>
-
----
-
-### references
+* [go-ouside-labs on htf-autonomous-agents](https://github.com/go-outside-labs/ml-htf-autonomous-agents)
+* [building a scalable event scanner for ethereum, by dr. m. steinkirch](https://mirror.xyz/steinkirch.eth/vSF18xcLyfXLIWwxjreRa3I_XskwgnjSc6pScegNJWI)
 
 <br>
