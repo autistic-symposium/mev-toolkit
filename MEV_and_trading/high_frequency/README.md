@@ -11,6 +11,15 @@
 
 <br>
 
+##### the efficient market hypothesis.
+
+<br>
+
+* the efficient-market hypothesis (EMH) is a hypothesis in financial economics that states that asset prices reflect all available information.
+* ab implication is that it is impossible to "beat the market" consistently on a risk-adjusted basis since market prices should only react to new information.
+
+<br>
+
 ---
 
 ### projects and protocols
