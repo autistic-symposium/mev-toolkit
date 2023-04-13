@@ -12,7 +12,7 @@
 * [$GHO](GHO.md)
 * [$USDD](USDD.md)
 * [$LUSD](LUSD.md)
-* [$DINERO](dinero.md)
+* [$DINERO](DINERO.md)
 * [(rip) $UST](UST.md)
 
 
