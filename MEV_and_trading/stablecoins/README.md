@@ -7,12 +7,13 @@
 <br>
 
 * [101](stablecoins_101.md)
-* [dai](DAI.md)
-* [gho](GHO.md)
 * [curve](curve)
-* [usdd](USDD.md)
-* [lusd](LUSD.md)
-* [(rip) ust](UST.md)
+* [$DAI](DAI.md)
+* [$GHO](GHO.md)
+* [$USDD](USDD.md)
+* [$LUSD](LUSD.md)
+* [$DINERO](dinero.md)
+* [(rip) $UST](UST.md)
 
 
 <br>
