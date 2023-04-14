@@ -10,6 +10,7 @@
 
 - cow swap is the first trading interface built on top of cow protocol.
 - it's a meta dex aggregator allowing to buy and sell tokens using gasless orders that are settled p2p among users or into on-chain liquidity (while providing mev protection).
+- [rpc mev block](https://mevblocker.io/#rpc)
 
 <br>
 
