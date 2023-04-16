@@ -32,3 +32,5 @@
 ---
 
 ### resources
+
+* [overview of mev and eth progress, by alex stokes](https://www.youtube.com/watch?v=DZfKE8djQTM)
