@@ -19,14 +19,27 @@
 
 <br>
 
----
+----
 
 ### resources
 
 <br>
 
+* [bull market indicators](https://twitter.com/Phoenix_Ash3s/status/1645654858106634242)
+
+
+<br>
+
+
+---
+
+### tools
+
+<br>
+
 * [tradingview](https://www.tradingview.com/)
 * [tokenmetrics](https://tokenmetrics.com/)
+
 
 
 
