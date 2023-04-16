@@ -6,7 +6,7 @@
 
 <br>
 
-* the [shapella upgrade](https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement) added changed to the execution layer (shanghai), consensus layer (capella), and the engine API, being the last piece of the puzzle that marks the completion of ethereum’s transition to pos. 
+* the [shapella upgrade](https://blog.ethereum.org/2023/03/28/shapella-mainnet-announcement) is a hard fork that happened on april/12/2023 and added changed to the execution layer (shanghai), consensus layer (capella), and the engine API, being the last piece of the puzzle that marks the completion of ethereum’s transition to pos. 
 * To make it possible to unlock their staked ETH, shapella introduces `BLSToExecutionChange` (BTEC) message to the consensus layer, which allows validators to set the execution address for withdrawals. the beacon chain can only process a maximum of 16 withdrawals per block, with the limit in place to maintain network security.
 * EIPS: EIP-3651, EIP-3855, EIP-3860, EIP-4895, EIP-6049
 * Boards: [nansen](https://twitter.com/nansen_ai/status/1645696820348321793), [dune by 21 shares](https://dune.com/21shares_research/shanghai-upgrade-coundown), [token unlocks](https://token.unlocks.app/ethereum-shanghai)
