@@ -7,9 +7,34 @@
 <br>
 
 
-* for **builders**: builders might delay before proposing a full block to maximize the amount of potential mev for inclusion in the block. this requires extremely low latency for proposing blocks and views of the mempool.
+#### builders
+
+* builders might delay before proposing a full block to maximize the amount of potential mev for inclusion in the block. this requires extremely low latency for proposing blocks and views of the mempool.
 
 <br>
+
+#### searcher
+
+##### compute latency
+
+* transaction parsing and filtering
+* simulation
+
+
+##### transport latency
+
+* sending bundles to builder
+* builder rate limits
+
+
+##### searcher responses
+
+* proprietary compute improvements
+* bundle timing in slot periods
+* co-locate with builder (searching in the same region, etc.)
+
+<br>
+
 
 ---
 
