@@ -17,3 +17,5 @@
 ### resources
 
 <br>
+
+* [manifold introduces mevETH](https://twitter.com/foldfinance/status/1643244617284870144)
