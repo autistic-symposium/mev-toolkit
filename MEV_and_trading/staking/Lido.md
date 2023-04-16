@@ -1,4 +1,8 @@
-## Notes on Lido Finance
+## lido
+
+<br>
+
+### tl; dr
 
 <br>
 
@@ -8,6 +12,7 @@
 * Lido uses a single token model, stETH that represents users' staking deposits. stETH is minted at 1:1 ratio of ether deposited into the Lido platform.
 * Staking rewards accrue to the stETH token through a daily rebasing mechanism.
 * 10% fee on accrued staking rewards that is evenly split between the Lido DAO and node operators.
+* q1/23 stats: inflow of 1.09mil eth staked, market share to 72.3%, fees generated: $117mil, $LDOUSD + 152% (second largest fee generating protocol after uniswap)
 
 <br>
 
@@ -15,3 +20,6 @@
 
 <br>
 
+----
+
+### resources
