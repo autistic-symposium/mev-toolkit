@@ -29,3 +29,6 @@
 ---
 
 ## resources
+
+
+* [balancer $veBAL halving](https://twitter.com/Balancer/status/1640716383939104770)
