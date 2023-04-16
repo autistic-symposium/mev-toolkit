@@ -20,6 +20,7 @@
 * [smart money watchlist, by nansen](https://pro.nansen.ai/smart-money)
 * [coingator whale wallets, by go outside labs](https://github.com/go-outside-labs/searcher-coingator-rs/blob/main/data/whales.txt)
 * [token analyzoor, by mochi](https://dune.com/defimochi/token-god-mode)
+* [lsd whale watcher-shangai update](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_and_trading/whales)
 
 
 <br>
