@@ -50,5 +50,6 @@
 - [data analysis of Flashbots MEV](https://github.com/ivanmolto/mev-flashbots-unleashed)
 - [flashbots' transparency board](https://transparency.flashbots.net/)
 - [flashbots' research topics](https://github.com/flashbots/mev-research)
+- [mev economics](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD)
 
 
