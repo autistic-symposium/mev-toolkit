@@ -44,4 +44,5 @@
 * [automated market making and loss-versus-balancing, by j. milionis et al](https://arxiv.org/abs/2208.06046)
 * [sushiguardrouterv01 with manifold](https://snapshot.org/#/sushigov.eth/proposal/bafkreigjjhjx2j2b526d3poeg23w2xan4rcgnzvcxinsssv7n37lu5p7s4)
 * [the value of nontoxic orderflow to the uniswap protocol, by m. holloway](https://xenophonlabs.com/papers/uniswap_valuing_orderflow.pdf)
+* [dune board on mev on uniswap](https://dune.com/jhackworth/mevmevmev)
 
