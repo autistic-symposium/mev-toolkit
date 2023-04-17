@@ -16,11 +16,11 @@
   - The Flashbots team worked very closely with the Ethereum foundation as its founders were researchers who saw the threat that MEV posed to blockchains. Since then, they’ve developed MEV-Geth and MEV-Boost to prevent the centralization of MEV searchers and validators.
 * [blocknative](https://docs.blocknative.com/mev-relay-instructions-for-ethereum-validators)
   - Blocknative provides one MEV relay, Dreamboat, that validators can connect to. This relay is open sourced and publicly available. Blocknative has APIs that allow developers and data analysts to identify proposer payloads, blocks received, and validator registration. Notably, Dreamboat is not a Flashbots Relay fork. 
-* [bloXroute MEV relay](https://bloxroute.max-profit.blxrbdn.com/)
+* [bloXroute MEV relay](https://bloxroute.max-profit.blxrbdn.com/) (and [mev-relay code](https://github.com/bloXroute-Labs/mev-relay))
   - BloXroute has been known to provide traders with information services. Traders that receive information quickly have an edge in capturing the next opportunity. Imagine a block contains information that will change the price of an asset. If the trader sees this information, they can quickly calculate how this information will change the spread between two liquidity pools.
 * [eden](https://relay.edennetwork.io/info)
   - Eden is a permissioned system for block builders. They are accepting applications for block builders, but they also run their own. They capitalize on orderflow sent to their builder via their private RPC.
-* [manifold]()
+* manifold
   - Manifold has a focus on trade execution quality and end user settlement. They support blocks that are not OFAC compliant.
 * [ultrasound money](https://relay.ultrasound.money/)
   - not OFAC compliant
