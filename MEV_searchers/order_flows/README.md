@@ -16,6 +16,11 @@
 
 <br>
 
+<img width="500" src="https://user-images.githubusercontent.com/1130416/232376994-0c6c97e5-585c-46ef-a5a6-2174bedc6071.png">
+
+
+<br>
+
 
 ----
 
@@ -34,3 +39,4 @@
 ### resources
 
 * [overview of mev and eth progress, by alex stokes](https://www.youtube.com/watch?v=DZfKE8djQTM)
+* [the orderflow auction design space, by stephane and ankit](https://frontier.tech/the-orderflow-auction-design-space)
