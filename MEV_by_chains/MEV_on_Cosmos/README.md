@@ -4,6 +4,17 @@
 
 ### tl; dr
 
+<br>
+
+* tendermint clients using fifo ordering by default.
+* mekatek:
+  * zenith creates an open market for block building within the cosmos.
+* skip:
+  * mev-tenderminr is a modified version of tendermint to allow validators to accept tx bundles and introduces a seal bid auction for inclusion at the top of the block.
+  * skip secure is a version of flashbots protect (private tx RPC).
+‍  * proto-rev are custom-built modules for enshrining certain mev preferences into the core protocol. the first implementation was proposed to help Osmosis capture arbitrage-based mev rewards.
+
+
 
 <br>
 
