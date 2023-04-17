@@ -39,3 +39,4 @@
 * [arbitrum gas fee, by dune](https://dune.com/blog/fueling-gas-spells-arbitrum)
 * [time boost: a new tx ordering policy proposal](https://research.arbitrum.io/t/time-boost-a-new-transaction-ordering-policy-proposal/8173)
 * [a closer look at the sequencer's role and mev, by p. mccorry](https://docs.google.com/presentation/d/1bU01VT7YyLXT0Bzxo0dRNYSEohmuKxY8ziErTviIsng/edit#slide=id.g1255a01e809_0_0)
+* [arbtrium latency war drama, feb/23](https://twitter.com/snoopy_mev/status/1629283898453811200?s=20)
