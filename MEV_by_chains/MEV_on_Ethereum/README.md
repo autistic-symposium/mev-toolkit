@@ -126,3 +126,4 @@
 * [order flow, auctions, and centralization (flashbots)](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
 * [awesome rpc endpoints](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
 * [seeing like a protocol, by barnabe](https://barnabe.substack.com/p/seeing-like-a-protocol)
+* [pbs links, by domothy, ef](https://notes.ethereum.org/@domothy/pbs_links)
