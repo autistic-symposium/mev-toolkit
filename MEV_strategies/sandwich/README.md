@@ -46,5 +46,6 @@
 * [how to automate sandwich recognization](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/0NGVJ0rpUHp6AiO1hluZV6X-sG_uwe5lAaGk3Y91X7A)
 * [sandwich trap, by kaiji](https://twitter.com/bertcmiller/status/1443532075936751621)
 * [loss and slippage in amms](https://arxiv.org/pdf/2110.09872.pdf)
+* [jaredfromsubway.eth contract](https://etherscan.io/address/0x6b75d8af000000e20b7a7ddf000ba900b4009a80)
 
 
