@@ -13,7 +13,7 @@
 * [mev data corpus, by manifold](https://github.com/manifoldfinance/mev-corpus)
 * [ethereum datafarm, by nerolation](https://github.com/Nerolation/ethereum-datafarm)
 * [cross-domain arbitrage tracker, by odos](https://www.odos.xyz/arbitrage)
-* [mev outlook 2003, by eigeinphi](https://eigenphi.substack.com/p/mev-outlook-2023) (take the name-dropping with a grain of salt)
+* [mev outlook 2003, by eigeinphi](https://eigenphi.substack.com/p/mev-outlook-2023) 
 
 
 <br>
@@ -33,7 +33,7 @@
 * [just-in-time liquidity sandwich large trades in uniswap v3](https://dune.com/ChainsightAnalytics/Uniswap-v3-Just-in-Time-(JIT)-Liquidity-MEV)
 * [all uniswap v3 mev activity](https://dune.com/alexth/uniswap-v3-mev-activity) and [all uniswap v2 mev activity](https://dune.com/alexth/uniswap-v2-mev)
 * [mev-boost blocks w/ last tx w/ transfer from fee receiver to validator address](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
-
+* [zeromev api](https://data.zeromev.org/docs/)
 
 
 
