@@ -13,6 +13,7 @@
 * [frax finance](Frax.md)
 * [manifold's mevETH](mevETH.md)
 * [lsds and mev](lsds_and_mev.md)
+* [distributed validator technology](dvt)
 
 
 <br>
