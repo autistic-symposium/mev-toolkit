@@ -6,6 +6,7 @@
 
 <br>
 
+* remember that optimistic rollups publish batches of txs in the calldata on ethereum, but it needs to wait for a dispute period to pass to ensure the sequencer is not publishing invalid txs before withdrawing.
 * avm architecture: arbitrum is fully compatible with the evm, but it also has its vm called arbitrum virtual machine:
   * execution flow and structure: arbitrum has an operating system and its core called arbos, which ensures the solitary existence, optimal performance and efficient analytics of smart contracts.
   * dispute settlement speed: the avm has a custom protocol for dispute management, so that it can be acquired out on a standard vm.
