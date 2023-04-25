@@ -7,8 +7,9 @@
 <br>
 
 * [101](stablecoins_101.md)
-* [curve](curve)
+* [$CURVE](curve)
 * [$DAI](DAI.md)
+* [$RAI](RAI.md)
 * [$GHO](GHO.md)
 * [$USDD](USDD.md)
 * [$LUSD](LUSD.md)
