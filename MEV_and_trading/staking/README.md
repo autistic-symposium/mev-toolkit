@@ -2,6 +2,19 @@
 
 <br>
 
+### updates
+
+<br>
+
+* 04.01.23: new entrants: binance's $BETH, origin protocol's $OETH, and yearn's $yETH (already pursing a gauge vote for the curve pool).
+  * curve is offering CRV rewards to users for staking wBETH/ETH LP tokens.
+  * $OETH has an interesting design mechanism, minted using other LSDs as collateral: Lido's $stETH, Rocket Pool’s $rETH, and Frax’s $frxETH. the yield is dependent on the $OETH pool receiving Curve rewards.
+  * $yETH is an Ethereum token backed by a basket of LSDs
+
+
+<br>
+
+
 ### in this repo
 
 <br>
