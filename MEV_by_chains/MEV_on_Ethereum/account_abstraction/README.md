@@ -38,6 +38,6 @@
 <br>
 
 * [gnosis safe](https://safe.global/)
-* [avocado](https://avocado.instadapp.io/)
+* [argent]()
 
 
