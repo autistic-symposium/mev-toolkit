@@ -2,14 +2,6 @@
 
 <br>
 
-### 🚨 start here: **[mev.rip](https://mev.rip/)**
-
-<br>
-
----
-
-<br>
-
 #### bots
 
 * **[arbers](bots/arbers.md)**
