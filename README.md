@@ -80,4 +80,4 @@
 * **[mev-related protocols](MEV_projects)**
 * **[mev data and analytics](MEV_searchers/data_and_analytics)**
 * **[research on order flows](MEV_searchers/order_flows)**
-* **[canonical papers from](MEV_projects/history.md)**
+* **[canonical papers](MEV_projects/history.md)**
