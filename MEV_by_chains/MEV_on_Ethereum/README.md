@@ -127,3 +127,4 @@
 * [awesome rpc endpoints](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
 * [seeing like a protocol, by barnabe](https://barnabe.substack.com/p/seeing-like-a-protocol)
 * [pbs links, by domothy, ef](https://notes.ethereum.org/@domothy/pbs_links)
+* [local bundle simulation with anvil](https://www.degencode.com/p/local-bundle-simulation-with-anvil)
