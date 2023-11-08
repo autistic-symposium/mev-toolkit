@@ -10,4 +10,5 @@
 
 ### resources
 
+* [leverage by coindataschool](https://coindataschool.substack.com/p/leverage)
 * [introducing arcadia finance](https://arcadiafinance.medium.com/introducing-arcadia-finance-8bb004a39b4d)
