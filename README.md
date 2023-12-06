@@ -80,4 +80,5 @@
 * **[mev-related protocols](MEV_projects)**
 * **[mev data and analytics](MEV_searchers/data_and_analytics)**
 * **[research on order flows](MEV_searchers/order_flows)**
-* **[canonical papers](MEV_projects/history.md)**
+* **[yummy canonical papers](MEV_projects/history.md)**
+* **[neo-cypherpunk toolkit](https://github.com/go-outside-labs/neo-cypherpunk-toolkit)**
