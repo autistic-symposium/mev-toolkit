@@ -14,14 +14,7 @@
 ### resources
 
 
-##### go-outside-labs
-
-* [eigenlayer toolkit](https://github.com/go-outside-labs/eigenlayer-toolkit)
-
-<br>
-
-##### external links
-
+* the cross-domain thesis series, by [maven11 research](https://maven11.mirror.xyz/): [setting the stage](https://maven11.mirror.xyz/e2pIdHzlaBi6m5GhsRGK0g5DyjgCVuU4lE614XmES5s), [storage proofs, computation, and bloat](https://maven11.mirror.xyz/3NqfzBemyvI9a0fhun7flOc20oq5XlXzOqphvKk5pxs), and [ordering](https://maven11.mirror.xyz/4EWfWgqJGNQufJOXe66aqmYTttu9r0o3sArMLZVbNyo)
 * [westerngate.xyz](https://westerngate.xyz/)
 * [unity is strength, by obadia et al](https://arxiv.org/pdf/2112.01472.pdf)
 * [studying cross-domain MEV, by alex obadia](https://www.youtube.com/watch?v=dv5-Lzntv5M)
