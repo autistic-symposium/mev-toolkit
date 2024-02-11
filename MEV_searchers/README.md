@@ -4,6 +4,8 @@
 
 #### bots
 
+* **[artermis framework](https://www.paradigm.xyz/2023/05/artemis)**
+* **[bot racer](https://github.com/DadeKuma/bot-racer)**
 * **[arbers](bots/arbers.md)**
 * **[liquidators](bots/liquidators.md)**
 * **[frontrunners](bots/frontrunners.md)**
