@@ -126,3 +126,4 @@
 * **[pbs links, by domothy, ef](https://notes.ethereum.org/@domothy/pbs_links)**
 * **[local bundle simulation with anvil](https://www.degencode.com/p/local-bundle-simulation-with-anvil)**
 * **[ethereum dashboards](https://github.com/superphiz/dashboards)**
+* **[[lib.mev](https://libmev.com/dashboard)](https://libmev.com/dashboard)**
