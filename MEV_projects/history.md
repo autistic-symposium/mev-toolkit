@@ -2,11 +2,10 @@
 
 <br>
 
+
 #### 2023
 
-- [⭐️⭐️⭐️⭐️ rollups are not real, by jon charbonneau](https://joncharbonneau.substack.com/p/rollups-arent-real)
-- [⭐️⭐️⭐️⭐️ encrypted mempools, by jon charbonneau](https://joncharbonneau.substack.com/p/encrypted-mempools)
-- [⭐️⭐️⭐️⭐️ mev on ethereum: a policy analysis, by m. barczentewicz](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332703)
+- [⭐️⭐⭐⭐ illuminating ethereum's order flow landscape, by angela lu](https://writings.flashbots.net/illuminate-the-order-flow)
 
 
 #### 2022
