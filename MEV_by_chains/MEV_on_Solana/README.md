@@ -2,19 +2,18 @@
 
 <br>
 
-### tl; dr
-
-
+* [jito: mev on solana in the infrastructure layer](https://jito.wtf/)
+* [urani: mev on solana in the application layer](https://github.com/urani-labs)
 
 <br>
 
 ---
 
-### resources
+### more resources
 
 <br>
 
-* [jito.wtf](https://jito.wtf/)
+* [solana mev literature, by urani labs](https://github.com/urani-labs/solana-mev-literature)
 * [mev 2.0: the rise of MPSVs](https://www.recvc.com/mev-2-0-the-rise-of-mpsvs/)
 * [solana network statistics](https://jito.retool.com/embedded/public/7e37389a-c991-4fb3-a3cd-b387859c7da1)
 * [mev bots on more than $2 million in less than an minute](https://twitter.com/oraprotocol/status/1539664843816333312?s=20&t=Hdo4irxrDiatM4LKA3FbhA)
