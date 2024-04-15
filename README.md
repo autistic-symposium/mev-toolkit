@@ -66,10 +66,11 @@
 ### III. understand the chains and how mev differs on each of them
 
 * **[mev on solana](MEV_by_chains/MEV_on_Solana)**
+* **[mev on bitcoin](MEV_by_chains/MEV_on_Bitcoin)**
+* **[mev on ethereum](MEV_by_chains/MEV_on_Ethereum)**
 * **[mev on cosmos](MEV_by_chains/MEV_on_Cosmos)**
 * **[mev on polygon](MEV_by_chains/MEV_on_Polygon)**
 * **[mev on arbitrum](MEV_by_chains/MEV_on_Arbitrum)**
-* **[mev on ethereum](MEV_by_chains/MEV_on_Ethereum)**
 * **[mev on optimism](MEV_by_chains/MEV_on_Optimism)**
 * **[mev on bsc chain](MEV_by_chains/MEV_on_BSC)**
 * **[mev on avalanche](MEV_by_chains/MEV_on_Avalanche)**
