@@ -112,7 +112,7 @@
  
  <br>
 
-* **[multidimensional gas pricing, by vitalik](https://vitalik.eth.limo/general/2024/05/09/multidim.html)
+* **[multidimensional gas pricing, by vitalik](https://vitalik.eth.limo/general/2024/05/09/multidim.html)**
 * **[resources on private order flows](https://github.com/go-outside-labs/mev-toolkit/tree/main/private_order_flows)**
 * **[proposer/block builder separation-friendly fee market designs](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725)**
 * **[mev on eth2 talk by vitalik](https://www.youtube.com/watch?v=OD54WfVuDWw&list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI&index=30)**
