@@ -5,6 +5,7 @@
 * **[solana-mev-literature](https://github.com/urani-trade/solana-mev-literature)**
 * **[jito: mev on solana in the infrastructure layer](https://jito.wtf/)**
 
+* **[jito mev.go](https://github.com/weeaa/jito-go)** 
 
 <br>
 
