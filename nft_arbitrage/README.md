@@ -1,3 +1,0 @@
-## 🥪 nft arbitrage
-
-<br>
