@@ -25,3 +25,4 @@
 * **[everything you need to know about order flow auctions, by tuomikooski and monteiro](https://www.monoceros.com/insights/order-flow-auctions)**
 * **[mev protection: dex & aggregator anti-mev mechanisms](https://www.shoal.gg/p/mev-protection-dex-and-aggregator)**
 * **[the toxic orderflow series, by alex nezlobin](https://medium.com/@alexnezlobin/toxic-order-flow-on-decentralized-exchanges-problem-and-solutions-a1b79f32225a)**
+* **[quantifying price Improvement in order flow auctions, by bachu et al.](https://arxiv.org/abs/2405.00537)**
