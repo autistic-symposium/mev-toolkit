@@ -1,4 +1,4 @@
-## ERC-4337: account abstraction
+## erc-4337: account abstraction
 
 <br>
 
@@ -29,15 +29,5 @@
 * **[erc-4337 bundler implementation in rust](https://github.com/Vid201/aa-bundler)**
 * **[erc-4337: account abstraction using alt mempool](https://eips.ethereum.org/EIPS/eip-4337)**
 * **[account abstraction gas benchmakrs, by eth-infinitism](https://github.com/eth-infinitism/account-abstraction/blob/develop/reports/gas-checker.txt)**
-
-
-<br>
-
-###### protocols that don't use erc-4337
-
-<br>
-
-* [gnosis safe](https://safe.global/)
-* [argent]()
-
+* **[eip-7702: set EOA account code for one transaction](https://ethereum-magicians.org/t/eip-7702-set-eoa-account-code-for-one-transaction/19923/1)**
 
