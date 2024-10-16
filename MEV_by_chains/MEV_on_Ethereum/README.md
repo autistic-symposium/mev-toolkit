@@ -6,8 +6,6 @@
 <img src="https://user-images.githubusercontent.com/1130416/204161522-07e49b61-5163-42a1-ba5d-7ba45db4b3dd.png" width="45%" align="center" style="padding:1px;border:1px solid black;"/></p>
 
 <br>
-<br>
-
 
 * **[running nodes and validators](running-a-node.md)**
 * **[advanced resources on running nodes and validators](running-a-node-advanced.md)**
@@ -21,7 +19,6 @@
 * **[the mempool](the_mempool.md)**
 * **[eip-1559](eip-1559.md)**
 * **[glossary](glossary.md)**
-
 
 <br>
 
@@ -43,7 +40,6 @@
 * **[economics post-merge](https://docs.google.com/spreadsheets/d/15tmPOvOgi3wKxJw7KQJKoUe-uonbYR6HF7u83LR5Mj4/edit#gid=1018097491)**
 * **[the first 1k epochs of eth](https://ethereum.github.io/rig/posdata/notebooks/mainnet_explore.html)**
 * **[mev panda: data for mev-boost ecosystem](https://www.mevpanda.com/)**
-
 
 <br>
 
@@ -101,32 +97,31 @@
 * **[engine api docs](https://github.com/ethereum/execution-apis/blob/main/src/engine/specification.md)**
 * **[ethereum json-rpc api](https://ethereum.org/en/developers/docs/apis/json-rpc/)**
 
-
 <br>
 
+##### dashboards
 
- 
+* **[ethereum dashboards](https://github.com/superphiz/dashboards)**
+* **[lib.mev](https://libmev.com/dashboard)**
+
+<br>
 ---
  
  ### resources
  
  <br>
 
-* **[multidimensional gas pricing, by vitalik](https://vitalik.eth.limo/general/2024/05/09/multidim.html)**
-* **[resources on private order flows](https://github.com/go-outside-labs/mev-toolkit/tree/main/private_order_flows)**
-* **[proposer/block builder separation-friendly fee market designs](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725)**
-* **[mev on eth2 talk by vitalik](https://www.youtube.com/watch?v=OD54WfVuDWw&list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI&index=30)**
-* **[updates on pbs video by barnabe monnot](https://archive.devcon.org/archive/watch/6/updates-on-proposer-builder-separation/?tab=YouTube)**
-* **[Ethereum Proof-of-Stake Consensus Specifications](https://github.com/ethereum/consensus-specs/tree/dev/specs)**
-* **[Increasing censorship resistance of transactions under proposer/builder separation (PBS), by Vitalik et al](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)**
-* **[Weak Subjectivity in Eth2.0](https://notes.ethereum.org/@adiasg/weak-subjectvity-eth2)**
-* **[Ethereum Proof-of-Stake Consensus Specifications](https://github.com/ethereum/consensus-specs)**
-* **[order flow, auctions, and centralization (flashbots)](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)**
+* **[multidimensional gas pricing, by vb](https://vitalik.eth.limo/general/2024/05/09/multidim.html)**
+* **[proposer/block builder separation-friendly fee market designs, by ef](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725)**
+* **[mev on eth2 talk, by vb](https://www.youtube.com/watch?v=OD54WfVuDWw&list=PLRHMe0bxkuel3w3C7P_WVvp9ShLi3HKRI&index=30)**
+* **[updates on pbs video, by barnabe](https://archive.devcon.org/archive/watch/6/updates-on-proposer-builder-separation/?tab=YouTube)**
+* **[increasing censorship resistance of transactions under proposer/builder separation (PBS), by vb et al.](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)**
+* **[weak subjectivity in eth2.0, by ef](https://notes.ethereum.org/@adiasg/weak-subjectvity-eth2)**
+* **[ethereum proof-of-stake consensus specifications](https://github.com/ethereum/consensus-specs)**
+* **[order flow, auctions, and centralization, by flashbots](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)**
 * **[awesome rpc endpoints](https://github.com/arddluma/awesome-list-rpc-nodes-providers)**
 * **[seeing like a protocol, by barnabe](https://barnabe.substack.com/p/seeing-like-a-protocol)**
 * **[pbs links, by domothy, ef](https://notes.ethereum.org/@domothy/pbs_links)**
-* **[local bundle simulation with anvil](https://www.degencode.com/p/local-bundle-simulation-with-anvil)**
-* **[ethereum dashboards](https://github.com/superphiz/dashboards)**
-* **[lib.mev](https://libmev.com/dashboard)**
+* **[local bundle simulation with anvil, by degencode](https://www.degencode.com/p/local-bundle-simulation-with-anvil)**
 * **[we are all building the same thing, by dba](https://dba.xyz/were-all-building-the-same-thing/)**
 * **[ethereum reorgs after the merge, vb et al.](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge)**
