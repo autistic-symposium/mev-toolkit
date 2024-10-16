@@ -6,26 +6,19 @@
 
 <br>
 
-
-* **statistical mev** (non-atomic) convey informed strategies that rely on off-chain information (signal). 
-
+* **statistical mev** (non-atomic) convey informed strategies that rely on off-chain information (signal)
 * examples can be strategies that rely on:
-   - [cross-chains](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/cross_domain_mev) mev
-   - [defi-cefi arbitrage](dex-cex-arb/)
-   - [order flow](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/private_order_flows) trading by aggregating from private and public mempools
-   - [whale watching](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_and_trading/whales) 
-
-* these strategies are more profitable and less accessible due to capital requirements and risk profile.
+   - **[cross-chains](https://github.com/autistic-symposium/mev-toolkit/tree/main/MEV_searchers/cross_domain_mev)** mev
+   - **[defi-cefi arbitrage](dex-cex-arb/)**
+   - **[order flow](https://github.com/autistic-symposium/mev-toolkit/tree/main/MEV_searchers/order_flows)** trading by aggregating from private and public mempools
+   - **[whale watching](https://github.com/autistic-symposium/mev-toolkit/tree/main/MEV_and_trading/whales)** 
+* these strategies are more profitable and less accessible due to capital requirements and risk profile
 
 <br>
 
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/1130416/219130514-10104aa3-6219-45ff-8f93-e138d4085216.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
- </p>
-
-
-
+</p>
 
 <br>
 
@@ -35,22 +28,20 @@
 
 <br>
 
-
-* [dex-cex arbitrage](dex-cex-arb/)
-* [routers and aggregators](aggregators)
-* [convex optimization](convex_optimization)
-
-
+* **[dex-cex arbitrage](dex-cex-arb/)**
+* **[routers and aggregators](aggregators)**
+* **[convex optimization](convex_optimization)**
 
 <br>
 
 ---
 
-### links
+### external resources
 
 <br>
 
-* [anatomy of stat bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/stat-arbers.md)
-* [`addLiquidity()` sandwich attack optimization problem](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/oTdSfZEBdp9WPCNaKqDKCkuDJ9neR2UISc_5mMjZKYU)
-* [dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)
-* [a new game in town, by frontier research](https://frontier.tech/a-new-game-in-town)
+* **[anatomy of stat bots](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/bots/stat-arbers.md)**
+* **[`addLiquidity()` sandwich attack optimization problem](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/oTdSfZEBdp9WPCNaKqDKCkuDJ9neR2UISc_5mMjZKYU)**
+* **[dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)**
+* **[a new game in town, by frontier research](https://frontier.tech/a-new-game-in-town)**
+* **[statistical arbitrage on AMMs and block building on ethereum – Part 1, by greenfield](https://greenfield.xyz/2024/09/10/statistical-arbitrage-on-amms-and-block-building-on-ethereum-part-1/)**
