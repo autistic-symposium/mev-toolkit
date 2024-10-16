@@ -127,3 +127,4 @@
 * **[we are all building the same thing, by dba](https://dba.xyz/were-all-building-the-same-thing/)**
 * **[ethereum reorgs after the merge, vb et al.](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge)**
 * **[erc-7521: general intents for smart contract wallets, by @pixelcircuits et al.](https://eips.ethereum.org/EIPS/eip-7521)**
+* **[a decentralised solver architecture for executing intents on EVM blockchain, by @nlok5923 et al.](https://ethresear.ch/t/a-decentralised-solver-architecture-for-executing-intents-on-evm-blockchain/16608)**
