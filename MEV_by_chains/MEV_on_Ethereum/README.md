@@ -129,3 +129,4 @@
 * **[ethereum dashboards](https://github.com/superphiz/dashboards)**
 * **[lib.mev](https://libmev.com/dashboard)**
 * **[we are all building the same thing, by dba](https://dba.xyz/were-all-building-the-same-thing/)**
+* **[ethereum reorgs after the merge, vb et al.](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge)**
