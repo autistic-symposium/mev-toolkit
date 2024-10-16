@@ -105,6 +105,7 @@
 * **[lib.mev](https://libmev.com/dashboard)**
 
 <br>
+
 ---
  
  ### resources
@@ -125,3 +126,4 @@
 * **[local bundle simulation with anvil, by degencode](https://www.degencode.com/p/local-bundle-simulation-with-anvil)**
 * **[we are all building the same thing, by dba](https://dba.xyz/were-all-building-the-same-thing/)**
 * **[ethereum reorgs after the merge, vb et al.](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge)**
+* **[erc-7521: general intents for smart contract wallets, by @pixelcircuits et al.](https://eips.ethereum.org/EIPS/eip-7521)**
