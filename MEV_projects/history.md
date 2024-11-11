@@ -2,6 +2,9 @@
 
 <br>
 
+#### 2024
+
+- [⭐️⭐⭐⭐ priority is all you need, by d. robinson et al.](https://www.paradigm.xyz/2024/06/priority-is-all-you-need)
 
 #### 2023
 
@@ -60,7 +63,7 @@
 * [⭐️⭐️⭐️⭐️⭐️ the hacker manifest, by the mentor](http://phrack.org/issues/7/3.html)
 * [⭐️⭐️⭐️⭐️⭐️ bitcoin whitepaper, by satoshi nakamoto](https://bitcoin.org/bitcoin.pdf)
 * [⭐️⭐️⭐️⭐️ the cypherpunk manifest, by eric hughes](https://activism.net/cypherpunk/manifesto.html)
-* [⭐️⭐️⭐️ the meaning of decentralization, by vitalik](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+* [⭐️⭐️⭐️ the meaning of decentralization, by vub](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 * [⭐️⭐️⭐️⭐️ the crypto anarchist manifest, by timothy c. may](https://nakamotoinstitute.org/crypto-anarchist-manifesto/)
 * [⭐️⭐️⭐️⭐️⭐️ a graduate course in applied cryptography, by dan boneh](http://toc.cryptobook.us/)
 
