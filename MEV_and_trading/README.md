@@ -45,6 +45,7 @@
 * **[impermanent loss simulator](https://baller.netlify.app/)**
 * **[crypto market by capitalization charts](https://cryptomarketpool.com/crypto-market-charts/)**
 * **[top crypto spot exchanges](https://coinmarketcap.com/rankings/exchanges/)**
+* **[calling all hackers, by cts on phrack](https://phrack.org/issues/71/17.html#article)**
 
 <br>
 
