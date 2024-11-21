@@ -59,6 +59,7 @@
 
 * **[build your mev bot](MEV_searchers)**
 * **[mempools monitoring](MEV_searchers/mempool_monitoring)**
+* **[liquidity indexing](MEV_searchers/indexing)**
 * **[latency optimization](MEV_searchers/latency)**
 * **[tx and signature explorers](MEV_searchers/tx_and_signature_explorers)**
 
