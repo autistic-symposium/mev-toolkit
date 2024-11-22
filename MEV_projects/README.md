@@ -72,9 +72,10 @@ here are some ideas (and below are some of the projects working on specific prob
 
 <br>
 
-* [rules and strategies of a protocol, by data always](https://dataalways.substack.com/p/rules-and-strategies-of-a-protocol)
-* [quantification of mev sharing designs (ofas), by danning sui](https://docs.google.com/presentation/d/1_pKKkUr_D-OvR2Kah56B0C0LYdO6zMECftBA_q7bM2c/edit#slide=id.g21fe09f5970_0_325)
-* [projects addressing private order flows primitives](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/private_order_flows/projects.md)
-* [diamonds are forever, lvr is not, by mcmenamin et al.](https://arxiv.org/abs/2210.10601)
-* [mev capturing amm, by josojo](https://ethresear.ch/t/mev-capturing-amm-mcamm/13336)
-* [mev-protected cross-chain swaps, by cashmere](https://cashmerelabs.medium.com/cashmerelabs-testnet-1-0-2c11e23f36)
+* **[rules and strategies of a protocol, by data always](https://dataalways.substack.com/p/rules-and-strategies-of-a-protocol)**
+* **[quantification of mev sharing designs (ofas), by d. sui](https://docs.google.com/presentation/d/1_pKKkUr_D-OvR2Kah56B0C0LYdO6zMECftBA_q7bM2c/edit#slide=id.g21fe09f5970_0_325)**
+* **[projects addressing private order flows primitives](https://github.com/go-outside-labs/mev-toolkit/blob/main/MEV_searchers/private_order_flows/projects.md)**
+* **[diamonds are forever, lvr is not, by mcmenamin et al.](https://arxiv.org/abs/2210.10601)**
+* **[mev capturing amm, by josojo](https://ethresear.ch/t/mev-capturing-amm-mcamm/13336)**
+* **[mev-protected cross-chain swaps, by cashmere](https://cashmerelabs.medium.com/cashmerelabs-testnet-1-0-2c11e23f36)**
+* **[hot, a new mev aware amm design, by arrakis finance](https://github.com/ArrakisFinance/research/blob/main/HOTAMM-Whitepaper.pdf)**
