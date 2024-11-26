@@ -108,7 +108,7 @@
 
 ---
  
- ### cool readings
+ ### cool resources
  
  <br>
 
@@ -129,3 +129,4 @@
 * **[erc-7521: general intents for smart contract wallets, by @pixelcircuits et al.](https://eips.ethereum.org/EIPS/eip-7521)**
 * **[a decentralised solver architecture for executing intents on EVM blockchain, by @nlok5923 et al.](https://ethresear.ch/t/a-decentralised-solver-architecture-for-executing-intents-on-evm-blockchain/16608)**
 * **[possible futures of the ethereum protocol, part 3: the scourge](https://vitalik.eth.limo/general/2024/10/20/futures3.html)**
+* **[the tension between mev and censorship resistance gadgets, by julian ma](https://www.youtube.com/watch?v=4OJ1eCtEAVs)**
