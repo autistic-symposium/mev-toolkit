@@ -45,4 +45,4 @@
 * [the role of block building in the future of ethereum, by d. der werff](https://frontier.tech/beyond-extraction)
 * [running geth within sgx, by flashbots](https://writings.flashbots.net/geth-inside-sgx)
 * [rated.network's builders dashboard](https://www.rated.network/builders?network=mainnet&timeWindow=1d&page=1)
-
+* [buildernet, by flashbots, beaverbuild, nethermind](https://buildernet.org/blog/introducing-buildernet)
