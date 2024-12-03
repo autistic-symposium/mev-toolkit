@@ -2,7 +2,9 @@
 
 <br>
 
-#### bots
+### chapters
+
+<br>
 
 * **[artermis framework](https://www.paradigm.xyz/2023/05/artemis)**
 * **[bot racer](https://github.com/DadeKuma/bot-racer)**
@@ -19,8 +21,13 @@
 
 <br>
 
-#### everything else
+---
 
+### cool resources
+
+<br>
+
+#### general
 
 * **[searchers of nottingham, by dragonfly](https://nottingham.dragonfly.xyz/)**
 * **[order flows](order_flows)**
@@ -32,26 +39,12 @@
 * **[pvp battles and stories](pvp_war)**
 * **[general code resources](code_resources)**
 * **[tx and signature explorers](https://github.com/go-outside-labs/mev-toolkit/tree/main/MEV_searchers/tx_and_signature_explorers)**
-
-
-
-<br>
-
----
-
-### links
-
-<br>
-
-#### readings
-
-
 * **[the daily ape on mev](https://thedailyape.notion.site/MEV-8713cb4c2df24f8483a02135d657a221)**
 * **[mev.day amsterdam 2022](https://mevday.org/)**
 * **[mev research, by eigenphi](https://www.eigenphi.io/mev/research)**
 * **[mev wiki, by automata network](https://www.mev.wiki/)**
 * **[mev extraction strategies, by r. miller](https://docs.google.com/presentation/d/1YVFLnh_MnDtDDQjucW-UKxLD28iGlyi_Pj1ri_hGqRs/edit#slide=id.g124f588a727_0_51)**
-** **[mev auction, by the ethereum foundation](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)**
+* **[mev auction, by the ethereum foundation](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)**
 * **[cryptocurrency historical data snapshot](https://coinmarketcap.com/historical/)**
 * **[mempool privacy research list, by a. obadia](https://collective.flashbots.net/t/bookmarks-relevant-for-mempool-privacy-researchers/1091)**
 * **[etherscan mev bot accounts](https://etherscan.io/accounts/label/mev-bot)**
@@ -62,11 +55,11 @@
 * **[tenderly rpc request builder](https://dashboard.tenderly.co/json-rpc-request-builder)**
 * **[mev as an inner experience by nathan worsley](https://www.youtube.com/watch?v=9iHlyaRsgYI)**
 * **[mev market overview and performance, by eigenphi](https://beta.eigenphi.io/)**
+* **[0xprinccess and gwart on several 2024's hot mev topics](https://www.youtube.com/watch?v=_AWjZP6Z4xc)**
 
 <br>
 
-#### useful
-
+#### cool tools
 
 * **[dapp.tools](https://dapp.tools/)**
 * **[back run me](https://backrunme.com/swap)**
@@ -89,7 +82,6 @@
 
 #### gas trackers
 
-
 * **[gastrology](https://dethgasstation.eth.link/)**
 * **[gas price io](https://www.gasprice.io/)**
 * **[eth gas alert](https://ethgasalerts.xyz/)**
@@ -101,7 +93,6 @@
 
 #### news and alerts 
 
-
 * **[highgwei bot](https://twitter.com/HighGwei)**
 * **[eigenphi bot](https://twitter.com/EigenPhi_Alert)**
 * **[mevwatch bot](https://twitter.com/mevwatchbot)**
@@ -110,5 +101,3 @@
 * **[eigenphi mirror](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34)**
 * **[mev proposer bot](https://twitter.com/mevproposerbot)**
 * **[flashbots discourse](https://collective.flashbots.net/)**
-
-
