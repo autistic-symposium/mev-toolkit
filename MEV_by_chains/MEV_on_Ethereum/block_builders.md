@@ -37,7 +37,6 @@
 * [etherscan blocks](https://etherscan.io/blocks), [mev blocks](https://etherscan.io/blocks/label/mev-block), and [mev builders](https://etherscan.io/accounts/label/mev-builder)
 * [builder69.io endpoint for searchers (bundle/tx)](https://builder0x69.io)
 * [mev-rs - gateway to a network of block builders](https://github.com/ralexstokes/mev-rs)
-* [mev order flow, the king of block builders](https://coinyuppie.com/mev-order-flow-the-king-of-block-builders/)
 * [fat stats for builders through mev-boost](https://www.mevpanda.com/)
 * [decentralizing the builder role, by vitalik](https://hackmd.io/@vbuterin/distributed_builders#/)
 * [mev and the rise of builders, by galaxy](https://www.galaxy.com/research/whitepapers/mev-the-rise-of-the-builders/)
@@ -46,3 +45,4 @@
 * [running geth within sgx, by flashbots](https://writings.flashbots.net/geth-inside-sgx)
 * [rated.network's builders dashboard](https://www.rated.network/builders?network=mainnet&timeWindow=1d&page=1)
 * [buildernet, by flashbots, beaverbuild, nethermind](https://buildernet.org/blog/introducing-buildernet)
+* [eip-7727, enable meta transactions to order other transactions, by l. johnson](https://eips.ethereum.org/EIPS/eip-7727)
