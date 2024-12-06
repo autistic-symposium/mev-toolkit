@@ -44,4 +44,5 @@
 * **[`addLiquidity()` sandwich attack optimization problem](https://mirror.xyz/0xc19565163aFdEe3783FC970E4Bd0275B11848d34/oTdSfZEBdp9WPCNaKqDKCkuDJ9neR2UISc_5mMjZKYU)**
 * **[dex arbitrage, mathematical optimizations & me, by noxx](https://noxx.substack.com/p/dex-arbitrage-mathematical-optimisations)**
 * **[a new game in town, by frontier research](https://frontier.tech/a-new-game-in-town)**
-* **[statistical arbitrage on AMMs and block building on ethereum – Part 1, by greenfield](https://greenfield.xyz/2024/09/10/statistical-arbitrage-on-amms-and-block-building-on-ethereum-part-1/)**
+* **[statistical arbitrage on amms and block building on ethereum – part 1, by greenfield](https://greenfield.xyz/2024/09/10/statistical-arbitrage-on-amms-and-block-building-on-ethereum-part-1/)**
+* **[insights from 2 years of mev boost data, by p. stichler](https://www.youtube.com/watch?v=KcEZHQiopTg)**
