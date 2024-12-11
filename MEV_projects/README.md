@@ -42,7 +42,10 @@ here are some ideas (and below are some of the projects working on specific prob
 
 <br>
 
-####
+#### applications-specific sequencing
+
+
+* **[the opinionated application, by maven (2024)](https://maven11.substack.com/p/the-opinionated-application?publication_id=847707&post_id=152435765)**
 
 
 <br>
